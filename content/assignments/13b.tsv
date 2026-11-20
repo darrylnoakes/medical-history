@@ -1,0 +1,9 @@
+# id	stream	year	tier	batch	title	scope notes
+antimicrobial-resistance	bio-public	2015	2	13	The antibiotic resistance crisis	Fleming's 1945 warning; MRSA 1961; discovery void; WHO Global Action Plan 2015; 1.27 million deaths in 2019 (Lancet 2022)
+glp1-drugs	bio-drugs	2017	2	13	GLP-1 drugs	Exendin-4 from Gila monster venom, exenatide 2005; semaglutide 2017 (diabetes), 2021 (obesity); SELECT trial 2023
+covid-19	bio-public	2020	1	13	COVID-19	Wuhan Dec 2019; pandemic declared 11 March 2020; excess deaths ~15 million 2020–21 (WHO) and other estimates; origin unresolved; RECOVERY trial/dexamethasone
+mrna-vaccines	bio-drugs	2020	1	13	mRNA vaccines	Karikó and Weissman 2005; sequence to authorisation in 11 months (Dec 2020); Nobel 2023; lives-saved estimates
+ai-in-medicine	bio-lab	2021	2	13	AlphaFold and AI in medicine	Deep-learning diagnostics 2016–18 (retinopathy; first autonomous AI device FDA 2018); AlphaFold2 2020–21; Nobel 2024; hype vs validated benefit
+malaria-vaccine	bio-drugs	2021	3	13	The first malaria vaccines	RTS,S recommended by WHO Oct 2021; R21 2023; rollout from 2024
+xenotransplantation	bio-surgery	2022	3	13	Pig organs in people	Pig heart, David Bennett, Jan 2022; pig kidney, Richard Slayman, March 2024; later recipients and trials
+alzheimers-antibodies	bio-mind	2023	3	13	The first drugs to slow Alzheimer's	Lecanemab full FDA approval July 2023; donanemab 2024; modest benefit, ARIA risks, aducanumab controversy
