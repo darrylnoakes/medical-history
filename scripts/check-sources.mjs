@@ -35,16 +35,18 @@ function fetchText(url) {
     ], { encoding: 'utf8', stdio: ['ignore', 'pipe', 'pipe'] });
     const [code, ...ct] = meta.trim().split(' ');
     const ctype = ct.join(' ');
-    let text = '';
+    let text = '', raw = '';
     if (/pdf/i.test(ctype) || /\.pdf($|\?)/i.test(url)) {
       try { text = execFileSync('pdftotext', ['-q', out, '-'], { encoding: 'utf8', maxBuffer: 1 << 28 }); } catch { text = ''; }
     } else {
-      text = execFileSync('cat', [out], { encoding: 'utf8', maxBuffer: 1 << 28 })
+      raw = execFileSync('cat', [out], { encoding: 'utf8', maxBuffer: 1 << 28 });
+      text = raw
         .replace(/<script[\s\S]*?<\/script>/gi, ' ')
         .replace(/<style[\s\S]*?<\/style>/gi, ' ')
         .replace(/<[^>]+>/g, ' ');
     }
-    result = { code: Number(code), text: normalise(text) };
+    const captcha = /recaptcha|captcha-delivery|cf-challenge|Just a moment\.\.\./i.test(raw) && raw.length < 60000;
+    result = { code: captcha && Number(code) < 300 ? 429 : Number(code), text: captcha ? '' : normalise(text) };
   } catch (e) {
     result = { code: 0, text: '', error: String(e.stderr || e.message).trim().split('\n').pop() };
   }
@@ -77,8 +79,21 @@ for (const file of files) {
     if (only.size && !only.has(e.id)) continue;
     for (const [i, s] of (e.sources || []).entries()) {
       total++;
-      const r = fetchText(s.url);
-      const m = quoteMatch(r.text, s.quote || '');
+      let r = fetchText(s.url);
+      let m = quoteMatch(r.text, s.quote || '');
+      // PubMed Central rate-limits scripted readers with a CAPTCHA; the same article text is
+      // available from the Europe PMC and NCBI E-utilities APIs, so check against those instead.
+      const pmc = /ncbi\.nlm\.nih\.gov\/.*(PMC\d+)/i.exec(s.url);
+      if (pmc && !m.ok) {
+        for (const alt of [
+          `https://www.ebi.ac.uk/europepmc/webservices/rest/${pmc[1].toUpperCase()}/fullTextXML`,
+          `https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=${pmc[1].slice(3)}`,
+        ]) {
+          const r2 = fetchText(alt), m2 = quoteMatch(r2.text, s.quote || '');
+          if (m2.ok) { r = { ...r2, code: 200 }; m = m2; break; }
+          if (m2.score > m.score) m = { ...m2, ok: false };
+        }
+      }
       let status;
       if (r.code >= 200 && r.code < 300 && m.ok) status = 'OK';
       else if (r.code >= 200 && r.code < 300) status = `QUOTE_NOT_FOUND (best run ${(m.score * 100).toFixed(0)}%)`;

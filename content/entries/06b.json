@@ -1,0 +1,158 @@
+[
+  {
+    "id": "calabar-bean",
+    "title": "The ordeal bean becomes a drug",
+    "stream": "africa",
+    "tier": 3,
+    "date": {
+      "year": 1855,
+      "end": 1935,
+      "display": "1855 (Christison's experiment); 1864–1935 (drug)"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "Christison's 1855 paper, Fraser's 1863 account of the ordeal and the later chemical and ophthalmic papers are all dated publications. The ordeal death toll is a missionary estimate and an Edinburgh physician's report, not a count."
+    },
+    "place": "Old Calabar (southeastern Nigeria) and Edinburgh",
+    "people": [
+      "Robert Christison, Edinburgh professor and toxicologist who ate part of a bean",
+      "Thomas R. Fraser, Edinburgh physician who described the ordeal and the bean's action",
+      "Ludwig Laqueur (1839–1909), ophthalmologist who introduced it for glaucoma",
+      "Percy Lavon Julian (1899–1975), chemist who synthesized physostigmine"
+    ],
+    "themes": [
+      "drugs",
+      "ethics"
+    ],
+    "summary": "A poison used to try the accused in Old Calabar became, via a Scottish professor who ate one, a glaucoma drug and a landmark of chemistry.",
+    "body": [
+      "In Old Calabar, in today's southeastern Nigeria, people accused of witchcraft or crimes were made to eat the seeds of a local vine, called *esere*: vomiting declared them innocent, death proved them guilty. Missionaries who arrived in 1846 estimated it killed some 120 people a year, and beans soon reached Scotland. In 1855 the Edinburgh toxicologist Robert Christison ate part of one and recorded the effects. Its alkaloid, physostigmine, was isolated in 1864, and from 1876 it was used to lower the pressure in eyes with glaucoma. In 1935 the Black chemist Percy Julian synthesized it."
+    ],
+    "links": [],
+    "sources": [
+      {
+        "title": "The early toxicology of physostigmine: a tale of beans, great men and egos (abstract)",
+        "author": "Alex Proudfoot",
+        "publisher": "Toxicological Reviews, via Europe PMC",
+        "year": 2006,
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:16958557%20AND%20SRC:MED&resultType=core",
+        "type": "scholarly",
+        "supports": "Ordeal use in Old Calabar; missionaries' estimate of about 120 deaths a year; beans sent to Scotland.",
+        "quote": "Missionaries who arrived in Calabar in 1846 estimated that chop nut caused some 120 deaths annually and documented the course of poisoning"
+      },
+      {
+        "title": "The early toxicology of physostigmine: a tale of beans, great men and egos (abstract)",
+        "author": "Alex Proudfoot",
+        "publisher": "Toxicological Reviews, via Europe PMC",
+        "year": 2006,
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:16958557%20AND%20SRC:MED&resultType=core",
+        "type": "scholarly",
+        "supports": "Christison's 1855 self-experiment.",
+        "quote": "it was 1855 before the first of many medical scientists, Robert Christison, a toxicologist of repute, investigated the effects of the beans to the extent of eating part of one himself"
+      },
+      {
+        "title": "Notes on the Physiological Action of the Calabar Poison Bean (Physostigma venenosum, Balfour)",
+        "author": "Thomas R. Fraser",
+        "publisher": "Transactions of the Botanical Society of Edinburgh 7 (1863), scan via Zenodo",
+        "year": 1863,
+        "url": "https://zenodo.org/records/2203594/files/article.pdf",
+        "type": "primary",
+        "supports": "How the ordeal worked: vomiting meant innocence, death meant guilt.",
+        "quote": "until innocence is declared by the production of emesis, or death proves the guilt of the accused"
+      },
+      {
+        "title": "Physostigma (Calabar Bean), King's American Dispensatory (1898)",
+        "author": "Harvey Wickes Felter and John Uri Lloyd",
+        "publisher": "Henriette's Herbal (transcription of the 1898 edition)",
+        "url": "https://henriettes-herb.com/eclectic/kings/physostigma.html",
+        "type": "primary",
+        "supports": "Isolation of physostigmine in 1864; the name esere.",
+        "quote": "The chief active principle of physostigma is the alkaloid physostigmine, discovered, in 1864, by Jobst and Hesse"
+      },
+      {
+        "title": "Laqueur, Ludwig: Ueber eine neue therapeutische Verwendung des Physostigmin (GMN 5913)",
+        "publisher": "HistoryofMedicine.com (Garrison-Morton bibliography)",
+        "url": "https://historyofmedicine.com/author/d/ludwig-laqueur",
+        "type": "reference",
+        "supports": "Laqueur's 1876 introduction of physostigmine for glaucoma.",
+        "quote": "1876 LAQUEUR, Ludwig (1839 – 1909) Ueber eine neue therapeutische Verwendung des Physostigmin. Introduction of physostigmine in the treatment of glaucoma"
+      },
+      {
+        "title": "Surmounting the insurmountable: Percy Julian",
+        "publisher": "United States Patent and Trademark Office",
+        "url": "https://www.uspto.gov/learning-and-resources/journeys-innovation/historical-stories/surmounting-insurmountable",
+        "type": "institutional",
+        "supports": "Julian's 1935 synthesis of physostigmine from the Calabar bean's alkaloid.",
+        "quote": "Julian's breakthrough came in 1935 with his synthesis of physostigmine, which chemists previously found in the Calabar bean"
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "bunyoro-caesarean",
+    "title": "A Caesarean section in Bunyoro",
+    "stream": "africa",
+    "tier": 3,
+    "date": {
+      "year": 1879,
+      "display": "1879 (published 1884)"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "The operation is known only from Robert Felkin's own report, published five years later in an Edinburgh journal; no other witness or local record describes it. Later writers place it in the Bunyoro kingdom, while Felkin's phrasing, as quoted, speaks of 'Uganda'."
+    },
+    "place": "Kahura, kingdom of Bunyoro (western Uganda)",
+    "people": [
+      "Robert W. Felkin (1853–1926), British medical student and eyewitness",
+      "An unnamed Banyoro healer and his assistants"
+    ],
+    "themes": [
+      "surgery",
+      "practice"
+    ],
+    "summary": "In 1879 a British medical student watched an African healer deliver a baby by Caesarean section, and saw the mother recover.",
+    "body": [
+      "In 1879 Robert Felkin, a British medical student traveling with a missionary expedition, watched a healer at Kahura, in the kingdom of Bunyoro in western Uganda, deliver a baby by Caesarean section. The woman was sedated with banana wine, which was also used to wash her belly and the operator's hands; bleeding was seared with a red-hot iron, and the wound closed with seven iron pins. Felkin followed mother and child for 11 days and found the wound healed. His report, published in 1884, describes a practiced technique, yet it remains the only eyewitness account."
+    ],
+    "links": [
+      {
+        "to": "calabar-bean",
+        "kind": "see-also",
+        "note": "Another African practice reported by visiting Victorian doctors."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Caesarean knife, Bunyoro, Uganda, c. 1879",
+        "publisher": "Science Museum Group Collection",
+        "url": "https://collection.sciencemuseumgroup.org.uk/objects/co105552/caesarean-knife-bunyoro-uganda-c-1879",
+        "type": "institutional",
+        "supports": "Date, place and healer; banana wine, cautery, seven iron pins; 11 days of follow-up.",
+        "quote": "In 1879, he witnessed it being used by an indigenous healer in Kahura, Western Uganda, to perform a successful caesarean section."
+      },
+      {
+        "title": "Overview of surgical and anaesthesia practice in sub-Saharan Africa during the 19th century: the example of the people of Bunyoro",
+        "author": "Sylvain Diop et al.",
+        "publisher": "Pan African Medical Journal",
+        "year": 2021,
+        "url": "https://www.panafrican-med-journal.com/content/article/40/120/full",
+        "type": "scholarly",
+        "supports": "Felkin as a British medical student on a missionary expedition to Bunyoro; report in the Edinburgh Medical Journal.",
+        "quote": "It was reported in the Edinburgh Medical Journal by Robert Felkin, a British medical student, during a missionary expedition to the Bunyoro kingdom in Uganda"
+      },
+      {
+        "title": "A cesarean section in Uganda in 1879",
+        "author": "Howard Fischer",
+        "publisher": "Hektoen International",
+        "year": 2023,
+        "url": "https://hekint.org/2023/05/17/a-cesarean-section-in-uganda-in-1879/",
+        "type": "scholarly",
+        "supports": "Publication of Felkin's account in 1884.",
+        "quote": "Robert Felkin. “Notes on labour in Central Africa,” Edinburgh Med Journ , 29(10), 1884."
+      }
+    ],
+    "further": []
+  }
+]

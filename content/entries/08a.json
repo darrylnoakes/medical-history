@@ -1,0 +1,635 @@
+[
+  {
+    "id": "montagu-variolation",
+    "title": "Lady Mary Wortley Montagu brings inoculation to England",
+    "stream": "europe",
+    "tier": 2,
+    "date": {
+      "year": 1721,
+      "display": "April–August 1721"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "Lady Mary's own letter and the surgeon Charles Maitland's 1722 account document the London inoculations of 1721. How much credit she deserves is a matter of emphasis: reports of the Ottoman practice reached the Royal Society before she did, and retellings differ on details such as the number of Newgate prisoners."
+    },
+    "place": "Adrianople (Edirne) and London",
+    "people": [
+      "Lady Mary Wortley Montagu (1689–1762), writer and advocate of inoculation",
+      "Charles Maitland, Scottish embassy surgeon who performed the operations",
+      "Emanuel Timoni (1670–1718), physician in Constantinople who reported the practice to the Royal Society"
+    ],
+    "themes": [
+      "public-health",
+      "practice"
+    ],
+    "summary": "An ambassador's wife saw Ottoman women give children mild smallpox on purpose, tried it on her own son and daughter, and helped make it fashionable in London.",
+    "body": [
+      "Writing from Adrianople (now Edirne) during her husband's posting as British ambassador to the Ottoman court, Lady Mary Wortley Montagu described what locals called \"engrafting.\" Every autumn, old women opened a vein with a needle and put in a little matter from a mild case of smallpox; patients fell briefly ill and were then protected. She had survived smallpox herself, scarred, and had lost her brother to it, so she had her young son engrafted by an old Greek practitioner, assisted by the embassy surgeon Charles Maitland.",
+      "Back in London during the epidemic of 1721, she had Maitland inoculate her daughter in April before medical witnesses, the first such operation in Britain. That August, six condemned prisoners at Newgate were inoculated in return for pardons; five developed mild smallpox and the sixth turned out to have had it already. In 1722 two daughters of the Prince of Wales followed. Deaths after inoculation kept it controversial.",
+      "She was not the first to tell England about it: a physician in Constantinople, Emanuel Timoni, had described the practice in a letter read to the Royal Society in 1714. What Lady Mary supplied was proof on her own children and the social standing to make it respectable."
+    ],
+    "myth": {
+      "tradition": "Lady Mary Wortley Montagu discovered smallpox inoculation and single-handedly introduced it to Britain.",
+      "record": "Written accounts of the Ottoman practice had reached the Royal Society by 1714, and the operations in England were performed by the surgeon Charles Maitland. Her part was that of advocate, and of a parent who put her own children forward."
+    },
+    "links": [
+      {
+        "to": "onesimus",
+        "kind": "see-also",
+        "note": "The same year, Boston learned inoculation from an enslaved West African man."
+      },
+      {
+        "to": "chinese-variolation",
+        "kind": "see-also",
+        "note": "A different route to the same idea: smallpox scabs blown into the nose."
+      },
+      {
+        "to": "jenner",
+        "kind": "led-to",
+        "note": "Jenner, inoculated as a child, replaced smallpox matter with cowpox."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Lady Mary Wortley Montagu (1689-1762): Smallpox Vaccination in Turkey",
+        "author": "Lady Mary Wortley Montagu; ed. Paul Halsall",
+        "publisher": "Internet Modern History Sourcebook, Fordham University",
+        "url": "https://fordham.edu/Halsall/mod/montagu-smallpox.asp",
+        "type": "primary",
+        "supports": "Her letter from Adrianople describing engrafting by old women each autumn, the thousands treated, and her intention to try it on her son.",
+        "quote": "There is a set of old women, who make it their business to perform the operation, every autumn, in the month of September"
+      },
+      {
+        "title": "Thomas Nettleton and the dawn of quantitative assessments of the effects of medical interventions",
+        "author": "Arthur W. Boylston",
+        "publisher": "James Lind Library",
+        "year": 2010,
+        "url": "https://www.jameslindlibrary.org/?p=1151",
+        "type": "scholarly",
+        "supports": "Son inoculated by an old Greek practitioner assisted by Maitland; daughter inoculated April 1721 before observers; six Newgate prisoners inoculated August 1721, five with mild smallpox, one already immune; princesses inoculated 1722; controversy over deaths.",
+        "quote": "After being promised a complete pardon for their crimes, six prisoners confined at Newgate agreed to be inoculated."
+      },
+      {
+        "title": "Lady Mary Wortley Montagu – the forgotten immunisation pioneer",
+        "author": "Tom Solomon",
+        "publisher": "University of Liverpool News",
+        "year": 2021,
+        "url": "https://news.liverpool.ac.uk/2021/07/21/lady-mary-wortley-montagu-forgotten-immunisation-pioneer/",
+        "type": "institutional",
+        "supports": "Her own smallpox scars and her brother's death; the April 1721 inoculation of her daughter as the first in Britain.",
+        "quote": "In April 1721, he inoculated young Mary Alice, the first time the procedure was performed in Britain."
+      },
+      {
+        "title": "Timoni, Emmanuel: An account, or history, of the procuring of the smallpox by incision or inoculation",
+        "publisher": "Garrison-Morton-Norman: History of Medicine (historyofmedicine.com)",
+        "url": "https://historyofmedicine.com/author/d/emmanuel-timoni",
+        "type": "reference",
+        "supports": "Timoni's description of inoculation in Constantinople read to the Royal Society in 1714.",
+        "quote": "A letter dated December, 1713 from Timoni of Constantinople to John Woodward, and read to the Royal Society in May, 1714, described the practice in that city of inoculation against smallpox."
+      },
+      {
+        "title": "United Kingdom: Variolation Goes West",
+        "publisher": "Indiana University Libraries, History of the Smallpox Vaccine (digital exhibition)",
+        "url": "https://collections.libraries.indiana.edu/iulibraries/s/smallpox-vaccine-exhibit/page/uk-variolation",
+        "type": "institutional",
+        "supports": "Her court connections helped make inoculation acceptable among the elite.",
+        "quote": "Thanks to Lady Mary's popularity in the royal court, variolation began to turn heads in elite British society"
+      }
+    ],
+    "further": [
+      "porter-1997",
+      "snowden-2019"
+    ],
+    "image": {
+      "commons": "File:Lady Mary Wortley Montagu with her son, Edward Wortley Montagu, and attendants by Jean Baptiste Vanmour.jpg",
+      "alt": "Painting of Lady Mary Wortley Montagu with her young son Edward and attendants.",
+      "caption": "Lady Mary Wortley Montagu with her son Edward, the first of her children to be engrafted, by Jean Baptiste Vanmour, c. 1717. National Portrait Gallery, London."
+    }
+  },
+  {
+    "id": "hales-blood-pressure",
+    "title": "Stephen Hales measures blood pressure",
+    "stream": "europe",
+    "tier": 3,
+    "date": {
+      "year": 1727,
+      "earliest": 1710,
+      "latest": 1727,
+      "display": "before 1727; full account 1733"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "firm",
+      "note": "Hales dated the experiment only to \"December\"; his figures were already in print in *Vegetable Staticks* (1727) and the full description appeared in *Haemastaticks* (1733). The measurement itself is described in his own words and is not in doubt."
+    },
+    "place": "England",
+    "people": [
+      "Stephen Hales (1677–1761), curate of Teddington and experimenter"
+    ],
+    "themes": [
+      "technology",
+      "theory"
+    ],
+    "summary": "A country clergyman tied a horse down, ran a nine-foot glass tube into its artery, and watched the blood climb more than eight feet.",
+    "body": [
+      "The earliest recorded measurement of blood pressure was made by a parish clergyman. Stephen Hales, curate of Teddington, tied a mare down on her back, opened the main artery of her thigh and joined it by brass pipes to a glass tube nine feet long. The blood rose 8 feet 3 inches above the level of her heart and rose and fell a few inches with each beat. He also measured dogs and a deer. The horses, already condemned as unfit for service, were bled out as he measured. Hales gave the figures briefly in 1727 and in full in *Haemastaticks* (1733)."
+    ],
+    "links": [
+      {
+        "to": "harvey",
+        "kind": "built-on",
+        "note": "Hales measured the force driving Harvey's circulation."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Stephen Hales (1677-1761)",
+        "author": "G. E. Burget",
+        "publisher": "Annals of Medical History (1925), via University of Oregon Scholars' Bank",
+        "year": 1925,
+        "url": "https://scholarsbank.uoregon.edu/server/api/core/bitstreams/1d866322-34d9-4ef1-acc6-03bfc3f9338e/content",
+        "type": "scholarly",
+        "supports": "Hales's own description of the mare, the brass pipes, the nine-foot tube, the 8 ft 3 in rise and pulse swings; horses unfit for service; Haemastaticks in 1733; curate of Teddington.",
+        "quote": "the blood rose in the tube 8 feet 3 inches perpendicular above the level of the left ventricle of the heart"
+      },
+      {
+        "title": "Blood Pressure in the College Collections",
+        "publisher": "Royal College of Physicians of Edinburgh, Heritage",
+        "url": "https://www.rcpe.ac.uk/heritage/blood-pressure-college-collections",
+        "type": "institutional",
+        "supports": "Earliest recorded measurement of blood pressure; Hales as a country curate.",
+        "quote": "This is the first recorded demonstration of the measurement of blood pressure."
+      },
+      {
+        "title": "Vegetable Staticks (1727)",
+        "author": "Stephen Hales",
+        "publisher": "Internet Archive (scan of the 1727 edition)",
+        "year": 1727,
+        "url": "https://archive.org/stream/vegetablestatick00hale/vegetablestatick00hale_djvu.txt",
+        "type": "primary",
+        "supports": "The arterial measurements on horses, dogs and a fallow doe were already in print in 1727.",
+        "quote": "Which different forces I found by tying thofe feveral animals down alive upon their backs"
+      },
+      {
+        "title": "Heirs of Hippocrates no. 784: Stephen Hales, Statical essays",
+        "publisher": "University of Iowa Libraries, John Martin Rare Book Room",
+        "url": "https://heirs.lib.uiowa.edu/record.php?id=784",
+        "type": "institutional",
+        "supports": "Volume II of the Statical Essays (Haemastaticks) first published 1733.",
+        "quote": "A glass tube inserted directly into the femoral artery of a horse permitted him to measure directly the height of the column of blood"
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "lind-scurvy",
+    "title": "James Lind's scurvy trial",
+    "stream": "europe",
+    "tier": 1,
+    "date": {
+      "year": 1747,
+      "earliest": 1747,
+      "latest": 1747,
+      "display": "20 May 1747; published 1753"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "agreed",
+      "note": "The only record of the trial is Lind's own four-page account, published six years later; one historian has suggested it may be fabricated because the men do not appear on the ship's sick list, but most accept it. What is firmly documented is how slowly and unevenly the Navy acted afterwards."
+    },
+    "place": "HMS Salisbury, English Channel",
+    "people": [
+      "James Lind (1716–1794), naval surgeon",
+      "Gilbert Blane, physician and Sick and Hurt Board commissioner who won wider issue of lemon juice in 1795"
+    ],
+    "themes": [
+      "practice",
+      "public-health"
+    ],
+    "summary": "Twelve sick sailors, six remedies, two oranges and a lemon a day: an early fair test that worked, and a lesson the Navy took nearly fifty years to act on.",
+    "body": [
+      "On 20 May 1747, aboard the warship *Salisbury* on blockade duty in the English Channel, the naval surgeon James Lind took twelve sailors sick with scurvy, men whose cases were, he wrote, \"as similar as I could have them.\" They lay in the same quarters and ate the same basic diet. Lind gave two men each one of six remedies then in use: cider, elixir of vitriol (dilute sulfuric acid), vinegar, seawater, a paste of garlic, mustard seed and radish root, or two oranges and a lemon a day. The fruit ran out after six days, but by then one of the pair was fit for duty and the other was well enough to nurse the rest.",
+      "Twelve men is tiny, and Lind never said how he decided who got what. Still, his report is one of the earliest descriptions of a planned comparison that tried to hold everything else equal. It occupies about four pages of his 450-page *Treatise of the Scurvy* (1753), most of which is a critical review of everything written on the disease before him.",
+      "What Lind did next is the surprising part. He never stated plainly that citrus cured scurvy. He thought it a disease of faulty digestion and excretion, worsened by foul air, poor diet and lack of exercise, and he kept recommending other remedies. To make fruit portable he boiled juice down into a concentrate, a \"rob,\" which later analysis showed held almost no vitamin C. The year after the *Treatise* appeared, the Navy's Sick and Hurt Board turned down a proposal to supply sailors with fruit juice.",
+      "Only in 1795 did the physician Gilbert Blane, by then a commissioner on that board, persuade the Admiralty to issue lemon juice on a large scale; by 1815 scurvy had almost vanished from the fleet. The heroic version, in which a lone genius is ignored by blockheads for forty years, was popularized in the 1890s. In fact the board was swamped with rival cures, and Lind never clearly urged lemon juice on it. Nor did the lesson stick: lime juice, which later replaced lemon, failed to keep scurvy off a British Arctic expedition in 1875–76."
+    ],
+    "myth": {
+      "tradition": "Lind proved that citrus cures scurvy, and the stubborn Admiralty ignored him for over forty years.",
+      "record": "Lind never clearly recommended lemon juice, pushed a heat-treated concentrate with little vitamin C, and blamed scurvy on several causes. The Navy's 1795 change followed Gilbert Blane's lobbying and further evidence gathered at sea."
+    },
+    "links": [
+      {
+        "to": "vitamins",
+        "kind": "see-also",
+        "note": "Vitamin C explained, 160 years later, why the oranges worked."
+      },
+      {
+        "to": "streptomycin-rct",
+        "kind": "see-also",
+        "note": "Two centuries on, chance rather than the doctor decided who got what."
+      },
+      {
+        "to": "franklin-commission",
+        "kind": "see-also",
+        "note": "Another eighteenth-century step toward the fair test."
+      }
+    ],
+    "sources": [
+      {
+        "title": "A treatise of the scurvy (Edinburgh, 1753)",
+        "author": "James Lind",
+        "publisher": "Internet Archive (scan of the first edition)",
+        "year": 1753,
+        "url": "https://archive.org/stream/treatisescurvyt00lind/treatisescurvyt00lind_djvu.txt",
+        "type": "primary",
+        "supports": "Lind's own dating of the trial to 20 May 1747 aboard the Salisbury, with twelve scorbutic patients.",
+        "quote": "On the 20th of May 1747, I took twelve patients in the fcurvy, on board the Salifbury at fea"
+      },
+      {
+        "title": "Who was James Lind, and what exactly did he achieve?",
+        "author": "Iain Milne",
+        "publisher": "James Lind Library (republished in the Journal of the Royal Society of Medicine, 2012)",
+        "year": 2012,
+        "url": "https://www.jameslindlibrary.org/articles/who-was-james-lind-and-what-exactly-did-he-achieve/",
+        "type": "scholarly",
+        "supports": "Channel blockade; same quarters and diet; the six treatments; fruit exhausted after six days; four pages in a 450-page book; allocation method unstated.",
+        "quote": "Without stating what method of allocation he used, Lind allocated two men to each of six different daily treatments for a period of fourteen days."
+      },
+      {
+        "title": "Who was James Lind, and what exactly did he achieve?",
+        "author": "Iain Milne",
+        "publisher": "James Lind Library",
+        "year": 2012,
+        "url": "https://www.jameslindlibrary.org/articles/who-was-james-lind-and-what-exactly-did-he-achieve/",
+        "type": "scholarly",
+        "supports": "Lind never clearly recommended lemon juice; his theory of faulty digestion; the rob with practically no vitamin C; the heroic story traced to the 1893 Dictionary of National Biography; the fabrication allegation.",
+        "quote": "There is little evidence, however, that Lind ever clearly recommended the use of lemon juice to the Admiralty or to others."
+      },
+      {
+        "title": "James Lind and scurvy: 1747 to 1795",
+        "author": "Ulrich Tröhler",
+        "publisher": "James Lind Library",
+        "year": 2003,
+        "url": "https://www.jameslindlibrary.org/?p=1071",
+        "type": "scholarly",
+        "supports": "Trial began 20 May 1747; Sick and Hurt Board rejected fruit juice in 1754; board inundated with suggestions; Blane's 1795 success; scurvy almost gone from the fleet by 1815.",
+        "quote": "to persuade the Admiralty in 1795 to sanction the issue of lemon juice on a far more generous scale than ever before"
+      },
+      {
+        "title": "Arctic Profiles: George Strong Nares (1831-1915)",
+        "author": "Margaret Deacon",
+        "publisher": "Arctic (Arctic Institute of North America), vol. 38 no. 2",
+        "year": 1985,
+        "url": "https://pubs.aina.ucalgary.ca/arctic/Arctic38-2-148.pdf",
+        "type": "scholarly",
+        "supports": "Less effective lime juice later replaced lemon; scurvy broke out on the 1875–76 British Arctic expedition, even among men taking lime juice.",
+        "quote": "had also broken out in the ships, where some of the victims had never stopped taking lime juice"
+      }
+    ],
+    "further": [
+      "porter-1997",
+      "bynum-2008"
+    ],
+    "image": {
+      "commons": "File:J. Lind; A treatise of the scurvy. Wellcome L0019183.jpg",
+      "alt": "Printed title page of James Lind's A Treatise of the Scurvy.",
+      "caption": "Title page of James Lind's *A Treatise of the Scurvy*, the book whose four unheaded pages report the 1747 trial. Wellcome Collection."
+    }
+  },
+  {
+    "id": "morgagni",
+    "title": "Morgagni: disease has a seat",
+    "stream": "europe",
+    "tier": 2,
+    "date": {
+      "year": 1761,
+      "display": "1761"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "The book and its date are not in question. Calling Morgagni the founder of pathological anatomy is the verdict of later historians; he built openly on an earlier collection of autopsy reports, and counts of his cases vary slightly (about 700)."
+    },
+    "place": "Padua, Italy (published in Venice)",
+    "people": [
+      "Giovanni Battista Morgagni (1682–1771), professor of anatomy at Padua"
+    ],
+    "themes": [
+      "theory",
+      "texts"
+    ],
+    "summary": "At seventy-nine, a Padua anatomist laid some 700 life stories beside their autopsies and showed that diseases live in particular organs.",
+    "body": [
+      "In 1761, at the age of seventy-nine, the Padua anatomy professor Giovanni Battista Morgagni published *De sedibus et causis morborum per anatomen indagatis*, \"on the seats and causes of diseases investigated by anatomy.\" Its five books hold seventy letters reporting about 700 cases. In each, he set what a patient had suffered in life beside what he, his teacher Valsalva or his friends found in the body after death, recording for his own cases the year, month and place.",
+      "The method was the message. If symptoms in life matched damage in a particular organ, then disease had a location, and the place to look for it was the organ rather than a whole-body imbalance of humors. Morgagni presented the work as material toward a better version of an older compilation of autopsy reports, the *Sepulchretum*. His book gave classic early descriptions of conditions including mitral stenosis, heart block and angina, and it was quickly translated into French (1765), English (1769) and German (1771)."
+    ],
+    "links": [
+      {
+        "to": "paris-clinic",
+        "kind": "led-to",
+        "note": "Paris hospital doctors made bedside-to-autopsy correlation routine."
+      },
+      {
+        "to": "laennec-stethoscope",
+        "kind": "led-to",
+        "note": "Laennec's stethoscope let doctors hear organ damage in the living."
+      },
+      {
+        "to": "virchow",
+        "kind": "see-also",
+        "note": "Virchow moved the seat of disease from organs to cells."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Morgagni, De sedibus, et causis morborum per anatomen indagatis (1761)",
+        "publisher": "Garrison-Morton-Norman: History of Medicine (historyofmedicine.com)",
+        "url": "https://historyofmedicine.com/id/2846",
+        "type": "reference",
+        "supports": "Venice 1761; seventy letters, about 700 cases; correlation of clinical record with post-mortem; Morgagni professor at Padua.",
+        "quote": "consists of a series of 70 letters reporting about 700 cases and necropsies"
+      },
+      {
+        "title": "De sedibus et causis morborum per anatomen indagatis (catalogue record)",
+        "publisher": "Wellcome Collection",
+        "url": "https://wellcomecollection.org/works/a5yzd8t3",
+        "type": "institutional",
+        "supports": "First published 1761; organ concept of disease; classic descriptions of mitral stenosis, heart block and angina pectoris.",
+        "quote": "A monumental work which established the organ concept of disease and made pathological anatomy a major medical discipline."
+      },
+      {
+        "title": "John Baptist Morgagni, M.D., F.R.S., the father of pathological anatomy",
+        "author": "Joseph H. Hunt",
+        "publisher": "Brooklyn Medical Journal (1896), via National Library of Medicine Digital Collections",
+        "year": 1896,
+        "url": "https://collections.nlm.nih.gov/ocr/nlm:nlmuid-101188713-bk",
+        "type": "scholarly",
+        "supports": "Published in Venice in 1761 at age seventy-nine; five books, seventy letters; Morgagni's preface on the Sepulchretum, Valsalva's observations and recording year, month and place; translations of 1765, 1769 and 1771.",
+        "quote": "was published in Venice in 1761, when the venerable author was seventy-nine years old"
+      }
+    ],
+    "further": [
+      "porter-1997",
+      "bynum-2008"
+    ],
+    "image": {
+      "commons": "File:G. B. Morgagni, \"De sedibus...\", 1761; title page Wellcome L0000576.jpg",
+      "alt": "Opening of Morgagni's De sedibus: an engraved portrait of the author facing the printed title page.",
+      "caption": "Frontispiece portrait and title page of Morgagni's *De sedibus et causis morborum*, Venice, 1761. Wellcome Collection."
+    }
+  },
+  {
+    "id": "john-hunter",
+    "title": "John Hunter makes surgery a science",
+    "stream": "europe",
+    "tier": 3,
+    "date": {
+      "year": 1763,
+      "end": 1793,
+      "display": "1763–1793"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "Hunter's career, publications and museum are well documented. The famous story that he inoculated himself with venereal matter rests on inference: his own account does not name the subject."
+    },
+    "place": "London, England",
+    "people": [
+      "John Hunter (1728–1793), surgeon, anatomist and collector"
+    ],
+    "themes": [
+      "surgery",
+      "practice"
+    ],
+    "summary": "A Scottish farm boy who quit school at 13 became London's leading surgeon by testing operations on animals first and dissecting the results.",
+    "body": [
+      "John Hunter came to London from a Scottish farm in 1748 to help in his brother William's anatomy school, and by the late 1780s he was widely seen as the leading surgeon of his day. His creed was observation and experiment. In 1785 he treated a coachman's popliteal aneurysm by tying off the artery higher in the thigh, an idea he had first tested on animals, and later obtained the leg to see the result. His museum held nearly 14,000 specimens at his death in 1793."
+    ],
+    "myth": {
+      "tradition": "Hunter heroically inoculated himself with gonorrhea and gave himself syphilis.",
+      "record": "Hunter described inoculating an unnamed subject. His biographer Wendy Moore thinks it was almost certainly him, but it cannot be proven, and the contaminated matter led him to the wrong conclusion that the two diseases were one."
+    },
+    "links": [
+      {
+        "to": "jenner",
+        "kind": "led-to",
+        "note": "Edward Jenner was Hunter's pupil."
+      },
+      {
+        "to": "anatomy-act",
+        "kind": "see-also",
+        "note": "Hunter relied on body-snatchers all his life."
+      }
+    ],
+    "sources": [
+      {
+        "title": "John Hunter (1728-1793)",
+        "author": "Wendy Moore",
+        "publisher": "James Lind Library",
+        "year": 2009,
+        "url": "https://www.jameslindlibrary.org/articles/john-hunter-1728-93/",
+        "type": "scholarly",
+        "supports": "The 1785 popliteal aneurysm operation tested first on animals, and recovery of the leg; arrival in London 1748; insistence on observation and experiment.",
+        "quote": "a famous operation in 1785 when he cured a coach-driver of a popliteal aneurysm by tying the artery in the patient’s thigh"
+      },
+      {
+        "title": "John Hunter (1728-1793)",
+        "author": "Wendy Moore",
+        "publisher": "James Lind Library",
+        "year": 2009,
+        "url": "https://www.jameslindlibrary.org/articles/john-hunter-1728-93/",
+        "type": "scholarly",
+        "supports": "The unnamed subject of the gonorrhea inoculation, probably Hunter himself, and the erroneous conclusion.",
+        "quote": "Hunter inoculated an unnamed subject – almost certainly himself – with gonorrhoea in a flawed experiment to test whether this developed into syphilis."
+      },
+      {
+        "title": "John Hunter",
+        "publisher": "Hunterian Museum, Royal College of Surgeons of England",
+        "url": "https://hunterianmuseum.org/about/john-hunter",
+        "type": "institutional",
+        "supports": "Move to London in 1748 to work in William Hunter's anatomy school; return to London practice in 1763; size of the museum at his death in 1793; Jenner as a pupil.",
+        "quote": "At his death in 1793 Hunter’s museum included nearly 14,000 specimens of more than 500 different species of plants and animals."
+      }
+    ],
+    "further": [
+      "porter-1997"
+    ]
+  },
+  {
+    "id": "franklin-commission",
+    "title": "Mesmerism on trial",
+    "stream": "europe",
+    "tier": 2,
+    "date": {
+      "year": 1784,
+      "display": "1784"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "The commission, its experiments and its report of 1784 are fully documented. Who designed the blind tests is not: the report credits no individual, and the case for Lavoisier rests on his private papers and a single letter."
+    },
+    "place": "Paris and Passy, France",
+    "people": [
+      "Franz Anton Mesmer (1734–1815), physician and promoter of animal magnetism",
+      "Benjamin Franklin (1706–1790), commissioner",
+      "Antoine Lavoisier (d. 1794), chemist and commissioner",
+      "Charles Deslon, Mesmer's former associate, who demonstrated the method"
+    ],
+    "themes": [
+      "practice",
+      "mind",
+      "theory"
+    ],
+    "summary": "To test a fashionable cure, a royal commission blindfolded the patients, and invented one of the most powerful tools in medicine.",
+    "body": [
+      "Franz Anton Mesmer, an Austrian physician, came to Paris after a scandal in Vienna in 1777, claiming that an invisible fluid, \"animal magnetism,\" filled the universe and that illness came from obstacles to its flow. His practitioners provoked dramatic \"crises\" in patients. In 1784 Louis XVI appointed a royal commission of nine, including Benjamin Franklin and the chemist Antoine Lavoisier, to examine the method as practiced by Mesmer's former associate Charles Deslon. Mesmer refused to let anyone test whether the fluid existed.",
+      "The commissioners set out to separate the fluid from what they called \"the imagination.\" At Franklin's house in Passy and elsewhere, blindfolded subjects who were told they were being magnetized when nobody was doing it fell into crisis anyway. The commission concluded that the effects came from no physical force, and that the treatment was ineffective and undesirable. These are the first known experiments to use blind comparisons to judge a treatment.",
+      "Mesmerism lost its standing in French medicine, though related methods based on suggestion, including hypnosis, lived on."
+    ],
+    "myth": {
+      "tradition": "Benjamin Franklin devised the blind tests that debunked Mesmer.",
+      "record": "The report credits no individual. Lavoisier's papers contain a plan of experiments in his own hand, and a letter from the commission's chairman, Bailly, suggests Franklin was only told of the plan on the day, so Lavoisier is the likelier designer."
+    },
+    "links": [
+      {
+        "to": "lind-scurvy",
+        "kind": "see-also",
+        "note": "Another eighteenth-century step toward the fair test."
+      },
+      {
+        "to": "homeopathy",
+        "kind": "see-also",
+        "note": "Placebo-controlled tests were later turned on homeopathy."
+      },
+      {
+        "to": "streptomycin-rct",
+        "kind": "led-to",
+        "note": "Blinding became a pillar of the modern controlled trial."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Antoine de Lavoisier’s role in designing a single-blind trial to assess whether ‘Animal Magnetism’ exists",
+        "author": "I. M. L. Donaldson",
+        "publisher": "James Lind Library",
+        "year": 2016,
+        "url": "https://www.jameslindlibrary.org/articles/antoine-de-lavoisiers-role-in-designing-a-single-blind-trial-to-assess-whether-animal-magnetism-exists/",
+        "type": "scholarly",
+        "supports": "Commission of nine including Franklin and Lavoisier; Mesmer's refusal and Deslon's cooperation; blindfolded subjects falling into crisis; tests at Passy; first known blind comparisons.",
+        "quote": "the Commission devised the first known experiments using blind comparisons to compare the effects of two treatments"
+      },
+      {
+        "title": "Antoine de Lavoisier’s role in designing a single-blind trial to assess whether ‘Animal Magnetism’ exists",
+        "author": "I. M. L. Donaldson",
+        "publisher": "James Lind Library",
+        "year": 2016,
+        "url": "https://www.jameslindlibrary.org/articles/antoine-de-lavoisiers-role-in-designing-a-single-blind-trial-to-assess-whether-animal-magnetism-exists/",
+        "type": "scholarly",
+        "supports": "The case that Lavoisier, not Franklin, designed the blind experiments.",
+        "quote": "if one wished to attribute the critical single-blind experiments to one mind alone, the evidence that we have suggests very strongly that the mind would be that of Lavoisier"
+      },
+      {
+        "title": "Benjamin Franklin’s (1706-1790) place in the history of medicine",
+        "author": "Edward J. Huth",
+        "publisher": "James Lind Library",
+        "year": 2006,
+        "url": "https://www.jameslindlibrary.org/articles/benjamin-franklins-1706-1790-place-in-the-history-of-medicine/",
+        "type": "scholarly",
+        "supports": "Mesmer's theory of a universal fluid and obstacles to its flow; his 1777 departure from Vienna for Paris; Louis XVI's 1784 commission; the conclusion that animal magnetism was ineffective; survival of suggestion-based methods such as hypnosis.",
+        "quote": "King Louis XVI of France appointed a Royal Commission in 1784 to judge the legitimacy of"
+      },
+      {
+        "title": "Commission Royale. Bailly A (1784) Rapport des commissaires chargés par le Roi, de l'examen du magnétisme animal",
+        "publisher": "James Lind Library (record of the 1784 report)",
+        "url": "https://www.jameslindlibrary.org/commission-royale-bailly-a-1784/",
+        "type": "scholarly",
+        "supports": "The 1784 report and its use of blindfolding.",
+        "quote": "Antoine Lavoisier, Benjamin Franklin and others in Paris assessed the effects of Franz Mesmer’s animal magnetism by blindfolding patients to whom it was applied."
+      }
+    ],
+    "further": [
+      "porter-1997",
+      "wootton-2006"
+    ],
+    "image": {
+      "commons": "File:\"Le Baquet de Mesmer\" Wellcome M0006352.jpg",
+      "alt": "Engraving of patients gathered around Mesmer's baquet, a large tub used in animal-magnetism sessions.",
+      "caption": "\"Le Baquet de Mesmer\": patients gathered around the tub that mesmerists claimed stored and distributed animal magnetism. Engraving, Wellcome Collection."
+    }
+  },
+  {
+    "id": "withering-foxglove",
+    "title": "Withering and the foxglove",
+    "stream": "europe",
+    "tier": 3,
+    "date": {
+      "year": 1785,
+      "display": "1785"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "The book and its 163 cases are documented. The story of how Withering came to the plant rests on his own brief account, and he was not alone: colleagues were already using foxglove."
+    },
+    "place": "Birmingham, England",
+    "people": [
+      "William Withering (1741–1799), physician and botanist"
+    ],
+    "themes": [
+      "drugs",
+      "practice"
+    ],
+    "summary": "A Birmingham doctor picked foxglove out of a twenty-herb folk remedy and reported every case, failures included.",
+    "body": [
+      "In 1775 the physician William Withering, newly arrived in Birmingham, was asked about a family recipe for dropsy that an old woman in Shropshire had long kept secret. It contained twenty or more herbs, and he judged that the active one must be foxglove. Over the next decade he learned to dry and dose the leaf, and in *An Account of the Foxglove* (1785) he reported 163 patients, successes and failures alike, refusing to publish only flattering cases. He described its side effects, including nausea and yellow-green vision."
+    ],
+    "myth": {
+      "tradition": "A Shropshire herbalist called Mother Hutton gave Withering the foxglove cure.",
+      "record": "Withering never named her: his 1785 book mentions only an anonymous old woman in Shropshire, and the name Mother Hutton does not appear in it. Colleagues such as John Ash were also already using the plant."
+    },
+    "links": [
+      {
+        "to": "lind-scurvy",
+        "kind": "see-also",
+        "note": "Another early attempt to judge a remedy honestly."
+      }
+    ],
+    "sources": [
+      {
+        "title": "An account of the foxglove, and some of its medical uses (Birmingham, 1785)",
+        "author": "William Withering",
+        "publisher": "Internet Archive (Wellcome / UK Medical Heritage Library scan)",
+        "year": 1785,
+        "url": "https://archive.org/stream/b21517356/b21517356_djvu.txt",
+        "type": "primary",
+        "supports": "1775 request about the family recipe; anonymous old woman in Shropshire; twenty or more herbs; foxglove as the active herb; reporting every case.",
+        "quote": "I was told that it had long been kept a fecret by an old woman in Shropfhire, who had fometimes made cures after the more regular practitioners had failed."
+      },
+      {
+        "title": "William Withering (1741-1799), a biographical sketch of a Birmingham Lunatic",
+        "author": "M. R. Lee",
+        "publisher": "James Lind Library",
+        "year": 2005,
+        "url": "https://www.jameslindlibrary.org/articles/william-withering-1741-1799-a-biographical-sketch-of-a-birmingham-lunatic/",
+        "type": "scholarly",
+        "supports": "Move to Birmingham in 1775; dried leaf more effective; 163 patients; side effects including nausea and green/yellow vision; John Ash and others already using foxglove.",
+        "quote": "He then went on to study 163 patients with dropsy, and recorded his results carefully."
+      },
+      {
+        "title": "Withering’s 1785 appeal for caution when reporting on a new medicine",
+        "author": "Ulrich Tröhler",
+        "publisher": "James Lind Library",
+        "year": 2003,
+        "url": "https://www.jameslindlibrary.org/articles/witherings-1785-appeal-for-caution-when-reporting-on-a-new-medicine/",
+        "type": "scholarly",
+        "supports": "Withering held back publication until he could report all his cases, not just selected successes.",
+        "quote": "he decided not to report on the treatment until he had assembled all the 156 cases seen in his private practice, and seven whom he had treated at the Birmingham Hospital"
+      }
+    ],
+    "further": [
+      "porter-1997"
+    ]
+  }
+]

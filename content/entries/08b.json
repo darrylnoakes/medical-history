@@ -1,0 +1,506 @@
+[
+  {
+    "id": "heroic-medicine",
+    "title": "Heroic medicine",
+    "stream": "europe",
+    "tier": 3,
+    "date": {
+      "year": 1793,
+      "end": 1799,
+      "display": "1793–1799"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "Rush's own 1794 account records his doses and bleedings, and the 1793 epidemic is well documented. That his treatment did more harm than good is the judgment of colleagues then and historians since, but he kept no records that could settle it."
+    },
+    "place": "Philadelphia, Pennsylvania, United States",
+    "people": ["Benjamin Rush (1746–1813), Philadelphia physician"],
+    "themes": ["practice", "drugs"],
+    "summary": "In Philadelphia's 1793 yellow fever epidemic, Benjamin Rush drained his patients of blood and purged them with mercury, and called it a cure.",
+    "body": [
+      "Between August and November 1793 yellow fever killed 4,000 to 5,000 people in Philadelphia, about a tenth of the city. Benjamin Rush stayed while other physicians fled, and answered with 'depletion': purges of calomel, a mercury compound, and repeated bleeding. 'I drew from many persons seventy and eighty ounces in five days,' he wrote. He believed fever came from overexcited blood vessels, so emptying the body made sense to him. Critics charged that he killed more than he saved; he kept no records to test it. George Washington's fatal illness in 1799 got the same 'heroic' bloodletting and blistering."
+    ],
+    "links": [
+      { "to": "homeopathy", "kind": "see-also", "note": "Hahnemann's gentle doses were partly a reaction against depletion." },
+      { "to": "paris-clinic", "kind": "see-also", "note": "Pierre Louis later counted the results of bloodletting." },
+      { "to": "insect-vectors", "kind": "see-also", "note": "Yellow fever was later shown to be spread by mosquitoes." }
+    ],
+    "sources": [
+      {
+        "title": "Benjamin Rush",
+        "publisher": "University of Pennsylvania Archives and Records Center (Penn People)",
+        "url": "https://archives.upenn.edu/exhibits/penn-people/biography/benjamin-rush/",
+        "type": "institutional",
+        "supports": "Death toll of 4,000–5,000 (about a tenth of the city), August–November 1793; purges and bloodletting; Rush stayed while others fled; his theory of excited blood vessels.",
+        "quote": "it claimed the lives of between 4000 and 5000 residents of Philadelphia, or about one-tenth of the population"
+      },
+      {
+        "title": "An account of the bilious remitting yellow fever, as it appeared in the city of Philadelphia, in the year 1793",
+        "author": "Benjamin Rush",
+        "publisher": "Thomas Dobson, Philadelphia (digitized by the National Library of Medicine, Internet Archive)",
+        "year": 1794,
+        "url": "https://archive.org/stream/2569009R.nlm.nih.gov/2569009R_djvu.txt",
+        "type": "primary",
+        "supports": "Rush's own description of calomel-and-jalap purges and the quantity of blood he drew.",
+        "quote": "I drew from many perfons feventy and eighty ounces in five days"
+      },
+      {
+        "title": "Rush, Benjamin",
+        "publisher": "Encyclopedia.com (Gale biographical entries)",
+        "url": "https://www.encyclopedia.com/people/medicine/medicine-biographies/benjamin-rush",
+        "type": "reference",
+        "supports": "Critics' charge that he caused more deaths than he prevented; his failure to keep records.",
+        "quote": "His treatment was bleeding, and he was charged with causing many more deaths than he prevented."
+      },
+      {
+        "title": "Samuel Hahnemann",
+        "publisher": "Encyclopedia.com (Gale, World of Health)",
+        "url": "https://www.encyclopedia.com/people/medicine/medicine-biographies/samuel-hahnemann",
+        "type": "reference",
+        "supports": "The label 'heroic' therapy; Washington's treatment by bloodletting and blistering in 1799.",
+        "quote": "George Washington died in 1799 after being treated for sore throat. His therapies included bloodletting and blistering with cantharides"
+      }
+    ],
+    "further": ["wootton-2006", "porter-1997"]
+  },
+  {
+    "id": "pinel-moral-treatment",
+    "title": "Pinel, Pussin and the chains",
+    "stream": "europe",
+    "tier": 2,
+    "date": {
+      "year": 1795,
+      "earliest": 1793,
+      "latest": 1801,
+      "display": "1793–1801"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "disputed",
+      "note": "Pinel's appointments to Bicêtre (1793) and the Salpêtrière (1795) and his 1801 treatise are documented. The famous scene of Pinel striking off the chains is contested: his own book credits the keeper Pussin, and we could not open a source fixing exactly who removed the chains, or when."
+    },
+    "place": "Bicêtre and the Salpêtrière, Paris, France",
+    "people": [
+      "Philippe Pinel (1745–1826), physician at Bicêtre and the Salpêtrière",
+      "Pussin, lay governor (keeper) of the insane at Bicêtre"
+    ],
+    "themes": ["mind", "institutions", "practice"],
+    "summary": "Paintings show Philippe Pinel striking the chains off the mad. His own book gives much of the credit to the hospital's keeper, Pussin.",
+    "body": [
+      "Philippe Pinel was appointed physician at Bicêtre, the vast hospice outside Paris, on 25 August 1793, at the height of the Revolution, and on 13 May 1795 moved to the Salpêtrière, with its 600-bed ward for the mentally ill. From these wards came his 'moral treatment' of insanity: close observation, conversation, routine and firm kindness instead of blows. In his treatise on mental alienation (1801; English translation 1806) he reported that at Bicêtre keepers were forbidden 'on any pretext whatever, to strike a madman', though strait-waistcoats and seclusion remained.",
+      "The legend that grew up around him, in paintings and popular prints, has Pinel personally freeing the chained insane. His book tells a more shared story. Pinel praised 'the zeal, the humanity, and intelligence of the keeper', the governor Pussin, and described Pussin, not himself, taming patients, once with servants rattling chains for effect. In England the Quaker-run York Retreat was pursuing similar moral treatment."
+    ],
+    "myth": {
+      "tradition": "In 1793 Philippe Pinel dramatically struck the chains from the insane at Bicêtre, single-handedly inventing humane psychiatry.",
+      "record": "Pinel's own treatise credits the lay keeper Pussin for Bicêtre's humane regime and still used strait-waistcoats; the solitary heroic scene was fixed by later paintings and prints."
+    },
+    "links": [
+      { "to": "asylum-era", "kind": "led-to", "note": "Moral treatment inspired the 19th-century asylum building boom." },
+      { "to": "paris-clinic", "kind": "see-also", "note": "Pinel also taught at the new Paris school of health." },
+      { "to": "heroic-medicine", "kind": "see-also", "note": "Rush in Philadelphia was treating madness with bleeding and purges." }
+    ],
+    "sources": [
+      {
+        "title": "A treatise on insanity (translated by D. D. Davis)",
+        "author": "Philippe Pinel",
+        "publisher": "W. Todd, Sheffield (Internet Archive scan)",
+        "year": 1806,
+        "url": "https://archive.org/stream/treatiseoninsani00pine/treatiseoninsani00pine_djvu.txt",
+        "type": "primary",
+        "supports": "Pinel's tribute to the keeper (Pussin) at Bicêtre, and his statement that keepers were forbidden to strike patients.",
+        "quote": "I found ample amends in the zeal, the humanity, and intelligence of the keeper"
+      },
+      {
+        "title": "A treatise on insanity (translated by D. D. Davis), case of a patient managed by Pussin",
+        "author": "Philippe Pinel",
+        "publisher": "W. Todd, Sheffield (Internet Archive scan)",
+        "year": 1806,
+        "url": "https://archive.org/stream/treatiseoninsani00pine/treatiseoninsani00pine_djvu.txt",
+        "type": "primary",
+        "supports": "Pussin's role and the staged use of chains to frighten a patient.",
+        "quote": "Citizen Pussin appeared one night at the door of his chamber, and, with fire darting from his eyes, and thunder in his voice"
+      },
+      {
+        "title": "Pinel, Philippe",
+        "publisher": "Complete Dictionary of Scientific Biography, via Encyclopedia.com",
+        "url": "https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/pinel-philippe",
+        "type": "reference",
+        "supports": "Appointment to Bicêtre on 25 August 1793; the chains legend commemorated in paintings and prints; Salpêtrière from 13 May 1795 with its 600-bed ward; 1801 treatise.",
+        "quote": "At the Bicetre Pinel had the chains removed from his patients, an event commemorated in both paintings and popular prints."
+      },
+      {
+        "title": "Diseases of the Mind: Highlights of American Psychiatry through 1900",
+        "publisher": "U.S. National Library of Medicine",
+        "url": "https://www.nlm.nih.gov/hmd/topics/diseases-of-mind/index.html",
+        "type": "institutional",
+        "supports": "The popular dramatic version of the unchaining (the tradition) and the Quaker York Retreat's moral treatment.",
+        "quote": "In 1793, Philippe Pinel dramatically struck the chains binding the lunatic women in the Parisian asylum"
+      }
+    ],
+    "further": ["scull-2015"],
+    "image": {
+      "commons": "File:Philippe Pinel libérant les aliénés de leurs chaînes à l'asile de la Salpêtrière à Paris en 1795 (1876), Tony Robert-Fleury, Paris, hôpital de la Salpêtrière.jpg",
+      "alt": "Large oil painting of a physician in a courtyard as an attendant unlocks the chains of a disheveled woman, while other female patients look on.",
+      "caption": "Tony Robert-Fleury's painting of Pinel freeing the insane at the Salpêtrière (1876), made eighty years after the event it imagines. Images like this fixed the legend."
+    }
+  },
+  {
+    "id": "jenner",
+    "title": "Jenner and vaccination",
+    "stream": "europe",
+    "tier": 1,
+    "date": {
+      "year": 1796,
+      "display": "14 May 1796"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "Jenner's own 1798 Inquiry dates the Phipps vaccination to 14 May 1796. What remains uncertain is which virus he actually used: the modern vaccine is vaccinia, not cowpox, and old vaccine samples point to horsepox."
+    },
+    "place": "Gloucestershire, England",
+    "people": [
+      "Edward Jenner (1749–1823), Gloucestershire doctor",
+      "James Phipps, the eight-year-old boy first vaccinated",
+      "Sarah Nelmes, dairymaid whose cowpox sore supplied the matter",
+      "Benjamin Jesty, farmer who used cowpox on his family in 1774"
+    ],
+    "themes": ["public-health", "practice", "drugs"],
+    "summary": "A Gloucestershire doctor tested a farmyard belief on an eight-year-old boy and gave the world vaccination, though nobody knows which virus was in his lancet.",
+    "body": [
+      "Before 1796 the best protection against smallpox was variolation: deliberately infecting a healthy person with matter from a smallpox sore. It usually caused a milder illness than catching the disease, but it could kill, could set off new outbreaks, and needed a steady supply of smallpox patients. Country people had noticed something else. Dairy workers who caught cowpox, a mild disease that left pustules on the hands, seemed to escape smallpox. Reports of this circulated in the 1760s, and in 1774, during an outbreak at Yetminster, a farmer named Benjamin Jesty deliberately gave cowpox to his wife and two sons.",
+      "Edward Jenner, a country doctor in Gloucestershire, put the belief to a public test. On 14 May 1796 he took matter from a cowpox sore on the hand of a dairymaid, Sarah Nelmes, and inserted it through two shallow cuts into the arm of James Phipps, aged eight. The boy was briefly unwell. About six weeks later Jenner inoculated him with smallpox matter, and no disease followed. The Royal Society rejected his paper in 1797, so in 1798 he published *An Inquiry into the Causes and Effects of the Variolae Vaccinae* at his own expense, describing Phipps and 22 other cases.",
+      "The method, later called vaccination after the Latin *vacca*, cow, spread fast. By 1800 it had reached other European countries and the United States, passed at first from arm to arm; after 1860 vaccine was mostly grown on calves. Bavaria required it of army recruits in 1807. Britain outlawed variolation in 1840 and in 1853 made vaccination compulsory for children, provoking the first anti-vaccination movement. In 1980 the World Health Assembly declared the world free of smallpox.",
+      "Jenner was not the first to use cowpox, and he did not know what he was injecting. His contribution was the first systematic account of challenge experiments, published for others to check. He suspected the disease came from horses, and a 1902 American vaccine has turned out to be closely related to horsepox; the vaccinia virus of 20th-century vaccines is distinct from cowpox. Which virus Jenner used is unknown."
+    ],
+    "myth": {
+      "tradition": "Jenner discovered that cowpox protects against smallpox, and the vaccine he gave the world was cowpox.",
+      "record": "Farmers already knew of the protection and Benjamin Jesty used it in 1774; Jenner's achievement was testing and publishing it. The modern vaccine virus, vaccinia, is genetically distinct from cowpox, and Jenner's original virus is unknown."
+    },
+    "links": [
+      { "to": "montagu-variolation", "kind": "overturned", "note": "Vaccination replaced the riskier practice of variolation." },
+      { "to": "balmis-expedition", "kind": "led-to", "note": "Spain carried Jenner's vaccine across its empire in children's arms." },
+      { "to": "smallpox-eradication", "kind": "led-to", "note": "Vaccination eventually ended smallpox." },
+      { "to": "pasteur-vaccines", "kind": "led-to", "note": "Pasteur extended the word and the idea to laboratory vaccines." }
+    ],
+    "sources": [
+      {
+        "title": "Putting smallpox out to pasture (Milestones)",
+        "author": "Saheli Sadanand",
+        "publisher": "Nature",
+        "year": 2020,
+        "url": "https://www.nature.com/articles/d42859-020-00007-6",
+        "type": "scholarly",
+        "supports": "Variolation's risks; 1760s reports; Jesty 1774; Phipps 14 May 1796 and July challenge; Royal Society rejection; 1798 monograph with 22 further cases; spread by 1800; calf lymph after 1860; 1840 and 1853 Acts; vaccinia distinct from cowpox; Jenner's virus unknown.",
+        "quote": "The exact virus in Jenner’s original vaccine remains unknown."
+      },
+      {
+        "title": "Edward Jenner’s 1798 report of challenge experiments demonstrating the protective effects of cowpox against smallpox",
+        "author": "Alfredo Morabia",
+        "publisher": "The James Lind Library",
+        "url": "https://www.jameslindlibrary.org/articles/edward-jenners-1798-report-of-challenge-experiments-demonstrating-the-protective-effects-of-cowpox-against-smallpox/",
+        "type": "scholarly",
+        "supports": "Jesty at Yetminster, 1774; Sarah Nelmes; Phipps aged eight; the 1797 rejection; Jenner's account as the first systematic report of challenge experiments.",
+        "quote": "Edward Jenner (1749-1823) had provided the first systematic account of smallpox challenge experiments following infection (natural and deliberate) with cowpox"
+      },
+      {
+        "title": "An inquiry into the causes and effects of the variolae vaccinae (2nd edition)",
+        "author": "Edward Jenner",
+        "publisher": "Sampson Low, London (Internet Archive scan)",
+        "year": 1800,
+        "url": "https://archive.org/stream/inquiryintocause00jenn/inquiryintocause00jenn_djvu.txt",
+        "type": "primary",
+        "supports": "Jenner's own record of the date and method of the first vaccination (two superficial incisions on 14 May 1796).",
+        "quote": "it was inferted, on the 14th of May, 1796, into the arm of the boy by means of two fuperficial incifions"
+      },
+      {
+        "title": "Beyond the myths: Novel findings for old paradigms in the history of the smallpox vaccine",
+        "author": "José Esparza, Andreas Nitsche, Clarissa R. Damaso",
+        "publisher": "PLoS Pathogens",
+        "year": 2018,
+        "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1007082",
+        "type": "scholarly",
+        "supports": "The 1902 Mulford vaccine's close similarity to horsepox; uncertainty over the virus Jenner used.",
+        "quote": "To the best of our knowledge, today we can only conclusively state that Jenner vaccinated people with an orthopoxvirus."
+      },
+      {
+        "title": "Smallpox: Vaccination",
+        "publisher": "U.S. National Library of Medicine",
+        "url": "https://www.nlm.nih.gov/exhibition/smallpox/sp_vaccination.html",
+        "type": "institutional",
+        "supports": "Bavaria's 1807 requirement that recruits be vaccinated.",
+        "quote": "In 1807, the Bavarians became the first to require recruits to be vaccinated"
+      },
+      {
+        "title": "History of Smallpox: Timeline",
+        "publisher": "The College of Physicians of Philadelphia (History of Vaccines)",
+        "url": "https://historyofvaccines.org/history/smallpox/timeline",
+        "type": "institutional",
+        "supports": "Jenner's suspicion that cowpox came from horsepox; the 1980 declaration of eradication.",
+        "quote": "The World Health Assembly accepted the WHO Global Commission’s recommendation and declared the world free from smallpox."
+      }
+    ],
+    "further": ["porter-1997", "snowden-2019"]
+  },
+  {
+    "id": "homeopathy",
+    "title": "Hahnemann invents homeopathy",
+    "stream": "europe",
+    "tier": 3,
+    "date": {
+      "year": 1796,
+      "end": 1810,
+      "display": "1796 (Organon, 1810)"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "Hahnemann's 1796 paper and the 1810 Organon are dated publications. Modern reviews agree there is no reliable evidence that homeopathy works for any condition."
+    },
+    "place": "Germany",
+    "people": ["Samuel Hahnemann (1755–1843), German physician and chemist"],
+    "themes": ["theory", "drugs"],
+    "summary": "A German doctor disgusted with the dangerous drugs of his day proposed that like cures like, and that diluting a medicine makes it stronger.",
+    "body": [
+      "Samuel Hahnemann quit practice for a time, finding the drugs of his day uncertain and often dangerous. In 1796 he published the paper that founded homeopathy, expanded in his *Organon* of 1810. Its rules: like cures like, so a substance that causes symptoms in the healthy can treat them in the sick; and the more a medicine is diluted, the stronger it becomes. Many remedies are diluted until no molecule of the original remains. Set beside bleeding and mercury purges, Hahnemann's regime of tiny doses, good food, exercise and fresh air looked gentle. Modern reviews find no reliable evidence that it works for any condition."
+    ],
+    "links": [
+      { "to": "heroic-medicine", "kind": "see-also", "note": "Homeopathy grew up as a gentle alternative to depletion." },
+      { "to": "cinchona", "kind": "built-on", "note": "Hahnemann's self-experiments with cinchona bark inspired 'like cures like'." }
+    ],
+    "sources": [
+      {
+        "title": "Hahnemann, Christian Friedrich Samuel",
+        "publisher": "Complete Dictionary of Scientific Biography, via Encyclopedia.com",
+        "url": "https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/hahnemann-christian-friedrich-samuel",
+        "type": "reference",
+        "supports": "His dissatisfaction with contemporary drugs; the 1796 paper; the Organon of 1810.",
+        "quote": "in 1796 published his first paper setting forth his own views, which later formed the basis of homeopathy"
+      },
+      {
+        "title": "Homeopathy: What You Need To Know",
+        "publisher": "National Center for Complementary and Integrative Health (NIH)",
+        "url": "https://www.nccih.nih.gov/health/homeopathy",
+        "type": "institutional",
+        "supports": "The two principles; extreme dilution; the lack of reliable evidence of effectiveness.",
+        "quote": "Many homeopathic products are so diluted that no molecules of the original substance remain."
+      },
+      {
+        "title": "Homeopathic Products",
+        "publisher": "U.S. Food and Drug Administration",
+        "url": "https://www.fda.gov/drugs/information-drug-class/homeopathic-products",
+        "type": "institutional",
+        "supports": "Definition of like-cures-like and the belief that more dilution means more potency.",
+        "quote": "a substance that causes symptoms in a healthy person can be used in diluted form to treat symptoms and illnesses"
+      },
+      {
+        "title": "Samuel Hahnemann",
+        "publisher": "Encyclopedia.com (Gale, World of Health)",
+        "url": "https://www.encyclopedia.com/people/medicine/medicine-biographies/samuel-hahnemann",
+        "type": "reference",
+        "supports": "Hahnemann's advice of exercise, food and fresh air in contrast to heroic therapy.",
+        "quote": "instead encouraged his own patients to seek exercise, healthy food, and fresh air"
+      }
+    ],
+    "further": ["porter-1997"]
+  },
+  {
+    "id": "paris-clinic",
+    "title": "The birth of the clinic in Paris",
+    "stream": "europe",
+    "tier": 2,
+    "date": {
+      "year": 1800,
+      "earliest": 1794,
+      "latest": 1801,
+      "end": 1835,
+      "display": "1794–1830s"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "agreed",
+      "note": "The founding decree (4 December 1794), Bichat's books and Louis's 1835 study are all dated. Calling this the 'birth of the clinic' is a historians' framing of a gradual change, and the effect of Louis's numbers on practice is hard to measure."
+    },
+    "place": "Paris, France",
+    "people": [
+      "Xavier Bichat (1771–1802), anatomist at the Hôtel-Dieu",
+      "Pierre-Charles-Alexandre Louis (1787–1872), physician at La Charité",
+      "François Broussais (1772–1838), champion of leeching"
+    ],
+    "themes": ["institutions", "theory", "practice"],
+    "summary": "After the Revolution, Paris doctors followed patients from bedside to autopsy table and began to count their results.",
+    "body": [
+      "The Revolution dissolved France's old medical faculties, and on 4 December 1794 the Convention founded new schools of health. Paris, with its huge hospitals, became the place to learn medicine: doctors examined patients on the wards, then followed them to the dissecting room. Xavier Bichat, who worked at the Hôtel-Dieu and died in 1802 aged 31, broke the organs down into their common materials, which he called tissues, and argued that each tissue could fall ill on its own. 'Open a few corpses,' he wrote in 1801, and the confusion of symptoms would clear.",
+      "The Paris doctors also counted. In 1835 Pierre Louis compared 77 pneumonia patients by when they had first been bled: about 44 per cent of those bled in the first four days died, against 25 per cent of those bled later. He concluded that bleeding had 'narrow limits' of usefulness. In 1833 alone, France imported 42 million medicinal leeches."
+    ],
+    "myth": {
+      "tradition": "Louis's statistics proved bloodletting useless and swiftly ended it.",
+      "record": "Louis concluded that bleeding helped in limited, severe cases; Broussais's leech doctrine was already in decline, and how much his numbers changed practice is unclear."
+    },
+    "links": [
+      { "to": "morgagni", "kind": "built-on", "note": "Morgagni had already tied symptoms to lesions found after death." },
+      { "to": "laennec-stethoscope", "kind": "led-to", "note": "Laennec's stethoscope was a product of the Paris wards." },
+      { "to": "streptomycin-rct", "kind": "led-to", "note": "Louis's comparison of groups foreshadowed the controlled trial." },
+      { "to": "heroic-medicine", "kind": "see-also", "note": "Louis put bloodletting to a numerical test." }
+    ],
+    "sources": [
+      {
+        "title": "Pierre-Charles-Alexandre Louis and the evaluation of bloodletting",
+        "author": "Alfredo Morabia",
+        "publisher": "The James Lind Library",
+        "year": 2004,
+        "url": "https://www.jameslindlibrary.org/articles/pierre-charles-alexandre-louis-and-the-evaluation-of-bloodletting/",
+        "type": "scholarly",
+        "supports": "Broussais and the 42 million leeches of 1833; Louis's 77 patients, the 44 and 25 per cent death rates, his 'narrow limits' conclusion, and doubt about his impact.",
+        "quote": "in 1833 alone, France imported 42 million leeches for medical use"
+      },
+      {
+        "title": "Louis PCA (1835). Recherches sur les effets de la saignée",
+        "publisher": "The James Lind Library",
+        "url": "https://www.jameslindlibrary.org/louis-pca-1835/",
+        "type": "scholarly",
+        "supports": "The 1835 date and Louis's comparison of early and late bloodletting in pneumonia.",
+        "quote": "In 1835, Pierre-Charles-Alexandre Louis compared mortality rates among Parisian patients with pneumonia who had received prompt treatment with bloodletting"
+      },
+      {
+        "title": "Anatomie générale, appliquée à la physiologie et à la médecine",
+        "author": "Xavier Bichat",
+        "publisher": "Brosson, Gabon et Cie, Paris (National Library of Medicine scan, Internet Archive)",
+        "year": 1801,
+        "url": "https://archive.org/stream/61020510RX1.nlm.nih.gov/61020510RX1_djvu.txt",
+        "type": "primary",
+        "supports": "Bichat's call to open corpses (1801) and his claim that each tissue can be diseased separately.",
+        "quote": "Ouvrez quelques cadavres, vous verrez aussitôt disparoître l’obscurité que jamais la seule observation n’auroit pu dissiper"
+      },
+      {
+        "title": "Bichat, Marie François Xavier",
+        "publisher": "Encyclopedia.com (World of Forensic Science; Encyclopedia of World Biography)",
+        "url": "https://www.encyclopedia.com/people/medicine/medicine-biographies/marie-francois-xavier-bichat",
+        "type": "reference",
+        "supports": "Bichat at the Hôtel-Dieu, his introduction of the term 'tissues', his death in 1802 aged 31.",
+        "quote": "He broke down the organs into their common elemental materials, for which he introduced the term \"tissues.\""
+      },
+      {
+        "title": "Pinel, Philippe",
+        "publisher": "Complete Dictionary of Scientific Biography, via Encyclopedia.com",
+        "url": "https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/pinel-philippe",
+        "type": "reference",
+        "supports": "The Convention's founding of the écoles de santé on 4 December 1794 after the dissolution of the old faculties.",
+        "quote": "On 4 December 1794 the Convention Nationale (three years after the dissolution of the medical guilds and faculties by the Legislative Assembly) established three écoles de santé"
+      }
+    ],
+    "further": ["bynum-1994", "porter-1997"],
+    "image": {
+      "commons": "File:Title page \"Anatomie Generale Appliquee\", 1801 Wellcome L0015081.jpg",
+      "alt": "Printed title page of Bichat's Anatomie générale, 1801, in French.",
+      "caption": "Title page of Xavier Bichat's *Anatomie générale* (Paris, 1801), which reorganized anatomy around tissues rather than whole organs. Wellcome Collection."
+    }
+  },
+  {
+    "id": "balmis-expedition",
+    "title": "The Balmis expedition",
+    "stream": "europe",
+    "tier": 3,
+    "date": {
+      "year": 1803,
+      "end": 1806,
+      "display": "1803–1806"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "The expedition's dates and route are well established in Spanish records; figures for the number vaccinated are rough, and little is known of the children's later lives."
+    },
+    "place": "From La Coruña, Spain, to the Americas, the Philippines and China",
+    "people": [
+      "Francisco Javier de Balmis, Spanish military physician",
+      "Isabel Zendal, carer of the orphans",
+      "José Salvany y Lleopart, Balmis's deputy"
+    ],
+    "themes": ["public-health", "institutions"],
+    "summary": "To carry Jenner's vaccine across an ocean, Spain shipped 22 orphans and passed the infection from arm to arm, one child after another.",
+    "body": [
+      "In 1803 King Charles IV sent the military physician Francisco Javier de Balmis to carry Jenner's new vaccine to Spain's colonies. The vaccine could not be kept alive for the long voyage, so it travelled in people: 22 orphaned children sailed from La Coruña on the corvette *María Pita* and were vaccinated in turn, arm to arm. Their carer, Isabel Zendal, brought her own son. The expedition reached the Caribbean in February 1804 and split in Venezuela; José Salvany spent years vaccinating in South America and died there, while Balmis went on to Mexico, the Philippines and China, returning to Spain in 1806. None of the children came home."
+    ],
+    "links": [
+      { "to": "jenner", "kind": "built-on", "note": "The expedition carried Jenner's cowpox vaccine." },
+      { "to": "columbian-exchange-epidemics", "kind": "see-also", "note": "Smallpox had devastated the Americas since the conquest." }
+    ],
+    "sources": [
+      {
+        "title": "En Español: La expedición Balmis – España y la primera campaña de vacunación internacional",
+        "author": "René F. Najera",
+        "publisher": "The College of Physicians of Philadelphia (History of Vaccines)",
+        "year": 2019,
+        "url": "https://www.historyofvaccines.org/blog/en-espanol-la-expedicion-balmis-espan%cc%83a-y-la-primera-campan%cc%83a-de-vacunacion-internacional/",
+        "type": "institutional",
+        "supports": "Charles IV and Balmis; 22 orphans with Isabel Zendal and her son; departure from La Coruña on the María Pita in 1803; Caribbean in February 1804; Salvany's death in South America; Philippines and China; return in 1806; none of the children returned.",
+        "quote": "viajaron con Balmis 22 niños huérfanos junto con su cuidadora, Isabel Zendal, y su hijo"
+      },
+      {
+        "title": "The Spanish Royal Philanthropic Expedition to Bring Smallpox Vaccination to the New World and Asia in the 19th Century",
+        "author": "Carlos Franco-Paredes, Lorena Lammoglia, José Ignacio Santos-Preciado",
+        "publisher": "Clinical Infectious Diseases 41(9):1285–1289",
+        "year": 2005,
+        "url": "https://academic.oup.com/cid/article-lookup/doi/10.1086/496930",
+        "type": "scholarly",
+        "supports": "Arm-to-arm transmission through orphaned children; royal commission to Balmis.",
+        "quote": "the vaccine was kept viable by passing it from arm to arm in orphaned children",
+        "manualCheck": "Oxford Academic serves a Cloudflare JavaScript challenge to curl; the abstract was read in this session through a browser-based fetch and the quoted phrase taken from it."
+      }
+    ],
+    "further": ["snowden-2019"]
+  },
+  {
+    "id": "morphine",
+    "title": "Sertürner isolates morphine",
+    "stream": "europe",
+    "tier": 2,
+    "date": {
+      "year": 1805,
+      "earliest": 1803,
+      "latest": 1817,
+      "display": "1805–1817"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "firm",
+      "note": "Sertürner's reports of 1805–06 and his 1817 paper are dated publications; the experimental work behind them stretched over years and cannot be pinned to a single date."
+    },
+    "place": "Paderborn and Einbeck, Germany",
+    "people": ["Friedrich Wilhelm Sertürner (1783–1841), German apothecary"],
+    "themes": ["drugs", "technology"],
+    "summary": "A self-taught apothecary's assistant pulled the 'sleep-inducing factor' out of opium, isolating the first alkaloid and testing it on himself.",
+    "body": [
+      "Medicines around 1800 were mostly crude plant preparations whose active ingredients came in unknown and varying amounts. Opium was the most important of them. Friedrich Sertürner, a young apothecary's assistant with little formal training, used ammonia to separate an almost pure 'sleep-inducing factor' from it. His first reports, in 1805 and 1806, attracted no attention. In 1817 he republished the work at length, calling the substance *morphium* after the god of sleep and dreams, and this time chemists took notice.",
+      "Sertürner had tested it on himself and three young volunteers: a quarter of a grain produced a happy light-headedness, while larger doses brought drowsiness and then confusion. He showed the substance was an alkali, overturning the belief that the active principles of plants were acids. Morphine was the first alkaloid isolated from any plant, the start of alkaloid chemistry, and it gave doctors a drug whose dose could be measured."
+    ],
+    "links": [
+      { "to": "hypodermic-syringe", "kind": "led-to", "note": "The syringe was soon used to inject morphine." },
+      { "to": "opioid-crisis", "kind": "led-to", "note": "Morphine's descendants fuelled later addiction epidemics." },
+      { "to": "aspirin", "kind": "led-to", "note": "Purified plant drugs paved the way for manufactured ones." }
+    ],
+    "sources": [
+      {
+        "title": "The isolation of morphine by Serturner",
+        "author": "Chandrasekhar Krishnamurti, SSC Chakra Rao",
+        "publisher": "Indian Journal of Anaesthesia 60(11):861–862",
+        "year": 2016,
+        "url": "https://doi.org/10.4103/0019-5049.193696",
+        "type": "scholarly",
+        "supports": "Crude plant medicines around 1800; self-experiment with three volunteers and the doses; naming after the god of sleep; first alkaloid isolated from any plant.",
+        "quote": "Morphine was not only the first alkaloid to be extracted from opium but also the first ever alkaloid to be isolated from any plant."
+      },
+      {
+        "title": "Sertürner, Friedrich Wilhelm Adam Ferdinand",
+        "publisher": "Complete Dictionary of Scientific Biography, via Encyclopedia.com",
+        "url": "https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/serturner-friedrich-wilhelm-adam-ferdinand",
+        "type": "reference",
+        "supports": "Ammonia extraction; 'vegetable alkali' overturning the assumption that plant actives were acids; ignored 1805–06 publications and the 1817 republication.",
+        "quote": "Sertürner’s first publications on morphine in 1805 and 1806 failed to attract attention."
+      }
+    ],
+    "further": ["porter-1997"]
+  }
+]

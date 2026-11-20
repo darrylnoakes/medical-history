@@ -1,0 +1,27 @@
+{
+  "name": "confluence",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "content": "node scripts/build-content.mjs",
+    "dev": "npm run content && vite",
+    "build": "npm run content && tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "validate": "node scripts/validate-content.mjs",
+    "check-sources": "node scripts/check-sources.mjs content/entries/*.json content/ideas.json content/transmissions.json",
+    "images": "node scripts/fetch-images.mjs"
+  },
+  "dependencies": {
+    "@fontsource-variable/newsreader": "^5.3.0",
+    "@fontsource/ibm-plex-sans": "^5.3.0",
+    "@preact/signals": "^2.11.4",
+    "preact": "^11.2.0"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.10.6",
+    "sharp": "^0.35.5",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.8"
+  }
+}

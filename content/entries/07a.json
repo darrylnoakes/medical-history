@@ -1,0 +1,789 @@
+[
+  {
+    "id": "barber-surgeons",
+    "title": "The barber-surgeons",
+    "stream": "europe",
+    "tier": 3,
+    "date": {
+      "year": 1540,
+      "display": "1540"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "The 1540 Act of Parliament and the company it created are documented in the company's own records and later histories; the 1745 separation is equally well recorded. The only shaky part of the popular story is its medieval back-story, covered below."
+    },
+    "place": "London, England",
+    "people": [
+      "Thomas Vicary, surgeon to Henry VIII",
+      "Henry VIII, king of England"
+    ],
+    "themes": [
+      "surgery",
+      "institutions"
+    ],
+    "summary": "In 1540 Henry VIII's Parliament joined London's barbers and surgeons into one company, which got four hanged felons a year to dissect.",
+    "body": [
+      "Surgery was long a craft learned by apprenticeship. London's barbers did more than shave: they bled patients, cupped, pulled teeth and lanced abscesses, while a smaller guild of surgeons competed with them for work. In 1540, urged on by Thomas Vicary, surgeon to Henry VIII, Parliament merged the two into the Company of Barber-Surgeons; Holbein painted the king handing over the Act. The company was also given the bodies of four executed criminals a year for public anatomy lessons. The uneasy partnership lasted until 1745, when the surgeons left to form the company that became the Royal College of Surgeons."
+    ],
+    "myth": {
+      "tradition": "The Church banned surgery at the Council of Tours in 1163 ('the Church abhors blood'), so the work fell to barbers.",
+      "record": "The Tours canon only stopped monks and regular canons from leaving their houses to study medicine or secular law. In 1215 the Fourth Lateran Council barred subdeacons, deacons and priests from surgery involving cutting or burning; lay surgeons were unaffected."
+    },
+    "links": [
+      {
+        "to": "pare",
+        "kind": "see-also",
+        "note": "Paré began as a barber-surgeon in Paris."
+      },
+      {
+        "to": "guy-de-chauliac",
+        "kind": "see-also",
+        "note": "The learned surgery that coexisted with the craft."
+      },
+      {
+        "to": "obstetric-forceps",
+        "kind": "see-also",
+        "note": "The Chamberlens were London barber-surgeons."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Company of Barbers and Surgeons",
+        "author": "Harold Ellis",
+        "publisher": "Journal of the Royal Society of Medicine",
+        "year": 2001,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1282221/",
+        "type": "scholarly",
+        "supports": "Barbers' minor surgery; Vicary's role; 1540 founding; four executed criminals a year; 1745 split.",
+        "quote": "The Act of 1540 also allowed the bodies of four executed criminals to be anatomized annually at public demonstrations"
+      },
+      {
+        "title": "Brief College History",
+        "publisher": "Royal College of Surgeons of England",
+        "url": "https://rcseng.ac.uk/-/media/Files/RCS/Museums-and-shop/Archives/Brief-College-History.pdf",
+        "type": "institutional",
+        "supports": "1540 Act of Parliament, Henry VIII and Holbein's painting; the 1745 separation.",
+        "quote": "the status and functions of the two professions were regulated by Act of Parliament in 1540, and the combined Company of Barber-Surgeons was established"
+      },
+      {
+        "title": "Medical Ethics, History of: Europe. Medieval Christian Europe",
+        "author": "Darrel W. Amundsen",
+        "publisher": "Encyclopedia of Bioethics (via Encyclopedia.com)",
+        "url": "https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/medical-ethics-history-europe-i-ancient-and-medieval-c-medieval-christian-europe",
+        "type": "reference",
+        "supports": "What the 1163 Council of Tours actually enacted, and the 1215 restriction on clergy in major orders.",
+        "quote": "It simply prohibited monks and other regular clergy from leaving their religious institutions to study medicine or secular law"
+      },
+      {
+        "title": "Twelfth Ecumenical Council: Lateran IV 1215, canon 18",
+        "publisher": "Internet History Sourcebooks, Fordham University",
+        "url": "https://sourcebooks.fordham.edu/basis/lateran4.asp",
+        "type": "primary",
+        "supports": "The text of the 1215 canon restricting surgery by clergy in major orders.",
+        "quote": "No subdeacon, deacon, or priest shall practice that part of surgery involving burning and cutting"
+      }
+    ],
+    "further": [
+      "porter-1997"
+    ]
+  },
+  {
+    "id": "printing-medicine",
+    "title": "Medicine in print",
+    "stream": "europe",
+    "tier": 3,
+    "date": {
+      "year": 1491,
+      "display": "1478–1491"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "Both editions carry printed dates and survive in many copies. Calling the *Fasciculus* the first printed book with anatomical illustrations is the standard judgment of librarians, though it depends on how 'anatomical' is defined."
+    },
+    "place": "Florence and Venice, Italy",
+    "people": [
+      "Nicolaus Laurentii, Florentine printer of Celsus",
+      "Johannes and Gregorius de Gregoriis, Venetian printers",
+      "Johannes de Ketham (fl. 1460), physician whose name the *Fasciculus* carries"
+    ],
+    "themes": [
+      "texts",
+      "technology"
+    ],
+    "summary": "Within decades of Gutenberg, medicine went to press: Celsus in 1478, then a Venetian anthology whose woodcuts were the first printed anatomical pictures.",
+    "body": [
+      "In 1478, about a quarter of a century after the first printed books, the Florentine printer Nicolaus Laurentii issued the first printed edition of the Roman writer Celsus's *De medicina*. In 1491 the Gregorii brothers of Venice printed the *Fasciculus medicinae*, a bundle of short medical treatises, many of them medieval, including advice on avoiding plague. Its woodcuts, including a zodiac man and a dissection scene, made it the first printed book with anatomical illustrations. It ran through fourteen editions and translations in 24 years. Its nominal author, Johannes de Ketham, may only have owned the manuscript."
+    ],
+    "links": [
+      {
+        "to": "celsus",
+        "kind": "built-on",
+        "note": "The 1478 edition put Celsus back into circulation."
+      },
+      {
+        "to": "mondino",
+        "kind": "see-also",
+        "note": "Mondino's anatomy entered the Fasciculus in its second edition."
+      },
+      {
+        "to": "vesalius",
+        "kind": "led-to",
+        "note": "Vesalius made printed anatomical illustration central to medicine."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Historical Anatomies on the Web: Johannes de Ketham",
+        "publisher": "U.S. National Library of Medicine",
+        "url": "https://www.nlm.nih.gov/exhibition/historicalanatomies/ketham_bio.html",
+        "type": "institutional",
+        "supports": "1491 Venice first edition; first printed book with anatomical illustrations; a collection of medieval treatises.",
+        "quote": "Fasciculus medicinae was the first printed book to contain anatomical illustrations"
+      },
+      {
+        "title": "Heirs of Hippocrates no. 126: Johannes de Ketham, Fasciculus medicinae",
+        "publisher": "University of Iowa Libraries",
+        "url": "https://heirs.lib.uiowa.edu/record.php?id=126",
+        "type": "institutional",
+        "supports": "Ketham's tenuous connection; woodcut subjects; fourteen editions in 24 years; Mondino added in second edition.",
+        "quote": "during this twenty-four-year period it went through fourteen known editions and translations"
+      },
+      {
+        "title": "Zodiac Man, Fasciculus medicinae (Venice, 1491)",
+        "publisher": "Cushing/Whitney Medical Library, Yale University",
+        "url": "https://onlineexhibits.library.yale.edu/s/medicalastrology/item/15329",
+        "type": "institutional",
+        "supports": "The Gregorii brothers as printers of the 1491 edition.",
+        "quote": "Venice: Johannes and Gregorius de Gregoriis, 1491"
+      },
+      {
+        "title": "Aulus Cornelius Celsus (1478)",
+        "publisher": "James Lind Library",
+        "url": "https://www.jameslindlibrary.org/celsus-alus-cornelius-1st-century-ce/",
+        "type": "scholarly",
+        "supports": "The 1478 Florence editio princeps of Celsus, its printer, and its timing relative to the first printed books.",
+        "quote": "The editio princeps of Celsus was printed in roman type in Florence, just a quarter of a century after the appearance of the first printed books"
+      }
+    ],
+    "further": [
+      "siraisi-1990"
+    ]
+  },
+  {
+    "id": "syphilis-1495",
+    "title": "The great pox",
+    "stream": "europe",
+    "tier": 2,
+    "date": {
+      "year": 1495,
+      "earliest": 1494,
+      "latest": 1496,
+      "display": "1495"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "disputed",
+      "note": "Contemporary writers agree that the epidemic broke out among the armies fighting over Naples in 1494–95. Where it came from is still argued: ancient DNA now favors an American origin, but specialists disagree over possible pre-1492 cases in European skeletons."
+    },
+    "place": "Naples, Italy, then all of Europe",
+    "people": [
+      "Charles VIII, king of France, whose army spread the disease",
+      "Girolamo Fracastoro (c. 1478–1553), physician-poet who named it"
+    ],
+    "themes": [
+      "public-health",
+      "drugs"
+    ],
+    "summary": "In 1495 a new and ghastly disease burst out of a French army in Italy. Europe blamed its neighbors; scientists still argue over where it came from.",
+    "body": [
+      "In 1494 Charles VIII of France marched an army recruited across Western Europe down Italy to claim Naples. In its camps a disfiguring illness unknown to physicians broke out, and when the soldiers went home in 1495 they took it with them; within five years it had spread throughout Europe. Witnesses described boils 'that stood out like acorns', a sickening stench and terrible pain. Everyone blamed someone else: the French called it the Neapolitan disease, the English and Italians the French disease. The name we use comes from a Latin poem of 1530 by Girolamo Fracastoro, in which a shepherd called Syphilus is struck down by Apollo. Doctors treated it with mercury and with guaiacum, a wood from the Americas.",
+      "Because the outbreak followed so soon after Columbus returned in 1493, people suspected early on that it came from the New World. The question is still open. Claimed pre-Columbian cases in European skeletons are hard to tell apart from related infections such as yaws, or are poorly dated. Ancient bacterial genomes from the Americas, published in 2024, point to an American origin for the whole family of syphilis bacteria, though their authors warn against dismissing the European evidence."
+    ],
+    "links": [
+      {
+        "to": "columbian-exchange-epidemics",
+        "kind": "see-also",
+        "note": "The traffic in disease that ran mostly the other way."
+      },
+      {
+        "to": "fracastoro",
+        "kind": "led-to",
+        "note": "Fracastoro's thinking about the pox fed his theory of contagion."
+      },
+      {
+        "to": "salvarsan",
+        "kind": "led-to",
+        "note": "The first effective drug against syphilis, four centuries later."
+      },
+      {
+        "to": "paracelsus",
+        "kind": "see-also",
+        "note": "Paracelsus attacked guaiacum and wrote on the pox."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Ancient genomes reveal a deep history of Treponema pallidum in the Americas",
+        "author": "Rodrigo Barquera et al.",
+        "publisher": "Nature",
+        "year": 2025,
+        "url": "https://www.nature.com/articles/s41586-024-08515-5",
+        "type": "scholarly",
+        "supports": "Charles VIII's army and the 1495 spread across Europe; the Columbian and pre-Columbian hypotheses; the genomic case for an American origin and its caveats.",
+        "quote": "a disfiguring illness unknown to medical professionals of the time erupted in the army camps and followed the men to their homelands upon their demobilization in 1495"
+      },
+      {
+        "title": "Syphilis sailed the ocean blue: why a bent femur won't overturn Columbus theory",
+        "author": "Rob Knell",
+        "publisher": "Queen Mary University of London",
+        "year": 2014,
+        "url": "https://www.qmul.ac.uk/news/latest-news/2014/se/syphilis-sailed-the-ocean-blue-why-a-bent-femur-wont-overturn-columbus-theory.html",
+        "type": "institutional",
+        "supports": "Symptoms described by contemporaries; national names for the disease; problems with skeletal evidence from pre-Columbian Europe.",
+        "quote": "Commentators at the time described dark green boils that stood out like acorns"
+      },
+      {
+        "title": "A Question of Origins: Skeletal Evidence for the History of Venereal Syphilis",
+        "author": "Laura Lockau",
+        "publisher": "Environment & Society Portal, Arcadia (Rachel Carson Center)",
+        "year": 2017,
+        "url": "https://www.environmentandsociety.org/arcadia/question-origins-skeletal-evidence-history-venereal-syphilis",
+        "type": "scholarly",
+        "supports": "The competing origin hypotheses and the 'Neapolitan' and 'French' names.",
+        "quote": "the disease being first referred to as the Neapolitan sickness by the French and the French sickness by the Italians"
+      },
+      {
+        "title": "Medicamenta: Syphilis",
+        "publisher": "Centro di Ateneo per le Biblioteche, University of Padua",
+        "url": "https://mostre.cab.unipd.it/medicamenta/en/33/sifilide",
+        "type": "institutional",
+        "supports": "Fracastoro's 1530 poem and the shepherd Syphilus; mercury and guaiacum as treatments.",
+        "quote": "suggested mercury and guaiacum, an American plant, as medications"
+      }
+    ],
+    "further": [
+      "crosby-1972",
+      "snowden-2019"
+    ]
+  },
+  {
+    "id": "paracelsus",
+    "title": "Paracelsus burns the books",
+    "stream": "europe",
+    "tier": 2,
+    "date": {
+      "year": 1527,
+      "display": "24 June 1527"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "His appointment at Basel in March 1527 and his flight in February 1528 are documented; the St John's Day burning is reported consistently, though accounts differ on which books went into the fire. His lasting influence is a matter of broad agreement among historians."
+    },
+    "place": "Basel, Switzerland",
+    "people": [
+      "Paracelsus (Theophrastus von Hohenheim, 1493/94–1541), physician and alchemist",
+      "Johannes Froben (d. 1527), Basel publisher and patron"
+    ],
+    "themes": [
+      "drugs",
+      "theory"
+    ],
+    "summary": "Hired as Basel's city physician in 1527, Paracelsus lectured in German, raged at the apothecaries and threw Avicenna's Canon onto a bonfire.",
+    "body": [
+      "Theophrastus von Hohenheim, who called himself Paracelsus, won the post of city physician and professor at Basel in March 1527 after treating the great publisher Johannes Froben. He lectured in German rather than Latin, admitted barber-surgeons to his classes and attacked the apothecaries' profits. On St John's Day, 24 June, he threw a copy of Avicenna's *Canon*, the standard medical textbook, onto a students' bonfire. When Froben died in October his enemies closed in, and in February 1528 he fled the city, to wander for the rest of his life.",
+      "His medicine mixed alchemy, astrology and sharp observation. He rejected the theory of the four humors, sought chemical causes and chemical cures for disease, wrote the first book on the diseases of miners, and condemned guaiacum for syphilis in favor of mercury. Few of his works were printed in his lifetime; after his death in 1541 they appeared by the hundreds and inspired a school of chemical medicine."
+    ],
+    "myth": {
+      "tradition": "Paracelsus publicly burned the collected works of Galen and Avicenna, the two pillars of medical authority.",
+      "record": "Versions differ. The standard scholarly biography says he burned a copy of Avicenna's *Canon* at a student celebration; Galen's books appear only in some retellings."
+    },
+    "links": [
+      {
+        "to": "ibn-sina-canon",
+        "kind": "see-also",
+        "note": "The book he burned."
+      },
+      {
+        "to": "syphilis-1495",
+        "kind": "see-also",
+        "note": "He attacked the guaiacum cure for the pox."
+      },
+      {
+        "to": "ramazzini",
+        "kind": "led-to",
+        "note": "His study of miners' diseases was an early landmark of occupational medicine."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Paracelsus, Theophrastus Philippus Aureolus Bombastus von Hohenheim",
+        "author": "Walter Pagel",
+        "publisher": "Complete Dictionary of Scientific Biography (via Encyclopedia.com)",
+        "url": "https://www.encyclopedia.com/people/science-and-technology/chemistry-biographies/paracelsus",
+        "type": "reference",
+        "supports": "March 1527 appointment after treating Froben; the Canon burned on St John's Day; lectures in German; Froben's death and the 1528 flight.",
+        "quote": "Paracelsus next offended by burning a copy of Ibn S?n?’s Canon at a student rag on St. John’s Day (24 June)"
+      },
+      {
+        "title": "Paracelsus - Scientist of the Day",
+        "author": "William B. Ashworth Jr.",
+        "publisher": "Linda Hall Library",
+        "url": "https://www.lindahall.org/about/news/scientist-of-the-day/paracelsus",
+        "type": "institutional",
+        "supports": "Appointment as city physician in 1527; the bonfire as popularly told; death in 1541; chemical remedies.",
+        "quote": "In Basel, where Paracelsus was appointed city physician in 1527, he used the occasion of the Feast of St. John to throw the collected works of Galen and Avicenna"
+      },
+      {
+        "title": "Heirs of Hippocrates no. 205: Paracelsus, Von der frantzösischen Kranckheit",
+        "publisher": "University of Iowa Libraries",
+        "url": "https://heirs.lib.uiowa.edu/record.php?id=205",
+        "type": "institutional",
+        "supports": "Abandonment of humoral theory; chemical therapy; few works printed in his lifetime and hundreds after.",
+        "quote": "in his medical teaching he abandoned the ruling system of 'humours'"
+      },
+      {
+        "title": "Paracelsus (1493/94–1541)",
+        "author": "Bruce T. Moran",
+        "publisher": "Europe, 1450 to 1789: Encyclopedia of the Early Modern World (via Encyclopedia.com)",
+        "url": "https://www.encyclopedia.com/people/medicine/medicine-biographies/philippus-aureolus-paracelsus",
+        "type": "reference",
+        "supports": "Flight from Basel in 1528; opposition to guaiacum and preference for mercury.",
+        "quote": "he spoke out against the use of guaiacum"
+      },
+      {
+        "title": "Heirs of Hippocrates no. 212: Paracelsus, Von der Bergsucht",
+        "publisher": "University of Iowa Libraries",
+        "url": "https://heirs.lib.uiowa.edu/record.php?id=212",
+        "type": "institutional",
+        "supports": "The first monograph on miners' occupational diseases.",
+        "quote": "This rare first edition of the first monograph devoted to the occupational diseases of miners and metallurgical workers"
+      }
+    ],
+    "further": [
+      "porter-1997"
+    ],
+    "image": {
+      "commons": "File:Paracelsus.jpg",
+      "alt": "Painted half-length portrait of a stout man in a fur hat over a red cap, holding a small book before a river landscape, with the inscription FAMOSO DOCTOR PARESELSVS.",
+      "caption": "Presumed portrait of Paracelsus: one of many anonymous 17th-century copies of a lost original attributed to Quentin Massys."
+    }
+  },
+  {
+    "id": "vesalius",
+    "title": "Vesalius, De Humani Corporis Fabrica",
+    "stream": "europe",
+    "tier": 1,
+    "date": {
+      "year": 1543,
+      "display": "1543"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "The book survives in many copies of the 1543 Basel edition, and its contents can be checked page by page. Historians agree on its importance; they debate who drew the pictures and how quickly its anatomy displaced Galen's."
+    },
+    "place": "Padua, Italy, and Basel, Switzerland",
+    "people": [
+      "Andreas Vesalius (1514–1564), anatomist",
+      "Joannes Oporinus, Basel printer",
+      "Jan Stephan van Calcar (1499–c. 1546), artist sometimes credited with the woodcuts"
+    ],
+    "themes": [
+      "surgery",
+      "texts",
+      "theory"
+    ],
+    "summary": "A 28-year-old professor at Padua published the most famous anatomy book ever printed, built on human dissection and dazzling woodcuts.",
+    "body": [
+      "In 1543 Andreas Vesalius, a 28-year-old professor of surgery and anatomy at Padua, published *De humani corporis fabrica*, 'seven books on the fabric of the human body'. He had it printed across the Alps in Basel by Joannes Oporinus, alongside a short *Epitome* for students. Its woodcuts became instantly famous: a title page showing Vesalius dissecting a corpse amid a jostling crowd, skeletons and flayed 'muscle men' posed like classical statues against the countryside around Padua, even decorated capital letters showing cherubs robbing graves.",
+      "Medical teaching then rested on the ancient authority of Galen. Vesalius had come to see that Galen's anatomy came largely from animals. In public demonstrations at Bologna in 1540 he declared that human anatomy could be learned only by dissecting human bodies, and he did the cutting himself. The *Fabrica* pointed out where Galen had described apes rather than people: the human jaw is one bone, not two, and the breastbone has three segments, not seven. He also doubted that blood seeped through invisible pores in the wall between the heart's ventricles.",
+      "The change was neither instant nor total. The Paris anatomist Jacobus Sylvius, his former teacher, attacked him violently, and Vesalian anatomy gained general support only around 1600, spread by his successors at Padua. Its pictures spread faster, copied and plagiarized across Europe within two years. Vesalius himself soon left research to become physician to Emperor Charles V, though he produced a revised edition in 1555.",
+      "Even the details are less tidy than legend. The colophon gives June 1543, but the book actually appeared in August. The artists are unknown: Jan Stephan van Calcar was long credited, but most scholars now point to several hands from Titian's workshop in Venice."
+    ],
+    "myth": {
+      "tradition": "With the *Fabrica*, Vesalius swept away Galen's anatomy at a stroke.",
+      "record": "Vesalius relied heavily on Galen, sometimes translating him word for word, and kept Galen's idea that blood is made in the liver. His corrections met fierce opposition and were broadly accepted only about two generations later."
+    },
+    "links": [
+      {
+        "to": "galen",
+        "kind": "overturned",
+        "note": "Corrected many points of Galen's animal-based anatomy."
+      },
+      {
+        "to": "mondino",
+        "kind": "built-on",
+        "note": "University dissection had been taught since Mondino's day."
+      },
+      {
+        "to": "printing-medicine",
+        "kind": "built-on",
+        "note": "Printed woodcuts made exact anatomical images repeatable."
+      },
+      {
+        "to": "harvey",
+        "kind": "led-to",
+        "note": "Padua's anatomical tradition led on to Harvey's circulation."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Vesalius, Andreas",
+        "author": "C. D. O'Malley",
+        "publisher": "Complete Dictionary of Scientific Biography (via Encyclopedia.com)",
+        "url": "https://www.encyclopedia.com/people/medicine/medicine-biographies/andreas-vesalius",
+        "type": "reference",
+        "supports": "Printing by Oporinus in Basel; August vs June publication; Bologna 1540; corrections of Galen (jaw, sternum, septum); acceptance of liver blood-making; Sylvius's attack and slow acceptance; uncertain artists; imperial service and 1555 edition.",
+        "quote": "With the publication of De humani corporis fabrica (Basel, 1543)—in August rather than in June as given in the colophon"
+      },
+      {
+        "title": "Historical Anatomies on the Web: Andreas Vesalius",
+        "publisher": "U.S. National Library of Medicine",
+        "url": "https://www.nlm.nih.gov/exhibition/historicalanatomies/vesalius_bio.html",
+        "type": "institutional",
+        "supports": "Padua professorship; reliance on Galen; reception; attribution of the woodcuts to several artists of Titian's workshop.",
+        "quote": "Although he relied heavily upon Galen, at times translating his words exactly, Vesalius performed his own careful dissections"
+      },
+      {
+        "title": "Andreas Vesalius - Scientist of the Day",
+        "author": "William B. Ashworth Jr.",
+        "publisher": "Linda Hall Library",
+        "year": 2014,
+        "url": "https://www.lindahall.org/about/news/scientist-of-the-day/andreas-vesalius/",
+        "type": "institutional",
+        "supports": "His age at publication; the frontispiece; muscle men and skeletons; the grave-robbing initial letter.",
+        "quote": "De fabrica was published when Vesalius was but 28 years old"
+      },
+      {
+        "title": "Heirs of Hippocrates no. 281: Vesalius, De humani corporis fabrica (1543)",
+        "publisher": "University of Iowa Libraries",
+        "url": "https://heirs.lib.uiowa.edu/record.php?id=281",
+        "type": "institutional",
+        "supports": "The Paduan landscape behind the muscle men; the Calcar attribution as traditionally given; the decorated capitals.",
+        "quote": "the background scenes of the muscle men illustrations are, when collected into a continuum, a dioramic replica of the Paduan countryside"
+      }
+    ],
+    "further": [
+      "porter-1997",
+      "siraisi-1990"
+    ],
+    "image": {
+      "commons": "File:Vesalius Fabrica fronticepiece.jpg",
+      "alt": "Woodcut title page: a packed, columned anatomy theater with Vesalius beside an opened corpse on a table, a skeleton standing behind, and the book's Latin title in a cartouche above.",
+      "caption": "Title page of the *Fabrica* (Basel, 1543): Vesalius, at the table, dissects in person while students and onlookers crowd the theater."
+    }
+  },
+  {
+    "id": "pare",
+    "title": "Ambroise Paré and gentler surgery",
+    "stream": "europe",
+    "tier": 2,
+    "date": {
+      "year": 1545,
+      "display": "1545"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "Paré's 1545 book on gunshot wounds is a dated publication. The famous night at Turin is known only from his own account written decades later, and sources place it in 1536 or 1537."
+    },
+    "place": "Turin, Italy, and Paris, France",
+    "people": [
+      "Ambroise Paré (c. 1510–1590), military and royal surgeon"
+    ],
+    "themes": [
+      "surgery",
+      "practice"
+    ],
+    "summary": "A barber-surgeon who ran out of boiling oil on campaign found his patients did better without it, and spent his life making surgery less brutal.",
+    "body": [
+      "Ambroise Paré trained not at a university but as a barber-surgeon's apprentice and a surgical dresser at the Hôtel-Dieu in Paris. Gunshot wounds were then thought to be poisoned by gunpowder and were seared with boiling oil. Serving with the French army at Turin, Paré ran out of oil and improvised a dressing of egg yolk, oil of roses and turpentine. Next day, he wrote, the men he had dressed were free from pain, their wounds neither inflamed nor swollen, unlike those treated with oil. His book on gunshot wounds of 1545, written in French because he knew no Latin, made him famous.",
+      "He went on to revive the ancient practice of tying off blood vessels during amputation instead of burning them shut, designed instruments and artificial limbs, and served four kings of France. He ended case histories with a modest formula: 'I dressed him, God healed him.' The Turin story comes from his own account published almost half a century later."
+    ],
+    "myth": {
+      "tradition": "Paré was a Protestant Huguenot.",
+      "record": "The story is old and still repeated, but the evidence shows he remained a Roman Catholic throughout his life."
+    },
+    "links": [
+      {
+        "to": "barber-surgeons",
+        "kind": "see-also",
+        "note": "Paré rose from the barber-surgeon's craft."
+      },
+      {
+        "to": "vesalius",
+        "kind": "see-also",
+        "note": "Paré attended Henry II's deathbed with Vesalius and based his anatomy on Vesalius's."
+      },
+      {
+        "to": "guy-de-chauliac",
+        "kind": "built-on",
+        "note": "The medieval surgical tradition Paré inherited."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Paré, Ambroise",
+        "publisher": "Complete Dictionary of Scientific Biography (via Encyclopedia.com)",
+        "url": "https://www.encyclopedia.com/people/medicine/medicine-biographies/ambroise-pare",
+        "type": "reference",
+        "supports": "Hôtel-Dieu training; the Turin episode and its late source; the dressing; 1545 book in French; ligature; the motto; his Catholicism.",
+        "quote": "Although often reported to have been a Huguenot, Pare remained a Roman Catholic throughout his life"
+      },
+      {
+        "title": "Ambroise Paré - Scientist of the Day",
+        "author": "William B. Ashworth Jr.",
+        "publisher": "Linda Hall Library",
+        "url": "https://www.lindahall.org/about/news/scientist-of-the-day/ambroise-pare",
+        "type": "institutional",
+        "supports": "Boiling oil and cautery as standard practice; the improvised dressing from his Apologie; ligature as an ancient method; service to four monarchs; the motto.",
+        "quote": "he decided to try sewing the vessels shut, using a procedure called ligature, again a method used by ancient physicians"
+      },
+      {
+        "title": "Heirs of Hippocrates no. 271: Ambroise Paré, Opera (1582)",
+        "publisher": "University of Iowa Libraries",
+        "url": "https://heirs.lib.uiowa.edu/record.php?id=271",
+        "type": "institutional",
+        "supports": "His abandonment of boiling oil and reintroduction of ligature; that he wrote in French; artificial limbs; the Huguenot tradition.",
+        "quote": "Probably his best known innovations were his discarding the use of boiling oil in gunshot wounds and the reintroduction of simple ligature"
+      }
+    ],
+    "further": [
+      "porter-1997",
+      "wootton-2006"
+    ]
+  },
+  {
+    "id": "fracastoro",
+    "title": "Fracastoro's seeds of contagion",
+    "stream": "europe",
+    "tier": 3,
+    "date": {
+      "year": 1546,
+      "display": "1546"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "*De contagione* was printed in Venice in 1546 and its contents are not in doubt. How far his 'seeds' anticipate microbes is a matter of interpretation, and historians are more cautious than older admirers."
+    },
+    "place": "Verona and Venice, Italy",
+    "people": [
+      "Girolamo Fracastoro (c. 1478–1553), physician and poet"
+    ],
+    "themes": [
+      "theory",
+      "public-health"
+    ],
+    "summary": "Three centuries before Pasteur, a Veronese poet-physician argued that diseases spread by tiny seeds passed by touch, clothing and the air.",
+    "body": [
+      "In 1546 Girolamo Fracastoro, the Veronese physician who had named syphilis in verse, published *De contagione*. He argued that contagious diseases spread through tiny 'seeds' (*seminaria*) in three ways: by direct contact, as in scabies; by 'fomites' such as clothes and sheets; and at a distance, as with plague and smallpox. He gave an early description of typhus and discussed the contagiousness of tuberculosis, measles and rabies. His seeds owed much to the ancient atomism of Lucretius, and the rival idea that bad air caused epidemics stayed dominant for three more centuries."
+    ],
+    "myth": {
+      "tradition": "Fracastoro discovered the germ theory of disease three centuries before Pasteur.",
+      "record": "His *seminaria* had some lifelike traits, but they came from ancient philosophy, not observation; whether he foresaw microbes cannot be established, and his ideas were largely overshadowed."
+    },
+    "links": [
+      {
+        "to": "syphilis-1495",
+        "kind": "built-on",
+        "note": "The new pox shaped his thinking about contagion."
+      },
+      {
+        "to": "pasteur-germ-theory",
+        "kind": "see-also",
+        "note": "The germ theory his seeds are often said to foreshadow."
+      },
+      {
+        "to": "quarantine",
+        "kind": "see-also",
+        "note": "Older practice that already assumed contagion."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Fracastoro, Girolamo",
+        "publisher": "Complete Dictionary of Scientific Biography (via Encyclopedia.com)",
+        "url": "https://www.encyclopedia.com/people/medicine/medicine-biographies/girolamo-fracastoro",
+        "type": "reference",
+        "supports": "1546 publication; three modes of contagion; origins of the seminaria in Lucretius; caution about microbes. Also the later overshadowing by miasma theory.",
+        "quote": "It is difficult—perhaps impossible—to establish incontrovertibly whether Fracastoro really foresaw, as some would like to belive, the existence of microbes"
+      },
+      {
+        "title": "Heirs of Hippocrates no. 174: Fracastoro, De contagione (Venice, 1546)",
+        "publisher": "University of Iowa Libraries",
+        "url": "https://heirs.lib.uiowa.edu/record.php?id=174",
+        "type": "institutional",
+        "supports": "The 1546 Venice edition; fomites; typhus and other diseases discussed; the 'germ theory' reading as traditionally made.",
+        "quote": "by indirect contact with what he calls fomites--objects that are not in themselves harmful but are able to harbor pathogenic micro-organisms and spread infection"
+      }
+    ],
+    "further": [
+      "snowden-2019"
+    ]
+  },
+  {
+    "id": "obstetric-forceps",
+    "title": "The Chamberlens' secret forceps",
+    "stream": "europe",
+    "tier": 3,
+    "date": {
+      "year": 1620,
+      "earliest": 1596,
+      "latest": 1650,
+      "display": "early 1600s"
+    },
+    "confidence": {
+      "date": "uncertain",
+      "claim": "agreed",
+      "note": "The family kept no public record of the invention, so its date is inferred: the Science Museum credits Peter Chamberlen the Elder (d. 1631), while another library account dates a practical design to the 1640s. That the secret was kept for about a century is well attested."
+    },
+    "place": "London, England",
+    "people": [
+      "Peter Chamberlen the Elder (d. 1631), barber-surgeon and man-midwife",
+      "Hugh Chamberlen the Elder (c. 1630–c. 1720), obstetrician who may have sold the secret"
+    ],
+    "themes": [
+      "technology",
+      "practice"
+    ],
+    "summary": "For over a century one family of London man-midwives guarded a simple instrument that could save mothers and babies in obstructed labor.",
+    "body": [
+      "The Chamberlens, French Protestants who settled in England in 1569, became a dynasty of man-midwives famous for handling difficult births. Their secret was a short forceps whose two blades, inserted one at a time and then joined, could grip a baby's head. Peter Chamberlen the Elder (d. 1631), who attended the queens of James I and Charles I, is thought to have devised it. The family kept the design to itself for over a hundred years. Hugh Chamberlen may have sold it to a Dutch obstetrician in 1692; forceps were common knowledge by the 1730s."
+    ],
+    "links": [
+      {
+        "to": "barber-surgeons",
+        "kind": "see-also",
+        "note": "Peter Chamberlen the Elder was a London barber-surgeon."
+      },
+      {
+        "to": "soranus",
+        "kind": "see-also",
+        "note": "Ancient obstetrics the forceps eventually transformed."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Chamberlen family",
+        "publisher": "Science Museum Group Collection",
+        "url": "https://collection.sciencemuseumgroup.org.uk/people/cp72033/family-chamberlen",
+        "type": "institutional",
+        "supports": "Family history; Peter the Elder as probable first user; royal service; secrecy for over a century; possible sale to van Roonhuysen in 1692.",
+        "quote": "was probably the first to use the short obstetrical forceps zealously guarded as a family secret for over a hundred years"
+      },
+      {
+        "title": "Chamberlen-type obstetrical forceps",
+        "publisher": "Science Museum Group Collection",
+        "url": "https://collection.sciencemuseumgroup.org.uk/objects/co95844/chamberlen-type-obstetrical-forceps",
+        "type": "institutional",
+        "supports": "Settlement in England in 1569; forceps common knowledge by the 1730s.",
+        "quote": "The forceps were common knowledge by the 1730s yet took time to be used extensively"
+      },
+      {
+        "title": "Copy of Chamberlen obstetric forceps",
+        "publisher": "Science Museum Group Collection",
+        "url": "https://collection.sciencemuseumgroup.org.uk/objects/co96246/copy-of-chamberlen-obstetric-forceps",
+        "type": "institutional",
+        "supports": "How the separable blades worked.",
+        "quote": "They are separated so they can be inserted one at a time"
+      },
+      {
+        "title": "Heirs of Hippocrates no. 605: Mauriceau, The diseases of women with child (1727)",
+        "publisher": "University of Iowa Libraries",
+        "url": "https://heirs.lib.uiowa.edu/record.php?id=605",
+        "type": "institutional",
+        "supports": "Alternative dating of a practical forceps to the late 1640s; Hugh Chamberlen's dates.",
+        "quote": "The Chamberlen family developed a practical obstetrical forceps in the late 1640s and kept its design secret for several generations"
+      }
+    ],
+    "further": [
+      "porter-1997"
+    ]
+  },
+  {
+    "id": "santorio",
+    "title": "Santorio weighs himself",
+    "stream": "europe",
+    "tier": 3,
+    "date": {
+      "year": 1614,
+      "display": "1614"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "*De statica medicina* is dated 1614 and Santorio's instruments are described in his own printed works; the exact date he added a scale to the thermoscope is unknown, sometime between 1602 and 1612."
+    },
+    "place": "Padua and Venice, Italy",
+    "people": [
+      "Santorio Santorio (1561–1636), physician and professor at Padua"
+    ],
+    "themes": [
+      "technology",
+      "theory"
+    ],
+    "summary": "A Padua professor sat for years on a weighing chair to measure what the body loses invisibly, and helped turn the thermoscope into a thermometer.",
+    "body": [
+      "Santorio Santorio, professor of theoretical medicine at Padua from 1611, sat in a chair hung from a balance and weighed himself, his food and his excreta, reportedly over some thirty years. The difference revealed 'insensible perspiration', moisture lost unseen through skin and lungs, which he found exceeded all visible excretions combined. His little book of aphorisms, *De statica medicina* (1614), went through dozens of editions. A friend of Galileo, he also added a scale to the thermoscope, making a thermometer, and timed pulses with a pendulum. He still worked within humoral medicine, but insisted on measuring it."
+    ],
+    "links": [
+      {
+        "to": "harvey",
+        "kind": "see-also",
+        "note": "Padua's new experimental physiology a generation later."
+      },
+      {
+        "to": "clinical-thermometer",
+        "kind": "led-to",
+        "note": "Santorio's thermometer was the remote ancestor of the clinical thermometer."
+      },
+      {
+        "to": "hales-blood-pressure",
+        "kind": "see-also",
+        "note": "Another quantifier of the body's workings."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Santorio, Santorio",
+        "author": "Mirko D. Grmek",
+        "publisher": "Complete Dictionary of Scientific Biography (via Encyclopedia.com)",
+        "url": "https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/santorio-santorio",
+        "type": "reference",
+        "supports": "1611 chair; De statica medicina 1614; findings on insensible perspiration; the thermometer scale (1602–1612); pulse pendulum; continuing humoral framework.",
+        "quote": "that it is, in itself, greater than all forms of sensible bodily excretions combined"
+      },
+      {
+        "title": "Santorio Santorio",
+        "publisher": "Museo Galileo, Florence",
+        "url": "https://catalogue.museogalileo.it/biography/SantorioSantorio.html",
+        "type": "institutional",
+        "supports": "Friendship with Galileo; pendulum for pulse; the balance; thermometric apparatus.",
+        "quote": "He was a pioneer in the use of physical measurements in medicine; his most famous apparatus was a large balance to study metabolic transformations"
+      },
+      {
+        "title": "Sanctorius",
+        "publisher": "Encyclopedia of World Biography (via Encyclopedia.com)",
+        "url": "https://www.encyclopedia.com/people/medicine/medicine-biographies/sanctorius",
+        "type": "reference",
+        "supports": "Thirty years of weighing; number of editions.",
+        "quote": "Sanctorius's classic experiment was carried out over a period of 30 years"
+      },
+      {
+        "title": "Heirs of Hippocrates no. 399: Santorio, Medicina statica (1737)",
+        "publisher": "University of Iowa Libraries",
+        "url": "https://heirs.lib.uiowa.edu/record.php?id=399",
+        "type": "institutional",
+        "supports": "The suspended weighing chair; 1614 first edition and its success.",
+        "quote": "Santorio sat in a suspended chair counterbalanced by weights"
+      }
+    ],
+    "further": [
+      "porter-1997"
+    ]
+  }
+]

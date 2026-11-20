@@ -1,0 +1,639 @@
+[
+  {
+    "id": "egypt-into-greece",
+    "title": "Egyptian medicine into Greece",
+    "from": "egypt",
+    "to": "greco-roman",
+    "start": -600,
+    "end": -250,
+    "display": "c. 600–250 BCE",
+    "summary": "Greeks credited Egypt with deep medical wisdom, and one Hippocratic jaw technique matches a far older papyrus. How much they really borrowed is still argued.",
+    "body": [
+      "Greeks long treated Egypt as the home of medicine. The *Odyssey* has Helen drugging wine with a gift from Polydamna, \"a woman of Egypt,\" a land of potent herbs where everyone was said to be a skilled physician. In the sixth century BCE the Persian king Darius sent the Egyptian priest Udjahorresnet home to restore the \"House of Life,\" a temple center of learning, so Egyptian medical teaching was still alive when Greeks were writing their first medical books.",
+      "Hard evidence of borrowing is thinner than the reputation. In 1930 the Egyptologist James Henry Breasted argued that the Hippocratic way of resetting a dislocated jaw is identical to the one in the Edwin Smith Papyrus, and a few remedies, such as the milk of a woman nursing a boy, turn up in both traditions. The closest contact came after Alexander: Herophilus taught and dissected at Alexandria under the first two Ptolemies. Whether Egyptian practice shaped what he did there is argued rather than shown."
+    ],
+    "confidence": {
+      "claim": "disputed",
+      "note": "That Greeks admired Egyptian medicine is plain from their own literature; specific borrowings rest on a handful of parallels such as Breasted's jaw-reduction match, which may reflect shared common sense rather than copying. Influence on Alexandrian anatomy is plausible but undocumented."
+    },
+    "related": [
+      "edwin-smith-papyrus",
+      "ebers-papyrus",
+      "hippocrates",
+      "alexandria-dissection"
+    ],
+    "sources": [
+      {
+        "title": "The Odyssey, Book IV (trans. Samuel Butler)",
+        "author": "Homer",
+        "publisher": "The Internet Classics Archive, MIT",
+        "url": "http://classics.mit.edu/Homer/odyssey.4.iv.html",
+        "type": "primary",
+        "supports": "Helen's drug from Polydamna of Egypt; Egypt as a land of herbs and physicians in Greek eyes.",
+        "quote": "a woman of Egypt, where there grow all sorts of herbs, some good to put into the mixing-bowl and others poisonous"
+      },
+      {
+        "title": "The Edwin Smith Surgical Papyrus, vol. 1 (Oriental Institute Publications 3)",
+        "author": "James Henry Breasted",
+        "publisher": "University of Chicago Press, 1930 (ISAC open-access PDF)",
+        "year": 1930,
+        "url": "https://isac-assets.s3.amazonaws.com/isac-publications/oip3.pdf",
+        "type": "scholarly",
+        "supports": "Breasted's 1930 argument that the Hippocratic method of reducing a dislocated jaw matches the Edwin Smith Papyrus.",
+        "quote": "the Hippocratic method of reducing a dislocated mandible is seen to be identical with that prescribed in the Edwin Smith Papyrus"
+      },
+      {
+        "title": "The Edwin Smith Surgical Papyrus, vol. 1 (Oriental Institute Publications 3) — Udjahorresnet inscription",
+        "author": "James Henry Breasted",
+        "publisher": "University of Chicago Press, 1930 (ISAC open-access PDF)",
+        "year": 1930,
+        "url": "https://isac-assets.s3.amazonaws.com/isac-publications/oip3.pdf",
+        "type": "primary",
+        "supports": "Darius I sending Udjahorresnet to Egypt to restore the House of Life (inscription quoted in translation).",
+        "quote": "His Majesty King Darius commanded me to come to Egypt, while His Majesty was in Elam as Great King of every country and Chief Prince of Egypt"
+      },
+      {
+        "title": "Hippocrates (Complete Dictionary of Scientific Biography)",
+        "publisher": "Encyclopedia.com",
+        "url": "https://www.encyclopedia.com/people/medicine/medicine-biographies/hippocrates",
+        "type": "reference",
+        "supports": "Shared remedy: milk of a woman nursing a male baby in both Hippocratic and Egyptian prescriptions.",
+        "quote": "human products (including “milk of a woman nursing a male baby,” which was also recommended in Egypt)"
+      },
+      {
+        "title": "Herophilus (Complete Dictionary of Scientific Biography)",
+        "publisher": "Encyclopedia.com",
+        "url": "https://www.encyclopedia.com/people/medicine/medicine-biographies/herophilus",
+        "type": "reference",
+        "supports": "Herophilus taught at Alexandria under Ptolemy I and II, where human dissection was tolerated.",
+        "quote": "later he taught and practiced medicine at Alexandria, first under Ptolemy Soter and subsequently under Ptolemy Philadelphua"
+      }
+    ],
+    "further": [
+      "nunn-1996",
+      "nutton-2013"
+    ]
+  },
+  {
+    "id": "mesopotamia-into-greece",
+    "title": "Babylonian medicine into Greece",
+    "from": "mesopotamia",
+    "to": "greco-roman",
+    "start": -700,
+    "end": -400,
+    "display": "c. 700–400 BCE",
+    "summary": "Babylon had a vast, organized medical literature centuries before Hippocrates. Scholars see echoes in early Greek texts, but nobody has shown how ideas crossed.",
+    "body": [
+      "Babylonian and Assyrian healers built a large, systematic medical literature long before the Greeks: a catalogue from Assur shows that Mesopotamia had an organized corpus of medicine more than two centuries before Hippocrates. Greeks on the Aegean coast of Asia Minor lived within reach of that world, and Assyriologists such as Markham Geller have pointed to parallels between Akkadian medical texts and early Greek writings linked to the medical center of Cnidos.",
+      "A parallel is not a pedigree. The differences are deep: Babylonian medicine set out no explicit theory of humors or of hot against cold, and its recipes sit beside incantations, while the Hippocratic writers argued from nature. Geller himself stresses how Babylonian practice differed from its Greek counterpart. Influence by trade, travel or Persian-era contact is plausible, but it remains a hypothesis built on resemblances, not a documented transfer."
+    ],
+    "confidence": {
+      "claim": "disputed",
+      "note": "The age and scale of Mesopotamian medicine are well established from cuneiform tablets; the claim that it shaped Hippocratic medicine rests on suggestive parallels in a few texts, with no direct evidence of transmission."
+    },
+    "related": [
+      "sakikku",
+      "ashurbanipal-library",
+      "asu-ashipu",
+      "hippocrates"
+    ],
+    "sources": [
+      {
+        "title": "Collections and Context: Cuneiform Medicine at Nineveh – the Great NinMed Project",
+        "publisher": "Freie Universität Berlin, Know the Ancients blog",
+        "year": 2022,
+        "url": "https://blogs.fu-berlin.de/knowtheancients/2022/03/28/collections-and-context-cuneiform-medicine-at-nineveh-the-great-ninmed-project/",
+        "type": "institutional",
+        "supports": "The Assur catalogue shows a systematic Mesopotamian medical corpus predating Hippocrates by over two centuries.",
+        "quote": "Mesopotamia possessed a highly systematic and extensive corpus of medicine more than two centuries before Hippocrates"
+      },
+      {
+        "title": "Akkadian Healing Therapies in the Babylonian Talmud (Preprint 259)",
+        "author": "M. J. Geller",
+        "publisher": "Max Planck Institute for the History of Science",
+        "year": 2004,
+        "url": "https://mpiwg-berlin.mpg.de/sites/default/files/migrated/p259.pdf",
+        "type": "scholarly",
+        "supports": "Parallels identified between early Greek (Cnidian) writings and Akkadian medicine.",
+        "quote": "certain parallels have been identified between early Greek writings ascribed to Cnidos and Akkadian medicine"
+      },
+      {
+        "title": "Alternative voices in Babylonian medicine",
+        "author": "Markham J. Geller",
+        "publisher": "Claroscuro 20 (2021), via UCL Discovery",
+        "year": 2021,
+        "url": "https://discovery.ucl.ac.uk/10144838/7/Geller_Alternative%20voices%20in%20Babylonian%20Medicine_VoR.pdf",
+        "type": "scholarly",
+        "supports": "Key differences: Babylonian medicine lacks explicit humoral theory or the principle of opposites.",
+        "quote": "Babylonian medicine lacks any discussion of medical theory, including any references to bodily humours or even the principle of opposites"
+      }
+    ],
+    "further": [
+      "geller-2010",
+      "nutton-2013"
+    ]
+  },
+  {
+    "id": "greek-into-arabic",
+    "title": "Greek medicine into Arabic",
+    "from": "greco-roman",
+    "to": "islamic",
+    "start": 750,
+    "end": 1000,
+    "display": "c. 750–1000",
+    "summary": "In Abbasid Baghdad, translators such as Hunayn ibn Ishaq turned Galen and Hippocrates into Syriac and Arabic, giving Islamic medicine its Greek foundation.",
+    "body": [
+      "From the middle of the eighth century to the end of the tenth, caliphs, courtiers and wealthy physicians in Baghdad paid to have Greek science put into Arabic, often by way of Syriac, the language of the Christian scholars who did much of the work. The greatest translator was Hunayn ibn Ishaq (808–873), a Christian of the Church of the East who trained in Baghdad and served the caliph al-Mutawakkil. By his own count, ten years before his death he had made 95 Syriac and 34 Arabic versions of Galen alone.",
+      "Hippocratic treatises and Dioscorides' herbal followed, in several Arabic versions. The movement did more than preserve old books. It created a precise Arabic medical vocabulary and handed Galen's humoral medicine to physicians from Spain to Iran and India, who used it as the common framework for centuries of their own writing."
+    ],
+    "confidence": {
+      "claim": "firm",
+      "note": "Surviving manuscripts, Hunayn's own account of his Galen translations and later bibliographies document the movement in unusual detail; scholars debate its motives more than its scale."
+    },
+    "related": [
+      "translation-movement",
+      "galen",
+      "gondishapur",
+      "dioscorides",
+      "al-razi"
+    ],
+    "sources": [
+      {
+        "title": "Islamic Culture and the Medical Arts (exhibition brochure)",
+        "author": "Emilie Savage-Smith",
+        "publisher": "National Library of Medicine",
+        "year": 1994,
+        "url": "https://collections.nlm.nih.gov/ocr/nlm:nlmuid-9439902-bk",
+        "type": "institutional",
+        "supports": "Hunayn's output of Galen translations (95 Syriac, 34 Arabic); service to al-Mutawakkil; Arabic Dioscorides.",
+        "quote": "Ten years before his death he stated that of Galen's works alone, he had made 95 Syriac and 34 Arabic versions"
+      },
+      {
+        "title": "Ḥunayn b. Isḥāq",
+        "publisher": "Gorgias Encyclopedic Dictionary of the Syriac Heritage (e-GEDSH), Beth Mardutho",
+        "url": "https://gedsh.bethmardutho.org/Hunayn-b-Ishaq",
+        "type": "reference",
+        "supports": "Hunayn's dates (808–873), Church of the East, training in Baghdad, translation from Greek into Syriac and Arabic.",
+        "quote": "In Baghdad, Ḥunayn became well-known as one of the foremost translators of Greek texts into Syriac and Arabic"
+      },
+      {
+        "title": "Scientific Transfer and Scholarship in Medieval Arabic Pharmacology",
+        "author": "Oliver Kahl",
+        "publisher": "Muslim Heritage (FSTC)",
+        "year": 2007,
+        "url": "https://muslimheritage.com/scientific-trans-scholarship-medi-arabic-pharma/",
+        "type": "scholarly",
+        "supports": "Dates of the translation movement, mid-8th to end of 10th century, in Baghdad.",
+        "quote": "a translation movement which took place between the middle of the 8th and the end of the 10th centuries CE in Baghdad"
+      }
+    ],
+    "further": [
+      "pormann-savage-smith-2007"
+    ]
+  },
+  {
+    "id": "india-into-arabic",
+    "title": "Indian medicine into Arabic",
+    "from": "india",
+    "to": "islamic",
+    "start": 780,
+    "end": 830,
+    "display": "late 8th–early 9th century",
+    "summary": "Under the Barmakid viziers, Sanskrit classics by Charaka and Sushruta were put into Arabic and Indian physicians worked in Baghdad, a tributary later overshadowed by Greek.",
+    "body": [
+      "Arabic medicine had an Indian tributary as well as a Greek one. Its patrons were the Barmakids, a family of Buddhist origin from Balkh who ran the Abbasid administration until their sudden fall in 803. Under the vizier Yahya ibn Khalid, Sanskrit classics, including the compendia of Charaka and Sushruta, were translated in Baghdad, some by way of Persian.",
+      "Later sources name an Indian physician, Manka, who came to Baghdad, treated the caliph Harun al-Rashid and stayed on to translate; Yahya is also said to have brought Indian doctors to work in a hospital he founded. A century later al-Razi was still quoting Indian authorities in his vast notebook, the *Hawi*. Much remains hazy. The best accounts come from biographers writing generations afterward, and historians admit they know relatively little about this side of the translation movement."
+    ],
+    "confidence": {
+      "claim": "agreed",
+      "note": "That Sanskrit medical works reached Arabic around 800 is accepted; details such as who translated what, and the Barmakid hospital, rest largely on al-Nadim's tenth-century Fihrist and similar later sources."
+    },
+    "related": [
+      "charaka-samhita",
+      "sushruta-samhita",
+      "translation-movement",
+      "bimaristans",
+      "al-razi"
+    ],
+    "sources": [
+      {
+        "title": "From Balkh to Baghdad: Indian Science and the Birth of the Islamic Golden Age in the Eighth Century",
+        "author": "Dominik Wujastyk",
+        "publisher": "Indian Journal of History of Science 51.4 (2016), via University of Alberta repository",
+        "year": 2016,
+        "url": "https://ualberta.scholaris.ca/server/api/core/bitstreams/b5ebc2c0-0bc5-4ce8-8c7f-e8df7801fc18/content",
+        "type": "scholarly",
+        "supports": "Barmakids' Balkh origin and fall in 803; translations of Charaka and Sushruta under Yahya's patronage; Manka under Harun al-Rashid; Indian physicians in a Barmakid hospital, per al-Nadim.",
+        "quote": "Indian medical texts such as the Compendium of Caraka, the Compendium of Suśruta and the Siddhasāra of Ravigupta were translated in Baghdad under Yaḥyā’s patronage",
+        "manualCheck": "The PDF's embedded text extracts with a space between nearly every letter, so the checker cannot match it; the passage was read in this session after removing the spurious spaces."
+      },
+      {
+        "title": "Scientific Transfer and Scholarship in Medieval Arabic Pharmacology",
+        "author": "Oliver Kahl",
+        "publisher": "Muslim Heritage (FSTC)",
+        "year": 2007,
+        "url": "https://muslimheritage.com/scientific-trans-scholarship-medi-arabic-pharma/",
+        "type": "scholarly",
+        "supports": "Arabic translations of Sushruta, Charaka and Vagbhata by the early 9th century; the Manka story; how little is known.",
+        "quote": "the Arabs, as early as the beginning of the 9th century CE, possessed translations of important Sanskrit works on botany, pharmacology, and therapy"
+      },
+      {
+        "title": "Islamic Culture and the Medical Arts (exhibition brochure)",
+        "author": "Emilie Savage-Smith",
+        "publisher": "National Library of Medicine",
+        "year": 1994,
+        "url": "https://collections.nlm.nih.gov/ocr/nlm:nlmuid-9439902-bk",
+        "type": "institutional",
+        "supports": "Al-Razi's Hawi as a record of Indian (and Greek) writings he cited.",
+        "quote": "source for our knowledge of Greek, Indian, and early Arabic writings now lost, for al-Razi was meticulous about crediting his sources"
+      }
+    ],
+    "further": [
+      "pormann-savage-smith-2007",
+      "wujastyk-2003"
+    ]
+  },
+  {
+    "id": "arabic-into-latin",
+    "title": "Arabic medicine into Latin",
+    "from": "islamic",
+    "to": "europe",
+    "start": 1075,
+    "end": 1280,
+    "display": "c. 1075–1280",
+    "summary": "From Constantine the African in Italy to Gerard of Cremona in Toledo, translators carried Arabic medicine, and the Greek medicine inside it, into Latin Europe.",
+    "body": [
+      "Latin Europe first met Arabic medicine through Constantine the African, who in late eleventh-century Italy turned Arabic medical books into Latin, often disguising where they came from; his versions included Hunayn's Arabic *Aphorisms* of Hippocrates. In the twelfth century the center shifted to Toledo, newly in Christian hands and rich in Arabic manuscripts. There Gerard of Cremona (d. 1187) translated al-Razi's *Book for al-Mansur*, al-Zahrawi's surgery and Ibn Sina's *Canon*.",
+      "In 1279 Faraj ben Salim, a Sicilian-Jewish physician working for Charles of Anjou, put al-Razi's enormous *Hawi* into Latin as the *Continens*. These books, and the Greek medicine they carried, became the backbone of European medical teaching; the *Canon* was still read at Louvain and Montpellier in the seventeenth century."
+    ],
+    "confidence": {
+      "claim": "firm",
+      "note": "The translators, their texts and many manuscripts survive and are well studied; exact dates for individual translations are often approximate."
+    },
+    "related": [
+      "arabic-into-latin",
+      "salerno",
+      "ibn-sina-canon",
+      "al-zahrawi",
+      "universities-medicine"
+    ],
+    "sources": [
+      {
+        "title": "Influence of Arabic and Islamic Philosophy on the Latin West",
+        "author": "Dag Nikolaus Hasse",
+        "publisher": "Stanford Encyclopedia of Philosophy",
+        "url": "https://plato.stanford.edu/entries/arabic-islamic-influence/",
+        "type": "reference",
+        "supports": "Constantine the African's late-11th-century medical translations in Italy; Toledo translators including Gerard of Cremona.",
+        "quote": "translations of texts on medicine and natural philosophy produced towards the end of the eleventh century in Italy, most of them by the translator Constantine the African"
+      },
+      {
+        "title": "Islamic Culture and the Medical Arts (exhibition brochure)",
+        "author": "Emilie Savage-Smith",
+        "publisher": "National Library of Medicine",
+        "year": 1994,
+        "url": "https://collections.nlm.nih.gov/ocr/nlm:nlmuid-9439902-bk",
+        "type": "institutional",
+        "supports": "Faraj ben Salim's 1279 Continens; Gerard's translations of al-Razi, al-Zahrawi and the Canon; Canon in use to the 17th century.",
+        "quote": "His Comprehensive Book on Medicine, the Hawi, was translated into Latin in 1279 under the title Continens by Faraj ben Salim"
+      },
+      {
+        "title": "Islamic Culture and the Medical Arts (exhibition brochure) — the Canon in Latin",
+        "author": "Emilie Savage-Smith",
+        "publisher": "National Library of Medicine",
+        "year": 1994,
+        "url": "https://collections.nlm.nih.gov/ocr/nlm:nlmuid-9439902-bk",
+        "type": "institutional",
+        "supports": "Latin Canon by Gerard of Cremona.",
+        "quote": "The Canon was known to Europeans through the Latin translations of Gerard of Cremona and Andrea Alpago"
+      }
+    ],
+    "further": [
+      "siraisi-1990",
+      "pormann-savage-smith-2007"
+    ]
+  },
+  {
+    "id": "india-into-china",
+    "title": "Indian medicine into China",
+    "from": "india",
+    "to": "east-asia",
+    "start": 250,
+    "end": 900,
+    "display": "c. 250–900",
+    "summary": "Buddhist monks and texts carried Indian healing into China: tales of the physician Jivaka, recipes in his name and, many believe, needle surgery for cataract.",
+    "body": [
+      "As Buddhism spread from India into China, healing traveled with doctrine. Monastic rules, sutras on illness and stories of the Buddha as physician were translated into Chinese. The legend of Jivaka, the Buddha's own doctor, famed for opening the skull, survives in Chinese versions from the fourth and fifth centuries, and the celebrated physician Sun Simiao later compiled formulas named after him. A Sanskrit and Khotanese medical text attributed to Jivaka turned up at Dunhuang on the Silk Road.",
+      "Eye surgery is the case most often cited. Couching, pushing a clouded lens out of the line of sight with a needle, is described in the *Sushruta Samhita*, and the technique has been traced from India to China and on to Japan. How deeply any of this reshaped mainstream Chinese medicine, rather than Buddhist circles, is still debated."
+    ],
+    "confidence": {
+      "claim": "uncertain",
+      "note": "Indian medical material in Chinese Buddhist texts is well documented; the size of its influence on Chinese medical practice, and lineages such as cataract couching, are argued from scattered evidence and partly asserted."
+    },
+    "related": [
+      "sushruta-samhita",
+      "sun-simiao",
+      "bower-manuscript"
+    ],
+    "sources": [
+      {
+        "title": "The Chinese Biography of Jīvaka, Buddhist King of Physicians",
+        "author": "William Giddings and C. Pierce Salguero",
+        "publisher": "Pacific World, 4th series, no. 5",
+        "year": 2024,
+        "url": "https://www.shin-ibs.edu/documents/pwj4/5/4-5-2-Giddings-Salguero.pdf",
+        "type": "scholarly",
+        "supports": "Chinese versions of the Jivaka legend from the 4th–5th centuries; formulas named after Jivaka compiled by Sun Simiao; Jivaka text found at Dunhuang; trephination legend.",
+        "quote": "Several medical formulas named after Jīvaka were compiled in medieval formularies by the famous doctor Sun Simiao"
+      },
+      {
+        "title": "The Chinese Biography of Jīvaka, Buddhist King of Physicians (article page)",
+        "author": "William Giddings and C. Pierce Salguero",
+        "publisher": "Pacific World: Journal of the Institute of Buddhist Studies",
+        "year": 2024,
+        "url": "https://pwj.shin-ibs.edu/2024/7112",
+        "type": "scholarly",
+        "supports": "Dating of the Chinese Jivaka legend.",
+        "quote": "Jīvaka’s legend is found in Chinese in several different versions dating from the fourth to fifth centuries"
+      },
+      {
+        "title": "History of Ophthalmology in Asia Pacific",
+        "publisher": "American Academy of Ophthalmology, Museum of Vision",
+        "url": "https://www.aao.org/museum/exhibition-detail/history-of-ophthalmology-in-asia-pacific-3",
+        "type": "institutional",
+        "supports": "Couching described in the Sushruta Samhita and traced via Buddhist transmission to China and Japan.",
+        "quote": "Evidence of this is particularly strong in the case of couching cataracts which we can trace from India to China to Japan and on"
+      }
+    ],
+    "further": [
+      "zysk-1991",
+      "unschuld-1985"
+    ]
+  },
+  {
+    "id": "greek-into-renaissance",
+    "title": "Greek medicine back into Europe",
+    "from": "greco-roman",
+    "to": "europe",
+    "start": 1450,
+    "end": 1530,
+    "display": "c. 1450–1530",
+    "summary": "Byzantine manuscripts, humanist translators and the Aldine press gave Europe Galen and Hippocrates in their own Greek, and new Latin versions made from it.",
+    "body": [
+      "Byzantine scholars who reached Italy around the fall of Constantinople in 1453 brought Greek manuscripts and the skill to read them. Humanist physicians wanted Galen and Hippocrates without the layers of medieval Latin and Arabic. The Englishman Thomas Linacre, who had worked with the Venetian printer Aldus Manutius and studied under Niccolò Leoniceno, published new Latin translations of Galen from 1517, replacing versions made from incomplete manuscripts. Scholars such as Janus Lascaris copied Galen from ninth-century Greek manuscripts in Florence.",
+      "Printing made the recovery permanent. The Aldine press issued Galen's complete works in Greek in 1525 and the first Greek edition of the Hippocratic corpus in 1526. The return to the sources had an ironic result: reading the genuine Galen closely made his mistakes easier to see, and within a generation anatomists were correcting him."
+    ],
+    "confidence": {
+      "claim": "firm",
+      "note": "The editions, translators and manuscripts are documented in surviving books and catalogues; how much the Greek revival, rather than new dissection, drove the later break with Galen is a matter of interpretation."
+    },
+    "related": [
+      "galen",
+      "printing-medicine",
+      "vesalius",
+      "late-antique-encyclopedists"
+    ],
+    "sources": [
+      {
+        "title": "Greek Medicine: After Galen",
+        "publisher": "National Library of Medicine, History of Medicine Division",
+        "url": "https://www.nlm.nih.gov/hmd/topics/greek-medicine/index.html",
+        "type": "institutional",
+        "supports": "Byzantine scholars arriving in Italy after 1453; Aldus Manutius printing Greek authors.",
+        "quote": "as well as the immigration to Italy of Byzantine scholars at the fall of Constantinople in 1453"
+      },
+      {
+        "title": "Heirs of Hippocrates No. 41: Galenus, Operum omnium (1541–1545)",
+        "publisher": "University of Iowa Libraries, Heirs of Hippocrates catalogue",
+        "url": "https://heirs.lib.uiowa.edu/record.php?id=41",
+        "type": "institutional",
+        "supports": "The Aldine Greek Galen of 1525.",
+        "quote": "the Aldine text of 1525, the Basel edition of 1539 (both in Greek)"
+      },
+      {
+        "title": "Omnia opera Hippocratis (Venice: Aldus, 1526)",
+        "publisher": "National Library of Medicine, Greek Medicine gallery",
+        "url": "https://www.nlm.nih.gov/hmd/topics/greek-medicine/Omnia-Hippocates_2251059R-sm.html?imgid=2",
+        "type": "institutional",
+        "supports": "First Greek edition of the Hippocratic works, Aldine press, 1526.",
+        "quote": "This first Greek edition of Hippocrates’ complete works benefited from Aldus Manutius’ careful editing"
+      },
+      {
+        "title": "Heirs of Hippocrates No. 39: Galenus, De sanitate tuenda, trans. Linacre",
+        "publisher": "University of Iowa Libraries, Heirs of Hippocrates catalogue",
+        "url": "https://heirs.lib.uiowa.edu/record.php?id=39",
+        "type": "institutional",
+        "supports": "Linacre's 1517 translation replacing a medieval version made from an incomplete manuscript.",
+        "quote": "Burgundio worked from an incomplete and unreliable manuscript so Linacre's translation of all six books, which first appeared in 1517, was especially important"
+      },
+      {
+        "title": "Linacre, Thomas (Complete Dictionary of Scientific Biography)",
+        "publisher": "Encyclopedia.com",
+        "url": "https://www.encyclopedia.com/people/medicine/medicine-biographies/thomas-linacre",
+        "type": "reference",
+        "supports": "Linacre's links to Aldus and study with Leoniceno.",
+        "quote": "He then engaged in further study with the humanist-physician Nicolò Leoniceno in Vicenza"
+      },
+      {
+        "title": "Heirs of Hippocrates No. 36: Galenus, De ossibus (1549)",
+        "publisher": "University of Iowa Libraries, Heirs of Hippocrates catalogue",
+        "url": "https://heirs.lib.uiowa.edu/record.php?id=36",
+        "type": "institutional",
+        "supports": "Janus Lascaris's transcription from a ninth-century Greek Galen manuscript in Florence.",
+        "quote": "Lascaris had had access to a ninth century Galenic manuscript at the Laurentian Library in Florence"
+      },
+      {
+        "title": "Galen (Complete Dictionary of Scientific Biography)",
+        "publisher": "Encyclopedia.com",
+        "url": "https://www.encyclopedia.com/people/medicine/medicine-biographies/galen",
+        "type": "reference",
+        "supports": "Printing revived the genuine Galen, whose anatomy was then criticized and corrected.",
+        "quote": "With the introduction of printing there occurred a revival of the genuine Galen in the form of text editions and commentaries"
+      }
+    ],
+    "further": [
+      "siraisi-1990",
+      "nutton-2013"
+    ]
+  },
+  {
+    "id": "americas-into-europe",
+    "title": "American remedies into Europe",
+    "from": "americas",
+    "to": "europe",
+    "start": 1500,
+    "end": 1690,
+    "display": "16th–17th centuries",
+    "summary": "Guaiac, tobacco, sarsaparilla, ipecac and above all cinchona bark crossed the Atlantic, popularized by books like Nicolás Monardes's 'Joyfull newes out of the newe founde worlde'.",
+    "body": [
+      "Within decades of Columbus, American plants were entering European pharmacies. Guaiac wood was shipped from America in the sixteenth century as a supposed specific for syphilis, and tobacco, sarsaparilla and curare followed. Their great publicist was the Seville physician Nicolás Monardes, who never crossed the Atlantic but grew American plants and tried them on his patients. His book, first published in Spanish in 1565, appeared in Latin in 1574 and in English in 1577 as *Joyfull newes out of the newe founde worlde*.",
+      "The most consequential import was cinchona bark from the Andes, first documented in Spanish use in Peru around 1630; Andean peoples seem to have used it against shivering. Shipped to Europe by the Jesuits and known as Jesuit's powder, it became the standard treatment for intermittent fevers, which were shown two centuries later to be malaria. Ipecacuanha arrived in the same century. Where Indigenous healers' knowledge lay behind these drugs, European books rarely recorded it."
+    ],
+    "confidence": {
+      "claim": "firm",
+      "note": "The arrival of these drugs is well documented in printed books; claims for many of them, guaiac especially, rested on hope rather than effect, and the Indigenous origins of the knowledge are usually inferred rather than recorded."
+    },
+    "related": [
+      "cinchona",
+      "aztec-medicine",
+      "syphilis-1495",
+      "columbian-exchange-epidemics"
+    ],
+    "sources": [
+      {
+        "title": "Heirs of Hippocrates No. 276: Nicolas Monardes, Simplicium medicamentorum ex Novo orbe delatorum … historia",
+        "publisher": "University of Iowa Libraries, Heirs of Hippocrates catalogue",
+        "url": "https://heirs.lib.uiowa.edu/record.php?id=276",
+        "type": "institutional",
+        "supports": "Monardes never visited the Americas, tested plants on patients; editions 1565, 1574, 1577; tobacco, curare, guaiac and sarsaparilla.",
+        "quote": "This was followed in 1574 by a Latin edition and in 1577 by an English translation with the title Joyfull newes out of the newe founde worlde"
+      },
+      {
+        "title": "History of Medicine (Catholic Encyclopedia, 1911)",
+        "publisher": "New Advent",
+        "url": "https://www.newadvent.org/cathen/10122a.htm",
+        "type": "reference",
+        "supports": "Guaiac brought from America in the 16th century; ipecacuanha and Peruvian bark in the 17th.",
+        "quote": "Guaiac wood, regarded as a specific remedy for syphilis, was brought from America in the sixteenth century"
+      },
+      {
+        "title": "Evaluating Cinchona bark and quinine for treating and preventing malaria",
+        "publisher": "The James Lind Library",
+        "url": "https://www.jameslindlibrary.org/articles/evaluating-cinchona-bark-and-quinine-for-treating-and-preventing-malaria/",
+        "type": "scholarly",
+        "supports": "First documented Spanish use c. 1630; Andean use against shivering; Jesuit import.",
+        "quote": "it appears to have been used by Andean populations to combat shivering"
+      }
+    ],
+    "further": [
+      "crosby-1972",
+      "porter-1997"
+    ]
+  },
+  {
+    "id": "ottoman-inoculation",
+    "title": "Ottoman inoculation into Europe",
+    "from": "islamic",
+    "to": "europe",
+    "start": 1713,
+    "end": 1722,
+    "display": "1713–1722",
+    "summary": "Reports from Constantinople and Smyrna, and Lady Mary Wortley Montagu's example, brought the Ottoman practice of smallpox inoculation to London.",
+    "body": [
+      "In the Ottoman Empire, children were given a mild case of smallpox on purpose by putting matter from a smallpox sore into a small cut. In December 1713 the physician Emmanuel Timoni described the practice in a letter from Constantinople that was read to the Royal Society in May 1714; Giacomo Pylarini, a Padua-trained physician, published his own account in 1716. Timoni reported that Circassians and Georgians had brought the custom to Constantinople some forty years earlier.",
+      "Learned reports changed little until Lady Mary Wortley Montagu, wife of the British ambassador, watched the old women who did the \"engrafting\" each autumn and had her son inoculated. Back in London during an epidemic, she had her daughter inoculated in April 1721, the first time it was done in Britain. That August an experiment on condemned prisoners at Newgate helped persuade the doubters."
+    ],
+    "confidence": {
+      "claim": "firm",
+      "note": "Timoni's and Pylarini's reports, Montagu's letters and the 1721 London events are well documented; Montagu's personal influence is sometimes overstated relative to the physicians and royal patrons who took the practice up."
+    },
+    "related": [
+      "montagu-variolation",
+      "onesimus",
+      "jenner",
+      "chinese-variolation"
+    ],
+    "sources": [
+      {
+        "title": "Timoni, Emmanuel: An account, or history, of the procuring of the smallpox by incision or inoculation",
+        "publisher": "Garrison-Morton-Norman History of Medicine (historyofmedicine.com)",
+        "url": "https://historyofmedicine.com/id/7263",
+        "type": "reference",
+        "supports": "Timoni's December 1713 letter, read to the Royal Society in May 1714.",
+        "quote": "A letter dated December, 1713 from Timoni of Constantinople to John Woodward, and read to the Royal Society in May, 1714"
+      },
+      {
+        "title": "Quantitative evidence for judgments on the efficacy of inoculation for the prevention of smallpox: England and New England in the 1700s",
+        "author": "Edward J. Huth",
+        "publisher": "The James Lind Library",
+        "url": "https://www.jameslindlibrary.org/articles/quantitative-evidence-for-judgments-on-the-efficacy-of-inoculation-for-the-prevention-of-smallpox-england-and-new-england-in-the-1700s/",
+        "type": "scholarly",
+        "supports": "Timoni's and Pylarini's (1716) reports to the Royal Society; Circassian and Georgian origin of the practice in Constantinople.",
+        "quote": "Especially influential reports were those of Emmanuel Timoni(us), an Italian physician, and Giacomo (Jacobus) Pylarinius (Pylarinius 1716), a graduate of medicine at Padua"
+      },
+      {
+        "title": "Lady Mary Wortley Montagu: Smallpox Vaccination in Turkey (letter from Adrianople, 1717)",
+        "author": "Lady Mary Wortley Montagu",
+        "publisher": "Internet Modern History Sourcebook, Fordham University",
+        "url": "https://sourcebooks.fordham.edu/mod/montagu-smallpox.asp",
+        "type": "primary",
+        "supports": "Montagu's eyewitness account of engrafting by old women each autumn.",
+        "quote": "There is a set of old women, who make it their business to perform the operation, every autumn, in the month of September"
+      },
+      {
+        "title": "Lady Mary Wortley Montagu: forgotten immunisation pioneer",
+        "publisher": "University of Liverpool News",
+        "year": 2021,
+        "url": "https://news.liverpool.ac.uk/2021/07/21/lady-mary-wortley-montagu-forgotten-immunisation-pioneer/",
+        "type": "institutional",
+        "supports": "Her son's inoculation; daughter inoculated April 1721; Newgate experiment August 1721.",
+        "quote": "In April 1721, he inoculated young Mary Alice, the first time the procedure was performed in Britain"
+      }
+    ],
+    "further": [
+      "porter-1997",
+      "snowden-2019"
+    ]
+  },
+  {
+    "id": "african-inoculation",
+    "title": "African inoculation into Boston",
+    "from": "africa",
+    "to": "europe",
+    "start": 1707,
+    "end": 1726,
+    "display": "1707–1726",
+    "summary": "An enslaved West African man, Onesimus, told Cotton Mather how he had been inoculated in Africa, setting off Boston's 1721 inoculation campaign.",
+    "body": [
+      "In colonial New England the decisive informant was an enslaved man. Onesimus, given to the Puritan minister Cotton Mather by his Boston congregation in 1707, told Mather he had been through an operation in Africa that gave him a mild smallpox and lifelong protection. Mather questioned other Africans in Boston and heard similar accounts, which matched what he read of Constantinople in the Royal Society's *Philosophical Transactions*.",
+      "When smallpox struck Boston in 1721, Mather pressed for inoculation, and on 26 June the physician Zabdiel Boylston began with his own son and two enslaved members of his household, a man and a boy. Boylston's figures, published in London in 1726, counted 6 deaths among 282 people inoculated against 844 among 5,759 natural cases. African knowledge, recorded only through Mather's pen, set the experiment going."
+    ],
+    "confidence": {
+      "claim": "agreed",
+      "note": "Mather's letters and Boylston's published account document the episode well; everything known of Onesimus himself comes from Mather, and sources differ on whether he arrived in 1706 or 1707."
+    },
+    "related": [
+      "onesimus",
+      "montagu-variolation",
+      "jenner"
+    ],
+    "sources": [
+      {
+        "title": "British Colonial America: Opportunities to Heal, Opportunities to Kill",
+        "publisher": "Indiana University Libraries, History of the Smallpox Vaccine digital exhibition",
+        "url": "https://collections.libraries.indiana.edu/iulibraries/s/smallpox-vaccine-exhibit/page/colonial-america",
+        "type": "institutional",
+        "supports": "Onesimus given to Mather in 1707; his African inoculation; Mather's interviews with other Africans; Boylston's first inoculations on 26 June 1721.",
+        "quote": "Onesimus was given to the Puritan minister Cotton Mather in 1707 by his Boston congregation"
+      },
+      {
+        "title": "Quantitative evidence for judgments on the efficacy of inoculation for the prevention of smallpox: England and New England in the 1700s",
+        "author": "Edward J. Huth",
+        "publisher": "The James Lind Library",
+        "url": "https://www.jameslindlibrary.org/articles/quantitative-evidence-for-judgments-on-the-efficacy-of-inoculation-for-the-prevention-of-smallpox-england-and-new-england-in-the-1700s/",
+        "type": "scholarly",
+        "supports": "Mather learned of inoculation from his enslaved servant and from the Philosophical Transactions.",
+        "quote": "Mather had heard of inoculation from his African slave-servant and through his being a corresponding Fellow of the Royal Society had read of inoculation in the Philosophical Transactions"
+      },
+      {
+        "title": "Zabdiel Boylston's evaluation of inoculation against smallpox",
+        "publisher": "The James Lind Library",
+        "url": "https://www.jameslindlibrary.org/articles/zabdiel-boylstons-evaluation-of-inoculation-against-smallpox/",
+        "type": "scholarly",
+        "supports": "Boston mortality figures: 6 of 282 inoculated, 844 of 5,759 natural cases; Boylston's 1726 London book.",
+        "quote": "natural smallpox 844 4915 2848 19303 inoculated smallpox 6 276 13 611"
+      },
+      {
+        "title": "Smallpox: Variolation",
+        "publisher": "National Library of Medicine",
+        "url": "https://www.nlm.nih.gov/exhibition/smallpox/sp_variolation.html",
+        "type": "institutional",
+        "supports": "Mather learned the practice from Onesimus.",
+        "quote": "In Massachusetts, Cotton Mather learned about the practice from his slave, Onesimus"
+      }
+    ],
+    "further": [
+      "washington-2006"
+    ]
+  }
+]

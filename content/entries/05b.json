@@ -1,0 +1,463 @@
+[
+  {
+    "id": "ibn-zuhr",
+    "title": "Ibn Zuhr tests surgery on a goat",
+    "stream": "islamic",
+    "tier": 3,
+    "date": {
+      "year": 1150,
+      "earliest": 1121,
+      "latest": 1162,
+      "display": "c. 1150 (before 1162)"
+    },
+    "confidence": {
+      "date": "uncertain",
+      "claim": "agreed",
+      "note": "The goat experiment is known only from Ibn Zuhr's own account in the *Taysir*, which is undated; it was composed late in his life, sometime before his death in 1162 (one source puts it between 1121 and 1162). His birth year is estimated at 1091–1095 by modern scholars."
+    },
+    "place": "Seville, al-Andalus (Spain)",
+    "people": [
+      "Abu Marwan Ibn Zuhr, 'Avenzoar' (c. 1092–1162), physician of Seville",
+      "Abd al-Mu'min, Almohad ruler to whom the *Taysir* was dedicated",
+      "Ibn Rushd, 'Averroes', philosopher-physician of Córdoba and friend"
+    ],
+    "themes": ["surgery", "practice"],
+    "summary": "To settle whether cutting the windpipe could be survived, a 12th-century Seville physician tried it on a goat first.",
+    "body": [
+      "Surgeons had argued for centuries over whether opening the windpipe of a choking patient was safe. In the *Taysir*, his manual of treatments and diets, the Seville physician Abu Marwan Ibn Zuhr (Avenzoar) recalls testing it while still in training: he cut into a goat's windpipe, removed a piece the size of a lupine seed, and washed the wound with water and honey until the animal recovered and lived a long time. The book, dedicated to the Almohad ruler Abd al-Mu'min and praised by Ibn Rushd (Averroes), also set apart a parasitic form of scabies."
+    ],
+    "links": [
+      { "to": "al-razi", "kind": "built-on", "note": "Al-Razi had earlier tested mercury on monkeys before giving it to people." },
+      { "to": "al-zahrawi", "kind": "see-also", "note": "Al-Zahrawi had already judged a cut windpipe survivable from a human case." }
+    ],
+    "sources": [
+      {
+        "title": "Contributions of Ibn Zuhr (Avenzoar) to the progress of surgery: a study and translations from his book Al-Taisir",
+        "author": "Rabie E. Abdel-Halim",
+        "publisher": "Saudi Medical Journal 26 (9)",
+        "year": 2005,
+        "url": "https://smj.org.sa/content/smj/26/9/1333.full.pdf",
+        "type": "scholarly",
+        "supports": "Translation of the goat experiment (lupine-seed-sized excision, water and honey, long survival); the tracheotomy controversy; life dates 1093–1162; Ibn Rushd's collaboration.",
+        "quote": "Then, I kept washing the wound with water and honey until it healed and it (the animal) totally recovered and lived for a long time."
+      },
+      {
+        "title": "Dermatology in Kitab al-Tayser of Andalus Islamic physician Abu Marwan Abd al-Malik Ibn Zuhr (1092–1161 AD)",
+        "author": "Kadhim Qasim Al-Rubaye",
+        "publisher": "5th Balkan Congress on the History and Ethics of Medicine, Abstract and Proceedings Book (2011)",
+        "year": 2011,
+        "url": "https://isamveri.org/pdfdrg/D200378/2012/2012_RUBAYEK.pdf",
+        "type": "scholarly",
+        "supports": "Ibn Zuhr distinguished wet from parasitic scabies; birth estimated 1092–5; the Taysir composed near the end of his life.",
+        "quote": "lbn Zuhre differentiated between wel scabies and parasitic scabies, he called the latter (Al-Sawab) and link relation with diet."
+      },
+      {
+        "title": "İbn Zühr",
+        "publisher": "TDV İslâm Ansiklopedisi",
+        "url": "https://islamansiklopedisi.org.tr/ibn-zuhr",
+        "type": "reference",
+        "supports": "Death in 557/1162; birth estimated 1091 or 1094; the Taysir dedicated to Abd al-Mu'min; Ibn Rushd's praise of the book.",
+        "quote": "ondan büyük saygı ve yardım gördüğü için de en meşhur eseri Kitâbü’t-Teysîr ’i kendisine ithaf etmiştir"
+      }
+    ],
+    "further": ["pormann-savage-smith-2007"]
+  },
+  {
+    "id": "maimonides",
+    "title": "Maimonides the physician",
+    "stream": "islamic",
+    "tier": 3,
+    "date": {
+      "year": 1190,
+      "earliest": 1185,
+      "latest": 1204,
+      "end": 1204,
+      "display": "c. 1185–1204"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "firm",
+      "note": "His medical works survive and are well studied; most were written in the last two decades of his life, though individual treatises are not all precisely dated. Even his birth year is given as 1135 or 1138 by different scholars."
+    },
+    "place": "Fustat (Old Cairo), Egypt",
+    "people": [
+      "Moses Maimonides (1138–1204; some sources 1135), rabbi, philosopher and physician",
+      "al-Qadi al-Fadil, chief official of Sultan Saladin and his patron",
+      "al-Malik al-Afdal, son of Saladin and his later patient"
+    ],
+    "themes": ["practice", "texts"],
+    "summary": "The greatest rabbi of his age made his living as a court doctor in Cairo, writing advice on asthma, diet and sex for wealthy Muslim patients.",
+    "body": [
+      "Moses Maimonides, the leading rabbinic authority of his time, settled in Fustat (Old Cairo) and earned his living as a physician. He served al-Qadi al-Fadil, the top official of Sultan Saladin, and later Saladin's son al-Malik al-Afdal. Most of his ten medical books date from the last two decades of his life: short pieces of advice for wealthy Muslim patients on asthma, hemorrhoids and sex, a health regimen built on diet, exercise and clean air, and a large anthology of aphorisms drawn from Hippocrates and Galen, whose views he respected but did not accept wholesale."
+    ],
+    "myth": {
+      "tradition": "Maimonides was Saladin's personal physician.",
+      "record": "The patrons historians of his medicine name are Saladin's chief official, al-Qadi al-Fadil, and later Saladin's son al-Afdal; the popular phrase compresses this."
+    },
+    "links": [
+      { "to": "galen", "kind": "built-on", "note": "Galen was the authority he cited most, and argued with." },
+      { "to": "ibn-zuhr", "kind": "see-also", "note": "He drew on the physicians of al-Andalus, where he was born." }
+    ],
+    "sources": [
+      {
+        "title": "Maimonides’ Medical Writings",
+        "publisher": "My Jewish Learning",
+        "url": "https://www.myjewishlearning.com/article/maimonides-medical-writings/",
+        "type": "reference",
+        "supports": "Service to al-Qadi al-Fadil and later al-Afdal; consilia on asthma, hemorrhoids and sex for wealthy Muslim patients; the aphorism anthology drawn from Hippocrates and Galen.",
+        "quote": "Maimonides became a physician to Al-Qadi Al-Fadil, the top official of the Egyptian sultan Saladin, and then later to Saladin’s son Al-Malik Al-Afdal."
+      },
+      {
+        "title": "The Maimonides Model for a Regimen of Health: A Comparison with the Contemporary Scenario",
+        "author": "Isidor Segal and Shraga Blazer",
+        "publisher": "Rambam Maimonides Medical Journal 11 (4)",
+        "year": 2020,
+        "url": "https://www.rmmj.org.il/userimages/976/1/PublishFiles/1050Article.pdf",
+        "type": "scholarly",
+        "supports": "Medical writing concentrated in his last two decades; ten medical books; asthma and hemorrhoids; doubts about Galen; exercise and clean air; birth given as 1135; death in Fustat 1204.",
+        "quote": "Although Maimonides only devoted time to medical writing during the last two decades of his life, he impacted the philosophy and medical practice"
+      },
+      {
+        "title": "Maimonides",
+        "author": "Kenneth Seeskin",
+        "publisher": "Stanford Encyclopedia of Philosophy",
+        "url": "https://plato.stanford.edu/entries/maimonides/",
+        "type": "reference",
+        "supports": "Life dates 1138–1204; settlement in Fustat; standing as rabbinic authority and physician.",
+        "quote": "Maimonides arrived in Egypt in 1166 and eventually settled in Fustat, a section of Cairo."
+      }
+    ],
+    "further": ["pormann-savage-smith-2007"]
+  },
+  {
+    "id": "ibn-al-nafis",
+    "title": "Ibn al-Nafis and the pulmonary circulation",
+    "stream": "islamic",
+    "tier": 2,
+    "date": {
+      "year": 1242,
+      "earliest": 1236,
+      "latest": 1288,
+      "display": "c. 1242"
+    },
+    "confidence": {
+      "date": "uncertain",
+      "claim": "firm",
+      "note": "The commentary survives in manuscript and its argument is not in doubt. Its date rests on modern accounts that he wrote it at about 29, which depends on a birth year given as 1210 or 1213; he died in 1288. Whether Servetus or Colombo knew his work is disputed: one encyclopedia holds that a Latin translator knew of it, while others find no evidence that the passage reached Europe."
+    },
+    "place": "Damascus and Cairo",
+    "people": [
+      "Ibn al-Nafis (c. 1213–1288), physician of Damascus and Cairo",
+      "Muhyi al-Din al-Tatawi, Egyptian physician who found the manuscript in Berlin in 1924",
+      "Max Meyerhof, medical orientalist in Cairo who publicized and translated it"
+    ],
+    "themes": ["theory", "texts"],
+    "summary": "Three centuries before Europe, a Cairo physician declared Galen wrong: blood cannot seep through the heart's wall, so it must pass through the lungs.",
+    "body": [
+      "Galen taught that blood passed from the right side of the heart to the left through invisible pores in the wall between the ventricles. In his commentary on the anatomy in Ibn Sina's *Canon*, the Damascus-trained physician Ibn al-Nafis flatly denied it: the wall is solid and has no passage, visible or invisible. Blood must therefore travel from the right ventricle through the lungs, mixing with air there, and return to the left side by the pulmonary vein. He even inferred small passages between the pulmonary artery and vein, some 400 years before Malpighi saw capillaries.",
+      "Ibn al-Nafis became personal physician to Sultan Baybars and head of the physicians of Egypt and Syria, and left his house and library to the Mansuri hospital in Cairo. His insight lay unnoticed by modern scholars until 1924, when the Egyptian physician Muhyi al-Din al-Tatawi found a manuscript in Berlin while writing a doctoral thesis for Freiburg.",
+      "Michael Servetus in 1553 and Realdo Colombo in 1559 described the same route. A Latin translation of another of Ibn al-Nafis's commentaries appeared in 1547, but many historians think the Europeans reached the idea independently."
+    ],
+    "myth": {
+      "tradition": "Servetus and Colombo copied the pulmonary circulation from Ibn al-Nafis through Latin translations.",
+      "record": "No Latin version of his passage on the lungs is known; the 1547 translation by Andrea Alpago covered compound drugs. Transmission remains possible but unproven."
+    },
+    "links": [
+      { "to": "ibn-sina-canon", "kind": "built-on", "note": "His discovery appears in a commentary on the anatomy of the *Canon*." },
+      { "to": "galen", "kind": "overturned", "note": "He rejected Galen's invisible pores in the heart's septum." },
+      { "to": "harvey", "kind": "see-also", "note": "Harvey later set the lung route inside a full circulation." },
+      { "to": "mansuri-hospital", "kind": "see-also", "note": "He bequeathed his house and library to the hospital." }
+    ],
+    "sources": [
+      {
+        "title": "Ibn al-Nafis, the Pulmonary Circulation, and the Islamic Golden Age",
+        "author": "John B. West",
+        "publisher": "Muslim Heritage (reprint of Journal of Applied Physiology 105, 2008)",
+        "year": 2008,
+        "url": "https://muslimheritage.com/pulmonary-circulation/",
+        "type": "scholarly",
+        "supports": "The solid septum and lung route (Meyerhof's translation); predicted pulmonary passages 400 years before Malpighi; al-Tatawi's Berlin find and Freiburg thesis; Servetus 1553; the 1547 Alpago translation of the commentary on compound drugs; historians' doubt that Servetus knew the work.",
+        "quote": "However, many historians believe that Servetus was not aware of the work of Ibn al-Nafis and if so, both deserve credit for the discovery of the pulmonary transit of blood."
+      },
+      {
+        "title": "Ibn al-Nafis and the pulmonary circulation",
+        "author": "George Dunea",
+        "publisher": "Hektoen International",
+        "year": 2017,
+        "url": "https://hekint.org/2017/12/20/ibn-al-nafis-pulmonary-circulation/",
+        "type": "scholarly",
+        "supports": "Birth 1213; commentary written at 29; Berlin rediscovery in 1924; rejection of the porous septum; prediction of pulmonary communications before Malpighi.",
+        "quote": "At the age of twenty-nine he published his “Commentary on the anatomy of the Canon of Avicenna”"
+      },
+      {
+        "title": "İbnü’n-Nefîs",
+        "publisher": "TDV İslâm Ansiklopedisi",
+        "url": "https://islamansiklopedisi.org.tr/ibnun-nefis",
+        "type": "reference",
+        "supports": "Physician to Baybars and head of physicians; bequest of house and library to the Mansuri hospital; death 17 December 1288; Servetus 1553 and Colombo 1559; al-Tatawi's Freiburg thesis of 1924; the view that Alpago knew of the discovery.",
+        "quote": "eviyle kütüphanesini Sultan Kalavun tarafından 1284 yılında kurulmuş olan Bîmâristânü’l-Mansûrî’ye bağışladığı bilinmektedir"
+      }
+    ],
+    "further": ["pormann-savage-smith-2007"]
+  },
+  {
+    "id": "mansuri-hospital",
+    "title": "The Mansuri hospital of Cairo",
+    "stream": "islamic",
+    "tier": 3,
+    "date": {
+      "year": 1284,
+      "display": "1284"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "The founding in 683/1284 is documented, and two endowment deeds survive. What daily life was like rests on those deeds and on later chroniclers such as al-Nuwayri and al-Maqrizi; no reliable patient counts survive."
+    },
+    "place": "Bayn al-Qasrayn, Cairo, Egypt",
+    "people": [
+      "al-Mansur Qalawun, Mamluk sultan and founder"
+    ],
+    "themes": ["institutions", "practice"],
+    "summary": "A Mamluk sultan's hospital, endowed in 1284, paid patients to go home in new clothes, and still treats eye patients on the same site.",
+    "body": [
+      "In 1284 the Mamluk sultan Qalawun founded a hospital beside his tomb and madrasa in central Cairo; one story says he vowed to build it after medicines from Nur al-Din's hospital in Damascus cured him. A separate endowment paid for male and female staff, wards divided by illness and sex, physicians, eye doctors and surgeons, and money and clothing for patients when they left. Treatment and employment were limited to Muslims. Decayed by 1800, it was reborn on the same site as an eye clinic in 1915."
+    ],
+    "myth": {
+      "tradition": "The Mansuri hospital welcomed patients of every faith.",
+      "record": "Its founding deed, as historians read it, barred Christians and Jews from treatment and employment there, apparently a new restriction for hospitals of the time."
+    },
+    "links": [
+      { "to": "bimaristans", "kind": "built-on", "note": "It followed the model of earlier hospitals such as Nur al-Din's in Damascus." },
+      { "to": "ibn-al-nafis", "kind": "see-also", "note": "Ibn al-Nafis left his house and library to it." }
+    ],
+    "sources": [
+      {
+        "title": "Al-Bīmāristān al-Manṣūrī: Explorations. The Interface Between Medicine, Politics and Culture in Early Mamluk Egypt (ASK Working Paper 12)",
+        "author": "Linda S. Northrup",
+        "publisher": "Annemarie Schimmel Kolleg, University of Bonn",
+        "year": 2013,
+        "url": "https://www.ioa.uni-bonn.de/isl/de/forschung/publikationen/pdf-dateien-ask/ask-wp-12-northrup.pdf/@@download/file/ask-wp-12-northrup.pdf",
+        "type": "scholarly",
+        "supports": "Founding in 683/1284; surviving endowment deeds; the vow after treatment from Nur al-Din's hospital; the separate rich endowment; exclusion of Christians and Jews; eye clinic built on the site from 1912.",
+        "quote": "clearly states that Christians and Jews were to be excluded from employment or even from treatment there"
+      },
+      {
+        "title": "Layout & Facilities",
+        "publisher": "Qalawun VR Project",
+        "year": 2020,
+        "url": "https://qalawun.aa-ken.jp/en/facility/function/",
+        "type": "scholarly",
+        "supports": "Money and clothing on discharge; male and female staff; wards divided by condition and sex (al-Maqrizi); departments of internal medicine, ophthalmology and surgery; non-Muslims not admitted.",
+        "quote": "When a patient was discharged, they were provided with money and clothing as a form of congratulations"
+      },
+      {
+        "title": "The Later Years of Qalawun Hospital",
+        "publisher": "Qalawun VR Project",
+        "year": 2020,
+        "url": "https://qalawun.aa-ken.jp/en/blog/20200511_211",
+        "type": "scholarly",
+        "supports": "Decline reported by Napoleon's savants c. 1800; reopening as an eye clinic in 1915; continued use today.",
+        "quote": "In 1915, the sick ward at the new wing began offering medical treatments, and the Qalawun hospital was reborn as an eye clinic."
+      }
+    ],
+    "further": ["risse-1999", "pormann-savage-smith-2007"]
+  },
+  {
+    "id": "plague-contagion-andalus",
+    "title": "Andalusian physicians argue the plague is contagious",
+    "stream": "islamic",
+    "tier": 3,
+    "date": {
+      "year": 1349,
+      "earliest": 1348,
+      "latest": 1374,
+      "display": "1349"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "agreed",
+      "note": "Ibn Khatima dated his treatise 1349, months into the epidemic at Almería; Ibn al-Khatib's treatise also concerns the 1348–49 plague but its exact date is less certain. Ibn Khatima's birth year is disputed (c. 1324 in some studies, before 1300 in others)."
+    },
+    "place": "Almería and Granada, Nasrid kingdom of Granada (Spain)",
+    "people": [
+      "Ibn Khatima (d. 1369), physician and poet of Almería",
+      "Lisan al-Din Ibn al-Khatib (1313–1374), vizier of Granada, historian and his student"
+    ],
+    "themes": ["public-health", "theory"],
+    "summary": "As the Black Death swept Spain, two Muslim scholars argued, against a famous saying of the Prophet, that plague passes from person to person.",
+    "body": [
+      "In Almería, where plague raged from June 1348 into the winter of 1349, the physician Ibn Khatima wrote a treatise in ten questions. He observed that those who nursed the sick fell ill with the same symptoms, and that dealers selling the clothes of the dead spread the disease. His student and friend Ibn al-Khatib, soon vizier of Granada, argued in his own treatise that contagion was proved by experience and observation. Both had to square this with a saying of the Prophet, 'no contagion'; Ibn al-Khatib called ignoring the evidence an affront to God."
+    ],
+    "myth": {
+      "tradition": "These Andalusian writers anticipated germ theory.",
+      "record": "They still traced plague to corrupted air; for Ibn Khatima, contagion meant the sick passing that corruption on through breath, contact and clothing."
+    },
+    "links": [
+      { "to": "black-death", "kind": "see-also", "note": "The same pandemic, seen from Christian Europe." }
+    ],
+    "sources": [
+      {
+        "title": "A peste em regimento de epidemia ibéricos (século XIV)",
+        "author": "Maria Dailza da Conceição Fagundes",
+        "publisher": "Revista História (Universidade Federal de Goiás) 28 (1)",
+        "year": 2023,
+        "url": "https://revistas.ufg.br/historia/article/download/75300/40519",
+        "type": "scholarly",
+        "supports": "Ibn Khatima's treatise dated 1349 in ten questions, including the 'no contagion' hadith; plague at Almería June 1348 to winter 1349; carers falling ill with the same symptoms; clothes of the dead sold by dealers; plague still traced to altered air.",
+        "quote": "Em Almeria, a epidemia começou em junho de 1348 e durou até o inverno de 1349."
+      },
+      {
+        "title": "Plagues, Epidemics and Pandemics in the Historical Works of Arab Scholars: Preventive Measures and the Lessons Learned",
+        "author": "Mahmoud Zaki (trans. Haggag Bachir)",
+        "publisher": "Qatar National Library",
+        "url": "https://www.qnl.qa/sites/default/files/attachments/Plagues%20in%20the%20Historical%20Works%20of%20Arab%20Scholars_Mahmoud%20Zaki_English.pdf",
+        "type": "institutional",
+        "supports": "The two friends' treatises and their conclusion that contagion was proved by experience and observation; Ibn al-Khatib's words on ignoring the proofs.",
+        "quote": "Ibn Al-Khatib even said \"to ignore the proofs for plague contagion is an indecency and an affront to God and holds cheap the lives of Muslims.\""
+      },
+      {
+        "title": "İbn Hâtime",
+        "publisher": "TDV İslâm Ansiklopedisi",
+        "url": "https://islamansiklopedisi.org.tr/ibn-hatime",
+        "type": "reference",
+        "supports": "Ibn al-Khatib as Ibn Khatima's most famous student; death in Almería 1369; birth before 1300; the treatise written on the plague that reached Almería in 1348.",
+        "quote": "Yetiştirdiği öğrencilerin en meşhuru Lisânüddin İbnü’l-Hatîb’dir."
+      },
+      {
+        "title": "İbnü’l-Hatîb, Lisânüddin",
+        "author": "Câsim el-Ubûdî and Cengiz Tomar",
+        "publisher": "TDV İslâm Ansiklopedisi",
+        "url": "https://islamansiklopedisi.org.tr/ibnul-hatib-lisanuddin",
+        "type": "reference",
+        "supports": "Birth 1313, death 1374; became vizier when Ibn al-Jayyab died of plague in 1349; his plague treatise on the epidemic of 1349.",
+        "quote": "İbnü’l-Ceyyâb 749’da (1349) veba salgınında ölünce vezirlik, Dîvân-ı İnşâ reisliği ve sır kâtipliği görevlerini uhdesine aldı."
+      }
+    ],
+    "further": ["green-2014", "pormann-savage-smith-2007"]
+  },
+  {
+    "id": "mansur-anatomy",
+    "title": "Mansur's illustrated anatomy",
+    "stream": "islamic",
+    "tier": 3,
+    "date": {
+      "year": 1400,
+      "earliest": 1386,
+      "latest": 1409,
+      "display": "c. 1394–1409"
+    },
+    "confidence": {
+      "date": "uncertain",
+      "claim": "agreed",
+      "note": "The treatise is dedicated to a Pir Muhammad, most likely Timur's grandson who ruled Fars from 1394 to 1409, which would date it to those years; some catalogues give 1386. No copy from the author's lifetime survives: the earliest dated one is from 1488."
+    },
+    "place": "Shiraz, Fars (Iran)",
+    "people": [
+      "Mansur ibn Ilyas (fl. c. 1390s), physician of a Shiraz family of scholars",
+      "Pir Muhammad ibn Umar ibn Timur, ruler of Fars 1394–1409, probable dedicatee"
+    ],
+    "themes": ["texts", "theory"],
+    "summary": "The oldest surviving pictures of the whole human body from the Islamic world: five squatting figures for bones, nerves, muscles, veins and arteries.",
+    "body": [
+      "No pictures of the entire human body survive from the Islamic world before those in a short Persian treatise by Mansur ibn Ilyas of Shiraz, dedicated to Pir Muhammad, Timur's grandson. Five full-page figures in a squatting posture show the bones, nerves, muscles, veins and arteries, with labels in Arabic and Persian; a sixth shows a pregnant woman. Mansur did not invent the series. Strikingly similar Latin figures go back to the 12th century, and how the set reached Persia is unknown. The oldest dated copy was made in Isfahan in 1488."
+    ],
+    "myth": {
+      "tradition": "Mansur ibn Ilyas drew the first full-body anatomical figures.",
+      "record": "His are the earliest preserved from the Islamic world, but most of his figures were not original: a near-identical five-figure series appears in Latin manuscripts from the 12th century."
+    },
+    "links": [
+      { "to": "ibn-sina-canon", "kind": "built-on", "note": "Its small skull and jaw diagrams also appear in copies of the *Canon*." },
+      { "to": "vesalius", "kind": "see-also", "note": "A century and a half later, anatomical figures drawn from dissection." }
+    ],
+    "sources": [
+      {
+        "title": "Mansur ibn Ilyas: Tashrih-i badan-i insan, Author & Title Description",
+        "author": "Emilie Savage-Smith",
+        "publisher": "U.S. National Library of Medicine, Historical Anatomies on the Web",
+        "url": "https://www.nlm.nih.gov/exhibition/historicalanatomies/mansur_bio.html",
+        "type": "institutional",
+        "supports": "No earlier full-body illustrations survive from the Islamic world; dedication to Pir Muhammad, ruler of Fars 1394–1409; five systems plus pregnant woman; squatting posture; similarity to 12th-century Latin figures; earliest dated copy 1488 in Isfahan.",
+        "quote": "No anatomical illustrations of the entire human body are preserved from the Islamic world before those which accompany the Persian treatise"
+      },
+      {
+        "title": "Tashrih-i badan-i insan (MS P 19)",
+        "publisher": "U.S. National Library of Medicine, Islamic Medical Manuscripts",
+        "url": "https://www.nlm.nih.gov/hmd/arabic/p19.html",
+        "type": "institutional",
+        "supports": "Illustrations not original with Mansur; Latin series from the 12th century; labels in Arabic and Persian; over 70 surviving sets of the figures.",
+        "quote": "The earliest Latin version dates from the 12th century, yet the earliest Islamic version is represented by the NLM manuscript produced in 1488."
+      },
+      {
+        "title": "Tashrih-i badan-i insan (MS P 18)",
+        "publisher": "U.S. National Library of Medicine, Islamic Medical Manuscripts",
+        "url": "https://www.nlm.nih.gov/hmd/arabic/p18.html",
+        "type": "institutional",
+        "supports": "The earliest dated copy, completed in Isfahan on 8 December 1488.",
+        "quote": "On the righthand side it states that the copy was completed on 4 Muharram 894 (= 8 December 1488), with the year written in both words and numerals."
+      }
+    ],
+    "further": ["pormann-savage-smith-2007"]
+  },
+  {
+    "id": "sabuncuoglu",
+    "title": "Sabuncuoğlu's illustrated surgery",
+    "stream": "islamic",
+    "tier": 3,
+    "date": {
+      "year": 1465,
+      "display": "1465"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "The author dates the work to 870 AH (1465) and gives his age in it; three manuscripts survive, one apparently in his own hand. Reading some painted women as physicians rests on marginal labels and is generally accepted."
+    },
+    "place": "Amasya, Ottoman Anatolia (Turkey)",
+    "people": [
+      "Şerefeddin Sabuncuoğlu (c. 1386–after 1468), surgeon of the Amasya hospital",
+      "Mehmed II (r. 1444–46, 1451–81), Ottoman sultan to whom he presented the book"
+    ],
+    "themes": ["surgery", "texts"],
+    "summary": "An Ottoman surgeon in his eighties painted operations step by step, and showed women physicians treating women patients.",
+    "body": [
+      "In 1465, in his eighties and after 14 years at the hospital of Amasya, Şerefeddin Sabuncuoğlu finished a surgical manual in plain Turkish, so that more of Anatolia's practitioners could use it, and presented it to Sultan Mehmed II. The *Cerrahiyye-i İlhaniyye* translates the surgical books of al-Zahrawi's *Tasrif* and adds new sections. Where al-Zahrawi drew only instruments, Sabuncuoğlu showed the operations themselves, in 140 miniatures. Some show women treating women, labeled *tabibe*, a female physician."
+    ],
+    "links": [
+      { "to": "al-zahrawi", "kind": "built-on", "note": "Most of the text translates the surgical part of al-Zahrawi's *Tasrif*." }
+    ],
+    "sources": [
+      {
+        "title": "Sabuncuoğlu Şerefeddin",
+        "author": "Nuran Yıldırım",
+        "publisher": "TDV İslâm Ansiklopedisi",
+        "year": 2008,
+        "url": "https://islamansiklopedisi.org.tr/sabuncuoglu-serefeddin",
+        "type": "reference",
+        "supports": "Written in 870/1465 when he was 83; birth c. 1386 inferred; 14 years at the Amasya hospital; presented to Mehmed II; plain Turkish; miniatures of surgical procedures.",
+        "quote": "Cerrâhiyye-i İlhâniyye ’yi yazdığında İstanbul’a giderek kitabını Fâtih Sultan Mehmed’e sunmuş"
+      },
+      {
+        "title": "15. Yüzyıl Osmanlı’da Kadın Hekim ve Hemşire Tasvirleri: Cerrâhiyyetü’l-Hâniyye Örneği (Depictions of Female Doctors and Nurses in the 15th Century Ottoman Empire)",
+        "author": "Zehra Gençel Efe and Merve Süngü",
+        "publisher": "Türkiye İlahiyat Araştırmaları Dergisi 8 (4)",
+        "year": 2024,
+        "url": "https://dergipark.org.tr/en/download/article-file/3921890",
+        "type": "scholarly",
+        "supports": "140 miniatures; translation of the last three surgical parts of the Tasrif plus added sections; Tasrif pictured only instruments; written in Turkish for wider use; women physicians labeled 'suret-i tabibe'; three surviving manuscripts.",
+        "quote": "Sabuncuoğlu Şerefeddin, who supports his treatment methods with miniatures, added a total of 140 miniatures to his work."
+      },
+      {
+        "title": "First illustrations of female “Neurosurgeons” in the fifteenth century by Serefeddin Sabuncuoglu",
+        "author": "G. Bademci",
+        "publisher": "Neurocirugía 17",
+        "year": 2006,
+        "url": "https://revistaneurocirugia.com/en-first-illustrations-female-neurosurgeons-in-articulo-resumen-S1130147306703621",
+        "type": "scholarly",
+        "supports": "Miniatures showing women surgeons called 'tabibe'.",
+        "quote": "Inside miniatures drawn by Serefeddin Sabuncuoglu indicated that the female surgeons, acknowledged “Tabibe”, had been allowed to practice alone in Anatolia."
+      }
+    ],
+    "further": ["pormann-savage-smith-2007"]
+  }
+]

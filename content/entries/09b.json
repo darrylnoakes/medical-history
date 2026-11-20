@@ -1,0 +1,174 @@
+[
+  {
+    "id": "lister",
+    "title": "Lister's antiseptic surgery",
+    "stream": "bio-surgery",
+    "tier": 1,
+    "date": {
+      "year": 1867,
+      "earliest": 1865,
+      "latest": 1867,
+      "display": "1865–1867"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "Lister's own 1867 papers fix the dates, from the first carbolic dressing in August 1865 to publication in 1867. That antisepsis cut wound infection is accepted; how quickly and why it spread is debated, and historians now stress that his critics had serious reasons for doubt."
+    },
+    "place": "Glasgow Royal Infirmary, Scotland",
+    "people": [
+      "Joseph Lister (1827–1912), professor of surgery at Glasgow",
+      "James Greenlees, boy whose compound fracture was the first case Lister reported",
+      "Thomas Anderson (1819–1874), Glasgow chemist who pointed Lister to Pasteur's work"
+    ],
+    "themes": [
+      "surgery",
+      "practice",
+      "theory"
+    ],
+    "summary": "A Glasgow surgeon read Pasteur, reasoned that germs rot wounds, and dressed a boy's shattered leg in carbolic acid. Making the idea stick took decades.",
+    "body": [
+      "On 12 August 1865 an eleven-year-old boy, James Greenlees, was admitted to the Glasgow Royal Infirmary with a compound fracture of the leg: the broken bone had pierced the skin. Such wounds commonly festered, and the usual outcome was amputation or death. Joseph Lister dressed the wound with a pad soaked in carbolic acid. It did not suppurate.",
+      "Lister was acting on a borrowed idea. The Glasgow chemist Thomas Anderson had introduced him to Louis Pasteur's work showing that fermentation and putrefaction were caused by living organisms carried in the air, not by oxygen itself. If so, Lister reasoned, wounds need not be sealed from the air; it was enough to kill the \"floating particles\" with a chemical dressing.",
+      "He published in *The Lancet* in the spring of 1867, in four weekly articles describing eleven compound fractures, failures included, followed by a fifth on abscesses. Later that year he told the British Medical Association in Dublin that his two wards, once among the unhealthiest in the infirmary, had gone nine months without a single case of pyemia, hospital gangrene or erysipelas.",
+      "Acceptance was slow. A leading Leeds surgeon, Thomas Nunneley, reported that his colleagues had tried the method and given it up. Lister kept changing his materials, carbolic acid itself irritated tissue, and the germ theory behind it was not yet proven. Historians now argue that every part of the system was contested for good reasons, not out of ignorance.",
+      "The next step came from Germany. Robert Koch's laboratory found carbolic acid a weak germicide and Lister's spray useless, and surgeons turned to steam sterilization and keeping germs out of the wound altogether. In 1890 Ernst von Bergmann announced that his clinic had replaced antisepsis with asepsis, the principle of the modern operating room."
+    ],
+    "myth": {
+      "tradition": "Lister's critics were hidebound reactionaries who refused to believe in germs, and his method was obviously right from the start.",
+      "record": "His contemporaries had real grounds for doubt: results varied, the technique kept changing and the bacteriology was unsettled. Much of his system, including the carbolic spray, was later dropped in favor of asepsis."
+    },
+    "links": [
+      {
+        "to": "pasteur-germ-theory",
+        "kind": "built-on",
+        "note": "Lister applied Pasteur's account of putrefaction to wounds."
+      },
+      {
+        "to": "semmelweis",
+        "kind": "see-also",
+        "note": "An earlier, unheeded attack on infection by cleanliness."
+      },
+      {
+        "to": "koch",
+        "kind": "led-to",
+        "note": "Koch's lab tests of disinfectants helped turn antisepsis into asepsis."
+      },
+      {
+        "to": "halsted",
+        "kind": "led-to",
+        "note": "Aseptic surgery in America, down to rubber gloves."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Antiseptic Principle of the Practice of Surgery, 1867",
+        "author": "Joseph Lister; ed. Paul Halsall",
+        "publisher": "Internet Modern History Sourcebook, Fordham University",
+        "url": "https://sourcebooks.fordham.edu/mod/1867lister.asp",
+        "type": "primary",
+        "supports": "Lister's reasoning from Pasteur's work to a chemical dressing; his claim that his wards went nine months without pyemia, hospital gangrene or erysipelas.",
+        "quote": "so that during the last nine months not a single instance of pyaemia, hospital gangrene, or erysipelas has occurred in them"
+      },
+      {
+        "title": "Joseph Lister and the performance of antiseptic surgery",
+        "author": "Michael Worboys",
+        "publisher": "Notes and Records of the Royal Society",
+        "year": 2013,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3744349/",
+        "type": "scholarly",
+        "supports": "Lancet series of spring 1867 (four weekly articles, eleven cases, fifth on abscesses); Greenlees admitted 12 August 1865; Nunneley's objection; contemporaries contested every aspect for good reasons.",
+        "quote": "starting with Greenlees's admission to Glasgow Royal Infirmary on 12 August 1865"
+      },
+      {
+        "title": "Joseph Lister (1827-1912): A Pioneer of Antiseptic Surgery",
+        "author": "Spyros N. Michaleas, Konstantinos Laios, Alexandros Charalabopoulos, George Samonis, Marianna Karamanou",
+        "publisher": "Cureus",
+        "year": 2022,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9854334/",
+        "type": "scholarly",
+        "supports": "The patient was an 11-year-old boy; Lister learned of Pasteur through Thomas Anderson; the Dublin address to the British Medical Association in 1867.",
+        "quote": "He was intrigued by Louis Pasteur’s work, which he learned about from Thomas Anderson (1819-1874), a professor of chemistry in Glasgow."
+      },
+      {
+        "title": "Asepsis and bacteriology: a realignment of surgery and laboratory science",
+        "author": "Thomas Schlich",
+        "publisher": "Medical History",
+        "year": 2012,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3426977/",
+        "type": "scholarly",
+        "supports": "Koch's tests showing carbolic acid and the spray ineffective; heat sterilization; Bergmann's 1890 claim to have replaced antisepsis with asepsis.",
+        "quote": "In the form of a spray, as used by Lister, for example, it had no effect whatsoever in the laboratory tests."
+      }
+    ],
+    "further": [
+      "fitzharris-2017",
+      "bynum-1994",
+      "porter-1997"
+    ]
+  },
+  {
+    "id": "clinical-thermometer",
+    "title": "The thermometer and the fever chart",
+    "stream": "bio-surgery",
+    "tier": 3,
+    "date": {
+      "year": 1868,
+      "display": "1868"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "Wunderlich's treatise appeared in Leipzig in 1868 and in English in 1871. The figure of about 25,000 cases comes from later summaries of his work, and whether his 37 °C was too high, or body temperature has since fallen, is still argued."
+    },
+    "place": "Leipzig, Germany, and Leeds, England",
+    "people": [
+      "Carl Reinhold August Wunderlich (1815–1877), Leipzig physician",
+      "Thomas Clifford Allbutt (1836–1925), Leeds physician who devised a short clinical thermometer"
+    ],
+    "themes": [
+      "technology",
+      "practice"
+    ],
+    "summary": "A Leipzig doctor charted the temperatures of some 25,000 patients and turned fever from a feeling into a number, with 37 °C as the healthy norm.",
+    "body": [
+      "In 1868 Carl Wunderlich of Leipzig published a treatise on temperature in disease, drawn from about 15 years of readings, some patients measured four to six times a day. Plotted on charts, he argued, fevers followed characteristic courses, while healthy temperature held steady near 37 °C. His thermometers were large and slow, sometimes needing 20 minutes; in Leeds, Clifford Allbutt's 15-centimeter clinical thermometer, made from 1867, gave a reading in about five. Modern studies put average healthy temperature somewhat lower."
+    ],
+    "myth": {
+      "tradition": "Normal body temperature is exactly 37 °C, or 98.6 °F.",
+      "record": "Wunderlich gave a normal range of about 36.2–37.5 °C, and a recent British study of more than 35,000 patients found a mean oral temperature of 36.6 °C."
+    },
+    "links": [
+      {
+        "to": "santorio",
+        "kind": "built-on",
+        "note": "Santorio had measured body heat with an early thermoscope."
+      }
+    ],
+    "sources": [
+      {
+        "title": "History of the Thermometer",
+        "author": "Ewa Grodzinsky, Märta Sund Levander",
+        "publisher": "In: Understanding Fever and Body Temperature (Springer, 2019)",
+        "year": 2019,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7120475/",
+        "type": "scholarly",
+        "supports": "Wunderlich's 1868 Leipzig treatise, 15 years of measurements, four to six readings a day, about 25,000 cases; slow early thermometers; Allbutt's 15 cm thermometer made from 1867 and reading in 5 minutes.",
+        "quote": "A local company, Harvey and Reynolds, first manufactured this special thermometer in 1867, followed by Thackeray in London."
+      },
+      {
+        "title": "Decreasing human body temperature in the United States since the industrial revolution",
+        "author": "Myroslava Protsiv, Catherine Ley, Joanna Lankester, Trevor Hastie, Julie Parsonnet",
+        "publisher": "eLife",
+        "year": 2020,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6946399/",
+        "type": "scholarly",
+        "supports": "Wunderlich's 37 °C standard and range; modern average lower (36.6 °C in a study of 35,000 British patients); debate over true change versus measurement bias.",
+        "quote": "found mean oral temperature to be 36.6°C, confirming this lower value"
+      }
+    ],
+    "further": [
+      "bynum-1994"
+    ]
+  }
+]

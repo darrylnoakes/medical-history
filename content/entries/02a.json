@@ -1,0 +1,833 @@
+[
+  {
+    "id": "asclepius-cult",
+    "title": "Sleeping in the temple of Asclepius",
+    "stream": "greco-roman",
+    "tier": 2,
+    "date": {
+      "year": -420,
+      "earliest": -430,
+      "latest": -350,
+      "display": "Late 5th–4th century BCE"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "firm",
+      "note": "The god's arrival in Athens in 420 BCE is recorded on a contemporary inscription, and the Epidaurus cure stelae are 4th-century BCE stones that survive. What they document is the practice and the sanctuary's claims, not the cures themselves."
+    },
+    "place": "Epidaurus and Athens, Greece",
+    "people": [],
+    "themes": [
+      "practice",
+      "institutions"
+    ],
+    "summary": "Greek patients slept in Asclepius's sanctuary hoping the god would heal them in a dream, and the priests carved the miracles in stone.",
+    "body": [
+      "A sick Greek who had run out of remedies could take the case to a god. At sanctuaries of Asclepius, above all at Epidaurus in the Peloponnese, pilgrims slept in a hall called the abaton, hoping the god would appear in a dream. The sanctuary advertised its successes in stone. Four 4th-century BCE stelae, probably displayed in the incubation hall itself, carry about seventy cure stories: a man with an empty eye socket whose eyelids the god filled with a drug, a woman said to have been pregnant for five years, and a scoffer told to dedicate a silver pig \"as a memorial of her ignorance.\"",
+      "This was no fringe cult. An inscription records the god's formal introduction to Athens in 420 BCE. It coexisted with the new naturalistic medicine: Plato could call Hippocrates himself \"the Asclepiad,\" a member of the healing clan claiming descent from the god, and the Hippocratic Oath opens by swearing by Apollo and Asclepius.",
+      "Asclepius's emblem was a staff with a single snake. The winged, two-snaked caduceus belonged to Hermes, god of messengers and commerce; its modern medical use owes much to the US Army Medical Corps, which adopted it in 1902 through a misunderstanding."
+    ],
+    "myth": {
+      "tradition": "The caduceus, a winged staff with two snakes, is the ancient symbol of medicine.",
+      "record": "Asclepius carried a staff with one snake. The caduceus was Hermes's herald's wand; the US Army Medical Corps made it a medical badge in 1902 by mistake."
+    },
+    "links": [
+      {
+        "to": "hippocrates",
+        "kind": "see-also",
+        "note": "Hippocrates was called an Asclepiad; temple and naturalistic medicine coexisted."
+      },
+      {
+        "to": "hippocratic-oath",
+        "kind": "see-also",
+        "note": "The Oath begins by invoking Apollo and Asclepius."
+      },
+      {
+        "to": "plague-of-athens",
+        "kind": "see-also",
+        "note": "Asclepius reached Athens a decade after the great epidemic."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Epidaurus Cure Inscriptions (IG IV² 1, 121–122), trans. Emma J. Edelstein (1945)",
+        "publisher": "ToposText",
+        "url": "https://topostext.org/work/648",
+        "type": "primary",
+        "supports": "Incubation in the abaton and the individual cure stories (empty eye socket, five-year pregnancy, silver pig).",
+        "quote": "he would ask her to dedicate to the sanctuary a silver pig as a memorial of her ignorance"
+      },
+      {
+        "title": "Guarigioni di Asclepio a Epidauro",
+        "author": "Axon editors (abstract)",
+        "publisher": "Axon, Edizioni Ca' Foscari",
+        "year": 2017,
+        "url": "https://edizionicafoscari.unive.it/en/edizioni/riviste/axon/2017/2/guarigioni-di-asclepio-a-epidauro/",
+        "type": "scholarly",
+        "supports": "Four stelae, about seventy tales, probably displayed in the stoa-abaton where incubation took place.",
+        "quote": "The Iamata contain seventy tales, not all completely readable because of the many lacunae especially in the last two steles."
+      },
+      {
+        "title": "The Introduction of Asklepios in Athens: Religion and the People of Athens in the Last Half of the Fifth Century",
+        "publisher": "Shigaku Zasshi (J-STAGE)",
+        "url": "https://www.jstage.jst.go.jp/article/shigaku/106/12/106_KJ00003648084/_article/-char/en",
+        "type": "scholarly",
+        "supports": "Date of the cult's introduction to Athens, 420 BCE, from the Telemachos monument.",
+        "quote": "tells a story about the introduction of this god in Athens in 420 B.C."
+      },
+      {
+        "title": "Protagoras, trans. Benjamin Jowett",
+        "author": "Plato",
+        "publisher": "MIT Internet Classics Archive",
+        "url": "http://classics.mit.edu/Plato/protagoras.html",
+        "type": "primary",
+        "supports": "Contemporary reference to Hippocrates as 'the Asclepiad'.",
+        "quote": "had thought of going to Hippocrates of Cos, the Asclepiad, and were about to give him your money"
+      },
+      {
+        "title": "Ancient Greek Medicine",
+        "publisher": "U.S. National Library of Medicine",
+        "url": "https://www.nlm.nih.gov/hmd/topics/greek-medicine/index.html",
+        "type": "institutional",
+        "supports": "The Asclepiads as a healing clan claiming descent from the god; the Oath's invocation of Apollo and Asclepius.",
+        "quote": "A healing clan known as the Asclepiads claimed to be the descendants of Asclepius and to have inherited a knowledge and mystical power of healing from him."
+      },
+      {
+        "title": "Caduceus (image caption)",
+        "publisher": "U.S. National Library of Medicine",
+        "url": "https://www.nlm.nih.gov/hmd/topics/greek-medicine/Caduceus_snake_detail_2415079R-sm.html?imgid=5",
+        "type": "institutional",
+        "supports": "Single-snake staff of Asclepius versus the caduceus of Hermes.",
+        "quote": "In the ancient world, however, the caduceus was a symbol of Hermes, the Roman Mercury, who was primarily a messenger god linked with commerce."
+      },
+      {
+        "title": "The Caduceus vs. Staff of Aesculapius - One Snake or Two?",
+        "author": "George Bohigian",
+        "publisher": "Missouri Medicine (PMC)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6913859/",
+        "type": "scholarly",
+        "supports": "US Army Medical Corps adopted the caduceus in 1902 through a misunderstanding.",
+        "quote": "Thus, the adoption of the caduceus by the USAMC seems to have been simply a misunderstanding of classical mythologic iconography."
+      }
+    ],
+    "further": [
+      "nutton-2013"
+    ]
+  },
+  {
+    "id": "alcmaeon",
+    "title": "Alcmaeon puts the mind in the brain",
+    "stream": "greco-roman",
+    "tier": 3,
+    "date": {
+      "year": -480,
+      "earliest": -510,
+      "latest": -440,
+      "display": "c. 500–450 BCE"
+    },
+    "confidence": {
+      "date": "uncertain",
+      "claim": "agreed",
+      "note": "His book is lost and his dates are argued from later reports; scholars place it anywhere from c. 500 to after 470 BCE. His views on the brain survive through Theophrastus and other later writers, while the claim that he dissected rests on a misread passage."
+    },
+    "place": "Croton, southern Italy",
+    "people": [
+      "Alcmaeon of Croton (active c. 500–450 BCE), natural philosopher and medical writer"
+    ],
+    "themes": [
+      "theory",
+      "mind"
+    ],
+    "summary": "Around 500 BCE a thinker in southern Italy argued that we perceive and understand with the brain, not the heart.",
+    "body": [
+      "Alcmaeon of Croton, in southern Italy, wrote a single book, probably between 500 and 450 BCE, that survives only in fragments and later reports. Later reports, chiefly from Theophrastus, make him the first to argue that the brain is the central organ of sensation and thought, linked by channels to the eyes and other sense organs. He also defined health as the \"equality\" of opposing powers in the body and disease as the \"monarchy\" of one. Often hailed as the first dissector, he may have done no more than cut out an animal's eye."
+    ],
+    "myth": {
+      "tradition": "Alcmaeon was the father of anatomy, dissecting bodies to trace the optic nerve to the brain.",
+      "record": "The later report praising his work on the eye mostly describes Herophilus' discoveries. At most he excised an animal's eyeball; there is no evidence of systematic dissection."
+    },
+    "links": [
+      {
+        "to": "alexandria-dissection",
+        "kind": "led-to",
+        "note": "Herophilus' dissections revived Alcmaeon's view that the brain is the seat of sensation and intellect."
+      },
+      {
+        "to": "four-humours",
+        "kind": "see-also",
+        "note": "Health as a balance of opposing bodily powers."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Alcmaeon",
+        "author": "Carl Huffman",
+        "publisher": "Stanford Encyclopedia of Philosophy",
+        "url": "https://plato.stanford.edu/entries/alcmaeon/",
+        "type": "reference",
+        "supports": "Date of the book, brain as seat of understanding, health as isonomia, and the doubtful dissection claim.",
+        "quote": "There is no evidence, however, that Alcmaeon dissected the eye itself or that he dissected the skull in order to trace the optic nerve all the way to the brain."
+      },
+      {
+        "title": "Alcmaeon of Croton, philosopher physician",
+        "author": "Steph Magowan",
+        "publisher": "Hektoen International: A Journal of Medical Humanities",
+        "year": 2015,
+        "url": "https://hekint.org/2017/01/22/alcmaeon-of-croton-philosopher-physician/",
+        "type": "scholarly",
+        "supports": "Health as equilibrium (isonomia) and disease as monarchia; uncertain dating.",
+        "quote": "Estimations of Alcmaeon’s date vary widely from the sixth to even the fourth century."
+      },
+      {
+        "title": "Herophilus (Complete Dictionary of Scientific Biography)",
+        "publisher": "Encyclopedia.com",
+        "url": "https://www.encyclopedia.com/people/medicine/medicine-biographies/herophilus",
+        "type": "reference",
+        "supports": "Herophilus' return to Alcmaeon's view of the brain.",
+        "quote": "there was a reversal to the minority view, originally propounded by Alcmaeon, that the brain is the central organ of sensation and the seat of the intellect"
+      }
+    ],
+    "further": [
+      "nutton-2013"
+    ]
+  },
+  {
+    "id": "hippocrates",
+    "title": "Hippocrates and the Hippocratic Corpus",
+    "stream": "greco-roman",
+    "tier": 1,
+    "date": {
+      "year": -420,
+      "earliest": -460,
+      "latest": -370,
+      "display": "Active late 5th century BCE (traditionally c. 460–370 BCE)"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "agreed",
+      "note": "Plato's mentions confirm that Hippocrates was a well-known physician in his own lifetime, but his birth and death dates come from brief biographies written centuries later. The corpus survives and is dated on internal evidence to c. 430–350 BCE; which treatises, if any, he wrote himself is unresolved."
+    },
+    "place": "Cos, Greece",
+    "people": [
+      "Hippocrates of Cos (c. 460–c. 370 BCE), physician and teacher"
+    ],
+    "themes": [
+      "theory",
+      "practice",
+      "texts"
+    ],
+    "summary": "The most famous name in Western medicine belongs to a man we barely know, attached to some sixty texts written by many hands.",
+    "body": [
+      "Hippocrates of Cos is the most famous name in Western medicine and one of the most elusive. He was certainly real and renowned in his own time: in Plato's *Protagoras*, Socrates speaks of paying fees to \"Hippocrates of Cos, the Asclepiad\" to learn medicine. Beyond that, only the barest outline survives. Brief Lives written centuries later have him born on Cos around 460 BCE and dying at an advanced age at Larissa in Thessaly, and his career peaked during the Peloponnesian War (431–404 BCE).",
+      "Under his name survives the Hippocratic Corpus, about sixty works on diagnosis, epidemics, women's diseases, surgery, diet and more. Most date from the last decades of the 5th century and the first half of the 4th century BCE, and they were probably gathered together in Alexandria. They are the work of many authors and sometimes give contradictory advice. Even in antiquity scholars disagreed about which were genuine; modern scholars have no sample of his own prose against which to test them.",
+      "What unites much of the collection is an insistence that disease is natural. The author of *On the Sacred Disease* argues that epilepsy is no more divine than any other illness: \"Men regard its nature and cause as divine from ignorance and wonder.\" Hippocratic doctors watched the patient, the season and the course of the illness, and treated mainly with diet, drugs and regimen. *Epidemics* I sums up the method: \"Declare the past, diagnose the present, foretell the future.\"",
+      "Natural did not mean correct. The physiology was speculative. Each later age also rebuilt Hippocrates in its own image, as a chemist, a mechanist, a vitalist, a holist, even a patron of homeopathy. The Oath and the four humours both travel under his name, but the name is better read as the label of a tradition than as a signature."
+    ],
+    "myth": {
+      "tradition": "Hippocrates, the father of medicine, wrote the Hippocratic writings and single-handedly turned medicine from the gods to nature.",
+      "record": "About sixty texts by many authors over several generations travel under his name, and none can be securely assigned to him. Natural explanations of disease were shared by other thinkers, such as Alcmaeon, before and around him."
+    },
+    "links": [
+      {
+        "to": "four-humours",
+        "kind": "led-to",
+        "note": "The humoral theory first set out in one Hippocratic treatise."
+      },
+      {
+        "to": "hippocratic-oath",
+        "kind": "see-also",
+        "note": "The Corpus's most famous and most misunderstood text."
+      },
+      {
+        "to": "alcmaeon",
+        "kind": "built-on",
+        "note": "An earlier natural account of health as a balance of bodily powers."
+      },
+      {
+        "to": "galen",
+        "kind": "led-to",
+        "note": "Galen regarded the Hippocratic texts as the basic source of medical wisdom."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Hippocrates of Cos (Complete Dictionary of Scientific Biography; also Encyclopedia of Religion)",
+        "author": "Robert Joly; Helen King; Gary Ferngren",
+        "publisher": "Encyclopedia.com (Gale)",
+        "url": "https://www.encyclopedia.com/people/medicine/medicine-biographies/hippocrates",
+        "type": "reference",
+        "supports": "Traditional dates, late biographies, about sixty works dating c. 430–350 BCE collected probably in Alexandria, the shifting images of Hippocrates.",
+        "quote": "The corpus, or Collection, consists of about sixty medical works, the great majority of which date from the last decades of the fifth century b.c. and from the first half of the fourth."
+      },
+      {
+        "title": "Ancient Greek Medicine",
+        "publisher": "U.S. National Library of Medicine",
+        "url": "https://www.nlm.nih.gov/hmd/topics/greek-medicine/index.html",
+        "type": "institutional",
+        "supports": "Little known of the man; corpus of about sixty works by several authors with contradictory advice; diet, drugs and balance as treatment.",
+        "quote": "There are assumed to be several authors, however, probably scattered over several centuries, and different treatises often give contradictory advice."
+      },
+      {
+        "title": "On the Sacred Disease, trans. Francis Adams",
+        "author": "Hippocratic Corpus",
+        "publisher": "MIT Internet Classics Archive",
+        "url": "http://classics.mit.edu/Hippocrates/sacred.html",
+        "type": "primary",
+        "supports": "Natural explanation of epilepsy; quotation.",
+        "quote": "Men regard its nature and cause as divine from ignorance and wonder, because it is not at all like to other diseases."
+      },
+      {
+        "title": "Protagoras, trans. Benjamin Jowett",
+        "author": "Plato",
+        "publisher": "MIT Internet Classics Archive",
+        "url": "http://classics.mit.edu/Plato/protagoras.html",
+        "type": "primary",
+        "supports": "Contemporary evidence that Hippocrates of Cos was a known, fee-taking teacher of medicine.",
+        "quote": "had thought of going to Hippocrates of Cos, the Asclepiad, and were about to give him your money"
+      },
+      {
+        "title": "Hippocrates, vol. I (Loeb Classical Library), trans. W. H. S. Jones (1923): Epidemics I",
+        "publisher": "Internet Archive",
+        "url": "https://archive.org/download/hippocrates01hippuoft/hippocrates01hippuoft_djvu.txt",
+        "type": "primary",
+        "supports": "Quotation from Epidemics I on prognosis.",
+        "quote": "Declare the past, diagnose the present, foretell the future; practise these acts."
+      }
+    ],
+    "further": [
+      "nutton-2013",
+      "porter-1997"
+    ]
+  },
+  {
+    "id": "hippocratic-oath",
+    "title": "The Hippocratic Oath",
+    "stream": "greco-roman",
+    "tier": 2,
+    "date": {
+      "year": -400,
+      "earliest": -450,
+      "latest": -300,
+      "display": "5th or 4th century BCE"
+    },
+    "confidence": {
+      "date": "uncertain",
+      "claim": "agreed",
+      "note": "The text survives, so what it says is certain, but who wrote it, when, and who actually swore it are unknown. It is usually placed in the 5th or 4th century BCE, possibly among the earlier Hippocratic texts; Jones notes that the ancient scholar Erotian accepted it as genuinely Hippocratic."
+    },
+    "place": "Greece (probably Cos)",
+    "people": [],
+    "themes": [
+      "ethics",
+      "texts",
+      "institutions"
+    ],
+    "summary": "The most famous oath in medicine bans poison and the knife, swears by Apollo, and never says \"First, do no harm.\"",
+    "body": [
+      "The Oath is the best-known text in the Hippocratic Corpus and one of the least understood. The swearer calls on Apollo the physician, Asclepius, Hygieia and Panacea, promises to treat his teacher like a parent, and then lists rules of conduct: use regimen for the patients' benefit and \"do no harm or injustice to them\"; give no lethal drug even if asked; give no woman a pessary to cause abortion; leave cutting for stone to those trained in it; commit no sexual misconduct in patients' homes, with free people or slaves; keep secret what is seen and heard.",
+      "Who wrote it, when and for whom is unknown. Its translator W. H. S. Jones admitted in 1923 that its relationship to the history of medicine was, \"in our present state of knowledge, unknowable,\" and wondered whether it was ever a reality or merely a \"counsel of perfection.\" Its family-like obligations may mark the moment when the Asclepiads of Cos began teaching outsiders.",
+      "The most quoted line is not in it. \"First, do no harm\" appears nowhere in the Oath; the nearest Hippocratic phrase is in *Epidemics* I: \"to help, or at least to do no harm.\""
+    ],
+    "myth": {
+      "tradition": "Every doctor swears the Hippocratic Oath, which begins \"First, do no harm.\"",
+      "record": "The phrase is not in the Oath; a similar maxim appears in Epidemics I. Most modern medical schools do not require the original Oath, and some use rewritten versions."
+    },
+    "links": [
+      {
+        "to": "hippocrates",
+        "kind": "see-also",
+        "note": "Attributed to Hippocrates, like the rest of the Corpus, without proof."
+      },
+      {
+        "to": "asclepius-cult",
+        "kind": "see-also",
+        "note": "The swearer invokes Asclepius and his daughters."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Ancient Greek Medicine: The Oath (trans. Michael North, 2002)",
+        "publisher": "U.S. National Library of Medicine",
+        "url": "https://www.nlm.nih.gov/hmd/topics/greek-medicine/index.html",
+        "type": "institutional",
+        "supports": "Full translation of the Oath and its contents; possible link to training outsiders; not required by most schools; 'First, do no harm' absent.",
+        "quote": "It also does not explicitly contain the phrase, “First, do no harm,” which is commonly attributed to it."
+      },
+      {
+        "title": "Hippocrates, vol. I (Loeb Classical Library), trans. W. H. S. Jones (1923): introduction to The Oath",
+        "publisher": "Internet Archive",
+        "url": "https://archive.org/download/hippocrates01hippuoft/hippocrates01hippuoft_djvu.txt",
+        "type": "primary",
+        "supports": "Uncertainty over date, authorship and use; acceptance by Erotian; the Epidemics I maxim.",
+        "quote": "Yet its exact relationship to the history of medicine is unknown, and apparently, in our present state of knowledge, unknowable."
+      },
+      {
+        "title": "Hippocrates of Cos (Complete Dictionary of Scientific Biography)",
+        "author": "Robert Joly",
+        "publisher": "Encyclopedia.com (Gale)",
+        "url": "https://www.encyclopedia.com/people/medicine/medicine-biographies/hippocrates",
+        "type": "reference",
+        "supports": "The Oath may be among the earlier Hippocratic texts.",
+        "quote": "a few of the texts, such as the Oath and Nature of Man, may be slightly earlier, although this is more difficult to determine"
+      }
+    ],
+    "further": [
+      "nutton-2013"
+    ]
+  },
+  {
+    "id": "four-humours",
+    "title": "The four humours",
+    "stream": "greco-roman",
+    "tier": 1,
+    "date": {
+      "year": -410,
+      "earliest": -450,
+      "latest": -370,
+      "display": "Late 5th century BCE"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "firm",
+      "note": "*On the Nature of Man* survives and is dated on internal evidence to the late 5th or early 4th century BCE; Aristotle's citation supports Polybus as at least part-author. The theory's long dominance is abundantly documented, though when it finally lost its grip varies by place and by field."
+    },
+    "place": "Cos, Greece",
+    "people": [
+      "Polybus (late 5th century BCE), pupil and son-in-law of Hippocrates, probable author of *On the Nature of Man*",
+      "Galen of Pergamon (129–216 CE), who systematized humoral medicine"
+    ],
+    "themes": [
+      "theory",
+      "practice"
+    ],
+    "summary": "Blood, phlegm, yellow bile and black bile: a theory set out in one Greek treatise ran Western medicine for some two thousand years.",
+    "body": [
+      "For roughly two thousand years, learned Western physicians explained health and illness through four fluids. The classic statement is in *On the Nature of Man*, a treatise in the Hippocratic Corpus: \"The body of man has in itself blood, phlegm, yellow bile and black bile; these make up the nature of his body.\" A person was healthiest when the four were properly proportioned and mixed; pain followed when one was in excess or deficit, or separated from the rest.",
+      "The author was probably not Hippocrates. Aristotle quoted a passage of the treatise as the work of Polybus, Hippocrates' pupil and son-in-law, though an ancient medical papyrus, the *Anonymus Londinensis*, credits one passage to Polybus and another to Hippocrates himself. Nor was the scheme the only one on offer: some Hippocratic writers counted water, blood, phlegm and bile instead. In the end black bile displaced water.",
+      "The theory was reasonable on the evidence of the time. Blood and phlegm were obvious, yellow bile showed in jaundice and in the gall bladders of animals, and black bile seemed to explain conditions that darkened the skin. Galen tied the humours to the qualities hot, cold, wet and dry and to Aristotle's four elements, so that the body mirrored the cosmos and each person had a temperament, such as sanguine. Therapy followed logically: remove an excess by bleeding, purging, vomiting or sweating, adjust diet and habits, and treat a hot illness with a cold remedy.",
+      "Through Galen and the Arabic writers, above all Ibn Sina, the system governed medieval and Renaissance medicine, and it still lives on in traditional Arabic medicine. In Europe the new sciences of the 17th century undermined its foundations, yet bleeding and purging persisted through the 18th century, and only the bacteriological revolution of the late 19th century drove the humours out of orthodox medicine."
+    ],
+    "myth": {
+      "tradition": "Hippocrates devised the theory of the four humours.",
+      "record": "The canonical four appear in one treatise, *On the Nature of Man*, which ancient testimony attributes largely to Polybus; other Hippocratic texts used different fluids, and Galen made the scheme canonical."
+    },
+    "links": [
+      {
+        "to": "hippocrates",
+        "kind": "built-on",
+        "note": "Part of the Hippocratic Corpus."
+      },
+      {
+        "to": "alcmaeon",
+        "kind": "built-on",
+        "note": "Health as a balance of opposed bodily powers was an older idea."
+      },
+      {
+        "to": "galen",
+        "kind": "led-to",
+        "note": "Galen systematized the four humours and gave them their long life."
+      },
+      {
+        "to": "ibn-sina-canon",
+        "kind": "led-to",
+        "note": "Arabic medicine carried humoral theory into medieval Europe and keeps it today."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Hippocrates, vol. IV (Loeb Classical Library), trans. W. H. S. Jones (1931): Nature of Man",
+        "publisher": "Internet Archive",
+        "url": "https://archive.org/download/hippocrates04hippuoft/hippocrates04hippuoft_djvu.txt",
+        "type": "primary",
+        "supports": "Text of the four humours and health as their proper proportion; Aristotle's attribution to Polybus.",
+        "quote": "The body of man has in itself blood, phlegm, yellow bile and black bile; these make up the nature of his body"
+      },
+      {
+        "title": "Humours (The Oxford Companion to the Body)",
+        "publisher": "Encyclopedia.com (Oxford University Press)",
+        "url": "https://www.encyclopedia.com/medicine/encyclopedias-almanacs-transcripts-and-maps/humours",
+        "type": "reference",
+        "supports": "2,000-year span; why each humour seemed real; water replaced by black bile; Galen's qualities and elements; therapies; 17th-century decline, 18th-century persistence, survival in Arabic medicine, late-19th-century end.",
+        "quote": "For over 2000 years Western medicine and culture perceived the body and the mind in humoral terms."
+      },
+      {
+        "title": "Hippocrates of Cos (Complete Dictionary of Scientific Biography)",
+        "author": "Robert Joly",
+        "publisher": "Encyclopedia.com (Gale)",
+        "url": "https://www.encyclopedia.com/people/medicine/medicine-biographies/hippocrates",
+        "type": "reference",
+        "supports": "Attribution to Polybus via Aristotle; alternative humour scheme of water, blood, phlegm and bile.",
+        "quote": "can confidently be attributed to Polybius, the disciple and son-in-law of Hippocrates, through the testimony of Aristotle"
+      },
+      {
+        "title": "Ancient Greek Medicine",
+        "publisher": "U.S. National Library of Medicine",
+        "url": "https://www.nlm.nih.gov/hmd/topics/greek-medicine/index.html",
+        "type": "institutional",
+        "supports": "Humoral balance as central to Hippocratic physiology, treated by bloodletting or purging.",
+        "quote": "Illness was caused when these fluids became out of balance, sometimes requiring the reduction in the body of a humor through bloodletting or purging."
+      }
+    ],
+    "further": [
+      "nutton-2013",
+      "snowden-2019"
+    ],
+    "image": {
+      "commons": "File:The four elements, four qualities, four humours, four season Wellcome V0048018.jpg",
+      "alt": "Circular diagram linking the four elements, four qualities, four humours, four seasons and four ages of man.",
+      "caption": "A modern diagram (airbrush by Lois Hague, 1991, Wellcome Collection) of the correspondences that made humoral theory so persuasive: elements, qualities, humours, seasons and ages of life."
+    }
+  },
+  {
+    "id": "plague-of-athens",
+    "title": "The Plague of Athens",
+    "stream": "greco-roman",
+    "tier": 3,
+    "date": {
+      "year": -430,
+      "end": -426,
+      "display": "430–c. 426 BCE"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "Thucydides, who caught the disease and survived, dates it to the second year of the war. That it happened is beyond doubt; what it was is not, and a 2006 claim of typhoid DNA was promptly disputed."
+    },
+    "place": "Athens and Piraeus, Greece",
+    "people": [
+      "Thucydides, Athenian historian and general who survived the disease"
+    ],
+    "themes": [
+      "public-health"
+    ],
+    "summary": "An epidemic killed perhaps a third of wartime Athens; the historian who described it survived, but nobody knows what the disease was.",
+    "body": [
+      "In 430 BCE, in the second year of the war with Sparta, an epidemic struck crowded wartime Athens, killing by one modern estimate as much as a third of the population. Thucydides, who caught it and survived, described sudden fever, inflamed eyes and a bloody throat, and noted that doctors died fastest because they saw the sick most. What it was remains unknown: modern writers have proposed at least 29 diseases, from smallpox to Ebola. In 2006 a team reported typhoid DNA in teeth from a mass grave of at least 150 people, but other geneticists replied that this was \"no proof.\""
+    ],
+    "myth": {
+      "tradition": "Ancient DNA has shown that the Plague of Athens was typhoid fever.",
+      "record": "A 2006 study reported Salmonella Typhi sequences from victims' teeth, but the result was immediately challenged and is not accepted as proof."
+    },
+    "links": [
+      {
+        "to": "asclepius-cult",
+        "kind": "see-also",
+        "note": "Asclepius was brought to Athens a decade later."
+      },
+      {
+        "to": "antonine-plague",
+        "kind": "see-also",
+        "note": "Another ancient epidemic whose cause is still argued over."
+      }
+    ],
+    "sources": [
+      {
+        "title": "History of the Peloponnesian War, Book 2, trans. Richard Crawley",
+        "author": "Thucydides",
+        "publisher": "MIT Internet Classics Archive",
+        "url": "http://classics.mit.edu/Thucydides/pelopwar.mb.txt",
+        "type": "primary",
+        "supports": "Date, symptoms, physicians dying, Thucydides' own illness.",
+        "quote": "This I can the better do, as I had the disease myself, and watched its operation in the case of others."
+      },
+      {
+        "title": "The Thucydides Syndrome: Ebola Déjà Vu? (or Ebola Reemergent?)",
+        "author": "P. E. Olson, C. S. Hames, A. S. Benenson, E. N. Genovese",
+        "publisher": "Emerging Infectious Diseases (CDC)",
+        "year": 1996,
+        "url": "https://wwwnc.cdc.gov/eid/article/2/2/96-0220_article",
+        "type": "scholarly",
+        "supports": "Dates 430–427/425 BCE; densely packed wartime population; Ebola hypothesis; 29 or more earlier theories.",
+        "quote": "PCR examination of contemporaneous skeletal and archaeozoological remains might test this hypothesis against the 29 or more prior theories."
+      },
+      {
+        "title": "Ancient Athenian Plague Proves to Be Typhoid",
+        "author": "David Biello",
+        "publisher": "Scientific American",
+        "year": 2006,
+        "url": "https://www.scientificamerican.com/article/ancient-athenian-plague-p/",
+        "type": "news",
+        "supports": "As much as a third of the population died; mass grave of at least 150, dental pulp DNA matched to typhoid; earlier candidates such as smallpox and bubonic plague.",
+        "quote": "In 1994 researchers discovered a mass grave containing at least 150 bodies, including those of infants, deep beneath the Kerameikos cemetery in Athens."
+      },
+      {
+        "title": "No proof that typhoid caused the Plague of Athens (a reply to Papagrigorakis et al.)",
+        "author": "B. Shapiro, A. Rambaut, M. T. P. Gilbert",
+        "publisher": "International Journal of Infectious Diseases (PubMed record via NCBI E-utilities)",
+        "year": 2006,
+        "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=16730469&rettype=abstract&retmode=text",
+        "type": "scholarly",
+        "supports": "The typhoid identification was disputed.",
+        "quote": "No proof that typhoid caused the Plague of Athens (a reply to Papagrigorakis et al.)"
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "alexandria-dissection",
+    "title": "Human dissection at Alexandria",
+    "stream": "greco-roman",
+    "tier": 1,
+    "date": {
+      "year": -280,
+      "earliest": -300,
+      "latest": -250,
+      "display": "c. 300–250 BCE"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "agreed",
+      "note": "That Herophilus and Erasistratus dissected human bodies is accepted on the strength of their findings as reported by Galen and others, though all their own books are lost and their exact dates are uncertain. The charge of human vivisection rests on Celsus and later Christian writers, and scholars remain divided over it."
+    },
+    "place": "Alexandria, Egypt",
+    "people": [
+      "Herophilus of Chalcedon (born late 4th century BCE), anatomist who taught under Ptolemy I and II",
+      "Erasistratus of Ceos (born c. 304 BCE), anatomist and physiologist"
+    ],
+    "themes": [
+      "surgery",
+      "theory",
+      "ethics"
+    ],
+    "summary": "For a few decades, Greek doctors in Ptolemaic Alexandria cut open human bodies, and were later accused of cutting open living criminals too.",
+    "body": [
+      "For a few decades in the early 3rd century BCE, in the new Greek capital of Egypt, physicians did something almost no one else in the ancient world would do: they systematically dissected human bodies. Two names are attached to the work. Herophilus of Chalcedon taught at Alexandria under the first two Ptolemies; Erasistratus of Ceos was his younger contemporary. Elsewhere in the Greek world cutting up a human corpse was abhorrent. In Alexandria it was not, perhaps partly because Egyptian embalming made opening the body familiar.",
+      "The results were remarkable. Herophilus distinguished the cerebrum from the cerebellum, traced the nerves from the brain and spinal cord, followed the paths from the eyes to the brain, and named the duodenum; the meeting point of the brain's venous sinuses is still called the *torcular Herophili*. He studied the pulse, by one late report timing it with a water clock. Erasistratus described the brain's cavities and membranes and agreed that the nerves start in the brain. None of their books survive; we know their work mainly through Galen.",
+      "The darkest question is whether they also opened the living. The Roman encyclopedist Celsus, writing in the 1st century CE, reported that some physicians praised Herophilus and Erasistratus for laying open \"men whilst alive — criminals received out of prison from the kings.\" Celsus himself called the practice \"as cruel as it is needless.\" The Christian writer Tertullian later called Herophilus a \"butcher\" who \"cut up no end of persons.\" Galen says nothing of it, and scholars are still divided over whether the charge is history or polemic.",
+      "The window soon closed. By Galen's time, in the 2nd century CE, human dissection was no longer culturally possible. He dissected apes, pigs and other animals, and advised students to seize any chance to see a human skeleton or, better, to visit Alexandria, the only place where training still used one. His ape-based anatomy stood until Vesalius published the *Fabrica* in 1543. Systematic dissection of human bodies did not become an accepted way of learning again for many centuries."
+    ],
+    "myth": {
+      "tradition": "The Alexandrian anatomists routinely vivisected condemned criminals handed over by the king.",
+      "record": "The story comes from Celsus, writing some three centuries later, and from Christian polemicists such as Tertullian. Galen is silent, and historians remain divided over whether it is true."
+    },
+    "links": [
+      {
+        "to": "alcmaeon",
+        "kind": "built-on",
+        "note": "Herophilus confirmed Alcmaeon's view that the brain is the seat of sensation and intellect."
+      },
+      {
+        "to": "celsus",
+        "kind": "see-also",
+        "note": "Celsus is the main source for the vivisection charge."
+      },
+      {
+        "to": "galen",
+        "kind": "led-to",
+        "note": "Galen built on their anatomy but could dissect only animals."
+      },
+      {
+        "to": "mondino",
+        "kind": "see-also",
+        "note": "Human dissection returned to teaching in medieval Italy."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Herophilus (Complete Dictionary of Scientific Biography; also Encyclopedia of World Biography)",
+        "publisher": "Encyclopedia.com (Gale)",
+        "url": "https://www.encyclopedia.com/people/medicine/medicine-biographies/herophilus",
+        "type": "reference",
+        "supports": "Herophilus' origin, teaching under Ptolemy I and II, Alexandrian tolerance of dissection, his discoveries (cerebrum/cerebellum, nerves, duodenum, torcular, pulse), lost works, later end of dissection.",
+        "quote": "In Alexandria he lived in an environment in which the dissection of the human body did not meet with general disapproval."
+      },
+      {
+        "title": "Erasistratus (Complete Dictionary of Scientific Biography; also World of Biology)",
+        "publisher": "Encyclopedia.com (Gale)",
+        "url": "https://www.encyclopedia.com/people/medicine/medicine-biographies/erasistratus",
+        "type": "reference",
+        "supports": "Erasistratus' birth c. 304 BCE, embalming context, the vivisection accusation and divided scholarly opinion, his brain anatomy.",
+        "quote": "Scholarly opinion is divided in its acceptance of this tradition, and Galen’s silence in the matter cannot be taken as conclusive evidence against it."
+      },
+      {
+        "title": "De Medicina, Prooemium, trans. W. G. Spencer (Loeb)",
+        "author": "Aulus Cornelius Celsus",
+        "publisher": "LacusCurtius (University of Chicago)",
+        "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Celsus/Prooemium*.html",
+        "type": "primary",
+        "supports": "Report that Herophilus and Erasistratus vivisected criminals from the royal prisons; Celsus' own verdict.",
+        "quote": "They hold that Herophilus and Erasistratus did this in the best way by far, when they laid open men whilst alive"
+      },
+      {
+        "title": "A Treatise on the Soul (Ante-Nicene Fathers, vol. III)",
+        "author": "Tertullian",
+        "publisher": "The Tertullian Project",
+        "url": "https://www.tertullian.org/anf/anf03/anf03-22.htm",
+        "type": "primary",
+        "supports": "Tertullian's accusation against Herophilus.",
+        "quote": "There is that Herophilus, the well-known surgeon, or (as I may almost call him) butcher, who cut up no end of persons"
+      },
+      {
+        "title": "Galen (Complete Dictionary of Scientific Biography)",
+        "publisher": "Encyclopedia.com (Gale)",
+        "url": "https://www.encyclopedia.com/people/medicine/medicine-biographies/galen",
+        "type": "reference",
+        "supports": "Human dissection no longer possible in Galen's time; his animal dissections; Alexandria and human skeletons; anatomy unsuperseded until Vesalius (1543).",
+        "quote": "his anatomy necessarily suffered from the lack of opportunity to examine human cadavers (human dissection was no longer possible for cultural reasons)"
+      }
+    ],
+    "further": [
+      "nutton-2013",
+      "porter-1997"
+    ]
+  },
+  {
+    "id": "theriac",
+    "title": "Mithridatium and theriac",
+    "stream": "greco-roman",
+    "tier": 3,
+    "date": {
+      "year": -65,
+      "earliest": -100,
+      "latest": -60,
+      "display": "1st century BCE"
+    },
+    "confidence": {
+      "date": "uncertain",
+      "claim": "uncertain",
+      "note": "The antidote is known only from Roman writers of the following century, whose recipes disagree completely; the king's immunity to poison is a legend. Its later career as theriac is well attested."
+    },
+    "place": "Pontus (northern Anatolia) and Rome",
+    "people": [
+      "Mithridates VI, king of Pontus",
+      "Pompey (Gnaeus Pompeius Magnus), Roman general who defeated him",
+      "Andromachus, physician to the emperor Nero"
+    ],
+    "themes": [
+      "drugs"
+    ],
+    "summary": "A poison-proof king, a recipe found in his private papers, and an antidote whose descendants were still trusted in the 18th century.",
+    "body": [
+      "Mithridates VI of Pontus, the most powerful king of his day, was said to have protected himself by taking poison daily, and his name stuck to a famous antidote. No one agreed what was in it. Pliny says Pompey found the king's own recipe after defeating him: two dried walnuts, two figs, twenty rue leaves and a grain of salt. Celsus's version of \"the most famous antidote\" has some three dozen ingredients taken up in honey. A similar compound credited to Andromachus, Nero's physician, became theriac, a remedy still trusted in the 18th century; English \"treacle\" comes from its name."
+    ],
+    "myth": {
+      "tradition": "Mithridates made himself immune to every poison with a secret universal antidote.",
+      "record": "The story is told by Roman writers a century later, whose recipes range from four ingredients to three dozen; Pliny's 19th-century translators called the immunity \"a mere fable.\""
+    },
+    "links": [
+      {
+        "to": "celsus",
+        "kind": "see-also",
+        "note": "Celsus records one version of the recipe."
+      },
+      {
+        "to": "galen",
+        "kind": "led-to",
+        "note": "Galen wrote on antidotes and recorded Marcus Aurelius taking one daily."
+      },
+      {
+        "to": "islamic-pharmacy",
+        "kind": "led-to",
+        "note": "Theriac remained a staple of medieval pharmacy."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Natural History of Pliny, vol. 4 (Book 23, ch. 77, with notes), trans. J. Bostock and H. T. Riley (1856)",
+        "author": "Pliny the Elder",
+        "publisher": "Internet Archive",
+        "url": "https://archive.org/download/naturalhistoryof04plin/naturalhistoryof04plin_djvu.txt",
+        "type": "primary",
+        "supports": "Pompey's discovery of the four-ingredient recipe; translators' notes on Andromachus as Nero's physician, belief in theriac into the 18th century, 'treacle', and the immunity as fable.",
+        "quote": "Take two dried walnuts, two figs, and twenty leaves of rue ; pound them all together, with the addition of a grain of salt"
+      },
+      {
+        "title": "The Natural History of Pliny, vol. 5 (Book 25, ch. 3), trans. J. Bostock and H. T. Riley",
+        "author": "Pliny the Elder",
+        "publisher": "Internet Archive",
+        "url": "https://archive.org/download/naturalhistoryof05plin/naturalhistoryof05plin_djvu.txt",
+        "type": "primary",
+        "supports": "Mithridates' reputed habit of drinking poison daily and the antidote bearing his name.",
+        "quote": "who first thought, the proper precautions being duly taken, of drinking poison every day"
+      },
+      {
+        "title": "De Medicina, Book V, trans. W. G. Spencer (Loeb)",
+        "author": "Aulus Cornelius Celsus",
+        "publisher": "LacusCurtius (University of Chicago)",
+        "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Celsus/5*.html",
+        "type": "primary",
+        "supports": "Celsus' recipe for Mithridates' antidote, with three dozen ingredients taken up in honey.",
+        "quote": "which that king is said to have taken daily and by it to have rendered his body safe against danger from poison"
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "celsus",
+    "title": "Celsus, De Medicina",
+    "stream": "greco-roman",
+    "tier": 3,
+    "date": {
+      "year": 30,
+      "earliest": 14,
+      "latest": 54,
+      "display": "c. 25–50 CE"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "firm",
+      "note": "Celsus is placed under Tiberius by references in Quintilian, Pliny and Columella, but nothing else of his life is known, and whether he was a practicing doctor is disputed. The text itself survives, and its printing in Florence in 1478 is documented."
+    },
+    "place": "Rome",
+    "people": [
+      "Aulus Cornelius Celsus (active c. 25 CE), Roman encyclopedist"
+    ],
+    "themes": [
+      "texts",
+      "surgery",
+      "theory"
+    ],
+    "summary": "A Roman encyclopedia's medical books, written in elegant Latin, gave medicine its classic four signs of inflammation.",
+    "body": [
+      "Aulus Cornelius Celsus compiled a Latin encyclopedia in Rome under the emperor Tiberius; its eight medical books made his name. Whether he practiced medicine himself is still argued. *De Medicina* surveys the Greek medical schools, diet, drugs and surgery in clear, elegant prose, and gives the classic definition: \"the signs of an inflammation are four: redness and swelling with heat and pain.\" Copied in the 15th century from a very old manuscript since lost, it was printed at Florence in 1478, among the first medical books to reach print, and ran to 49 editions by 1841."
+    ],
+    "links": [
+      {
+        "to": "alexandria-dissection",
+        "kind": "see-also",
+        "note": "Celsus preserves the report that Herophilus and Erasistratus vivisected criminals."
+      },
+      {
+        "to": "theriac",
+        "kind": "see-also",
+        "note": "Celsus records a recipe for Mithridates' antidote."
+      },
+      {
+        "to": "printing-medicine",
+        "kind": "led-to",
+        "note": "One of the earliest medical books to be printed."
+      }
+    ],
+    "sources": [
+      {
+        "title": "De Medicina, Book III, trans. W. G. Spencer (Loeb)",
+        "author": "Aulus Cornelius Celsus",
+        "publisher": "LacusCurtius (University of Chicago)",
+        "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Celsus/3*.html",
+        "type": "primary",
+        "supports": "The four signs of inflammation.",
+        "quote": "Now the signs of an inflammation are four: redness and swelling with heat and pain."
+      },
+      {
+        "title": "Celsus, De Medicina: Introduction by W. G. Spencer",
+        "publisher": "LacusCurtius (University of Chicago)",
+        "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Celsus/Introduction*.html",
+        "type": "scholarly",
+        "supports": "Life almost unknown; reign of Tiberius; disputed whether a practitioner; 15th-century manuscript; 49 editions by 1841 and editio princeps at Florence, 1478.",
+        "quote": "Down to 1841 there were 49 printed editions, the editio princeps appearing at Florence in 1478."
+      },
+      {
+        "title": "Aulus Cornelius Celsus (Complete Dictionary of Scientific Biography; World Eras)",
+        "author": "Fridolf Kudlien and others",
+        "publisher": "Encyclopedia.com (Gale)",
+        "url": "https://www.encyclopedia.com/people/medicine/medicine-biographies/aulus-cornelius-celsus",
+        "type": "reference",
+        "supports": "Encyclopedia Artes under Tiberius; eight medical books; among the first medical books printed.",
+        "quote": "De medicina was among the first medical books to be printed (Florence, 1478), and more than 50 editions have appeared"
+      }
+    ],
+    "further": [
+      "nutton-2013"
+    ]
+  }
+]

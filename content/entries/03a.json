@@ -1,0 +1,528 @@
+[
+  {
+    "id": "atharvaveda-healing",
+    "title": "Healing hymns of the Atharvaveda",
+    "stream": "india",
+    "tier": 3,
+    "date": {
+      "year": -1000,
+      "earliest": -1200,
+      "latest": -800,
+      "display": "c. 1000 BCE"
+    },
+    "confidence": {
+      "date": "uncertain",
+      "claim": "agreed",
+      "note": "No Vedic text can be dated absolutely; the Atharvaveda is placed after c. 1100 BCE mainly because it is the first text to mention iron. The hymns themselves are well preserved, but identifying takman with malaria is an interpretation, and so is any link to later Ayurveda."
+    },
+    "place": "Northern India",
+    "people": [],
+    "themes": [
+      "practice",
+      "drugs",
+      "texts"
+    ],
+    "summary": "India's oldest medical words are spells: hymns that flatter, bribe and banish takman, a fever-demon that strikes cold, then burning hot, on a regular cycle.",
+    "body": [
+      "Some of the oldest medical words in India are spells. The Atharvaveda, a hymn collection compiled early in India's Iron Age, holds charms against takman, a fever-demon that comes cold, then deliriously hot, returns on the morrow or on the third day, and turns bodies yellow. Its 1897 translator thought this suggested malaria. Healers paid the demon homage, begged it to go to foreign peoples, and invoked plants such as kushtha, 'born upon the mountains'. Whether classical Ayurveda grew from this lore is doubtful: Dominik Wujastyk argues that the supposed parallels break down."
+    ],
+    "links": [
+      {
+        "to": "charaka-samhita",
+        "kind": "see-also",
+        "note": "Ayurveda's link to Vedic healing is contested."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Hymns of the Atharva-Veda, together with extracts from the ritual books and the commentaries (Sacred Books of the East, vol. 42)",
+        "author": "Maurice Bloomfield (translator)",
+        "publisher": "Clarendon Press, 1897 (Internet Archive scan)",
+        "year": 1897,
+        "url": "https://archive.org/stream/hymnsofatharvave00bloouoft/hymnsofatharvave00bloouoft_djvu.txt",
+        "type": "primary",
+        "supports": "Takman charms: cold and hot phases, recurrence on the morrow and third day, yellowing, banishment to foreign peoples, kushtha plant 'born upon the mountains'; Bloomfield's malaria interpretation.",
+        "quote": "jaundice, which suggests true malarial fever, especially during the rainy season"
+      },
+      {
+        "title": "Vedic Hinduism",
+        "author": "Stephanie W. Jamison and Michael Witzel",
+        "publisher": "Jamison & Witzel 1992, copy hosted at the University of Kentucky",
+        "year": 1992,
+        "url": "https://www.ms.uky.edu/~sohum/sanskrit/vedica.pdf",
+        "type": "scholarly",
+        "supports": "Dating: the Atharvaveda is the first text to mention iron, introduced in North India c. 1100 BCE.",
+        "quote": "the AV is the first text mentioning iron which was introduced in North India at c. 1100 BCE"
+      },
+      {
+        "title": "The Science of Medicine",
+        "author": "Dominik Wujastyk",
+        "publisher": "In G. Flood (ed.), The Blackwell Companion to Hinduism (2003); University of Alberta ERA open-access copy",
+        "year": 2003,
+        "url": "https://ualberta.scholaris.ca/bitstreams/c535249f-e316-4c32-885a-f21419557601/download",
+        "type": "scholarly",
+        "supports": "Claimed continuities between Atharvaveda medicine and Ayurveda break down on examination.",
+        "quote": "But on closer examination, all of these supposed parallels break down."
+      }
+    ],
+    "further": [
+      "wujastyk-2003"
+    ]
+  },
+  {
+    "id": "charaka-samhita",
+    "title": "The Charaka Samhita",
+    "stream": "india",
+    "tier": 1,
+    "date": {
+      "year": 100,
+      "earliest": -100,
+      "latest": 200,
+      "display": "c. 100 BCE – 200 CE"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "agreed",
+      "note": "Meulenbeld's window of about 100 BCE to 150–200 CE for Caraka is widely accepted, but it rests on the philosophical and Buddhist ideas the text uses, not on any dated record, and the book was completed by Dridhabala centuries later and revised again after him. Where Ayurveda's ideas came from (Vedic ritual healing or ascetic and Buddhist circles) is debated."
+    },
+    "place": "Northern India (exact place unknown)",
+    "people": [
+      "Agnivesha, legendary author of the original text",
+      "Caraka (fl. between c. 100 BCE and 200 CE), editor",
+      "Dridhabala (c. 5th century CE), completed the text",
+      "Gerrit Jan Meulenbeld, historian whose dating is standard",
+      "Kenneth G. Zysk, historian of the ascetic-origins thesis"
+    ],
+    "themes": [
+      "theory",
+      "practice",
+      "texts"
+    ],
+    "summary": "A book by three authors over several centuries, it set out Ayurveda's theory of three humors, and its origins are still argued over.",
+    "body": [
+      "The oldest surviving complete treatise of classical Indian medicine says plainly that it was written by three people. An early text by Agnivesha was edited by Caraka, and Caraka's work was later completed by Dridhabala. Weighing the philosophical and Buddhist ideas it draws on, the Indologist Jan Meulenbeld concluded that Caraka lived no earlier than about 100 BCE and no later than about 150–200 CE. Dridhabala is placed around the fifth century CE, and Philipp Maas has found manuscript evidence that it may have been revised thoroughly at least once more after him.",
+      "Its medicine is practical: diagnosis, diet, drugs and a standard set of five cleansing therapies (emetics, purgatives, two kinds of enema and nasal purging). Behind them stands a theory of three humors, or *doshas*: wind, bile and phlegm. In one chapter a panel of sages argues over whether breath, fire or soma is the cornerstone of health, until the chair, Punarvasu Atreya, rules that it comes down to a balance of the three humors. Caraka even observes that the body's parts cannot be counted, because they are made of atoms too small to perceive.",
+      "The text opens with a pedigree: medicine passed from the gods through sages to Agnivesha. Historians read this as the customary frame of a learned Sanskrit treatise, not as a chronicle. Where the ideas really came from is debated. Older accounts traced Ayurveda back to the healing hymns of the Atharvaveda. In 1991 Kenneth Zysk argued that it grew instead among wandering healers and ascetics, Buddhist monks among them, outside Brahmin orthodoxy. Dominik Wujastyk finds that the claimed Vedic parallels break down, judges it almost certain that Ayurveda's foundations were laid in Buddhist and other ascetic communities, and notes that the Buddha is recorded naming wind, bile and phlegm among the causes of disease. The text itself advises a physician who is pressed on the point to say he follows the Atharvaveda, a line Wujastyk reads as diplomacy rather than history.",
+      "Its reach was wide. Arabic translations of Indian medical works circulated early, and the physician al-Razi (d. 925) cited Arabic versions of Caraka often. Ayurveda, the tradition it helped found, is backed today by the Indian state with hospitals, colleges and a thriving pharmaceutical industry."
+    ],
+    "myth": {
+      "tradition": "Ayurveda is a timeless Vedic science, and the Charaka Samhita records knowledge revealed by the gods in remote antiquity.",
+      "record": "The text took shape between about 100 BCE and 200 CE, was completed around the fifth century and revised later; its divine pedigree is a literary convention, and its debt to Vedic medicine is doubtful."
+    },
+    "links": [
+      {
+        "to": "atharvaveda-healing",
+        "kind": "see-also",
+        "note": "The claimed Vedic roots of Ayurveda."
+      },
+      {
+        "to": "sushruta-samhita",
+        "kind": "see-also",
+        "note": "The other great early compendium."
+      },
+      {
+        "to": "vagbhata",
+        "kind": "led-to",
+        "note": "Vagbhata's synthesis drew on Caraka and Sushruta."
+      },
+      {
+        "to": "al-razi",
+        "kind": "led-to",
+        "note": "Al-Razi cited Arabic versions of Caraka."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The path to liberation through yogic mindfulness in early Ayurveda",
+        "author": "Dominik Wujastyk",
+        "publisher": "In D. G. White (ed.), Yoga in Practice (Princeton University Press, 2012); University of Alberta ERA open-access copy",
+        "year": 2012,
+        "url": "https://ualberta.scholaris.ca/bitstreams/785306ef-3fbf-4a4a-b303-57721fc16867/download",
+        "type": "scholarly",
+        "supports": "The text names three authors (Agnivesha, Caraka, Dridhabala); Meulenbeld's dating of Caraka between about 100 BCE and 150–200 CE.",
+        "quote": "Caraka cannot have lived later than about AD 150-200 and not much earlier than 100 BC"
+      },
+      {
+        "title": "On what became of the Carakasaṃhitā after Dṛḍhabala's revision",
+        "author": "Philipp A. Maas",
+        "publisher": "eJournal of Indian Medicine 3 (2010): 1–22",
+        "year": 2010,
+        "url": "https://indianmedicine.nl/article/download/24728/22178",
+        "type": "scholarly",
+        "supports": "Dridhabala dated c. fifth century CE as final redactor; the text was probably revised thoroughly at least once after him.",
+        "quote": "Dṛḍhabala (ca. fifth century C.E., according to HIML IA: 141), who is generally regarded as the final redactor of the"
+      },
+      {
+        "title": "The Science of Medicine",
+        "author": "Dominik Wujastyk",
+        "publisher": "In G. Flood (ed.), The Blackwell Companion to Hinduism (2003); University of Alberta ERA open-access copy",
+        "year": 2003,
+        "url": "https://ualberta.scholaris.ca/bitstreams/c535249f-e316-4c32-885a-f21419557601/download",
+        "type": "scholarly",
+        "supports": "Three humors; the debate chaired by Punarvasu Atreya; five therapies; atoms passage; divine pedigree as literary frame; Vedic parallels break down; Atharvaveda allegiance as didactic strategy; Arabic translations cited by al-Razi; state support for Ayurveda today.; foundations of Ayurveda laid in Buddhist and other ascetic communities.",
+        "quote": "health ultimately comes down to a balance of the three humours"
+      },
+      {
+        "title": "Indian medical thought on the eve of colonialism",
+        "author": "Dominik Wujastyk",
+        "publisher": "IIAS Newsletter 31 (2003): 21; University of Alberta ERA open-access copy",
+        "year": 2003,
+        "url": "https://ualberta.scholaris.ca/bitstreams/a0ce0bed-d260-45b8-bbcf-7c018d62eb3c/download",
+        "type": "scholarly",
+        "supports": "The Buddha named an imbalance of wind, bile and phlegm as a cause of disease; the compendia were compiled and re-edited.",
+        "quote": "The Buddha was the first to explicitly state that disease arises from an imbalance of three humoral substances"
+      },
+      {
+        "title": "Review: Asceticism and Healing in Ancient India: Medicine in the Buddhist Monastery",
+        "publisher": "Tricycle: The Buddhist Review",
+        "url": "https://tricycle.org/magazine/asceticism-and-healing-ancient-india-medicine-buddhist-monastery/",
+        "type": "news",
+        "supports": "Zysk's 1991 thesis that Ayurveda arose among wandering healers and ascetics rather than descending from the Brahmin class.",
+        "quote": "Zysk claims that it was through the work of countless itinerant doctors and ascetics that Indian medicine evolved"
+      }
+    ],
+    "further": [
+      "wujastyk-2003",
+      "zysk-1991"
+    ]
+  },
+  {
+    "id": "sushruta-samhita",
+    "title": "The Sushruta Samhita and Indian surgery",
+    "stream": "india",
+    "tier": 1,
+    "date": {
+      "year": 200,
+      "earliest": -100,
+      "latest": 500,
+      "display": "early centuries CE",
+      "traditional": {
+        "year": -600,
+        "display": "c. 600 BCE",
+        "note": "Popular histories and some museum labels still date Sushruta to about 600 BCE, a figure with no support in datable evidence from the text."
+      }
+    },
+    "confidence": {
+      "date": "uncertain",
+      "claim": "agreed",
+      "note": "The surgical content is plain in the surviving text, but its date is not: the work was composed and revised by several hands, one passage postdates the arrival of Greek astrology in India, and the oldest manuscript is dated 878 CE. Scholars place composition in the early centuries CE, complete by about 500."
+    },
+    "place": "Northern India (exact place unknown)",
+    "people": [
+      "Sushruta, the authority named in the title, otherwise unknown",
+      "Dominik Wujastyk, historian leading the Sushruta Project"
+    ],
+    "themes": [
+      "surgery",
+      "practice",
+      "texts"
+    ],
+    "summary": "Instructions for rebuilding a severed nose with a flap of cheek skin, written in Sanskrit some two thousand years ago, though not as long ago as legend says.",
+    "body": [
+      "Some two thousand years ago, someone writing in Sanskrit set down how to rebuild a severed nose. Cut a leaf to the size of the missing part, slice a matching patch of living flesh from the cheek, scarify it and press it into place, bandage it neatly, and insert two small pipes into the nostrils so the patient can breathe. The passage sits in the Compendium of Sushruta (*Sushruta Samhita*), the fullest account of surgery in early Indian medicine.",
+      "The book covers the training of surgeons and the making and care of scalpels, probes and pincers. It describes cutting for bladder stone through the perineum, couching cataracts, reducing dislocations, lancing boils, piercing earlobes, removing foreign bodies, repairing harelip and suturing wounds. Couching meant pushing the clouded lens out of the line of sight with a needle. Done without anesthesia, it left poor vision in an age without spectacles, but that was better than blindness. The learned surgical school did not survive as professional practice, though barber-surgeons kept techniques such as couching alive.",
+      "How old is it? Popular accounts, and even some museum labels, say Sushruta wrote around 600 BCE. The text cannot bear such a precise date. Like the other early compendia, it was composed and revised by several hands, and one passage uses the Greek astrological word *hora*, showing that whoever wrote that part knew Hellenistic astrology, which reached India in the second century CE. Current scholarship puts its composition in the early centuries CE, complete by about 500. The oldest surviving copy, a palm-leaf manuscript in Kathmandu announced in 2007, is dated 878 CE and preserves an earlier stage of the text than the printed editions.",
+      "Sushruta is often hailed as the father of plastic surgery, and his method is tied directly to the nose repair reported in a London magazine in 1794. The link is looser than it looks. The Sanskrit passage is, in Dominik Wujastyk's words, too \"brief and laconic\" to follow without a teacher, it uses the cheek rather than the forehead flap of 1794, and the operator then was a man of the brickmaker caste who is unlikely to have had access to Sanskrit manuscripts."
+    ],
+    "myth": {
+      "tradition": "Sushruta, 'the father of plastic surgery', wrote his Samhita around 600 BCE, and the Indian nose surgeons of 1794 were practicing his method.",
+      "record": "The text is layered and was probably composed in the early centuries CE; its nose repair uses a cheek flap, not the 1794 forehead flap, and no direct line between the two has been shown."
+    },
+    "links": [
+      {
+        "to": "charaka-samhita",
+        "kind": "see-also",
+        "note": "The companion compendium of Ayurvedic medicine."
+      },
+      {
+        "to": "indian-rhinoplasty-1794",
+        "kind": "see-also",
+        "note": "The 1794 nose repair often credited to Sushruta's method."
+      },
+      {
+        "to": "vagbhata",
+        "kind": "led-to",
+        "note": "Vagbhata synthesized Sushruta and Caraka."
+      }
+    ],
+    "sources": [
+      {
+        "title": "An English translation of the Sushruta Samhita, vol. 1 (Sutrasthanam)",
+        "author": "Kaviraj Kunja Lal Bhishagratna (translator)",
+        "publisher": "Calcutta, 1907 (Internet Archive scan)",
+        "year": 1907,
+        "url": "https://archive.org/stream/englishtranslati01susruoft/englishtranslati01susruoft_djvu.txt",
+        "type": "primary",
+        "supports": "The nose repair: leaf template, flesh sliced from the cheek, bandage, two pipes in the nostrils (Sutrasthana ch. 16).",
+        "quote": "from the region of the cheek and, after scarifying it with a knife, swiftly adhered to the severed nose"
+      },
+      {
+        "title": "The Science of Medicine",
+        "author": "Dominik Wujastyk",
+        "publisher": "In G. Flood (ed.), The Blackwell Companion to Hinduism (2003); University of Alberta ERA open-access copy",
+        "year": 2003,
+        "url": "https://ualberta.scholaris.ca/bitstreams/c535249f-e316-4c32-885a-f21419557601/download",
+        "type": "scholarly",
+        "supports": "Surgeon training, instruments and the list of operations; the tradition did not survive except among barber-surgeons; the Greek word hora shows knowledge of second-century Hellenistic astrology.",
+        "quote": "did continue to be performed by barber-surgeons in a tradition apparently unsupported by a learned literature or formal training"
+      },
+      {
+        "title": "The Suśruta Project, Project 1: The Textual and Cultural History of Medicine in South Asia based on Newly-Discovered Manuscript Evidence",
+        "author": "Dominik Wujastyk",
+        "publisher": "The Suśruta Project (University of Alberta, SSHRC-funded)",
+        "year": 2026,
+        "url": "https://sushrutaproject1.github.io",
+        "type": "institutional",
+        "supports": "Written about two thousand years ago; the Kathmandu manuscript KL 699 dated 878 CE, announced in 2007, preserves an earlier stage of the text.",
+        "quote": "announced the discovery of an ancient palm-leaf manuscript of The Compendium that is reliably datable to 878 CE"
+      },
+      {
+        "title": "History of Ophthalmology in Asia Pacific",
+        "publisher": "American Academy of Ophthalmology, Museum of Vision",
+        "url": "https://aao.org/museum/exhibition-detail/history-of-ophthalmology-in-asia-pacific-3",
+        "type": "institutional",
+        "supports": "Couching described (needle displaces the lens, poor sight, no anesthesia); the museum's own label repeats the 600 BCE date.",
+        "quote": "The original was written in Sanskrit by Maharshi Sushruta in approximately 600 BCE."
+      },
+      {
+        "title": "The History of Sushruta and the Famous Indian Nose Job",
+        "publisher": "The Wire",
+        "url": "https://m.thewire.in/article/health/the-history-of-sushruta-and-the-famous-indian-nose-job",
+        "type": "news",
+        "supports": "Composition in the early centuries CE, complete by 500 CE; Wujastyk's 'brief and laconic' verdict; the 1794 operation used forehead skin and was done by a man of the brickmaker caste.",
+        "quote": "The Sushruta-samhita was composed in the early centuries of the first millennium CE, being complete by 500 CE"
+      }
+    ],
+    "further": [
+      "wujastyk-2003"
+    ],
+    "image": {
+      "commons": "File:The Susruta-Samhita or Sahottara-Tantra (A Treatise on Ayurvedic Medicine) LACMA M.87.271a-g (1 of 8).jpg",
+      "alt": "A long, narrow palm-leaf manuscript page with lines of Sanskrit script and a small painted figure.",
+      "caption": "A palm-leaf copy of the Sushruta Samhita from Nepal, its text written in the 12th–13th century and its paintings added in the 18th–19th. Los Angeles County Museum of Art."
+    }
+  },
+  {
+    "id": "ashoka-edicts",
+    "title": "Ashoka's edict on medical care",
+    "stream": "india",
+    "tier": 3,
+    "date": {
+      "year": -257,
+      "earliest": -260,
+      "latest": -250,
+      "display": "c. 257 BCE"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "firm",
+      "note": "The edict survives in stone and dates itself to Ashoka's twelfth regnal year; converting that to about 257 BCE depends on the accepted Mauryan chronology. What the words promise is clear; how far the program was carried out is not recorded."
+    },
+    "place": "Girnar (Gujarat) and other sites across the Mauryan empire",
+    "people": [
+      "Ashoka (d. 232 BCE), Mauryan emperor, styled 'Beloved-of-the-Gods, King Piyadasi'"
+    ],
+    "themes": [
+      "public-health",
+      "institutions",
+      "drugs"
+    ],
+    "summary": "An emperor carved into rock his promise of medical treatment for people and for animals, with medicinal plants imported where none grew.",
+    "body": [
+      "Around 257 BCE the Mauryan emperor Ashoka had his second Major Rock Edict carved at sites across his empire. In it 'Beloved-of-the-Gods, King Piyadasi' announces two kinds of medical treatment, for humans and for animals, in his realm and among neighbors as far as the lands of the Greek king Antiochos. Where medicinal herbs, roots or fruits were lacking, he had them imported and grown; along roads he had wells dug and trees planted. It is sometimes hailed as founding the first hospitals, but the edict names no buildings at all."
+    ],
+    "myth": {
+      "tradition": "Ashoka built the world's first hospitals for people and for animals.",
+      "record": "Rock Edict II promises medical treatment, medicinal plants, wells and shade trees; it does not mention hospital buildings."
+    },
+    "links": [
+      {
+        "to": "mihintale-hospital",
+        "kind": "see-also",
+        "note": "Later Buddhist monastery hospitals in Sri Lanka."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Edicts of King Asoka",
+        "author": "Ven. S. Dhammika (English rendering)",
+        "publisher": "Buddhist Publication Society (Wheel 386/387), via Access to Insight",
+        "year": 1994,
+        "url": "https://www.accesstoinsight.org/lib/authors/dhammika/wheel386.html",
+        "type": "primary",
+        "supports": "Text of Rock Edict II: treatment for humans and animals, imported herbs, roots and fruits, wells and trees; Girnar version issued in 257 BCE; Ashoka's titles and reign.",
+        "quote": "made provision for two types of medical treatment: medical treatment for humans and medical treatment for animals"
+      },
+      {
+        "title": "The Science of Medicine",
+        "author": "Dominik Wujastyk",
+        "publisher": "In G. Flood (ed.), The Blackwell Companion to Hinduism (2003); University of Alberta ERA open-access copy",
+        "year": 2003,
+        "url": "https://ualberta.scholaris.ca/bitstreams/c535249f-e316-4c32-885a-f21419557601/download",
+        "type": "scholarly",
+        "supports": "Context: early Buddhist monks were enjoined to nurse the sick, and monasteries kept infirmaries.",
+        "quote": "early Buddhist monasteries included infirmaries and had standing instructions to aid all those who were sick"
+      }
+    ],
+    "further": [
+      "zysk-1991",
+      "risse-1999"
+    ]
+  },
+  {
+    "id": "bower-manuscript",
+    "title": "The Bower Manuscript",
+    "stream": "india",
+    "tier": 3,
+    "date": {
+      "year": 500,
+      "earliest": 400,
+      "latest": 600,
+      "display": "c. 400–600 CE"
+    },
+    "confidence": {
+      "date": "uncertain",
+      "claim": "firm",
+      "note": "The find and purchase in 1890 are well documented and the manuscript survives. Its date rests only on handwriting: Hoernle first put it in the mid-fifth century and later pushed it earlier, while current estimates span roughly 400 to 600 CE."
+    },
+    "place": "Near Kucha (Kuchar), Xinjiang, China",
+    "people": [
+      "Lieutenant H. Bower, British officer who bought it",
+      "A. F. Rudolf Hoernle, Indologist who deciphered it"
+    ],
+    "themes": [
+      "texts",
+      "drugs"
+    ],
+    "summary": "Treasure hunters on the Silk Road dug a bundle of birch bark out of a stupa in 1890: some of the oldest Indian medical writing on record.",
+    "body": [
+      "In February 1890 two treasure hunters from Kucha, an oasis on the Silk Road in today's Xinjiang, dug into a ruined stupa and pulled out leaves of birch bark covered in writing. In early March they sold them to Lieutenant H. Bower, a British officer who had come to Kucha hunting a murderer. Deciphered by Rudolf Hoernle, the leaves proved to be Sanskrit, and largely medical: a tract on garlic and a compendium called the *Navanitaka*, copied by a Buddhist. They are practical recipe books, not theory, and they show Indian medicine traveling with Buddhism into Central Asia."
+    ],
+    "links": [
+      {
+        "to": "charaka-samhita",
+        "kind": "see-also",
+        "note": "Classical compendium whose recipes it parallels."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Bower Manuscript, Introduction (incomplete)",
+        "author": "A. F. Rudolf Hoernle",
+        "publisher": "Archaeological Survey of India, 1912 (Internet Archive scan)",
+        "year": 1912,
+        "url": "https://archive.org/stream/HoernleBowerManuscriptIntroductionincomplete/Hoernle%2C%20Bower%20Manuscript%20%2C%20introduction%20%28incomplete%29_djvu.txt",
+        "type": "primary",
+        "supports": "Find in February 1890 by two treasure hunters of Kuchar in a stupa; sale to Lieutenant Bower in March 1890; Bower's mission after a murderer; garlic tract; Hoernle's mid-fifth-century date later revised earlier.",
+        "quote": "two Turkis of Kuchar, searching for treasure, dug into the stupas which stand near the Ming-oi"
+      },
+      {
+        "title": "Birch bark MS. (Proceedings of the Asiatic Society of Bengal, April 1891)",
+        "author": "A. F. Rudolf Hoernle",
+        "publisher": "Asiatic Society of Bengal (Internet Archive / Wellcome Library scan)",
+        "year": 1891,
+        "url": "https://archive.org/download/b30095700/b30095700.pdf",
+        "type": "primary",
+        "supports": "The main work is a medical compendium named the Navanitaka; the scribe's salutation shows a Buddhist.",
+        "quote": "That it was written by a Buddhist, is seen from the initiatory salutation of the"
+      },
+      {
+        "title": "The Science of Medicine",
+        "author": "Dominik Wujastyk",
+        "publisher": "In G. Flood (ed.), The Blackwell Companion to Hinduism (2003); University of Alberta ERA open-access copy",
+        "year": 2003,
+        "url": "https://ualberta.scholaris.ca/bitstreams/c535249f-e316-4c32-885a-f21419557601/download",
+        "type": "scholarly",
+        "supports": "Manuscripts such as the Bower Manuscript carried Indian medicine with Buddhism into Central Asia and are practical handbooks with little theory.",
+        "quote": "they are practical handbooks, manuals listing ailments and explaining the herbs and compounds that should be administered to cure them"
+      },
+      {
+        "title": "The History of Sushruta and the Famous Indian Nose Job",
+        "publisher": "The Wire",
+        "url": "https://m.thewire.in/article/health/the-history-of-sushruta-and-the-famous-indian-nose-job",
+        "type": "news",
+        "supports": "Current dating of the Bower Manuscript to between 400 and 600 CE.",
+        "quote": "the so-called Bower manuscript dated to between 400 and 600 CE"
+      }
+    ],
+    "further": [
+      "wujastyk-2003"
+    ],
+    "image": {
+      "commons": "File:5th to 6th century Bower manuscript, Sanskrit, early Gupta script, Kucha Xinjiang China, Leaf 1.jpg",
+      "alt": "A narrow birch-bark leaf densely written in an early Indian (Gupta-period Brahmi) script.",
+      "caption": "A leaf of the Bower Manuscript, Sanskrit on birch bark in an early Gupta script, found near Kucha in 1890 and now in the Bodleian Library, Oxford."
+    }
+  },
+  {
+    "id": "vagbhata",
+    "title": "Vagbhata's synthesis",
+    "stream": "india",
+    "tier": 3,
+    "date": {
+      "year": 610,
+      "earliest": 600,
+      "latest": 680,
+      "display": "shortly after 600 CE"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "agreed",
+      "note": "Scholars place the Ashtangahridaya shortly after 600 CE on internal and literary evidence rather than a dated record. Its standing as a school text and its wide translation are well attested; details of its author's life, including his religion, are not."
+    },
+    "place": "Sindh (author's homeland)",
+    "people": [
+      "Vagbhata (fl. c. 600 CE), physician-author from Sindh"
+    ],
+    "themes": [
+      "texts",
+      "theory"
+    ],
+    "summary": "Around 600 CE a physician from Sindh condensed Caraka and Sushruta into the 'Heart of Medicine', the textbook much of Asia would learn from.",
+    "body": [
+      "Shortly after 600 CE a physician from Sindh named Vagbhata composed the *Ashtangahridaya*, the 'Heart of Medicine', which brilliantly condensed the older compendia of Caraka and Sushruta into one work. It was widely adopted as a medical school text, and through many translations and adaptations it became one of the most important medical treatises in Asia. It traveled as Ayurveda did: Tibetan translators from the eighth century onward made Indian medical works part of Tibetan healing. Some historians think Vagbhata may have been a Buddhist."
+    ],
+    "links": [
+      {
+        "to": "charaka-samhita",
+        "kind": "built-on",
+        "note": "Condensed the Caraka compendium."
+      },
+      {
+        "to": "sushruta-samhita",
+        "kind": "built-on",
+        "note": "Condensed the Sushruta compendium."
+      },
+      {
+        "to": "tibetan-four-tantras",
+        "kind": "led-to",
+        "note": "Indian medical works shaped Tibetan medicine."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Indian medical thought on the eve of colonialism",
+        "author": "Dominik Wujastyk",
+        "publisher": "IIAS Newsletter 31 (2003): 21; University of Alberta ERA open-access copy",
+        "year": 2003,
+        "url": "https://ualberta.scholaris.ca/bitstreams/a0ce0bed-d260-45b8-bbcf-7c018d62eb3c/download",
+        "type": "scholarly",
+        "supports": "Heart of Medicine composed by the Sindhi author Vagbhata shortly after 600; synthesized earlier compendia; many translations; school text; among Asia's most important medical treatises.",
+        "quote": "brilliantly synthesized earlier compendia. Due to its many translations and adaptations, and its wide adoption as a medical school text"
+      },
+      {
+        "title": "The Science of Medicine",
+        "author": "Dominik Wujastyk",
+        "publisher": "In G. Flood (ed.), The Blackwell Companion to Hinduism (2003); University of Alberta ERA open-access copy",
+        "year": 2003,
+        "url": "https://ualberta.scholaris.ca/bitstreams/c535249f-e316-4c32-885a-f21419557601/download",
+        "type": "scholarly",
+        "supports": "Vagbhata possibly a Buddhist; the Tibetan translation movement from the eighth century absorbed Ayurvedic works.",
+        "quote": "It is also possible that some important authors of Sanskrit medical texts, such as the famous"
+      }
+    ],
+    "further": [
+      "wujastyk-2003"
+    ]
+  }
+]
