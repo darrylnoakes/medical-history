@@ -70,7 +70,7 @@ export function SourceList({ sources }: { sources: Source[] }) {
           <details class="src-quote">
             <summary>Checked passage</summary>
             <blockquote>“{s.quote}”</blockquote>
-            <span class="src-host">{s.manualCheck ? `Read by hand: ${s.manualCheck}` : `Found verbatim on ${hostOf(s.url)} when this page was built.`}</span>
+            <span class="src-host">{s.manualCheck ? `Checked by hand, not by script. ${s.manualCheck}` : `Found verbatim on ${hostOf(s.url)} when this page was built.`}</span>
           </details>
         </li>
       ))}

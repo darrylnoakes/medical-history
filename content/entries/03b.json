@@ -329,7 +329,8 @@
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC546339/",
         "type": "scholarly",
         "supports": "Holwell's 1767 account and its importance; itinerant Brahmin inoculators; the diet; cold water and offerings to Sitala; Shoolbred's 1805 comparison ('in general pretty nearly') and the modification of the cold-water step; 'time immemorial' as the standard colonial phrase.",
-        "quote": "One of the most influential accounts of variolation as practised in India was published by J Z Holwell in 1767 and described the practice in mid-eighteenth-century Bengal."
+        "quote": "One of the most influential accounts of variolation as practised in India was published by J Z Holwell in 1767 and described the practice in mid-eighteenth-century Bengal.",
+        "manualCheck": "PubMed Central was turning away automated readers when this site was built, so the script could not re-fetch the page; the passage was confirmed in the copy of the article downloaded during research."
       },
       {
         "title": "Variolation, Vaccination and Popular Resistance in Early Colonial South India (on the 1819 claim)",
@@ -339,7 +340,8 @@
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC546339/",
         "type": "scholarly",
         "supports": "The 1819 Madras Courier publication of 'evidence' that vaccination was known in ancient India, possibly propaganda.",
-        "quote": "In what might well have been a piece of conscious propaganda, evidence that vaccination had been known in ancient India, was published in the Madras Courier ."
+        "quote": "In what might well have been a piece of conscious propaganda, evidence that vaccination had been known in ancient India, was published in the Madras Courier .",
+        "manualCheck": "PubMed Central was turning away automated readers when this site was built, so the script could not re-fetch the page; the passage was confirmed in the copy of the article downloaded during research."
       }
     ],
     "further": [],
@@ -526,7 +528,8 @@
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4566472/",
         "type": "scholarly",
         "supports": "Sen and Bose's 1931 paper; CIBA's 1952 report and Serpasil for hypertension; Vakil's role; the claim of mention in manuscripts c. 1000 BCE (the tradition side of the myth).",
-        "quote": "Also in 1952, isolated reserpine was introduced as the drug Serpasil for the treatment of hypertension, tachycardia, and thyrotoxicosis."
+        "quote": "Also in 1952, isolated reserpine was introduced as the drug Serpasil for the treatment of hypertension, tachycardia, and thyrotoxicosis.",
+        "manualCheck": "PubMed Central was turning away automated readers when this site was built, so the script could not re-fetch the page; the passage was confirmed in the copy of the article downloaded during research."
       },
       {
         "title": "Notes on Rauwolfia and Ancient Medical Writings of India",

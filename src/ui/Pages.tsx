@@ -116,7 +116,7 @@ function AboutPage() {
   const nSrc = written.reduce((a, e) => a + e.sources.length, 0) + c.ideas.reduce((a, e) => a + e.sources.length, 0) + c.transmissions.reduce((a, e) => a + e.sources.length, 0);
   const count = (k: 'date' | 'claim', v: Confidence) => written.filter((e) => e.confidence[k] === v).length;
   const withImg = written.filter((e) => e.image?.src);
-  const manual = written.flatMap((e) => e.sources).filter((s) => s.manualCheck).length;
+  const manual = [...written, ...c.ideas, ...c.transmissions].flatMap((e) => e.sources).filter((s) => s.manualCheck).length;
   return (
     <Shell title="About">
       <h1>About this map</h1>
@@ -172,7 +172,7 @@ function AboutPage() {
       <ol class="method">
         <li><strong>Sources had to be opened.</strong> Every claim was to be written from pages the researcher actually opened during the work, not from memory. Wikipedia and unsourced sites were not accepted as sources.</li>
         <li><strong>Every citation carries a verbatim passage.</strong> For each of the {nSrc.toLocaleString('en-US')} citations, the researcher recorded the exact words on the page that support the claim. You can see them under “Checked passage” on any source.</li>
-        <li><strong>A script re-read every page.</strong> An automated checker fetched each cited address again and searched it for the recorded passage. A citation only counts as verified if the passage is really there.{manual > 0 ? ` ${manual} citation${manual === 1 ? '' : 's'} could not be machine-checked (for example, scanned documents) and ${manual === 1 ? 'is' : 'are'} marked “Read by hand”.` : ''}</li>
+        <li><strong>A script re-read every page.</strong> An automated checker fetched each cited address again and searched it for the recorded passage. A citation only counts as verified if the passage is really there.{manual > 0 ? ` ${manual} citation${manual === 1 ? '' : 's'} could not be machine-checked (scanned documents, or sites that turn away automated readers); ${manual === 1 ? 'it was' : 'they were'} checked against a saved copy instead and ${manual === 1 ? 'is' : 'are'} marked “Checked by hand”.` : ''}</li>
         <li><strong>A second, independent pass.</strong> A different agent then re-read each entry against its sources, looking for dates, numbers and names that the sources did not support, and for overclaiming.</li>
       </ol>
       <p>

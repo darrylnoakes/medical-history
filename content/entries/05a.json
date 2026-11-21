@@ -89,7 +89,8 @@
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1676324/",
         "type": "scholarly",
         "supports": "The traditional account of a university, school and hospital founded by Khosrow I about 555 (cited here as an example of the tradition); the date 555 is the tradition's.",
-        "quote": "a university, medical school and hospital was established by Khusraw (Chosroes) Anushirawan in about 555 AD"
+        "quote": "a university, medical school and hospital was established by Khusraw (Chosroes) Anushirawan in about 555 AD",
+        "manualCheck": "PubMed Central was turning away automated readers when this site was built, so the script could not re-fetch the page; the passage was confirmed in the copy of the article downloaded during research."
       }
     ],
     "further": [
@@ -316,7 +317,8 @@
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1676324/",
         "type": "scholarly",
         "supports": "Jibrail ibn Bakhtishu heading the new Baghdad hospital; the disputed Damascus hospital of 707 (which some call a leper house); the 'Adudi hospital of 981.",
-        "quote": "There is some controversy as to the events surrounding the construction of the first permanent Islamic bimaristan"
+        "quote": "There is some controversy as to the events surrounding the construction of the first permanent Islamic bimaristan",
+        "manualCheck": "PubMed Central was turning away automated readers when this site was built, so the script could not re-fetch the page; the passage was confirmed in the copy of the article downloaded during research."
       },
       {
         "title": "Islamic Culture and the Medical Arts (exhibition brochure)",
@@ -366,7 +368,8 @@
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1676324/",
         "type": "scholarly",
         "supports": "The tradition side of the myth: a modern article crediting bimaristans with medical records, physician licensure and academic medical education.",
-        "quote": "The complex structure and hierarchy of these hospitals, advent of medical records, physician licensure, government oversight and universal access to care set the example"
+        "quote": "The complex structure and hierarchy of these hospitals, advent of medical records, physician licensure, government oversight and universal access to care set the example",
+        "manualCheck": "PubMed Central was turning away automated readers when this site was built, so the script could not re-fetch the page; the passage was confirmed in the copy of the article downloaded during research."
       },
       {
         "title": "Al-Bīmāristān al-Manṣūrī Explorations: The Interface Between Medicine, Politics and Culture in Early Mamluk Egypt (ASK Working Paper 12)",
@@ -580,7 +583,8 @@
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1676324/",
         "type": "scholarly",
         "supports": "The meat-hanging story as told in a modern article (tradition side of the myth); Harun al-Rashid's reign 786–809.",
-        "quote": "When Caliph Harun Al-Rashid asked Mohammed ibn Zakariyya Al-Razi (Rhazes) to build Baghdad General Hospital, Al-Razi had pieces of meat hung in various quarters of the city"
+        "quote": "When Caliph Harun Al-Rashid asked Mohammed ibn Zakariyya Al-Razi (Rhazes) to build Baghdad General Hospital, Al-Razi had pieces of meat hung in various quarters of the city",
+        "manualCheck": "PubMed Central was turning away automated readers when this site was built, so the script could not re-fetch the page; the passage was confirmed in the copy of the article downloaded during research."
       }
     ],
     "further": [

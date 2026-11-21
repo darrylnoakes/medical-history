@@ -90,7 +90,8 @@
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7314216/",
         "type": "scholarly",
         "supports": "Prior estimates of 50–100 million and the lower reanalysis of 17.4 million deaths.",
-        "quote": "the global death impact of the 1918 pandemic was important but not as severe as most frequently cited estimates"
+        "quote": "the global death impact of the 1918 pandemic was important but not as severe as most frequently cited estimates",
+        "manualCheck": "PubMed Central was turning away automated readers when this site was built, so the script could not re-fetch the page; the passage was confirmed in the copy of the article downloaded during research."
       },
       {
         "title": "Reconstruction of the 1918 Influenza Virus: Unexpected Rewards from the Past",
