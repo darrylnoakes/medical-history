@@ -352,14 +352,19 @@
         "year": 2022,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8904326/",
         "type": "scholarly",
-        "supports": "Remak's and Virchow's life dates; Virchow's statement of omnis cellula e cellula in his lectures on cellular pathology; Schwann's crystallization analogy.",
+        "supports": "Remak's and Virchow's life dates; Virchow's statement of the cellular origin of every cell, in his lectures on cellular pathology.",
         "quote": "Where a cell arises, there a cell must have previously existed"
       }
     ],
     "further": [
       "bynum-1994",
       "porter-1997"
-    ]
+    ],
+    "image": {
+      "commons": "File:T. Schwann, Mikroskopische Untersuchungern u Wellcome L0032288.jpg",
+      "alt": "Engraved plate of cells drawn from plant and animal tissue, each with a visible nucleus.",
+      "caption": "Plate I of Theodor Schwann's *Mikroskopische Untersuchungen* (Berlin, 1839), drawn by Schwann, showing cells from animal and plant tissue."
+    }
   },
   {
     "id": "chadwick",
@@ -452,7 +457,12 @@
     "further": [
       "snowden-2019",
       "porter-1997"
-    ]
+    ],
+    "image": {
+      "commons": "File:Chadwick's sanitary map of Leeds. Wellcome L0009781.jpg",
+      "alt": "Map of the town of Leeds prepared for Chadwick's report on the sanitary condition of the labouring population.",
+      "caption": "A map of Leeds, prepared at Chadwick's request for the 1842 sanitary report, showing where epidemic disease and cholera fell on the town's crowded streets."
+    }
   },
   {
     "id": "blackwell",
@@ -552,7 +562,12 @@
     ],
     "further": [
       "porter-1997"
-    ]
+    ],
+    "image": {
+      "commons": "File:Elizabeth Blackwell NLM 02.jpg",
+      "alt": "Signed black-and-white portrait photograph of Elizabeth Blackwell in later life, with white hair and a lace collar.",
+      "caption": "Elizabeth Blackwell (1821–1910) in later life, in a signed portrait; photographer and date unknown. National Library of Medicine."
+    }
   },
   {
     "id": "hypodermic-syringe",
