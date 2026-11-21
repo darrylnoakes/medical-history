@@ -728,5 +728,25 @@
   "license": "CC BY 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:AlphaFold_2.png"
+ },
+ "roman-public-health": {
+  "commons": "File:Ostia antica - Forica (5156172544).jpg",
+  "src": "/img/roman-public-health.webp",
+  "width": 1000,
+  "height": 664,
+  "credit": "Dennis G. Jarvis",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Ostia_antica_-_Forica_(5156172544).jpg"
+ },
+ "galen": {
+  "commons": "File:Galen-Pig-Vivisection.jpg",
+  "src": "/img/galen.webp",
+  "width": 1000,
+  "height": 480,
+  "credit": "1541 Junta edition of Galen's Works .",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Galen-Pig-Vivisection.jpg"
  }
 }
