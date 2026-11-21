@@ -17,16 +17,28 @@
     "people": [
       "Alexander Fleming (1881–1955), discoverer of penicillin, who warned of resistance in 1945"
     ],
-    "themes": ["public-health", "drugs", "institutions"],
+    "themes": [
+      "public-health",
+      "drugs",
+      "institutions"
+    ],
     "summary": "Fleming warned in 1945 that misused penicillin would breed resistant germs. By 2019 resistant bacteria were directly killing more than a million people a year.",
     "body": [
       "The danger was foreseen at the start. In his Nobel lecture of 11 December 1945, Alexander Fleming warned that once penicillin could be bought in shops, people would underdose themselves and, by exposing their microbes to non-lethal amounts, \"make them resistant.\" The pattern became routine. Penicillin-resistant bacteria had been detected in 1942; methicillin, brought in in 1960 to get around them, met resistance in 1961.",
-      "In May 2015 the World Health Assembly adopted a global action plan on antimicrobial resistance, warning of a \"post-antibiotic era\" in which common infections could kill again, with few replacement drugs in the pipeline. The first comprehensive count followed in 2022: in 2019, resistant bacteria directly caused an estimated 1.27 million deaths and were associated with 4.95 million. A 2024 update put attributable deaths at 1.14 million in 2021 and forecast 39 million more between 2025 and 2050.",
-      "In September 2024 the UN General Assembly committed to cutting those deaths by 10% by 2030. In October 2025 WHO reported that one in six laboratory-confirmed bacterial infections worldwide in 2023 resisted antibiotic treatment."
+      "In May 2015 the World Health Assembly adopted a global action plan on antimicrobial resistance, warning of a \"post-antibiotic era\" in which common infections could kill again, with few replacement drugs in the pipeline. The most comprehensive count to that date followed in 2022: in 2019, resistant bacteria directly caused an estimated 1.27 million deaths and were associated with 4.95 million. A 2024 update put attributable deaths at 1.14 million in 2021 and forecast 39 million deaths attributable to resistance between 2025 and 2050.",
+      "In September 2024 the UN General Assembly committed to cutting the 4.95 million deaths a year associated with resistant bacteria by 10% by 2030. In October 2025 WHO reported that one in six laboratory-confirmed bacterial infections worldwide in 2023 resisted antibiotic treatment."
     ],
     "links": [
-      { "to": "penicillin", "kind": "built-on", "note": "Resistance to penicillin appeared within a few years of its first use." },
-      { "to": "who-founded", "kind": "see-also", "note": "WHO coordinates the global action plan and resistance surveillance." }
+      {
+        "to": "penicillin",
+        "kind": "built-on",
+        "note": "Resistance to penicillin appeared within a few years of its first use."
+      },
+      {
+        "to": "who-founded",
+        "kind": "see-also",
+        "note": "WHO coordinates the global action plan and resistance surveillance."
+      }
     ],
     "sources": [
       {
@@ -64,7 +76,7 @@
         "year": 2022,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8841637/",
         "type": "scholarly",
-        "supports": "1.27 million attributable and 4.95 million associated deaths in 2019, with uncertainty ranges.",
+        "supports": "1.27 million attributable and 4.95 million associated deaths in 2019, with uncertainty ranges; described by its authors as the most comprehensive estimates of resistance burden to date.",
         "quote": "there were an estimated 4·95 million (3·62–6·57) deaths associated with bacterial AMR in 2019, including 1·27 million (95% UI 0·911–1·71) deaths attributable to bacterial AMR"
       },
       {
@@ -83,7 +95,7 @@
         "year": 2024,
         "url": "https://www.who.int/news/item/26-09-2024-world-leaders-commit-to-decisive-action-on-antimicrobial-resistance",
         "type": "institutional",
-        "supports": "UN General Assembly political declaration of September 2024 with a 10% reduction target by 2030.",
+        "supports": "UN General Assembly political declaration of September 2024: 10% reduction target by 2030 for the 4.95 million deaths associated with bacterial resistance each year.",
         "quote": "including reducing the estimated 4.95 million human deaths associated with bacterial antimicrobial resistance (AMR) annually by 10% by 2030"
       },
       {
@@ -100,7 +112,7 @@
     "image": {
       "commons": "File:Scanning electron micrograph of Methicillin-resistant Staphylococcus aureus (MRSA) and a dead Human neutrophil - NIAID.jpg",
       "alt": "Colorized electron micrograph of small round MRSA bacteria clustered on a large dead white blood cell.",
-      "caption": "Methicillin-resistant *Staphylococcus aureus* (MRSA) with a dead human neutrophil, the white blood cell that should have destroyed it. Colorized scanning electron micrograph, US National Institute of Allergy and Infectious Diseases."
+      "caption": "Methicillin-resistant *Staphylococcus aureus* (MRSA) with a dead human neutrophil, a type of white blood cell. Colorized scanning electron micrograph, US National Institute of Allergy and Infectious Diseases."
     }
   },
   {
@@ -125,20 +137,31 @@
       "Svetlana Mojsov, peptide chemist who identified the active form of GLP-1",
       "Lotte Bjerre Knudsen, Novo Nordisk scientist who turned GLP-1 into medicines"
     ],
-    "themes": ["drugs", "theory"],
-    "summary": "A gut hormone found by way of an anglerfish, and a mimic borrowed from a lizard, became the first drugs to produce large, lasting weight loss.",
+    "themes": [
+      "drugs",
+      "theory"
+    ],
+    "summary": "A gut hormone found by way of an anglerfish, and a mimic borrowed from a lizard, led to drugs that produce large weight loss, and to a wave of new questions.",
     "body": [
-      "GLP-1 is a gut hormone that prompts the pancreas to release insulin after a meal. It was found via a fish: in 1982 Joel Habener's laboratory reported that the anglerfish glucagon gene also encodes a second, glucagon-like peptide. With the chemist Svetlana Mojsov he showed by 1987 that a shortened form, GLP-1 (7-37), is the active hormone.",
-      "The body breaks the hormone down quickly, so the first drug borrowed a sturdier mimic, exendin-4, from the saliva of the Gila monster. Its synthetic copy, exenatide, was approved in 2005. At Novo Nordisk, Lotte Bjerre Knudsen turned GLP-1 itself into long-acting medicines. Semaglutide, a weekly injection, was approved for diabetes in 2017 and, at a higher dose, for obesity in 2021, after people without diabetes lost on average 15% of their weight.",
+      "GLP-1 is a gut hormone that prompts the pancreas to release insulin after a meal. It was found via a fish: in 1982 Joel Habener's laboratory reported that the anglerfish glucagon gene also encodes a second, glucagon-like peptide. In 1987 the chemist Svetlana Mojsov, Habener and Gordon Weir showed that a shortened form, GLP-1 (7-37), is a potent stimulator of insulin release.",
+      "The body breaks the hormone down quickly, so the first drug borrowed a sturdier mimic, exendin-4, from the saliva of the Gila monster. Its synthetic copy, exenatide, was approved in 2005. At Novo Nordisk, Lotte Bjerre Knudsen led work to turn GLP-1 itself into long-acting medicines, first liraglutide in 2010 and then semaglutide. Semaglutide, a weekly injection, was approved for diabetes in 2017 and, at a higher dose, for obesity in 2021, after people without diabetes lost on average 15% of their weight.",
       "In March 2024 the FDA approved semaglutide to cut heart attacks, strokes and cardiovascular deaths in people with obesity and heart disease, after a trial of more than 17,600 people. In December 2025 WHO issued its first guideline on the drugs for obesity, conditional because long-term data are limited and costs high, and projected that they would reach fewer than 10% of those who could benefit by 2030."
     ],
     "myth": {
       "tradition": "Ozempic and similar drugs are made from Gila monster venom.",
-      "record": "Exendin-4 was isolated from the lizard's saliva and inspired only the first drug, exenatide, a synthetic copy. Semaglutide is a modified form of the human hormone."
+      "record": "Exendin-4 was isolated from the lizard's saliva, not its venom, and a synthetic copy of it became the first GLP-1 drug, exenatide. Semaglutide is a heavily modified form of the human hormone."
     },
     "links": [
-      { "to": "insulin", "kind": "built-on", "note": "GLP-1 drugs work by boosting the body's own insulin release." },
-      { "to": "statins", "kind": "see-also", "note": "Another mass-market drug class judged by its effect on heart attacks and strokes." }
+      {
+        "to": "insulin",
+        "kind": "built-on",
+        "note": "GLP-1 drugs work by boosting the body's own insulin release."
+      },
+      {
+        "to": "statins",
+        "kind": "see-also",
+        "note": "Another mass-market drug class judged by its effect on heart attacks and strokes."
+      }
     ],
     "sources": [
       {
@@ -148,7 +171,7 @@
         "year": 2024,
         "url": "https://laskerfoundation.org/winners/glp-1-based-therapy-for-obesity/",
         "type": "institutional",
-        "supports": "Habener's 1982 anglerfish finding; Mojsov's identification of GLP-1 (7-37) and 1987 insulin experiments; Knudsen's role; semaglutide approvals in 2017 and 2021; 15% average weight loss.",
+        "supports": "Habener's 1982 anglerfish finding; Mojsov, Habener and Weir's 1987 experiments with GLP-1 (7-37); Knudsen's team and liraglutide (2010); semaglutide as a highly modified GLP-1; approvals in 2017 and 2021; 15% average weight loss.",
         "quote": "Semaglutide gained FDA approval for treating diabetes (Ozempic®) in 2017 and obesity (Wegovy®) in 2021."
       },
       {
@@ -176,7 +199,7 @@
         "year": 2025,
         "url": "https://www.who.int/news/item/01-12-2025-who-issues-global-guideline-on-the-use-of-glp-1-medicines-in-treating-obesity",
         "type": "institutional",
-        "supports": "December 2025 conditional guideline; limited long-term data; projection of fewer than 10% access by 2030.",
+        "supports": "December 2025 first WHO guideline, conditional because long-term data are limited; projection of fewer than 10% access by 2030.",
         "quote": "Even with rapid expansion in production, GLP-1 therapies are projected to reach fewer than 10% of those who could benefit by 2030."
       }
     ],
@@ -184,7 +207,7 @@
     "image": {
       "commons": "File:Gila monster (Heloderma suspectum).jpg",
       "alt": "A Gila monster, a heavy-bodied lizard with beaded black and pink-orange skin, resting on sand.",
-      "caption": "A Gila monster (*Heloderma suspectum*) at Burgers' Zoo, Arnhem. A peptide from this lizard's saliva, exendin-4, became the first GLP-1 drug, exenatide, in 2005."
+      "caption": "A Gila monster (*Heloderma suspectum*) at Burgers' Zoo, Arnhem, the Netherlands. A peptide from this lizard's saliva, exendin-4, led to the first GLP-1 drug, exenatide, approved in 2005."
     }
   },
   {
@@ -206,13 +229,17 @@
     "people": [
       "Tedros Adhanom Ghebreyesus, Director-General of WHO"
     ],
-    "themes": ["public-health", "institutions", "practice"],
-    "summary": "A cluster of 'viral pneumonia' in Wuhan became a pandemic that killed an estimated 15 million people in two years. Where it came from is still disputed.",
+    "themes": [
+      "public-health",
+      "institutions",
+      "practice"
+    ],
+    "summary": "A cluster of 'viral pneumonia' in Wuhan became a pandemic linked to an estimated 15 million excess deaths in two years. Where it came from is still disputed.",
     "body": [
       "On 31 December 2019, WHO's office in China picked up a statement from the Wuhan Municipal Health Commission about cases of \"viral pneumonia\" in the city. On 11 January 2020 WHO said it had received the genetic sequence of the new coronavirus from China. The disease was named COVID-19 in February, and on 11 March 2020, citing \"alarming levels of spread and severity\" and \"alarming levels of inaction\", WHO declared that it could be characterized as a pandemic.",
       "Official counts badly understated the toll. WHO later estimated that about 14.9 million more people died in 2020 and 2021 than would otherwise have been expected, directly or indirectly because of the pandemic, with a plausible range of 13.3 to 16.6 million. The Institute for Health Metrics and Evaluation put the excess at 18.2 million, against 5.94 million reported COVID-19 deaths.",
-      "Medicine learned fast by testing. The British RECOVERY trial, run in 176 National Health Service hospital organizations, randomized thousands of patients and showed that dexamethasone, a cheap old steroid, cut deaths by about a third among patients on ventilators and by about a fifth among those on oxygen, while offering no benefit to those needing no help breathing. Vaccines followed within the year.",
-      "On 5 May 2023 WHO declared that COVID-19 was \"an established and ongoing health issue\" and no longer a global health emergency. Two years later, on 20 May 2025, the World Health Assembly adopted the first Pandemic Agreement, after more than three years of negotiation.",
+      "Medicine learned fast by testing. The British RECOVERY trial, run in 176 National Health Service hospital organizations, randomized thousands of patients and showed that dexamethasone, a long-established steroid, cut deaths by about a third among patients on ventilators and by about a fifth among those on oxygen, while offering no benefit to those needing no help breathing. Vaccines followed within the year.",
+      "On 5 May 2023 WHO declared that COVID-19 was \"an established and ongoing health issue\" and no longer a global health emergency. Two years later, on 20 May 2025, the World Health Assembly adopted what WHO called the world's first Pandemic Agreement, after more than three years of negotiation. It cannot be signed until a pathogen-sharing annex is finalized, and by May 2026 member states had agreed to extend those talks.",
       "Where the virus came from remains open. In June 2025 WHO's scientific advisory group concluded that the weight of available evidence suggests spillover from animals, either directly from bats or through an intermediate host. WHO's director-general nonetheless said that all hypotheses, including a laboratory leak, must stay on the table, and asked China again for early genetic sequences and details of animals sold in Wuhan's markets."
     ],
     "myth": {
@@ -220,10 +247,26 @@
       "record": "Neither is proven. WHO's advisory group in 2025 judged animal spillover best supported by the available evidence, while WHO said a lab leak could not be excluded without more data from China."
     },
     "links": [
-      { "to": "influenza-1918", "kind": "see-also", "note": "The last pandemic on a comparable scale." },
-      { "to": "sars-2003", "kind": "built-on", "note": "An earlier coronavirus outbreak that shaped how SARS-CoV-2 was recognized and named." },
-      { "to": "mrna-vaccines", "kind": "led-to", "note": "The pandemic was the first large-scale test of mRNA vaccines." },
-      { "to": "evidence-based-medicine", "kind": "see-also", "note": "RECOVERY showed how fast large randomized trials can settle treatment questions." }
+      {
+        "to": "influenza-1918",
+        "kind": "see-also",
+        "note": "The last pandemic on a comparable scale."
+      },
+      {
+        "to": "sars-2003",
+        "kind": "built-on",
+        "note": "An earlier coronavirus outbreak that shaped how SARS-CoV-2 was recognized and named."
+      },
+      {
+        "to": "mrna-vaccines",
+        "kind": "led-to",
+        "note": "The pandemic was the first large-scale test of mRNA vaccines."
+      },
+      {
+        "to": "evidence-based-medicine",
+        "kind": "see-also",
+        "note": "RECOVERY showed how fast large randomized trials can settle treatment questions."
+      }
     ],
     "sources": [
       {
@@ -240,7 +283,7 @@
         "year": 2022,
         "url": "https://www.who.int/news/item/05-05-2022-14.9-million-excess-deaths-were-associated-with-the-covid-19-pandemic-in-2020-and-2021",
         "type": "institutional",
-        "supports": "WHO excess-mortality estimate of 14.9 million (13.3–16.6 million) for 2020–2021.",
+        "supports": "WHO excess-mortality estimate of 14.9 million (13.3–16.6 million) for 2020–2021, which WHO describes as associated directly or indirectly with the pandemic.",
         "quote": "between 1 January 2020 and 31 December 2021 was approximately 14.9 million (range 13.3 million to 16.6 million)"
       },
       {
@@ -278,7 +321,7 @@
         "year": 2025,
         "url": "https://www.who.int/news/item/20-05-2025-world-health-assembly-adopts-historic-pandemic-agreement-to-make-the-world-more-equitable-and-safer-from-future-pandemics",
         "type": "institutional",
-        "supports": "Adoption of the Pandemic Agreement in May 2025 after more than three years of negotiations.",
+        "supports": "Adoption of the world's first Pandemic Agreement in May 2025 after more than three years of negotiations.",
         "quote": "The landmark decision by the 78 th World Health Assembly culminates more than three years of intensive negotiations"
       },
       {
@@ -289,9 +332,20 @@
         "type": "institutional",
         "supports": "SAGO's conclusion favoring zoonotic spillover; Director-General's statement that all hypotheses, including lab leak, remain on the table; data requested from China.",
         "quote": "As things stand, all hypotheses must remain on the table, including zoonotic spillover and lab leak."
+      },
+      {
+        "title": "WHO Member States agree to extend negotiations on Pathogen Access and Benefit Sharing annex",
+        "publisher": "World Health Organization",
+        "year": 2026,
+        "url": "https://www.who.int/news/item/01-05-2026-who-member-states-agree-to-extend-negotiations-on-pathogen-access-and-benefit-sharing-annex",
+        "type": "institutional",
+        "supports": "Pandemic Agreement cannot be signed until the PABS annex is finalized; negotiations extended in 2026.",
+        "quote": "Finalizing the PABS Annex is necessary so countries can proceed with signature and ratification of the Pandemic Agreement."
       }
     ],
-    "further": ["snowden-2019"],
+    "further": [
+      "snowden-2019"
+    ],
     "image": {
       "commons": "File:Novel Coronavirus SARS-CoV-2 (49597020648).jpg",
       "alt": "Colorized electron micrograph of round virus particles, each ringed by a fringe of spikes.",
@@ -317,12 +371,16 @@
       "Katalin Karikó (b. 1955), Hungarian-born biochemist",
       "Drew Weissman (b. 1959), immunologist at the University of Pennsylvania"
     ],
-    "themes": ["drugs", "technology", "public-health"],
+    "themes": [
+      "drugs",
+      "technology",
+      "public-health"
+    ],
     "summary": "A biochemist who struggled for funding and an immunologist found how to slip synthetic mRNA past the immune system. Fifteen years later it became a pandemic vaccine.",
     "body": [
-      "Messenger RNA carries a gene's instructions to the protein-making machinery of the cell, and by the 1990s a few researchers hoped to inject it as a medicine. The obstacles were serious. Synthetic mRNA was unstable, needed fatty lipid carriers to get into cells, and set off inflammation. One of the few who persisted was the Hungarian biochemist Katalin Karikó, an assistant professor at the University of Pennsylvania who had trouble persuading funders that the project mattered.",
+      "Messenger RNA carries a gene's instructions to the protein-making machinery of the cell, and by the 1990s a few researchers hoped to inject it as a medicine. The obstacles were serious. Synthetic mRNA was considered unstable and hard to deliver, needing sophisticated lipid carrier systems developed by others, and it set off inflammation. One of the few who persisted was the Hungarian biochemist Katalin Karikó, an assistant professor at the University of Pennsylvania who had trouble persuading funders that the project mattered.",
       "With a new colleague, the immunologist Drew Weissman, she noticed that the RNA in mammalian cells carries chemically modified bases, while mRNA made in the test tube does not. When they built mRNA with modified bases, the inflammatory response almost disappeared. They published in 2005, and in 2008 and 2010 showed that the modifications also raised protein production.",
-      "When the genetic sequence of the new coronavirus reached WHO on 11 January 2020, the platform was ready. Two base-modified mRNA vaccines against the virus's surface protein were developed at record speed, reported protection of around 95%, and were approved in December 2020, less than a year later. On 31 December 2020 WHO issued its first emergency use validation for a COVID-19 vaccine.",
+      "When the genetic sequence of the new coronavirus reached WHO on 11 January 2020, the platform was ready. Two base-modified mRNA vaccines encoding the virus's surface protein were developed at what the Nobel committee called record speed, reported protection of around 95%, and were approved in December 2020, less than a year after the sequence was shared. On 31 December 2020 WHO issued its first emergency use validation for a COVID-19 vaccine.",
       "Karikó and Weissman shared the 2023 Nobel Prize in Physiology or Medicine. By then more than 13 billion doses of COVID-19 vaccines of all types had been given. One modelling study estimated that vaccination prevented 14.4 million COVID-19 deaths in its first year, or 19.8 million if excess deaths are used as the measure. Such figures rest on assumptions about what would otherwise have happened, and they credit all vaccine types, not mRNA alone."
     ],
     "myth": {
@@ -330,9 +388,21 @@
       "record": "The speed rested on decades of work on mRNA, including Karikó and Weissman's 2005 discovery, published fifteen years before the pandemic. What was compressed was the timetable for testing and manufacture."
     },
     "links": [
-      { "to": "covid-19", "kind": "see-also", "note": "The pandemic that made mRNA vaccines a mass technology." },
-      { "to": "smallpox-eradication", "kind": "see-also", "note": "An older vaccination triumph, achieved over decades rather than months." },
-      { "to": "recombinant-dna", "kind": "built-on", "note": "Molecular biology tools that made synthetic mRNA possible." }
+      {
+        "to": "covid-19",
+        "kind": "see-also",
+        "note": "The pandemic that made mRNA vaccines a mass technology."
+      },
+      {
+        "to": "smallpox-eradication",
+        "kind": "see-also",
+        "note": "An older vaccination triumph, achieved over decades rather than months."
+      },
+      {
+        "to": "recombinant-dna",
+        "kind": "built-on",
+        "note": "Molecular biology tools that made synthetic mRNA possible."
+      }
     ],
     "sources": [
       {
@@ -389,20 +459,35 @@
     "place": "United States; Google DeepMind, London",
     "people": [
       "Demis Hassabis (b. 1976), chief executive of Google DeepMind",
-      "John Jumper (b. 1985), DeepMind researcher who led AlphaFold2",
+      "John Jumper (b. 1985), senior research scientist at DeepMind who shared the Nobel for AlphaFold2",
       "Michael Abràmoff, lead investigator of the IDx-DR pivotal trial"
     ],
-    "themes": ["technology", "practice"],
+    "themes": [
+      "technology",
+      "practice"
+    ],
     "summary": "Software that learns from examples began reading eye scans unsupervised in 2018 and predicting the shapes of proteins in 2020. Proving it helps patients is harder.",
     "body": [
-      "Deep learning, software that learns patterns from large sets of labeled examples, entered the clinic through images. In 2018 the FDA authorized IDx-DR, which checks retinal photographs for diabetic eye disease, after a trial of 900 people at primary care clinics. It was the first autonomous AI diagnostic system the agency had authorized in any field of medicine, meaning no clinician had to read the image. By mid-2026 the FDA's public list of AI-enabled devices ran to more than 1,600 entries, three-quarters of them in radiology.",
+      "Deep learning, software that learns patterns from large sets of labeled examples, entered the clinic through images. In 2018 the FDA authorized IDx-DR, which checks retinal photographs for diabetic eye disease, after a trial of 900 people at primary care clinics. The trial's authors describe it as the first autonomous AI diagnostic system the FDA had authorized in any field of medicine, meaning no clinician had to read the image. By mid-2026 the FDA's public list of AI-enabled devices ran to more than 1,600 entries, three-quarters of them in radiology.",
       "In 2020 Demis Hassabis and John Jumper of DeepMind presented AlphaFold2, which predicts a protein's three-dimensional shape from its amino acid sequence, a problem researchers had attacked since the 1970s. It has since predicted the structures of virtually all 200 million known proteins, and in 2024 it won them a share of the Nobel Prize in Chemistry.",
-      "Validated benefit has lagged behind the promise. When University of Michigan researchers tested a widely used commercial sepsis-warning model in 2021, it missed 67% of sepsis cases while raising alerts on 18% of all hospitalized patients."
+      "Evidence of patient benefit has lagged behind the promise. When University of Michigan researchers tested a widely used commercial sepsis-warning model in 2021, it missed 67% of sepsis cases while raising alerts on 18% of all hospitalized patients."
     ],
     "links": [
-      { "to": "human-genome-project", "kind": "built-on", "note": "Sequence databases gave AI the raw material to learn from." },
-      { "to": "ct-scanner", "kind": "built-on", "note": "Digital medical imaging, where most medical AI is used." },
-      { "to": "evidence-based-medicine", "kind": "see-also", "note": "The standard of proof that AI tools are now asked to meet." }
+      {
+        "to": "human-genome-project",
+        "kind": "built-on",
+        "note": "Sequence databases gave AI the raw material to learn from."
+      },
+      {
+        "to": "ct-scanner",
+        "kind": "built-on",
+        "note": "Digital medical imaging, where most medical AI is used."
+      },
+      {
+        "to": "evidence-based-medicine",
+        "kind": "see-also",
+        "note": "The standard of proof that AI tools are now asked to meet."
+      }
     ],
     "sources": [
       {
@@ -412,7 +497,7 @@
         "year": 2018,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6550188/",
         "type": "primary",
-        "supports": "900-subject pivotal trial in primary care; FDA authorization as the first autonomous AI diagnostic system in any field of medicine.",
+        "supports": "900-subject pivotal trial in primary care; FDA authorization, described by the authors as the first autonomous AI diagnostic system authorized in any field of medicine.",
         "quote": "making it, the first FDA authorized autonomous AI diagnostic system in any field of medicine"
       },
       {
@@ -466,13 +551,20 @@
     },
     "place": "Ghana, Kenya and Malawi (pilots); sub-Saharan Africa",
     "people": [],
-    "themes": ["drugs", "public-health"],
+    "themes": [
+      "drugs",
+      "public-health"
+    ],
     "summary": "After 30 years of development, WHO recommended the first malaria vaccine in 2021. A second followed in 2023, and by 2026 doses had reached 25 African countries.",
     "body": [
-      "On 6 October 2021 WHO recommended RTS,S/AS01 for children in areas of moderate to high malaria transmission. It was the product of 30 years of work by GSK with the nonprofit PATH and African research centers. Pilots in Ghana, Kenya and Malawi had reached more than 900,000 children since 2019 and cut deadly severe malaria by 30%. In October 2023 WHO recommended a second vaccine, R21/Matrix-M, partly because demand for RTS,S far exceeded supply. Routine vaccination spread from 2024, when Cameroon and 13 other countries began; by January 2026 Gavi had delivered over 39 million doses to 25 African countries."
+      "On 6 October 2021 WHO recommended RTS,S/AS01 for children in areas of moderate to high malaria transmission. It was the product of 30 years of work by GSK with the nonprofit PATH and African research centers. Pilots in Ghana, Kenya and Malawi had reached more than 900,000 children since 2019 and cut deadly severe malaria by 30%. In October 2023 WHO recommended a second vaccine, R21/Matrix-M, partly because demand for malaria vaccines was unprecedented and the supply of RTS,S was limited. Routine vaccination spread from 2024, when Cameroon and 13 other countries began; by January 2026 Gavi had delivered over 39 million doses to 25 African countries."
     ],
     "links": [
-      { "to": "artemisinin", "kind": "see-also", "note": "The leading malaria drug, which the vaccines complement." }
+      {
+        "to": "artemisinin",
+        "kind": "see-also",
+        "note": "The leading malaria drug, which the vaccines complement."
+      }
     ],
     "sources": [
       {
@@ -490,7 +582,7 @@
         "year": 2023,
         "url": "https://www.who.int/news/item/02-10-2023-who-recommends-r21-matrix-m-vaccine-for-malaria-prevention-in-updated-advice-on-immunization",
         "type": "institutional",
-        "supports": "R21 as the second recommended malaria vaccine, October 2023; demand for RTS,S exceeding supply.",
+        "supports": "R21 as the second recommended malaria vaccine, October 2023; WHO noted unprecedented demand and limited RTS,S supply.",
         "quote": "The R21 vaccine is the second malaria vaccine recommended by WHO, following the RTS,S/AS01 vaccine, which received a WHO recommendation in 2021."
       },
       {
@@ -524,15 +616,30 @@
       "David Bennett Sr. (d. 2022), first recipient of a gene-edited pig heart",
       "Richard Slayman (d. 2024), first living recipient of a gene-edited pig kidney"
     ],
-    "themes": ["surgery", "technology"],
-    "summary": "In 2022 a dying man received a gene-edited pig's heart and lived two months. By 2025 a pig kidney had kept a man off dialysis for 271 days.",
+    "themes": [
+      "surgery",
+      "technology"
+    ],
+    "summary": "In 2022 a dying man received a gene-edited pig's heart and lived two months. By 2025 a pig kidney had kept a man off dialysis for 271 days, bridging him to a human kidney.",
     "body": [
-      "On 7 January 2022 surgeons at the University of Maryland gave David Bennett, 57, who was too sick for a human heart, a genetically modified pig heart. It worked without immediate rejection; he died on 8 March. On 16 March 2024 Massachusetts General Hospital gave Richard Slayman, 62, a kidney from a pig with 69 genetic edits, the first such kidney in a living person. He died on day 51 of a heart event that autopsy did not link to the graft. A later kidney worked in Tim Andrews for a record 271 days, and FDA-approved trials are under way."
+      "On 7 January 2022 surgeons at the University of Maryland gave David Bennett, 57, who was too sick for a human heart, a genetically modified pig heart. It worked without immediate rejection; he died on 8 March. On 16 March 2024 Massachusetts General Hospital gave Richard Slayman, 62, a kidney from a pig with 69 genetic edits, the first such kidney in a living person. He died within two months of a cardiac event; the autopsy found no acute heart attack and pointed to chronic heart-muscle scarring likely linked to his long dialysis. In January 2025 Tim Andrews received a pig kidney that kept him off dialysis for 271 days, the longest reported, before he received a human kidney in January 2026. FDA-approved trials are under way."
     ],
     "links": [
-      { "to": "kidney-transplant", "kind": "built-on", "note": "Human-to-human kidney transplantation, whose donor shortage pig organs aim to solve." },
-      { "to": "heart-transplant", "kind": "built-on", "note": "The operation Bennett was too ill to receive." },
-      { "to": "crispr", "kind": "built-on", "note": "Gene editing made the multi-edit donor pigs possible." }
+      {
+        "to": "kidney-transplant",
+        "kind": "built-on",
+        "note": "Human-to-human kidney transplantation, whose donor shortage pig organs aim to solve."
+      },
+      {
+        "to": "heart-transplant",
+        "kind": "built-on",
+        "note": "The operation Bennett was too ill to receive."
+      },
+      {
+        "to": "crispr",
+        "kind": "built-on",
+        "note": "Gene editing made the multi-edit donor pigs possible."
+      }
     ],
     "sources": [
       {
@@ -570,7 +677,7 @@
         "year": 2026,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12823403/",
         "type": "scholarly",
-        "supports": "69 genetic modifications; fatal cardiac event on day 51 with no acute myocardial infarction at autopsy.",
+        "supports": "69 genetic modifications; fatal cardiac event with no acute myocardial infarction at autopsy and chronic fibrosis likely related to prior dialysis.",
         "quote": "Although our xenotransplant recipient developed a fatal cardiac event on day 51, no acute myocardial infarction was found on autopsy"
       },
       {
@@ -581,6 +688,15 @@
         "type": "scholarly",
         "supports": "Tim Andrews's January 2025 transplant and record 271 days of graft function; FDA-approved prospective trials under way.",
         "quote": "Clinical xenotransplantation has crossed a decisive threshold, with FDA-approved prospective trials now underway and a record 271-day xenograft survival documented in a living recipient"
+      },
+      {
+        "title": "How a pig-kidney xenotransplant served as a successful bridge to human transplant for patient with end-stage kidney disease",
+        "publisher": "Mass General Brigham",
+        "year": 2026,
+        "url": "https://news.massgeneralbrigham.org/en/pig-kidney-xenotransplant-bridge-to-human-transplant",
+        "type": "institutional",
+        "supports": "Andrews lived 271 days without dialysis on a pig kidney, the longest dialysis-free survival after porcine kidney xenotransplantation, then received a human kidney in January 2026.",
+        "quote": "successfully lived with the genetically edited kidney for 271 days—during which he did not need dialysis—before receiving a human kidney from a donor"
       }
     ],
     "further": []
@@ -601,14 +717,25 @@
     },
     "place": "United States",
     "people": [],
-    "themes": ["drugs", "mind"],
+    "themes": [
+      "drugs",
+      "mind"
+    ],
     "summary": "Antibodies that clear amyloid from the brain became the first drugs shown to slow Alzheimer's. The slowing is real but small, and the side effects can be serious.",
     "body": [
-      "In June 2021 the FDA gave accelerated approval to aducanumab, an antibody against amyloid, the protein that forms plaques in Alzheimer's brains, despite conflicting trial results. Firmer evidence came with lecanemab, given traditional approval on 6 July 2023 after an 18-month trial in 1,795 patients showed slower decline, and donanemab, approved on 2 July 2024. The benefit is modest: a pooled analysis put it at about a third of a point on a standard dementia rating scale, below common thresholds for a noticeable difference. Both drugs can cause ARIA, brain swelling and small bleeds seen on scans."
+      "In June 2021 the FDA gave accelerated approval to aducanumab, an antibody against amyloid, the protein that forms plaques in Alzheimer's brains, despite conflicting trial results: one of its two phase 3 trials was positive and one negative. Firmer evidence came with lecanemab, given traditional approval on 6 July 2023 after an 18-month trial in 1,795 patients showed slower decline, and donanemab, approved on 2 July 2024. The FDA called lecanemab's benefit clinically meaningful, but the effect is modest: a pooled analysis of eight trials of four antibodies put it at about a third of a point on a standard dementia rating scale, below common thresholds for a noticeable difference. Both drugs can cause ARIA, brain swelling and small bleeds seen on scans."
     ],
     "links": [
-      { "to": "alzheimer", "kind": "built-on", "note": "Alzheimer first described the plaques these drugs target." },
-      { "to": "monoclonal-antibodies", "kind": "built-on", "note": "The drugs are engineered monoclonal antibodies." }
+      {
+        "to": "alzheimer",
+        "kind": "built-on",
+        "note": "Alzheimer first described the plaques these drugs target."
+      },
+      {
+        "to": "monoclonal-antibodies",
+        "kind": "built-on",
+        "note": "The drugs are engineered monoclonal antibodies."
+      }
     ],
     "sources": [
       {
@@ -617,7 +744,7 @@
         "year": 2023,
         "url": "https://www.fda.gov/news-events/press-announcements/fda-converts-novel-alzheimers-disease-treatment-traditional-approval",
         "type": "institutional",
-        "supports": "Traditional approval of lecanemab on 6 July 2023; trial of 1,795 patients over 18 months; ARIA as a side effect.",
+        "supports": "Traditional approval of lecanemab on 6 July 2023; trial of 1,795 patients over 18 months; FDA's description of the benefit as clinically meaningful; ARIA as a side effect.",
         "quote": "Study 301 was a multicenter, randomized, double-blind, placebo-controlled, parallel-group study that enrolled 1,795 patients with Alzheimer’s disease."
       },
       {
@@ -635,7 +762,7 @@
         "year": 2024,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10883242/",
         "type": "scholarly",
-        "supports": "Aducanumab accelerated approval June 2021 and conflicting evidence; pooled effect of about 0.33 CDR-SB points, below the minimal clinically important difference.",
+        "supports": "Aducanumab accelerated approval June 2021 and one positive, one negative phase 3 trial; pooled effect of about 0.33 CDR-SB points across eight trials, below the minimal clinically important difference.",
         "quote": "these effects are below the minimal clinically important difference in CDR‐SB for mild cognitive impairment (MCI) and mild AD cases"
       }
     ],
