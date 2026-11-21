@@ -242,19 +242,24 @@
       "year": 100,
       "earliest": -100,
       "latest": 220,
-      "display": "c. 1st century BCE – 2nd century CE"
+      "display": "c. 1st century BCE – 2nd century CE",
+      "traditional": {
+        "year": -2737,
+        "display": "c. 2737 BCE",
+        "note": "Tradition places the legendary Divine Farmer in remote antiquity; some modern accounts give the date 2737 BCE for his reign and for the origin of the book."
+      }
     },
     "confidence": {
       "date": "uncertain",
       "claim": "agreed",
-      "note": "No dated copy survives: Unschuld places its writing between the 1st century BCE and the 1st century CE, while other scholars say Eastern Han (25–220 CE). The original is lost, so its exact contents are known only through later editions and modern reconstructions."
+      "note": "No dated copy survives: Unschuld places its writing between the 1st century BCE and the 1st century CE, while a Chinese Medicine survey says Eastern Han (25–220 CE). The original is lost, so its contents are known only through Tao Hongjing's later edition and modern reconstructions. The 2737 BCE traditional date is a modern gloss on legend."
     },
     "place": "China",
     "people": ["Shennong, the Divine Farmer, legendary culture hero to whom it is attributed", "Tao Hongjing (452/456–536), Daoist scholar who edited and expanded it"],
     "themes": ["drugs", "texts"],
-    "summary": "China's first book of drugs sorted 365 substances into rulers, officials and helpers. It was named for a legendary sage who tasted every plant.",
+    "summary": "China's earliest known book of drugs sorted 365 substances into rulers, officials and helpers. It was named for a legendary sage said to have tasted every plant.",
     "body": [
-      "Legend says Shennong, the Divine Farmer, pitied human suffering and tasted every kind of plant, meeting a hundred poisons a day. The book that bears his name is far younger and anonymous: historians date it to the Han period, between the 1st century BCE and the 2nd century CE. It is the earliest known Chinese *bencao*, or materia medica, a book that describes drugs one by one instead of listing mixed recipes.",
+      "Legend says Shennong, the Divine Farmer, pitied human suffering and tasted every kind of plant, meeting a hundred poisons a day. The book that bears his name is far younger and anonymous. Paul Unschuld says historians agree it was written between the 1st century BCE and the 1st century CE; others place it in the Eastern Han (25–220 CE). It is the earliest known Chinese *bencao*, or materia medica, a book that describes drugs one by one instead of listing mixed recipes.",
       "It covers 365 substances, the number of days in a year, for reasons no one has explained. Most are plants. They are sorted into three ranks that mirror the imperial court. Upper-rank \"rulers\" were nonpoisonous and helped prolong life; lower-rank \"helpers\" and \"agents\" carried poison and drove out disease; middle-rank \"officials\" sat between. Whether a drug \"has poison\" became a basic question in Chinese pharmacy.",
       "The original is lost. Around 500 CE the Daoist scholar Tao Hongjing kept its three-part structure, added 365 further drugs, and launched the main line of Chinese drug books. The versions read today are reconstructions made by Chinese and Japanese scholars since the 17th century."
     ],
@@ -264,7 +269,7 @@
     },
     "links": [
       { "to": "huangdi-neijing", "kind": "see-also", "note": "The needling tradition, credited to the Yellow Emperor." },
-      { "to": "tang-pharmacopoeia", "kind": "led-to", "note": "The Tang state revised Tao Hongjing's expanded version in 659." },
+      { "to": "tang-pharmacopoeia", "kind": "led-to", "note": "Later state-sponsored revision of the tradition Tao Hongjing expanded." },
       { "to": "bencao-gangmu", "kind": "led-to", "note": "Li Shizhen's compendium crowned the tradition it began." }
     ],
     "sources": [
@@ -296,9 +301,24 @@
         "type": "scholarly",
         "supports": "Shennong as a Han-era sage linked to herbal medicine; the tradition led Tao Hongjing to formalize materia medica; 3rd-century account of Shennong tasting plants.",
         "quote": "the Shennong tradition inspired collections of pharmaceutical recipes and led the occult alchemist Tao Hongjing"
+      },
+      {
+        "title": "Cannabis sativa: origin and history, glandular trichome development, and cannabinoid biosynthesis",
+        "author": "Xie Z, Mi Y, Kong L et al.",
+        "publisher": "Horticulture Research",
+        "year": 2023,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10485653/",
+        "type": "scholarly",
+        "supports": "Only for the traditional date: the book is said to originate from the legendary emperor (given as 2737 BCE). The article's own claim that the book was assembled by 221 BCE is not adopted, because Unschuld and others date it later.",
+        "quote": "said to have originated from the emperor Chen Nung (2737 BCE)"
       }
     ],
-    "further": ["unschuld-1985"]
+    "further": ["unschuld-1985"],
+    "image": {
+      "commons": "File:Chinese woodcut, Famous medical figures; Shen Nong Wellcome L0039313.jpg",
+      "alt": "A woodcut portrait of the legendary Divine Farmer, Shen Nong.",
+      "caption": "Shen Nong, the Divine Farmer, in a woodcut from a Wanli-era (1573–1620) Ming edition of *Bencao mengquan*. It is a later artist's picture of a legendary figure, not a likeness."
+    }
   },
   {
     "id": "zhang-zhongjing",
@@ -314,15 +334,15 @@
     "confidence": {
       "date": "uncertain",
       "claim": "agreed",
-      "note": "The date rests on Zhang's approximate lifetime (c. 142–220); no manuscript of his own survives. That he wrote a treatise later rebuilt by Wang Shuhe is accepted, but how closely the transmitted Shanghan lun matches his original is uncertain, since it passed through 3rd-century reconstruction and 11th-century editing."
+      "note": "The date is an anchor inside Zhang's approximate lifetime (c. 142–220, with a question mark in the scholarship), not a dated event; no manuscript of his own survives. That he wrote a treatise later rebuilt by Wang Shuhe is accepted, but how closely the transmitted Shanghan lun matches his original is uncertain, since it passed through 3rd-century reconstruction and 11th-century editing."
     },
     "place": "China (Eastern Han)",
-    "people": ["Zhang Ji, known as Zhang Zhongjing (c. 142–220?), physician and author", "Wang Shuhe (210–285), court physician who reconstructed the text", "Lin Yi (fl. 1057–1068), Song editor of the medical classics"],
+    "people": ["Zhang Ji, known as Zhang Zhongjing (c. 142–220?), physician and author", "Wang Shuhe (210–285), physician who reconstructed the text", "Lin Yi (fl. 1057–1068), Song-dynasty editor"],
     "themes": ["texts", "practice", "drugs"],
-    "summary": "A Han physician's book on fevers was lost, rebuilt, and edited again, yet became the backbone of Chinese prescribing.",
+    "summary": "A Han physician's book on fevers was lost, rebuilt, and edited again, yet made its author one of the most revered names in Chinese medicine.",
     "body": [
-      "Around 200 CE a physician named Zhang Ji, better known as Zhang Zhongjing, wrote the *Shanghan zabing lun*, a treatise on \"cold damage\" and miscellaneous disorders. Cold damage belonged to a newer way of thinking about illness: disease caused by harmful external *qi*, such as wind, heat or cold, entering the body. Zhang matched these illnesses with recipes for drug decoctions, drawing on an older recipe tradition that tomb manuscripts now reveal.",
-      "His book did not survive intact. In the 3rd century the physician Wang Shuhe rebuilt it from what remained as two works: the *Shanghan lun* (*Treatise on Cold Damage*) and the *Jingui yaolüe* (*Essential Prescriptions of the Golden Cabinet*). The versions read today owe much to the 11th-century Song editor Lin Yi, and some later formularies credited to Zhang were Song reinventions. Even so, Zhang is revered as one of the great physicians of the Chinese tradition, sometimes called the Hippocrates of China."
+      "Around the turn of the 3rd century CE (his own dates, c. 142–220, carry a question mark) a physician named Zhang Ji, better known as Zhang Zhongjing, wrote the *Shanghan zabing lun*, a treatise on \"cold damage\" and miscellaneous disorders. Cold damage belonged to a newer way of thinking about illness: disease caused by harmful external *qi*, such as wind, heat or cold, entering the body. Tomb manuscripts show that treating ailments with recipes was already an old practice in his day.",
+      "His book did not survive intact. In the 3rd century the physician Wang Shuhe rebuilt it from what remained as two works: the *Shanghan lun* (*Treatise on Cold Damage*) and the *Jingui yaolüe* (*Essential Prescriptions of the Golden Cabinet*). The versions read today owe much to the 11th-century Song editor Lin Yi, and some later formularies credited to Zhang were Song reinventions. Even so, Zhang is revered as one of the great physicians of the Chinese tradition, sometimes called the Hippocrates of China, and his book is described as profoundly influential."
     ],
     "links": [
       { "to": "huangdi-neijing", "kind": "see-also", "note": "The theoretical classic beside Zhang's practical one." },
@@ -377,10 +397,10 @@
     "place": "Eastern China (late Eastern Han)",
     "people": ["Hua Tuo (c. 140–208), physician and surgeon"],
     "themes": ["surgery", "drugs"],
-    "summary": "Two Chinese histories say a 2nd-century surgeon numbed patients with a drug dissolved in wine. The recipe is lost, and the story cannot be checked.",
+    "summary": "Two Chinese histories say a 2nd-century surgeon numbed patients with a drug powder before operating. The recipe is lost, and the story cannot be checked.",
     "body": [
-      "Hua Tuo, who died in 208 CE, is China's most famous ancient surgeon. Two histories, the *Records of the Three Kingdoms* (3rd century) and the *Book of the Later Han* (5th century), say he gave patients a powder called *mafeisan* dissolved in wine and then operated on them, including on the internal organs. If so, he was performing surgery under anesthesia some 1,600 years before ether.",
-      "How much of this is history is hard to say. The accounts were written long after his death, he is said to have burned his own papers, and the recipe is lost. The name probably means \"boiled hemp powder\"; modern attempts to reconstruct it from medieval texts suggest aconite, a potent poison, but its real contents and effect are unknown. A work of his that the 4th-century writer Ge Hong reportedly preserved was later lost too.",
+      "Hua Tuo, who died in 208 CE, is the ancient Chinese healer best remembered for surgery. Two histories, the *Records of the Three Kingdoms* (3rd century) and the *Book of the Later Han* (5th century), say he gave patients an anesthetic called *mafeisan* and then operated on them; tradition adds that he cut into the internal organs. If so, he was performing surgery under anesthesia some 1,600 years before ether.",
+      "How much of this is history is hard to say. The accounts were written long after his death, he is said to have burned his own papers, and the recipe is lost. The name probably means \"boiled hemp powder\", and it was presumably taken dissolved in wine; modern attempts to reconstruct it from medieval texts suggest aconite, a potent poison, but its real contents and effect are unknown. A work of his that the 4th-century writer Ge Hong reportedly preserved was later lost too.",
       "The legend outlived the drug. In Japan, Hanaoka Seishū set out to recreate mafeisan and on 13 October 1804 performed a partial mastectomy on a 60-year-old woman under general anesthesia with his own herbal mixture."
     ],
     "myth": {
@@ -390,7 +410,7 @@
     "links": [
       { "to": "hanaoka-seishu", "kind": "led-to", "note": "Hanaoka set out to recreate Hua Tuo's anesthetic." },
       { "to": "ether-anaesthesia", "kind": "see-also", "note": "The anesthesia that did spread worldwide, in 1846." },
-      { "to": "zhang-zhongjing", "kind": "see-also", "note": "His contemporary, the model physician of the drug tradition." }
+      { "to": "zhang-zhongjing", "kind": "see-also", "note": "A physician of the same era, remembered for his prescriptions." }
     ],
     "sources": [
       {
@@ -398,7 +418,7 @@
         "publisher": "Ara (English edition)",
         "url": "https://en.ara.cat/science-technology/the-chinese-surgeon-who-was-already-operating-with-anesthesia-more-than-600-years-ago_1_5836041.html",
         "type": "news",
-        "supports": "The two histories and their centuries; Hua Tuo's dates; mafeisan dissolved in wine; meaning 'boiled hemp powder'; composition unknown; he burned his papers; ether in 1846.",
+        "supports": "The two histories and their centuries; Hua Tuo's dates; mafeisan presumably dissolved in wine; meaning 'boiled hemp powder'; composition unknown; he burned his papers; ether in 1846. A newspaper account of a recent study, so used with care and backed where possible by the ACS Bulletin and Cook.",
         "quote": "According to some documents from the 3rd and 5th centuries, such as the Records of the Three Kingdoms and the Book of the Later Han, the physician Hua Tuo, who lived between 140 and 208 AD, performed surgery with an anesthetic called mafeisan"
       },
       {
@@ -421,7 +441,12 @@
         "quote": "Ge Hong is also credited with preserving a work by Hua Tuo called the Golden Chest and the Green-Blue Satchel"
       }
     ],
-    "further": []
+    "further": [],
+    "image": {
+      "commons": "File:Chinese woodcut, Famous medical figures; Portrait of Hua Tuo Wellcome L0039320.jpg",
+      "alt": "A woodcut portrait of the physician Hua Tuo.",
+      "caption": "Hua Tuo in a woodcut from a Wanli-era (1573–1620) Ming edition of *Bencao mengquan*. It is a later artist's portrait of a physician who died in 208 CE, not a likeness."
+    }
   },
   {
     "id": "ge-hong",
@@ -432,19 +457,19 @@
       "year": 330,
       "earliest": 300,
       "latest": 343,
-      "display": "early 4th century CE"
+      "display": "4th century CE"
     },
     "confidence": {
       "date": "uncertain",
       "claim": "agreed",
-      "note": "Ge Hong's life (283–343, or 281–341 in some accounts) bounds the date, but the handbook survives only in Tao Hongjing's later edited version, so which passages are Ge Hong's own cannot always be told."
+      "note": "Ge Hong's life (283–343, or 281–341 in some accounts) bounds the date, but the handbook is only attributed to him and survives only in Tao Hongjing's later edited version, so which passages are Ge Hong's own cannot always be told."
     },
     "place": "Southern China (Eastern Jin)",
     "people": ["Ge Hong (283–343), Daoist scholar and alchemist", "Tao Hongjing (452/456–536), later editor", "Tu Youyou, pharmacologist and 2015 Nobel laureate who drew on the handbook"],
     "themes": ["texts", "drugs"],
     "summary": "A Daoist alchemist's pocket book of emergency cures held an early account of smallpox, and a line about wormwood that led to a Nobel Prize.",
     "body": [
-      "Ge Hong (283–343), a southern Chinese scholar best known for his book on elixirs of immortality, also compiled a handbook of remedies for emergencies, *Recipes from Behind the Elbow*, a title evoking a book carried in the sleeve. It survives only as edited by Tao Hongjing. It contains what may be China's earliest mention of smallpox, recognized as contagious. One line, steep a handful of *qinghao* in water, wring out the juice and drink it, led Tu Youyou in 1971 to extract the plant without heat, a key step toward artemisinin."
+      "Ge Hong (283–343), a Daoist scholar best known for the *Baopuzi*, a work on alchemy and immortality, is credited with a handbook of remedies for emergencies, *Recipes from Behind the Elbow*, a title sometimes translated \"in the Sleeve\". It survives only as edited by Tao Hongjing. It contains what may be China's earliest mention of smallpox, recognized as contagious. One line, steep a handful of *qinghao* in water, wring out the juice and drink it, led Tu Youyou in 1971 to extract the plant at a low temperature, a key step toward artemisinin."
     ],
     "links": [
       { "to": "artemisinin", "kind": "led-to", "note": "Tu Youyou's cold-extraction idea came from this text." },
