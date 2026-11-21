@@ -6,7 +6,7 @@
     "tier": 1,
     "date": {
       "year": 1947,
-      "display": "August 1947"
+      "display": "19 August 1947"
     },
     "confidence": {
       "date": "firm",
@@ -27,12 +27,12 @@
     "body": [
       "On 9 December 1946 the prosecution opened its case before an American military tribunal at Nuremberg against 23 German doctors and administrators. They were charged over the \"euthanasia\" killings of disabled people and over experiments on concentration-camp prisoners: freezing, high-altitude, malaria and sterilization experiments among them. In August 1947 the judges convicted 16. Karl Brandt and six others were sentenced to death and executed; seven defendants were acquitted.",
       "Several defendants had argued that no international law or statement drew a line between legal and illegal human experimentation. Two American doctors working with the prosecution, Andrew Ivy and Leo Alexander, disagreed. On 17 April 1947 Alexander sent the prosecutors a memorandum of six principles, and the verdict expanded them into ten under the heading \"Permissible Medical Experiments.\" The first became famous: \"The voluntary consent of the human subject is absolutely essential.\" Others demand that risks be justified by the importance of the problem, that only qualified scientists do the work, and that subjects be free to stop.",
-      "The rules were less new than they looked. Germany had issued detailed research guidelines in 1931 that were never repealed, and one critic argues that six of the ten principles derive from them. Nor did the code change much at first. Investigators tended to see it as \"a good code for barbarians,\" not for themselves, and it had little impact in the United States. The US Public Health Service syphilis study in Alabama ran for 25 more years with no sign that anyone weighed it against the code.",
-      "Change came by other routes. The World Medical Association adopted the Declaration of Helsinki in 1964, drawing heavily on the code, and has revised it repeatedly since. In 1966 the anesthesiologist Henry Beecher published \"Ethics and Clinical Research,\" describing 22 studies by respected investigators in prestigious journals that had put subjects at risk, often without consent. That article and the 1972 newspaper exposure of the syphilis study led to American legislation and, in 1974, a National Commission for the Protection of Human Subjects, whose Belmont Report of 1979 still frames research ethics."
+      "The rules were less new than they looked. Germany had issued detailed research guidelines in 1931 that were still in force, and one critic argues that six of the ten principles derive from them. Nor did the code change much at first. Investigators tended to see it as \"a good code for barbarians,\" not for themselves, and it had little impact in the United States. The US Public Health Service syphilis study in Alabama ran for another 25 years, and there is no evidence that it was ever discussed in light of the code.",
+      "Change came by other routes. The World Medical Association adopted the Declaration of Helsinki in 1964, building on the code and on its own 1954 statement of principles, and has revised it repeatedly since. In 1966 the anesthesiologist Henry Beecher published \"Ethics and Clinical Research,\" describing 22 studies by respected investigators in prestigious journals that had put subjects at risk, often without consent. That article and the 1972 newspaper exposure of the syphilis study led to American legislation and, in 1974, a National Commission for the Protection of Human Subjects, whose Belmont Report of 1979 still frames research ethics."
     ],
     "myth": {
       "tradition": "After Nuremberg, the code became the rulebook that governed human experiments.",
-      "record": "For two decades many researchers, especially in the United States, treated it as aimed at Nazi crimes rather than their own work. Binding rules came only after the Declaration of Helsinki, Beecher's 1966 article and the exposure of the syphilis study in 1972."
+      "record": "For two decades many researchers, especially in the United States, treated it as aimed at Nazi crimes rather than their own work. Formal US regulation of human-subjects research came only in the 1970s, after Beecher's 1966 article and the exposure of the syphilis study in 1972."
     },
     "links": [
       {
@@ -42,13 +42,13 @@
       },
       {
         "to": "eugenics",
-        "kind": "built-on",
-        "note": "The Nazi killing of disabled patients grew out of eugenic ideas."
+        "kind": "see-also",
+        "note": "The \"euthanasia\" killings tried at Nuremberg belong to this history."
       },
       {
         "to": "henrietta-lacks",
         "kind": "see-also",
-        "note": "Consent again, this time for cells taken in 1951."
+        "note": "Consent again, this time for cells taken in 1951, four years after the code."
       },
       {
         "to": "streptomycin-rct",
@@ -117,7 +117,7 @@
         "year": 2020,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7122250/",
         "type": "scholarly",
-        "supports": "Twenty-three indicted, sixteen guilty; the defense argument; Ivy and Alexander; Alexander's memorandum of 17 April 1947 and its expansion from six points to ten.",
+        "supports": "Twenty-three indicted, sixteen guilty; the defense argument; Ivy and Alexander; Alexander's memorandum of 17 April 1947 and its expansion from six points to ten. Also the 1974 US regulations.",
         "quote": "On April 17, 1947, Dr Alexander submitted a memorandum to the United States Counsel for War Crimes outlining 6 points defining legitimate medical research."
       },
       {
@@ -126,7 +126,7 @@
         "year": 2024,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11399764/",
         "type": "scholarly",
-        "supports": "The 1972 newspaper exposure of the syphilis study; the 1974 National Commission and the 1979 Belmont Report.",
+        "supports": "The 1972 newspaper exposure of the syphilis study; the 1974 National Commission and the 1979 Belmont Report; the Declaration of Helsinki as based on the Nuremberg Code and a 1954 WMA document.",
         "quote": "The impact of both articles led to legislative changes in the United States and the creation in 1974 of the National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research."
       }
     ],
@@ -141,7 +141,7 @@
   },
   {
     "id": "streptomycin-rct",
-    "title": "Streptomycin and the randomised trial",
+    "title": "Streptomycin and the randomized trial",
     "stream": "bio-drugs",
     "tier": 1,
     "date": {
@@ -151,7 +151,7 @@
     "confidence": {
       "date": "firm",
       "claim": "agreed",
-      "note": "The trial's design and results are documented in the Medical Research Council's 1948 report and participants' recollections. Calling it the first randomised trial is contested, since chance allocation had been used before; who deserves credit for discovering streptomycin was settled in court but is still argued over."
+      "note": "The trial's design and results are documented in the Medical Research Council's 1948 report and participants' recollections. Calling it the first randomized trial is contested, since chance allocation had been used before; who deserves credit for discovering streptomycin was settled in court but is still argued over."
     },
     "place": "Rutgers University, New Jersey; London and other British hospitals",
     "people": [
@@ -159,7 +159,8 @@
       "Selman Waksman, head of the Rutgers laboratory, Nobel laureate 1952",
       "Austin Bradford Hill, medical statistician who designed the trial",
       "Philip D'Arcy Hart (1900–2006), physician on the design team",
-      "John Crofton, Brompton Hospital registrar who coordinated patients"
+      "Marc Daniels, physician appointed to coordinate the trial",
+      "John Crofton, Brompton Hospital registrar who coordinated that hospital's part of the trial"
     ],
     "themes": [
       "drugs",
@@ -169,11 +170,11 @@
     "body": [
       "By 1943 Albert Schatz, a PhD student in Selman Waksman's soil-microbiology laboratory at Rutgers, had isolated streptomycin from the soil bacterium *Streptomyces griseus*. In 1944 William Feldman and Corwin Hinshaw at the Mayo Clinic showed that it worked against the tuberculosis germ. Waksman alone received the 1952 Nobel Prize, \"for his discovery of streptomycin, the first antibiotic effective against tuberculosis\"; Schatz later sued and won legal recognition as co-discoverer.",
       "In postwar Britain the drug was expensive and paid for in scarce dollars, and the government bought only a little for testing. The statistician Austin Bradford Hill argued that it would be unethical not to use that small supply to find out properly what it added to the standard treatment, bed rest. The Medical Research Council enrolled young adults with acute, progressive tuberculosis of both lungs. Patients were assigned by random numbers whose sequence was hidden in sealed envelopes, and the specialists reading the monthly X-rays did not know who had received the drug.",
-      "In the first six months, 4 of 55 patients given streptomycin died, against 15 of 52 on bed rest alone. The trial also revealed the drug's weakness: tuberculosis bacteria in many patients became resistant, often after the fourth month, and they relapsed. That lesson pushed doctors toward combining drugs.",
-      "The trial is often called the first randomised controlled trial. It was not quite. In 1931 the American doctors James Amberson, B. T. McMahon and Max Pinner divided 24 patients into two matched groups and tossed a single coin to decide which group got a gold drug, sanocrysin; it did harm and no good. The MRC's own 1944 trial of patulin for the common cold was a carefully controlled multicentre study. What set the streptomycin report apart was its explicit concealment of allocation, which prevented doctors from steering patients into one group, and the clarity with which it said so. Alternation, not randomisation, remained the usual method for years afterwards."
+      "In the first six months, 4 of 55 patients given streptomycin died, against 15 of 52 on bed rest alone. The trial also revealed the drug's weakness: tuberculosis bacteria in many patients became resistant, often after the fourth month, and then deteriorated. That lesson pushed doctors toward combining drugs.",
+      "The trial is often called the first randomized controlled trial. It was not quite. In 1931 the American doctors Amberson, McMahon and Pinner divided 24 patients into two matched groups and tossed a single coin to decide which group got a gold treatment, sanocrysin; it caused harm and showed no benefit. The MRC's own 1944 trial of patulin for the common cold was a carefully controlled multicenter study. What set the streptomycin report apart was its explicit concealment of allocation, which prevented doctors from steering patients into one group, and the clarity with which it said so. Alternation, not random allocation, remained the usual method for years afterwards."
     ],
     "myth": {
-      "tradition": "The 1948 streptomycin study was the first randomised controlled trial.",
+      "tradition": "The 1948 streptomycin study was the first randomized controlled trial.",
       "record": "Chance allocation had been used before, as in a 1931 sanocrysin trial decided by a coin toss. The streptomycin trial's real landmark was its concealed random allocation and the clear reporting of it."
     },
     "links": [
@@ -195,7 +196,7 @@
       {
         "to": "evidence-based-medicine",
         "kind": "led-to",
-        "note": "Randomised trials became the core of evidence-based medicine."
+        "note": "Randomized trials became the core of evidence-based medicine."
       }
     ],
     "sources": [
@@ -280,7 +281,7 @@
     "summary": "Born with the United Nations, WHO defined health as complete physical, mental and social well-being, and inherited a century of cholera diplomacy.",
     "body": [
       "At the 1945 San Francisco conference that created the United Nations, Brazil and China proposed an international health organization. A conference in New York drafted its constitution, signed on 22 July 1946 by 51 UN members and 10 other nations. It came into force on 7 April 1948, when the 26th of the 61 signatories ratified it, a date now marked as World Health Day. The first World Health Assembly met in Geneva that June. The constitution's preamble set an ambitious bar: health is \"a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity,\" and its highest attainable standard is a fundamental right.",
-      "WHO was the heir of a long line. International health diplomacy began with the first International Sanitary Conference, called in Paris in 1851 over cholera and attended by only twelve states. The Office International d'Hygiène Publique followed in 1907 and the League of Nations Health Organisation after the First World War. WHO absorbed their work; the older Pan American organization survived alongside it as WHO's regional office for the Americas."
+      "WHO was the heir of a long line. International health diplomacy began with the first International Sanitary Conference, called in Paris in 1851 over cholera and attended by only twelve states. The Office International d'Hygiène Publique followed in 1907 and the League of Nations Health Organization after the First World War. WHO absorbed their work; the older Pan American organization survived alongside it as WHO's regional office for the Americas."
     ],
     "links": [
       {
@@ -323,7 +324,7 @@
         "year": 2020,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7226900/",
         "type": "scholarly",
-        "supports": "The 1851 Paris conference over cholera, its twelve states; the OIHP of 1907 and the League of Nations Health Organisation.",
+        "supports": "The 1851 Paris conference over cholera, its twelve states; the OIHP of 1907 and the League of Nations Health Organization.",
         "quote": "Only twelve states participated in the initial event"
       },
       {
@@ -350,7 +351,7 @@
     "confidence": {
       "date": "firm",
       "claim": "firm",
-      "note": "The founding date, the nationalisation of the hospitals and the 1951 charges are documented in government records and standard histories."
+      "note": "The founding date, the nationalization of the hospitals and the 1951 charges are documented in government records and standard histories."
     },
     "place": "United Kingdom",
     "people": [
@@ -364,7 +365,7 @@
     ],
     "summary": "On 5 July 1948 Britain made doctors, hospitals, spectacles and dentures free to everyone. Within three years it was charging for some of them.",
     "body": [
-      "The National Health Service began on 5 July 1948, the \"Appointed Day\" for a package of reforms that effectively created the British welfare state. William Beveridge's 1942 report had proposed state funding for health care but not how a service should work. The Labour health minister, Aneurin Bevan, persuaded his government to nationalise the entire hospital system, so the new service inherited some 2,800 hospitals with more than 500,000 beds. Demand that had been held back for years poured in; older people rushed to get spectacles. Free care at the point of use did not survive intact: charges for dentures and spectacles began in May 1951, and Bevan resigned that year, partly in protest.",
+      "The National Health Service began on 5 July 1948, the \"Appointed Day\" for a package of reforms that effectively created the British welfare state. William Beveridge's 1942 report had proposed state funding for health care but not how a service should work. The Labour health minister, Aneurin Bevan, persuaded his government to nationalize the entire hospital system, so the new service inherited some 2,800 hospitals with more than 500,000 beds. Demand that had been held back for years poured in; older people rushed to get spectacles. Free care at the point of use did not survive intact: charges for dentures and spectacles began in May 1951, and Bevan resigned that year, partly over the charges.",
       "Britain was not alone in seeking care for all. In Soviet Russia, Nikolai Semashko, People's Commissar of Public Health from 1918, built a system funded from the national budget and, in theory, free to patients. New Zealand's Social Security Act of 1938 promised free health services for everyone, but doctors' opposition meant it was never fully implemented, and family doctors kept charging fees."
     ],
     "links": [
@@ -392,7 +393,7 @@
         "year": 1995,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5401258/",
         "type": "scholarly",
-        "supports": "Start date and the Appointed Day; Bevan's nationalisation of the hospitals; 2,800 hospitals and 500,000 beds.",
+        "supports": "Start date and the Appointed Day; Bevan's nationalization of the hospitals; 2,800 hospitals and 500,000 beds.",
         "quote": "it inherited some 2,800 hospitals with more than 500,000 beds"
       },
       {
@@ -445,7 +446,12 @@
         "quote": "However widespread opposition from the medical profession meant that the Act was never implemented in full"
       }
     ],
-    "further": []
+    "further": [],
+    "image": {
+      "commons": "File:Anenurin Bevan, Minister of Health, on the first day of the National Health Service, 5 July 1948 at Park Hospital, Davyhulme, near Manchester (14465908720).jpg",
+      "alt": "Photograph of Aneurin Bevan, the Minister of Health, at Park Hospital on the first day of the National Health Service.",
+      "caption": "Aneurin Bevan, Minister of Health, at Park Hospital, Davyhulme, near Manchester, on the first day of the National Health Service, 5 July 1948. University of Liverpool Faculty of Health & Life Sciences, via Flickr."
+    }
   },
   {
     "id": "framingham",
@@ -460,7 +466,7 @@
     "confidence": {
       "date": "firm",
       "claim": "firm",
-      "note": "The study's founding, enrolment and publications are documented by the National Heart, Lung, and Blood Institute and in its own archives."
+      "note": "The study's founding, enrollment and publications are documented by the National Heart, Lung, and Blood Institute and in its own archives. Sources differ slightly on the youngest age enrolled (28 or 30)."
     },
     "place": "Framingham, Massachusetts, USA",
     "people": [
@@ -473,7 +479,7 @@
     ],
     "summary": "A Massachusetts town volunteered for decades of check-ups, and gave medicine the idea of the 'risk factor'.",
     "body": [
-      "By the 1940s cardiovascular disease caused about one in two deaths in the United States, and most Americans accepted early death from heart disease as unavoidable. In 1948 researchers recruited 5,209 men and women aged 30 to 62 in Framingham, Massachusetts, and examined them again and again to see who fell ill. In the 1960s the study linked smoking, cholesterol and high blood pressure to heart disease, and Thomas Dawber and William Kannel's 1961 paper popularised the term \"risk factor.\" The study survived a 1969 order to close it and now follows its participants' grandchildren."
+      "By the 1940s cardiovascular disease caused about one in two deaths in the United States, and most Americans accepted early death from heart disease as unavoidable. In 1948 researchers began recruiting 5,209 men and women, aged roughly 30 to 62, in Framingham, Massachusetts, and examined them again and again to see who fell ill. In the 1960s the study linked smoking, cholesterol and high blood pressure to heart disease, and Thomas Dawber and William Kannel's 1961 paper popularized the term \"risk factor.\" The study survived a 1969 federal order to phase it out and now follows its participants' grandchildren."
     ],
     "links": [
       {
@@ -521,11 +527,11 @@
     "confidence": {
       "date": "firm",
       "claim": "agreed",
-      "note": "Cade's 1949 paper is on record. His guinea-pig reasoning was mistaken (the animals were probably poisoned), and lithium had been tried for mania in the 19th century, so 'discovery' is a generous word."
+      "note": "Cade's 1949 paper is on record. His guinea-pig reasoning was mistaken (the animals were possibly poisoned), and lithium had been tried for mania in the 19th century, so 'discovery' is a generous word."
     },
     "place": "Bundoora Repatriation Mental Hospital, near Melbourne, Australia",
     "people": [
-      "John Cade (died 1980), Australian psychiatrist",
+      "John Cade (1912–1980), Australian psychiatrist",
       "Mogens Schou (1918–2005), Danish physician who tested lithium in a controlled trial"
     ],
     "themes": [
@@ -534,7 +540,7 @@
     ],
     "summary": "A psychiatrist in a makeshift lab injected guinea pigs with patients' urine, drew the wrong conclusion, and found a drug that still works.",
     "body": [
-      "Working in a makeshift laboratory at a mental hospital near Melbourne, John Cade injected guinea pigs with urine from manic patients, then with lithium salts, which left the animals \"extremely lethargic,\" probably from poisoning. In September 1949 he reported dramatic improvement in ten manic patients. Lithium had been tried for mania as early as 1871, and within two years of Cade's paper a patient died of lithium poisoning. Acceptance was slow: the Dane Mogens Schou published a controlled trial in 1954, but the US approved lithium only in 1970, the 50th country to do so."
+      "Working in a makeshift laboratory at a mental hospital near Melbourne, John Cade injected guinea pigs with urine from manic patients, then with lithium salts, which left the animals \"extremely lethargic,\" possibly from poisoning. In September 1949 he reported dramatic improvement in ten manic patients. Lithium had been tried for mania as early as 1871, and within two years of Cade's paper a patient died of lithium poisoning. Acceptance was slow: the Dane Mogens Schou published a controlled trial in 1954, but the US approved lithium only in 1970, the 50th country to do so."
     ],
     "links": [
       {
@@ -545,7 +551,7 @@
       {
         "to": "streptomycin-rct",
         "kind": "see-also",
-        "note": "Schou borrowed the new method of random allocation."
+        "note": "Schou's 1954 trial also used chance allocation, in the years after the MRC trial."
       }
     ],
     "sources": [
@@ -610,7 +616,7 @@
     ],
     "myth": {
       "tradition": "Doll and Hill discovered in 1950 that smoking causes lung cancer.",
-      "record": "German researchers had published case-control evidence in 1939 and 1943, and an American study appeared the same year as Doll and Hill's. Their distinctive contribution was the follow-up study of British doctors, which turned an association into convincing proof."
+      "record": "German researchers had published case-control evidence in 1939 and 1943, and an American study appeared the same year as Doll and Hill's. Their British doctors study, with a parallel American cohort study by Hammond and Horn reported in 1954, turned an association into compelling evidence."
     },
     "links": [
       {
@@ -622,11 +628,6 @@
         "to": "framingham",
         "kind": "see-also",
         "note": "Long-term follow-up linked smoking to heart disease too."
-      },
-      {
-        "to": "eugenics",
-        "kind": "see-also",
-        "note": "Nazi Germany's anti-tobacco research was entangled with its racial hygiene."
       }
     ],
     "sources": [
@@ -704,9 +705,9 @@
       "ethics",
       "technology"
     ],
-    "summary": "Cells taken from a Black patient's tumor without her knowledge became the first immortal human cell line, and a lasting question about consent.",
+    "summary": "A sample of a Black patient's tumor, used without her knowledge, gave medicine the first immortal human cell line, and a lasting question about consent.",
     "body": [
-      "In 1951 Henrietta Lacks, an African American woman, was treated for cervical cancer at Johns Hopkins, where researchers took tumor samples without her knowledge or consent. In George Gey's laboratory her cells kept dividing indefinitely: HeLa, the first immortal human cell line, which Gey gave away free. She died on 4 October 1951, aged 31. Mass-produced at the Tuskegee Institute, HeLa cells helped evaluate the 1954 Salk polio vaccine trial. In 2013 the National Institutes of Health agreed with her family on access to HeLa genome data, and in 2023 her descendants settled a lawsuit against Thermo Fisher Scientific."
+      "In 1951 Henrietta Lacks, an African American woman, was treated for cervical cancer at Johns Hopkins, where a biopsy sample was passed to George Gey's laboratory without her knowledge or consent. There her cells kept dividing indefinitely: HeLa, described as the first immortal human cell line, which Gey gave away free. She died on 4 October 1951, aged 31. Mass-produced at the Tuskegee Institute, HeLa cells helped evaluate the 1954 Salk polio vaccine trial. In 2013 the National Institutes of Health agreed with her family on access to HeLa genome data, and in 2023 her descendants settled a lawsuit against Thermo Fisher Scientific."
     ],
     "links": [
       {
@@ -717,7 +718,7 @@
       {
         "to": "nuremberg-code",
         "kind": "see-also",
-        "note": "The consent principle, ignored in ordinary hospital practice."
+        "note": "The consent principle set out four years earlier."
       },
       {
         "to": "tuskegee",
@@ -732,7 +733,7 @@
         "year": 2022,
         "url": "https://www.who.int/news/item/16-10-2022-henrietta-lacks--family-appointed-world-health-organization-goodwill-ambassadors-for-cervical-cancer-elimination",
         "type": "institutional",
-        "supports": "Biopsies taken without knowledge or consent; first immortal cell line; her death on 4 October 1951 aged 31.",
+        "supports": "Her death from cervical cancer on 4 October 1951, aged 31.",
         "quote": "Despite treatment, it cut her life short on 4 October 1951. She was only 31 years old."
       },
       {
@@ -742,7 +743,7 @@
         "year": 2023,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10198699/",
         "type": "scholarly",
-        "supports": "Gey's laboratory, indefinite growth, free distribution; the 2021 lawsuit.",
+        "supports": "Gey's laboratory, indefinite growth, 'first immortal human cell line', free distribution; consent never obtained; the 2021 lawsuit.",
         "quote": "Gey distributed the HeLa cell line widely and free of charge."
       },
       {
@@ -752,7 +753,7 @@
         "year": 2022,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8887660/",
         "type": "scholarly",
-        "supports": "HeLa production at Tuskegee Institute to evaluate the Salk vaccine trial.",
+        "supports": "Lacks, an African American patient, whose biopsy sample went to Gey's laboratory without her knowledge; HeLa production at Tuskegee Institute to evaluate the Salk vaccine trial of 1954.",
         "quote": "sponsored a HeLa cell production project at Tuskegee Institute so that laboratories could use the cell line instead of monkey tissues to assess the Salk vaccine"
       },
       {
