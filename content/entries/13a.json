@@ -26,7 +26,7 @@
     ],
     "summary": "A short chromosome spotted in 1960 led, four decades later, to a pill that turned a fatal leukemia into a manageable condition.",
     "body": [
-      "In 1960 Peter Nowell and David Hungerford, studying leukemia cells in Philadelphia, noticed that one chromosome was abnormally short. Later work showed that this \"Philadelphia chromosome\" fuses two genes, BCR and ABL, and that the hybrid drives chronic myeloid leukemia. In the 1990s the oncologist Brian Druker and Nicholas Lydon's drug-discovery team found a compound that blocks the rogue protein. The FDA approved it as imatinib (Gleevec) on 10 May 2001, after a review of only ten weeks. More than 70 similar kinase-blocking drugs have followed."
+      "In 1960 Peter Nowell and David Hungerford, studying leukemia cells in Philadelphia, noticed that one chromosome was abnormally short. Later work showed that this \"Philadelphia chromosome\" fuses two genes, BCR and ABL, and that the hybrid drives chronic myeloid leukemia. In the 1990s the oncologist Brian Druker and Nicholas Lydon's drug-discovery team found a compound that blocks the rogue protein. The FDA approved it as imatinib (Gleevec) on 10 May 2001, after a review of only ten weeks. More than 70 drugs that block kinase enzymes, used against cancers and some other diseases, have been approved since."
     ],
     "links": [
       {
@@ -100,9 +100,9 @@
       "public-health",
       "institutions"
     ],
-    "summary": "A new coronavirus jumped continents by plane in 2003, killed the doctor who raised the alarm, and reshaped the global rules for reporting outbreaks.",
+    "summary": "A new virus spread from China to Vietnam, Canada and beyond in 2003, killed the doctor who raised the alarm, and helped reshape the global rules for reporting outbreaks.",
     "body": [
-      "The first known case of severe acute respiratory syndrome fell ill in China in November 2002. On 28 February 2003 Carlo Urbani, a WHO specialist in Hanoi, examined a businessman with a strange pneumonia, recognized the danger and alerted WHO. He caught the disease and died on 29 March. By July WHO had counted 8,096 probable cases and 774 deaths, 1,706 of the cases in health workers. SARS showed how governments could hide outbreaks, as China at first did; the revised International Health Regulations adopted in May 2005 let WHO use unofficial reports to counter that."
+      "The first known case of severe acute respiratory syndrome fell ill in China in November 2002. On 28 February 2003 Carlo Urbani, a WHO specialist in Hanoi, examined a businessman with a strange pneumonia, recognized the danger and alerted WHO. He caught the disease and died on 29 March. By July WHO had counted 8,096 probable cases and 774 deaths, 1,706 of the cases in health workers. SARS showed how governments could be tempted to hide outbreaks, as China at first was; the revised International Health Regulations adopted in May 2005 let WHO use unofficial reports to reduce that temptation."
     ],
     "links": [
       {
@@ -183,7 +183,7 @@
       "drugs",
       "public-health"
     ],
-    "summary": "A virus was shown to cause cervical cancer, two scientists in Brisbane built empty virus shells, and a vaccine now prevents most cases.",
+    "summary": "A virus was shown to cause cervical cancer, two scientists in Brisbane built empty virus shells, and vaccinated English girls now have about 80% less cervical cancer.",
     "body": [
       "Against the prevailing view, Harald zur Hausen argued that a papillomavirus caused cervical cancer, and in 1983 found a new type, HPV16, in tumor biopsies; types 16 and 18 turned up in about 70% of cervical cancers. In 1991 Ian Frazer and Jian Zhou in Brisbane reported that the virus's capsid proteins could self-assemble into harmless virus-like particles, the basis of the vaccines. Zhou died in 1999. The first vaccine, Gardasil, was approved in the United States in June 2006. In England, women offered vaccination at 12–13 now have around 80% less cervical cancer."
     ],
@@ -257,7 +257,7 @@
       "claim": "agreed",
       "note": "The project's dates and the C. difficile trial are well documented. Most claimed links between gut microbes and other diseases rest on associations whose causal role is unproven."
     },
-    "place": "USA and the Netherlands",
+    "place": "USA",
     "people": [],
     "themes": [
       "theory",
@@ -265,7 +265,7 @@
     ],
     "summary": "Sequencing revealed the microbes living in and on us. The clearest cure so far came from an old idea: transplanting stool.",
     "body": [
-      "From 2007 to 2016 the NIH's Human Microbiome Project built DNA-sequence catalogs of the microbes living on and in healthy people, and NIH microbiome funding elsewhere grew more than forty-fold. The firmest clinical result came from an older, unglamorous idea. In a 2013 randomized trial, infusing donor stool cured recurrent *Clostridioides difficile* infection so much better than antibiotics that the trial was stopped early; the FDA approved the first stool-based products in 2022 and 2023. For irritable bowel syndrome and colitis, guidelines still recommend fecal transplants only within trials, and critics warn the field needs skepticism."
+      "From 2007 to 2016 the NIH's Human Microbiome Project built DNA-sequence catalogs of the microbes living on and in healthy people, and NIH microbiome funding elsewhere grew more than forty-fold. The firmest clinical result came from an older, unglamorous idea. In a 2013 randomized trial, infusing donor stool into the intestine stopped recurrent *Clostridioides difficile* infection far more often than the antibiotic vancomycin alone, and the trial was stopped early; the FDA approved the first stool-based products in 2022 and 2023. For irritable bowel syndrome and colitis, guidelines still recommend fecal transplants only within trials, and critics warn the field needs skepticism."
     ],
     "links": [
       {
@@ -323,7 +323,7 @@
     "confidence": {
       "date": "firm",
       "claim": "firm",
-      "note": "Regulatory approvals and the Nobel citation are documented. Coley's results were never confirmed by controlled trials, and modern drugs help some patients far more than others."
+      "note": "Regulatory approvals and the Nobel citation are documented. Coley's own reports met skepticism in his day, and modern drugs help some patients far more than others."
     },
     "place": "New York; Kyoto, Japan; and elsewhere",
     "people": [
@@ -388,7 +388,7 @@
     ],
     "image": {
       "commons": "File:Portrait of William Coley Wellcome M0017955.jpg",
-      "alt": "Photographic portrait of the surgeon William B. Coley.",
+      "alt": "Portrait of the surgeon William B. Coley.",
       "caption": "William B. Coley (1862–1936), the New York surgeon whose bacterial \"toxins\" were an early attempt to turn the immune system against cancer. Wellcome Collection."
     }
   },
@@ -420,16 +420,16 @@
       "ethics",
       "theory"
     ],
-    "summary": "Two scientists turned a bacterial defense against viruses into scissors for DNA. Within a decade it had made a medicine, and a scandal.",
+    "summary": "Two scientists turned a bacterial defense against viruses into scissors for DNA. Within twelve years it had made a medicine, and a scandal.",
     "body": [
-      "In 2012 Emmanuelle Charpentier and Jennifer Doudna showed how to turn part of a bacterial immune system into a programmable tool for cutting DNA. Studying *Streptococcus pyogenes*, Charpentier had found a previously unknown molecule, tracrRNA, that belongs to the bacterium's defense against viruses. Working with Doudna, she rebuilt the system in a test tube, simplified it, and proved that its enzyme, Cas9, could be steered to cut any DNA at a chosen site. Changing a gene, once a matter of months or years, could now take weeks.",
+      "In 2012 Emmanuelle Charpentier and Jennifer Doudna showed how to turn part of a bacterial immune system into a programmable tool for cutting DNA. Studying *Streptococcus pyogenes*, Charpentier had found a previously unknown molecule, tracrRNA, that belongs to the bacterium's defense against viruses. Working with Doudna, she rebuilt the system in a test tube, simplified it, and proved that its enzyme, Cas9, could be steered to cut any DNA at a chosen site. The Nobel committee noted that changing the code of life could now take a few weeks.",
       "The discovery stood on two decades of curiosity-driven microbiology. Researchers in Osaka noticed odd repeated sequences in *E. coli* DNA in 1987. Francisco Mojica in Alicante found similar ones in archaea in 1995 and was among the first to propose that they were part of a microbial immune system. Virginijus Šikšnys's group in Vilnius showed that a 20-letter stretch of guide RNA is enough to direct the cut. In January 2013 Feng Zhang at the Broad Institute and George Church at Harvard showed that the method worked in human cells, as did Doudna and others. Zhang's side won the first patent, in April 2014, beginning a long legal dispute.",
       "The power of the tool was shown in the worst way in November 2018, when the Chinese scientist He Jiankui announced the birth of twin girls whose embryos he had edited to disable a gene called CCR5, hoping to make them resistant to HIV. In one twin the edit was incomplete. In December 2019 he was convicted of illegal medical practice and sentenced to three years in prison, and China later made illegal embryo editing a crime.",
-      "Charpentier and Doudna received the Nobel Prize in Chemistry in 2020. On 16 November 2023 Britain authorized Casgevy, the first licensed medicine made with CRISPR, for sickle-cell disease and β-thalassemia; the US followed on 8 December. In 2025 doctors in Philadelphia reported giving a baby with a rare, often fatal metabolic disease a base-editing therapy designed for his single mutation. It was a bespoke treatment for one child, and longer follow-up is still needed."
+      "Charpentier and Doudna received the Nobel Prize in Chemistry in 2020. On 16 November 2023 Britain authorized Casgevy, the first licensed medicine made with CRISPR, for sickle-cell disease and β-thalassemia; the US followed on 8 December, at first for sickle-cell disease only. In 2025 doctors in Philadelphia reported giving a baby with a rare, often fatal metabolic disease a base-editing therapy designed for his single mutation. It was a bespoke treatment for one child, and longer follow-up is still needed."
     ],
     "myth": {
       "tradition": "CRISPR gene editing was invented by Charpentier and Doudna alone, in a single stroke in 2012.",
-      "record": "Their 2012 paper was the key step, but it built on work since 1987 by microbiologists such as Mojica and Šikšnys, and others, notably Zhang and Church, first showed editing in human cells. Priority was fought over for years in patent courts."
+      "record": "Their 2012 paper was the key step, but it built on work since 1987 by microbiologists such as Mojica and Šikšnys, and others; Zhang and Church, along with Doudna's group, showed editing in human cells within weeks of each other in early 2013. Priority was fought over for years in patent courts."
     },
     "links": [
       {
@@ -620,9 +620,9 @@
       "public-health",
       "drugs"
     ],
-    "summary": "An outbreak in a Guinean village killed over 11,000 people. A trial run in the middle of it proved a vaccine worked.",
+    "summary": "An outbreak that began in a Guinean village killed over 11,000 people. A trial run as it waned showed a vaccine worked.",
     "body": [
-      "The epidemic was traced back to a two-year-old in Meliandou, Guinea, who died in December 2013. It spread to Liberia and Sierra Leone, and WHO declared an international emergency only on 8 August 2014. By the end WHO counted 28,616 confirmed, probable and suspected cases and 11,310 deaths. In 2015 a trial in coastal Guinea tested the rVSV-ZEBOV vaccine using ring vaccination, the strategy that eradicated smallpox: among 5,837 people vaccinated, no cases appeared ten days or more afterward, against 23 among the unvaccinated. The vaccine, Ervebo, was licensed in Europe in November 2019."
+      "The epidemic was traced back to a two-year-old in Meliandou, Guinea, who died in December 2013. It spread to Liberia and Sierra Leone, and WHO declared an international emergency only on 8 August 2014. By the end WHO counted 28,616 confirmed, probable and suspected cases and 11,310 deaths. In 2015 a trial in coastal Guinea tested the rVSV-ZEBOV vaccine using ring vaccination, the strategy that eradicated smallpox: among 5,837 people vaccinated, no cases appeared ten days or more afterward, against 23 among the unvaccinated. The vaccine, Ervebo, received a conditional marketing authorization in Europe in November 2019."
     ],
     "links": [
       {

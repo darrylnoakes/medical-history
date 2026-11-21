@@ -13,25 +13,28 @@
     "confidence": {
       "date": "firm",
       "claim": "agreed",
-      "note": "The key operations are dated in surgeons' records and in histories built on interviews and letters. Priority was long credited to Philippe Mouret in 1987; historians now agree Erich Mühe removed a gallbladder by laparoscope in 1985, though some accounts still call Mouret's operation the first."
+      "note": "The key operations are dated in surgeons' own records and in histories built on interviews and letters. Mühe's 1985 priority is stated by the two histories cited here, but accounts that credit Mouret's 17 March 1987 operation as the first are still common, so the claim is rated agreed, not firm."
     },
     "place": "Germany and Lyon, France",
     "people": [
-      "Kurt Semm (1927–2003), German gynecologist and laparoscopy pioneer",
+      "Kurt Semm, German gynecologist and laparoscopy pioneer",
       "Erich Mühe (born 1938), chief surgeon at the Böblingen county hospital",
       "Philippe Mouret, surgeon in Lyon",
       "Jacques Perissat, French surgeon who popularized the operation"
     ],
-    "themes": ["surgery", "technology"],
-    "summary": "A German surgeon removed a gallbladder through a telescope in 1985 and was laughed at. Within a decade keyhole surgery had remade the operating room.",
+    "themes": [
+      "surgery",
+      "technology"
+    ],
+    "summary": "A German surgeon removed a gallbladder through a telescope in 1985 and was mocked. A French surgeon got the credit, and within a few years keyhole surgery had changed operating rooms.",
     "body": [
-      "On 12 September 1980 the German gynecologist Kurt Semm took out an appendix through a laparoscope, a telescope passed into the gas-filled abdomen. Five years later almost to the day, Erich Mühe, chief surgeon at the county hospital in Böblingen, used Semm's methods and an instrument of his own, the \"Galloscope,\" to remove a gallbladder. By March 1987 he had done 97. Colleagues mocked it as \"Mickey Mouse surgery\": surgical thinking held that big problems required big incisions.",
-      "Credit went to France instead. On 17 March 1987 Philippe Mouret of Lyon removed a gallbladder by laparoscope during a gynecological operation, and colleagues including François Dubois and Jacques Perissat refined and promoted the method. In April 1989 Perissat's videotape, shown in a side booth at an American surgical meeting, drew a bigger crowd than the main lectures. Within a few years the keyhole operation had displaced open surgery as the standard treatment for gallstones.",
-      "Robots followed: in 2000 the da Vinci system won FDA approval for general laparoscopic procedures."
+      "On 12 September 1980 the German gynecologist Kurt Semm took out an appendix through a laparoscope, a telescope passed into the gas-filled abdomen. Almost five years later, on 12 September 1985, Erich Mühe, chief surgeon at the county hospital in Böblingen, used Semm's methods and an instrument of his own, the \"Galloscope,\" to remove a gallbladder. By March 1987 he had done 97. Colleagues mocked it as \"Mickey Mouse surgery\": surgical thinking held that big problems required big incisions.",
+      "Credit went to France instead. On 17 March 1987 Philippe Mouret of Lyon removed a gallbladder by laparoscope during a gynecological operation, and François Dubois and Jacques Perissat then helped refine and promote the method. In April 1989 Perissat's videotape, shown in a remote booth at an American surgical meeting, drew a bigger audience than the main lectures. By one account the operation was absorbed into general surgery within two or three years, replacing open surgery as the gold standard for gallstones.",
+      "Robot-assisted systems followed: in 2000 the FDA approved the da Vinci for general laparoscopic procedures."
     ],
     "myth": {
       "tradition": "Philippe Mouret performed the first laparoscopic gallbladder removal, in Lyon in 1987.",
-      "record": "Erich Mühe did it in Böblingen on 12 September 1985 and had done dozens more before Mouret's first. German surgeons ignored him, and his work was only officially honored in 1992."
+      "record": "Erich Mühe did it in Böblingen on 12 September 1985 and had done dozens more before Mouret's first. German surgeons largely ignored him, and the German Surgical Society honored his work only in 1992."
     },
     "links": [],
     "sources": [
@@ -88,8 +91,8 @@
     "further": [],
     "image": {
       "commons": "File:US Navy 081117-N-7526R-568 Cmdr. Thomas Nelson and Lt. Robert Roadfuss discuss proper procedures while performing a laparoscopic cholecystectomy surgery.jpg",
-      "alt": "A surgeon and an operating room nurse in gowns and masks watch a video monitor while operating through small ports in a patient's abdomen.",
-      "caption": "A laparoscopic gallbladder removal at Peltier Hospital, Djibouti, in 2008: the surgeons work by watching a screen fed by a camera inside the abdomen."
+      "alt": "A surgeon and an operating room nurse in surgical gowns and masks during a laparoscopic gallbladder removal.",
+      "caption": "A laparoscopic gallbladder removal at Peltier Hospital, Djibouti City, in November 2008. Surgeons operating this way work from a camera view on a screen rather than through a large incision."
     }
   },
   {
@@ -104,7 +107,7 @@
     "confidence": {
       "date": "firm",
       "claim": "firm",
-      "note": "The first implantations and the FDA approval are documented by the pioneers and regulators. Sources differ on emphasis: the first FDA approval in 1984 was for House's single-channel device, and the first multichannel approval followed in 1985."
+      "note": "The first implantations and the FDA approval are documented by the pioneers' own accounts and regulators. Sources differ on emphasis: the first FDA approval in 1984 was for House's single-channel device, and the Lasker Foundation dates the first multichannel approval to 1985. The Deaf-community objection rests on a secondary account, not a survey."
     },
     "place": "Los Angeles, Melbourne and Austria",
     "people": [
@@ -113,10 +116,14 @@
       "Graeme Clark, Australian developer of a multichannel implant",
       "Ingeborg Hochmair and Erwin Hochmair, Austrian developers of a multichannel implant"
     ],
-    "themes": ["surgery", "technology", "ethics"],
+    "themes": [
+      "surgery",
+      "technology",
+      "ethics"
+    ],
     "summary": "A wire in the inner ear gave deaf people a sense of sound. It also opened one of medicine's sharpest disputes over what counts as a disability.",
     "body": [
-      "On 9 January 1961 the Los Angeles otologist William House and the neurosurgeon John Doyle implanted a single electrode in the inner ear of a deaf patient, following a 1957 attempt by André Djourno and Charles Eyriès in Paris. House's single-channel device, made with 3M, became the first cochlear implant approved by the FDA, in 1984. Multichannel implants, which send different sounds to different parts of the cochlea, won out: Ingeborg and Erwin Hochmair's was first implanted in December 1977, Graeme Clark's in August 1978. Many Deaf people opposed implanting children as a threat to sign language and Deaf identity."
+      "On 9 January 1961 the Los Angeles otologist William House and the neurosurgeon John Doyle implanted a single electrode in the inner ear of a deaf patient, following a 1957 attempt in Paris by André Djourno and Charles Eyriès. House's single-channel device, made with 3M, became the first cochlear implant approved by the FDA, in 1984. Multichannel implants, which send different sounds to different parts of the cochlea, won out: the Hochmairs' was first implanted in December 1977, Graeme Clark's in August 1978. Many in the Deaf community objected to implants for children, seeing them as a threat to sign language and Deaf identity."
     ],
     "links": [],
     "sources": [
@@ -179,7 +186,7 @@
     "confidence": {
       "date": "firm",
       "claim": "firm",
-      "note": "Benabid and Pollak's 1987 paper and the FDA approval records fix the dates. One review dates the Parkinson's approval to 2001, but the FDA's own record gives 14 January 2002."
+      "note": "Benabid and Pollak's 1987 paper and the FDA approval records fix the dates. Therapeutic stimulation of deep brain structures had been tried before 1987 under other names, so \"the first\" depends on what counts as DBS; Grenoble is the accepted start of the modern era."
     },
     "place": "Grenoble, France",
     "people": [
@@ -187,13 +194,21 @@
       "Pierre Pollak, Grenoble neurologist",
       "Mahlon R. DeLong, Emory University neurologist"
     ],
-    "themes": ["surgery", "technology", "mind"],
-    "summary": "A surgeon testing a target in a patient's brain found that rapid electrical pulses stopped the tremor. He replaced the knife with an adjustable implant.",
+    "themes": [
+      "surgery",
+      "technology",
+      "mind"
+    ],
+    "summary": "A surgeon testing a target in a patient's brain found that rapid electrical pulses stopped the tremor. He replaced the knife with a reversible implant.",
     "body": [
-      "In 1987 the Grenoble neurosurgeon Alim-Louis Benabid was about to make a small lesion in the thalamus of a patient with essential tremor. Testing the spot with an electrical probe, he found that just below 100 pulses a second the tremor stopped, and returned when the current went off. With the neurologist Pierre Pollak he made the test a treatment: an implanted, adjustable and reversible stimulator instead of a permanent lesion. Drawing on Mahlon DeLong's monkey studies, they turned to the subthalamic nucleus for Parkinson's disease from 1993. The FDA approved stimulation for tremor in July 1997 and for advanced Parkinson's in January 2002."
+      "In 1987 the Grenoble neurosurgeon Alim-Louis Benabid was about to make a lesion in the thalamus of a patient with essential tremor. Testing the spot with a probe, he found that just below 100 pulses a second the tremor stopped. With the neurologist Pierre Pollak he turned the test into a treatment: an implanted stimulator, reversible by turning it down, instead of a permanent lesion. Others had stimulated the brain earlier, but Grenoble marks the start of the modern era. From 1993, drawing on Mahlon DeLong's animal work, they targeted the subthalamic nucleus for Parkinson's disease. The FDA approved stimulation for tremor in July 1997 and for advanced Parkinson's in January 2002."
     ],
     "links": [
-      { "to": "lobotomy", "kind": "see-also", "note": "Earlier brain surgery destroyed tissue; stimulation can be switched off." }
+      {
+        "to": "lobotomy",
+        "kind": "see-also",
+        "note": "Earlier brain surgery destroyed tissue; stimulation can be switched off."
+      }
     ],
     "sources": [
       {
@@ -246,19 +261,26 @@
     "confidence": {
       "date": "firm",
       "claim": "firm",
-      "note": "Approval dates, conference reports and US mortality statistics are all documented by the FDA, CDC and NIH. The broad story, from a modestly useful single drug to combination therapy and prevention, is not in dispute."
+      "note": "Approval dates and the 1997 mortality figure come from FDA and US Department of Health and Human Services records, and the broad story, from a modestly useful single drug to combination therapy and prevention, is not in dispute. The credit of the 1997 fall in deaths \"largely\" to HAART is the CDC's."
     },
     "place": "United States and worldwide",
     "people": [],
-    "themes": ["drugs", "public-health"],
-    "summary": "The first AIDS drug bought patients months. A decade later, three drugs at once turned a death sentence into a manageable infection.",
+    "themes": [
+      "drugs",
+      "public-health"
+    ],
+    "summary": "The first AIDS drug gave only a modest gain in life expectancy. A decade later, three drugs taken together began to make HIV a treatable infection.",
     "body": [
-      "On 19 March 1987 the FDA approved the first drug for AIDS: AZT, or zidovudine, a compound first developed as a possible cancer treatment. The same day, under pressure from activists, the agency issued rules opening promising unapproved drugs to desperate patients. AZT lowered the amount of virus in the blood but gave only a modest gain in life expectancy.",
-      "The turn came almost a decade later. The first protease inhibitor was approved in 1995, and in 1996 three-drug combinations, called highly active antiretroviral therapy (HAART), were the news of the international AIDS conference in Vancouver. In 1997 AIDS deaths in the United States fell by 47 percent.",
-      "Treatment then became prevention, and went global. PEPFAR, announced by President George W. Bush in 2003, committed $15 billion over five years, mainly to the hardest-hit countries. In 2012 the FDA approved a daily pill, Truvada, to prevent infection (PrEP); in 2014 the PARTNER study found no sexual transmission from partners whose treatment kept the virus undetectable, the basis of the message \"Undetectable = Untransmittable\"; and in June 2025 the FDA approved lenacapavir, an injection given twice a year, for PrEP."
+      "On 19 March 1987 the FDA approved the first drug for AIDS: AZT, or zidovudine, a compound first developed to treat cancer. The same day it issued rules expanding access to promising drugs not yet approved. AZT lowered the amount of HIV in the blood but gave only a modest gain in life expectancy.",
+      "The turn came almost a decade later. The FDA approved the first protease inhibitor in June 1995, and at the international AIDS conference in Vancouver in 1996 three-drug combinations, called highly active antiretroviral therapy (HAART), were the news. In 1997 AIDS deaths in the United States fell by 47 percent from the year before, which the CDC credited largely to HAART.",
+      "Treatment then became prevention, and went global. PEPFAR, announced by President George W. Bush in 2003, was a $15 billion, five-year plan aimed mainly at the countries with the most infections. The FDA approved a daily pill, Truvada, for prevention (PrEP) in 2012. In 2014 the PARTNER study found no sexual transmission from partners whose treatment kept the virus undetectable, a result later summed up as \"Undetectable = Untransmittable.\" In June 2025 the FDA approved lenacapavir, an injection given twice a year, for PrEP."
     ],
     "links": [
-      { "to": "hiv-aids", "kind": "built-on", "note": "The epidemic these drugs were made to fight." }
+      {
+        "to": "hiv-aids",
+        "kind": "built-on",
+        "note": "The epidemic these drugs were made to fight."
+      }
     ],
     "sources": [
       {
@@ -326,9 +348,9 @@
       "display": "1973–1994"
     },
     "confidence": {
-      "date": "firm",
+      "date": "agreed",
       "claim": "firm",
-      "note": "Endo's own account and the published papers date the discovery, and the FDA approval and the 4S trial are matters of record. Some details, such as the dog lymphomas that halted compactin, rest on company reports Endo himself describes as rumor."
+      "note": "Endo's own account and the published papers date the discovery, and the FDA approval and the 4S trial are matters of record. Endo's memoir and the Lasker Foundation's retelling differ on the 1972 details (mid-summer 1972 after 3,800 strains versus 15 March 1972 after 6,000 extracts), and the dog lymphomas that halted compactin were rumors for which, according to the Lasker account, Sankyo provided no data."
     },
     "place": "Tokyo, Japan, and the United States",
     "people": [
@@ -336,16 +358,27 @@
       "Akira Yamamoto, Osaka physician who first gave compactin to patients",
       "Alfred Alberts, Merck scientist who found lovastatin"
     ],
-    "themes": ["drugs", "practice"],
-    "summary": "A Japanese chemist searching molds for a cholesterol blocker found one in 1973. It took two decades, and a scare over dogs, to prove statins saved lives.",
+    "themes": [
+      "drugs",
+      "practice"
+    ],
+    "summary": "A Japanese biochemist searching molds for a cholesterol blocker found one in 1973. It took two decades, and a scare over dogs, to prove statins saved lives.",
     "body": [
-      "Akira Endo, a biochemist at the Japanese drug company Sankyo, went looking for a cholesterol-lowering drug the way Alexander Fleming had found penicillin: in molds. From 1971 his team screened broths from thousands of fungi; after 3,800 strains one showed strong activity, and in July 1973 they isolated compactin from *Penicillium citrinum*. It blocks HMG-CoA reductase, the enzyme that controls the body's own production of cholesterol. Endo described it in 1976: the first statin.",
-      "The road to patients was rocky. Compactin did not work in rats, though it did in hens, dogs and monkeys. In 1978 the physician Akira Yamamoto gave it to patients with inherited high cholesterol, whose levels fell by roughly 30 percent. In 1980 Sankyo dropped it amid reports of lymphoma in dogs given enormous doses, and Merck paused its own close relative, lovastatin. Merck resumed, and lovastatin (Mevacor) became the first statin approved, in 1987.",
-      "The decisive evidence that this saved lives came in 1994, when the Scandinavian Simvastatin Survival Study linked a 35 percent fall in LDL cholesterol to a 40 percent drop in deaths from coronary heart disease."
+      "Akira Endo, a biochemist at the Japanese drug company Sankyo, went looking for a cholesterol-lowering drug the way Alexander Fleming had found penicillin: in molds. His team began screening broths from thousands of fungi in April 1971. In 1972 a *Penicillium citrinum* mold from Kyoto rice showed strong activity, and in July 1973 they isolated compactin from it. It blocks HMG-CoA reductase, a key enzyme in the body's own production of cholesterol. Endo described it in 1976: the first statin.",
+      "The road to patients was rocky. Compactin did not work in rats, though it did in hens, dogs and monkeys. From 1978 the physician Akira Yamamoto gave it to patients with inherited high cholesterol, whose levels fell by roughly 30 percent. In 1980 Sankyo dropped it amid rumors of lymphoma in dogs given enormous doses, and Merck paused its own close relative, lovastatin, a molecule Endo had also isolated independently. Merck resumed, and lovastatin (Mevacor) became the first statin approved, in 1987.",
+      "The clearest evidence that statins saved lives came in 1994, when the Scandinavian Simvastatin Survival Study linked a 35 percent fall in LDL cholesterol to a 40 percent drop in deaths from coronary heart disease."
     ],
     "links": [
-      { "to": "penicillin", "kind": "built-on", "note": "Fleming's mold inspired Endo's search of fungi." },
-      { "to": "framingham", "kind": "see-also", "note": "The study that made cholesterol a recognized risk factor." }
+      {
+        "to": "penicillin",
+        "kind": "built-on",
+        "note": "Fleming's mold inspired Endo's search of fungi."
+      },
+      {
+        "to": "framingham",
+        "kind": "see-also",
+        "note": "The study that made cholesterol a recognized risk factor."
+      }
     ],
     "sources": [
       {
@@ -355,8 +388,18 @@
         "year": 2010,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3108295/",
         "type": "primary",
-        "supports": "The fungal screen begun in 1971, 3,800 strains, compactin isolated July 1973.",
-        "quote": "we began our project using culture broths of thousands of fungi in April 1971, and one year later, after 3800 strains of fungi, we found that a culture broth of mold showed potent inhibitory activity"
+        "supports": "The fungal screen begun in April 1971.",
+        "quote": "we began our project using culture broths of thousands of fungi in April 1971"
+      },
+      {
+        "title": "A historical perspective on the discovery of statins",
+        "author": "Akira Endo",
+        "publisher": "Proceedings of the Japan Academy, Series B",
+        "year": 2010,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3108295/",
+        "type": "primary",
+        "supports": "Second active mold (Penicillium citrinum, from Kyoto rice) found in 1972; compactin isolated July 1973.",
+        "quote": "Finally, in July 1973, we were able to isolate three active metabolites from the culture broth by solvent extraction"
       },
       {
         "title": "A historical perspective on the discovery of statins",
@@ -375,7 +418,7 @@
         "year": 2010,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3108295/",
         "type": "primary",
-        "supports": "Sankyo halted compactin in 1980 over reported lymphoma in dogs on very high doses.",
+        "supports": "Sankyo halted compactin in 1980 over what was said to be lymphoma in dogs on very high doses.",
         "quote": "It was said that the drug caused lymphoma in dogs that received astonishingly high doses, 100 or 200 mg/kg/day for 2 years."
       },
       {
@@ -383,7 +426,7 @@
         "publisher": "Lasker Foundation",
         "url": "https://laskerfoundation.org/winners/statins/",
         "type": "institutional",
-        "supports": "Penicillium citrinum; Merck halting lovastatin; FDA approval of lovastatin in 1987.",
+        "supports": "Penicillium citrinum; Merck halting lovastatin; Mevacor; FDA approval of lovastatin in 1987.",
         "quote": "became the first statin to be approved for human use eight years later in 1987"
       },
       {
@@ -393,6 +436,14 @@
         "type": "institutional",
         "supports": "The 1994 4S trial: 35 percent LDL reduction, 40 percent fewer coronary deaths.",
         "quote": "lowered LDL levels by 35%; this reduction was associated with a drop of 40% in CHD deaths"
+      },
+      {
+        "title": "Statins: 2008 Lasker~DeBakey Clinical Medical Research Award",
+        "publisher": "Lasker Foundation",
+        "url": "https://laskerfoundation.org/winners/statins/",
+        "type": "institutional",
+        "supports": "Merck's Alberts-led team independently identified the same compound Endo isolated as monacolin K; Merck halted its lovastatin studies on the dog rumors.",
+        "quote": "Merck scientists, led by Alfred W. Alberts, independently identified"
       }
     ],
     "further": []
@@ -409,14 +460,17 @@
     "confidence": {
       "date": "firm",
       "claim": "firm",
-      "note": "The FDA's approval record fixes the date, and the drug's development is documented in published papers. The low-serotonin theory of depression is contested; a 2022 umbrella review found no consistent support for it, though it did not test whether the drugs work."
+      "note": "The FDA's approval record fixes the date, and the drug's development is documented in published papers. The low-serotonin theory of depression is contested: a 2022 umbrella review found no consistent support for it, though some researchers still defend it, and the review did not test whether the drugs work."
     },
     "place": "Eli Lilly laboratories, United States",
     "people": [
       "David T. Wong, Eli Lilly biochemist on the team that found fluoxetine",
       "Bryan Molloy, Eli Lilly chemist on the team"
     ],
-    "themes": ["drugs", "mind"],
+    "themes": [
+      "drugs",
+      "mind"
+    ],
     "summary": "Prozac made antidepressants a household word and spread the idea of a serotonin 'chemical imbalance.' The drug was real; the theory was weaker.",
     "body": [
       "Fluoxetine was picked out at Eli Lilly in 1972 as the most potent and selective of 55 related compounds that block the reuptake of serotonin. After trials from 1984 to 1987, the FDA approved it as Prozac on 29 December 1987. It was not the first such drug sold: zimelidine was marketed in 1982 and withdrawn over side effects. SSRIs helped popularize the idea that depression is a \"chemical imbalance\" of serotonin, but a 2022 umbrella review found no consistent evidence that depression is caused by low serotonin."
@@ -426,7 +480,11 @@
       "record": "The low-serotonin idea was widely publicized from the 1990s with the SSRIs, but reviews of the main lines of research find no consistent support for it. Whether the drugs relieve symptoms is a separate question."
     },
     "links": [
-      { "to": "chlorpromazine", "kind": "see-also", "note": "The earlier drug revolution in psychiatry." }
+      {
+        "to": "chlorpromazine",
+        "kind": "see-also",
+        "note": "The earlier drug revolution in psychiatry."
+      }
     ],
     "sources": [
       {
@@ -466,7 +524,9 @@
         "quote": "The main areas of serotonin research provide no consistent evidence of there being an association between serotonin and depression"
       }
     ],
-    "further": ["harrington-2019"]
+    "further": [
+      "harrington-2019"
+    ]
   },
   {
     "id": "polio-endgame",
@@ -484,14 +544,25 @@
     },
     "place": "Worldwide",
     "people": [],
-    "themes": ["public-health", "institutions"],
+    "themes": [
+      "public-health",
+      "institutions"
+    ],
     "summary": "In 1988 polio paralyzed an estimated 350,000 people a year. Cases have fallen by over 99 percent, but the last stretch has proved the hardest.",
     "body": [
-      "In 1988 the World Health Assembly resolved to eradicate polio, launching the Global Polio Eradication Initiative; Rotary International had pressed for the effort from the start. Wild polio then caused an estimated 350,000 cases in more than 125 countries, and cases have since fallen by more than 99 percent. Wild type 2 was certified eradicated in 2015 and type 3 in 2019, but type 1 still circulates in Afghanistan and Pakistan. The oral vaccine complicates the endgame: where immunity is very low, its weakened virus can circulate, mutate and regain the power to paralyze, causing 672 cases between January 2023 and June 2024."
+      "In 1988 the World Health Assembly resolved to eradicate polio, launching the Global Polio Eradication Initiative; WHO describes Rotary International as at the origin of the effort. Wild polio then caused an estimated 350,000 cases in more than 125 countries, and cases have since fallen by more than 99 percent. Wild type 2 was certified eradicated in 2015 and type 3 in 2019, but type 1 still circulates in Afghanistan and Pakistan. The oral vaccine complicates the endgame: where immunity is very low, its weakened virus can circulate, mutate and regain the power to paralyze, causing 672 cases between January 2023 and June 2024."
     ],
     "links": [
-      { "to": "polio-vaccine", "kind": "built-on", "note": "The Salk and Sabin vaccines made eradication thinkable." },
-      { "to": "smallpox-eradication", "kind": "built-on", "note": "The only human disease eradicated so far, and the model." }
+      {
+        "to": "polio-vaccine",
+        "kind": "built-on",
+        "note": "The Salk and Sabin vaccines made eradication thinkable."
+      },
+      {
+        "to": "smallpox-eradication",
+        "kind": "built-on",
+        "note": "The only human disease eradicated so far, and the model."
+      }
     ],
     "sources": [
       {
@@ -543,29 +614,41 @@
     "confidence": {
       "date": "firm",
       "claim": "firm",
-      "note": "The project's milestones are documented by the agencies that ran it and in published papers. What is often misremembered is what \"complete\" meant: the 2003 sequence covered over 90 percent of the genome, and the last gaps were closed only in 2022."
+      "note": "The project's milestones are documented by the agencies that ran it and in published papers. What is often misremembered is what \"complete\" meant: the 2003 sequence covered over 90 percent of the genome, the remaining gaps were closed only in 2022, and that sequence still lacked the Y chromosome."
     },
     "place": "United States, Britain and partner countries",
     "people": [
       "Francis Collins, director of the US National Human Genome Research Institute",
       "J. Craig Venter, head of the rival company Celera"
     ],
-    "themes": ["technology", "institutions", "theory"],
+    "themes": [
+      "technology",
+      "institutions",
+      "theory"
+    ],
     "summary": "A 13-year, multinational effort read the human DNA sequence, raced a private company, and declared victory in 2003. The last 8 percent took until 2022.",
     "body": [
-      "In 1990 an international consortium set out to read the whole of human DNA, about 3 billion chemical letters, in order. In the United States the Human Genome Project was funded by the Department of Energy and the National Institutes of Health; the Wellcome Trust helped lead it from Britain. It was budgeted at $3 billion over 15 years and drew in thousands of researchers.",
-      "Midway, it became a race. Craig Venter's company Celera set out to sequence the genome privately, commercialize the data and seek patents on genes. The public consortium released its data rapidly, a policy President Clinton and Prime Minister Blair applauded in a joint statement in 2000. In June 2000 a draft covering 90 percent of the genome was celebrated at the White House, and the consortium's paper describing it appeared in 2001. Celera's sequence was eventually deposited in the public database GenBank as well.",
+      "In 1990 the Human Genome Project began, aiming to read the whole of human DNA, about 3 billion chemical letters, in order. It grew into an international consortium. In the United States it was funded by the Department of Energy and the National Institutes of Health, and the Wellcome Trust, which joined in 1992, helped lead it from Britain. It was projected to cost $3 billion over 15 years and drew in thousands of researchers.",
+      "Midway, it became a race. Craig Venter's company Celera set out to sequence the genome privately; according to Michael Morgan of the Wellcome Trust, it planned to commercialize the sequence and seek patents on a number of genes. The public consortium released its data rapidly, a policy President Clinton and Prime Minister Blair applauded in a joint statement in 2000. In June 2000 a draft covering 90 percent of the genome was celebrated at the White House, and the consortium's paper describing it appeared in 2001. Celera's sequence was eventually deposited in the public database GenBank as well.",
       "In April 2003, two years ahead of schedule, the consortium declared the sequence essentially complete. It was a reference genome assembled from more than one person, and it supported an estimate that humans have between 20,000 and 25,000 protein-coding genes.",
       "\"Essentially complete\" meant over 90 percent, as close as the technology of the time allowed. The remaining 8 percent, long repetitive stretches around the centromeres and the short arms of five chromosomes, stayed missing or wrong for nearly two decades. On 31 March 2022 the Telomere-to-Telomere consortium, using long-read sequencing, announced the first truly complete sequence, adding nearly 200 million letters and 99 predicted protein-coding genes. Even that left out the Y chromosome.",
       "Meanwhile the price collapsed. The draft alone cost about $300 million; by late 2015 a high-quality human genome could be sequenced for under $1,500."
     ],
     "myth": {
       "tradition": "The Human Genome Project read one person's complete genome and finished in 2003.",
-      "record": "Its reference sequence came from more than one person, and in 2003 it covered over 90 percent of the genome. The last 8 percent, mostly repetitive DNA, was filled in only in 2022, and the Y chromosome later still."
+      "record": "Its reference sequence came from more than one person, and in 2003 it covered over 90 percent of the genome. The last 8 percent, mostly repetitive DNA, was filled in only in 2022, and even that sequence lacked the Y chromosome."
     },
     "links": [
-      { "to": "dna-double-helix", "kind": "built-on", "note": "The structure that made the sequence meaningful." },
-      { "to": "gene-therapy", "kind": "see-also", "note": "Another hope pinned on reading and repairing genes." }
+      {
+        "to": "dna-double-helix",
+        "kind": "built-on",
+        "note": "The structure that made the sequence meaningful."
+      },
+      {
+        "to": "gene-therapy",
+        "kind": "see-also",
+        "note": "Another hope pinned on reading and repairing genes."
+      }
     ],
     "sources": [
       {
@@ -641,7 +724,7 @@
     "image": {
       "commons": "File:ABI 3730 (2).JPG",
       "alt": "A large gray laboratory instrument with a glass door, an automated capillary DNA sequencer.",
-      "caption": "An Applied Biosystems ABI 3730 capillary DNA sequencer, photographed in 2012. Automated capillary machines like this read DNA in the early genome era, before newer methods drove costs down."
+      "caption": "An Applied Biosystems ABI 3730 capillary DNA sequencer, an automated instrument for reading DNA, photographed in 2012."
     }
   }
 ]
