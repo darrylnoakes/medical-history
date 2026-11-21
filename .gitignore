@@ -5,3 +5,4 @@ src/generated
 *.log
 .DS_Store
 test-results
+public/img/.*.download
