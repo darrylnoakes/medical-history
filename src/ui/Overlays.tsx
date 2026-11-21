@@ -112,6 +112,14 @@ export function Legend({ river }: { river: RiverController | null }) {
               <svg width="44" height="14" viewBox="0 0 44 14" aria-hidden="true"><path d="M8 7 H36" stroke="#2a2420" stroke-width="1" stroke-dasharray="1.5 4" /><circle cx="8" cy="7" r="3.6" fill="none" stroke="#2a2420" stroke-width="1.3" stroke-dasharray="2 2" /><circle cx="36" cy="7" r="3.4" fill="#2a2420" /></svg>
               <span><strong>Ghost</strong> Where tradition dates it, tethered to where the evidence does.</span>
             </li>
+            <li>
+              <svg width="44" height="14" viewBox="0 0 44 14" aria-hidden="true"><path d="M5 7 H26" stroke="#2a2420" stroke-width="1.4" /><path d="M26 7 H40" stroke="#2a2420" stroke-width="1.4" stroke-dasharray="3.5 3.5" /><path d="M40 3 V11" stroke="#2a2420" stroke-width="1.4" /><circle cx="5" cy="7" r="2.4" fill="#f8f3e6" stroke="#2a2420" stroke-width="1.2" /></svg>
+              <span><strong>Current</strong> A long-lived idea: born, fading (dashed), ended. Click a line to read about it.</span>
+            </li>
+            <li>
+              <svg width="44" height="14" viewBox="0 0 44 14" aria-hidden="true"><path d="M2 3 C20 3 22 11 42 11" fill="none" stroke="#7d3c6e" stroke-width="5" opacity="0.5" /><rect x="19" y="4" width="6" height="6" transform="rotate(45 22 7)" fill="#f8f3e6" stroke="#2a2420" stroke-width="1" /></svg>
+              <span><strong>Confluence</strong> Knowledge crossing between traditions. Click the diamond.</span>
+            </li>
           </ul>
           <h3>The streams</h3>
           <ul class="legend-streams">

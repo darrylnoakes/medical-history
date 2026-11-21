@@ -246,6 +246,15 @@
         "type": "institutional",
         "supports": "Al-Razi's Hawi as a record of Indian (and Greek) writings he cited.",
         "quote": "source for our knowledge of Greek, Indian, and early Arabic writings now lost, for al-Razi was meticulous about crediting his sources"
+      },
+      {
+        "title": "Notes on Rauwolfia and Ancient Medical Writings of India",
+        "author": "K. Somers",
+        "publisher": "Medical History (Cambridge University Press)",
+        "url": "https://cambridge.org/core/services/aop-cambridge-core/content/view/52C3E4348053FA2E50DFF6E64993EA03/S0025727300023498a.pdf/notes-on-rauwolfia-and-ancient-medical-writings-of-india.pdf",
+        "type": "scholarly",
+        "supports": "Persian and Arabic translations of Sushruta and Charaka; Manka, an Indian physician at Harun al-Rashid's court.",
+        "quote": "Translations of works including Susruta and Charaka appeared in Persian and Arabic and even the physician at the court of Harun-al-Rashid"
       }
     ],
     "further": [
@@ -634,6 +643,419 @@
     ],
     "further": [
       "washington-2006"
+    ]
+  },
+  {
+    "id": "unani-into-india",
+    "title": "Greco-Islamic medicine into India",
+    "from": "islamic",
+    "to": "india",
+    "start": 1300,
+    "end": 1700,
+    "display": "14th–17th centuries",
+    "summary": "Physicians at the courts of the Delhi Sultanate and the Mughals brought Greco-Islamic medicine to India, where it met Ayurveda and became what is now called Unani.",
+    "body": [
+      "Muslim rulers in India brought physicians trained in the Greco-Islamic tradition of Galen and Ibn Sina, and with them its hospitals. Sultan Firuz Shah, who took the throne of Delhi in 1351, recorded that he had built a hospital where physicians diagnosed disease, set diets and gave medicines at his expense. At the Delhi Sultanate and later Muslim courts of central and southern India, these doctors worked alongside Ayurvedic colleagues; in 1590 the historian Muhammad Qasim Firishta described himself as a Muslim practitioner of Ayurveda. Under the Mughals, physicians from Persia kept arriving at court.",
+      "The exchange ran both ways, and the tradition became Indian. The name \"Unani\", from the Arabic for Greek, first appears in two late eighteenth-century treatises from Delhi."
+    ],
+    "confidence": {
+      "claim": "agreed",
+      "note": "Court chronicles and surviving treatises document Greco-Islamic physicians in India from the Sultanate period on; how much Ayurveda and Unani actually borrowed from each other is less well studied."
+    },
+    "related": [
+      "unani-in-india",
+      "ibn-sina-canon",
+      "bimaristans"
+    ],
+    "sources": [
+      {
+        "title": "Futuhat-i Firoz Shahi, in The History of India as Told by Its Own Historians, vol. 3 (ed. H. M. Elliot and J. Dowson)",
+        "author": "Sultan Firoz Shah",
+        "publisher": "Trübner, 1871 (Internet Archive)",
+        "url": "https://archive.org/stream/historyofindiaas03elli/historyofindiaas03elli_djvu.txt",
+        "type": "primary",
+        "supports": "Firuz Shah's hospital in Delhi, with physicians diagnosing, setting diets and giving medicine.",
+        "quote": "Physicians attend there to ascertain the disease, to look after the cure, to regulate the diet, and to administer medicine"
+      },
+      {
+        "title": "Tarikh-i Firoz Shahi of Shams-i Siraj 'Afif, in The History of India as Told by Its Own Historians, vol. 3",
+        "publisher": "Trübner, 1871 (Internet Archive)",
+        "url": "https://archive.org/stream/historyofindiaas03elli/historyofindiaas03elli_djvu.txt",
+        "type": "primary",
+        "supports": "Firuz Shah's accession in 752 AH / 1351 CE.",
+        "quote": "not one of us will escape from the hands of the Mughals and the Thatta men. So on the 24th Muharram, 752 h. (1351 a.d.), the"
+      },
+      {
+        "title": "Unani Medicine's Greco-Islamic Synthesis",
+        "publisher": "AramcoWorld",
+        "year": 2014,
+        "url": "https://archive.aramcoworld.com/issue/201402/unani.medicine.s.greco-islamic.synthesis.htm",
+        "type": "news",
+        "supports": "Muslim doctors working alongside Ayurvedic colleagues; Firishta in 1590; earliest uses of the word Unani.",
+        "quote": "Both at the court of the Delhi Sultanate and those of later Muslim kingdoms of central and southern India, Muslim doctors worked alongside their Ayurvedic colleagues"
+      }
+    ],
+    "further": [
+      "pormann-savage-smith-2007"
+    ]
+  },
+  {
+    "id": "indian-surgery-into-europe",
+    "title": "The Indian nose job reaches Europe",
+    "from": "india",
+    "to": "europe",
+    "start": 1794,
+    "end": 1816,
+    "display": "1794–1816",
+    "summary": "A 1794 report of a forehead-flap nose rebuilt near Poona inspired Joseph Carpue's 1814 operation in London and helped launch modern plastic surgery.",
+    "body": [
+      "In October 1794 the *Gentleman's Magazine* printed a letter from India describing Cowasjee, a bullock driver for the British army whose nose had been cut off as a prisoner. A Maratha surgeon of the Kumar caste near Poona had built him a new one from a flap of forehead skin, shaped over a wax template; the writers said the operation was not uncommon in India and very old.",
+      "The report reached London surgeons. On 22 October 1814 Joseph Constantine Carpue, having studied the accounts, used the method to rebuild an army officer's nose, the first such operation in Britain, and in 1816 he published his cases. The German surgeon Carl Ferdinand von Gräfe took the technique further and is credited with coining the term \"plastic surgery\"."
+    ],
+    "confidence": {
+      "claim": "firm",
+      "note": "The 1794 letter and Carpue's 1816 book survive and are explicit about the link; the claim that the Indian method descends directly from the cheek-flap operation in the Sushruta Samhita is plausible but not documented."
+    },
+    "related": [
+      "indian-rhinoplasty-1794",
+      "sushruta-samhita"
+    ],
+    "sources": [
+      {
+        "title": "Britain's first nose job",
+        "author": "Philip Eagle",
+        "publisher": "British Library, Science blog",
+        "year": 2016,
+        "url": "https://www.bl.uk/stories/blogs/posts/britains-first-nose-job",
+        "type": "institutional",
+        "supports": "The 1794 Gentleman's Magazine report on Cowasjee; Carpue's operation of 22 October 1814 and 1816 book; von Gräfe.",
+        "quote": "The most famous of these was a 1794 report in the Gentleman’s Magazine, describing the reconstruction of the nose of a man named Cowasjee"
+      },
+      {
+        "title": "An Account of Two Successful Operations for Restoring a Lost Nose",
+        "author": "J. C. Carpue",
+        "publisher": "London, 1816 (Internet Archive, Wellcome Library copy)",
+        "year": 1816,
+        "url": "https://archive.org/stream/b22017380/b22017380_djvu.txt",
+        "type": "primary",
+        "supports": "Text of the 1794 letter: a Maratha surgeon near Poona; the operation long practised in India.",
+        "quote": "This operation is not uncommon in India, and has been practised from time immemorial"
+      },
+      {
+        "title": "A singular operation (engraving of Cowasjee)",
+        "publisher": "Science Museum Group Collection",
+        "url": "https://collection.sciencemuseumgroup.org.uk/objects/co67130/a-singular-operation",
+        "type": "institutional",
+        "supports": "Cowasjee as a bullock driver; forehead skin and wax template.",
+        "quote": "A new nose was created through a skin-grafting process, using skin from his forehead and a wax template of the desired nose shape"
+      }
+    ],
+    "further": [
+      "wujastyk-2003",
+      "porter-1997"
+    ]
+  },
+  {
+    "id": "western-medicine-into-east-asia",
+    "title": "Western medicine into Japan and China",
+    "from": "europe",
+    "to": "east-asia",
+    "start": 1771,
+    "end": 1861,
+    "display": "1771–1861",
+    "summary": "Through Dutch books at Nagasaki, Japanese doctors learned European anatomy and vaccination; in China, missionary surgeons brought ether anesthesia.",
+    "body": [
+      "Japan's window on Europe was the Dutch trading post at Nagasaki. In 1771 Sugita Genpaku and his colleagues took a Dutch anatomy atlas to the dissection of an executed criminal, were struck by its accuracy, and spent three years translating it; *Kaitai shinsho* appeared in 1774. In 1824 the German physician Philipp Franz von Siebold opened a small school of Western medicine, and in August 1849 cowpox lymph brought by the Dutch produced Japan's first successful vaccination, which spread from Kyushu to Kyoto, Osaka and Edo within months. In 1861 the Edo vaccination clinic became the Institute of Western Medicine.",
+      "In China, the eye surgeon Peter Parker is best known for introducing ether anesthesia."
+    ],
+    "confidence": {
+      "claim": "firm",
+      "note": "The translations, schools and vaccination campaign are documented in surviving books and official records; the brief here covers only part of a large story, and later events such as Japan's adoption of German medicine after 1870 are not included."
+    },
+    "related": [
+      "kaitai-shinsho",
+      "hanaoka-seishu",
+      "jenner"
+    ],
+    "sources": [
+      {
+        "title": "Historical Anatomies on the Web: Johann Adam Kulmus",
+        "publisher": "National Library of Medicine",
+        "url": "https://www.nlm.nih.gov/exhibition/historicalanatomies/kulmus_bio.html",
+        "type": "institutional",
+        "supports": "The 1771 dissection and the 1774 publication of Kaitai shinsho from a Dutch translation of Kulmus.",
+        "quote": "in 1771 managed to obtain copies of the Dutch translation of Kulmus' anatomical work"
+      },
+      {
+        "title": "The Netherlands and Japan: From Rumor to Realization",
+        "publisher": "Indiana University Libraries, History of the Smallpox Vaccine digital exhibition",
+        "url": "https://collections.libraries.indiana.edu/iulibraries/s/smallpox-vaccine-exhibit/page/japan_netherlands",
+        "type": "institutional",
+        "supports": "Siebold's medical school of 1824.",
+        "quote": "his successor, German physician Philipp Franz von Siebold, seized on this capital in 1824 to open a small medical school"
+      },
+      {
+        "title": "Japan: vaccination",
+        "publisher": "Indiana University Libraries, History of the Smallpox Vaccine digital exhibition",
+        "url": "https://collections.libraries.indiana.edu/iulibraries/s/smallpox-vaccine-exhibit/page/japan",
+        "type": "institutional",
+        "supports": "First successful vaccination in Japan, August 1849; spread to Kyoto, Osaka, Edo; 1861 Institute of Western Medicine.",
+        "quote": "In August 1849, the first successful vaccination in Japan was performed on Kensaburo Narabayashi"
+      },
+      {
+        "title": "Peter Parker Papers",
+        "publisher": "Harvey Cushing/John Hay Whitney Medical Library, Yale University",
+        "url": "http://library.medicine.yale.edu/find/peter-parker",
+        "type": "institutional",
+        "supports": "Parker as an eye surgeon who introduced ether anesthesia to China.",
+        "quote": "He is probably best known for the introduction of anesthesia to China in the form of sulphuric ether"
+      }
+    ],
+    "further": [
+      "porter-1997"
+    ]
+  },
+  {
+    "id": "western-medicine-into-india",
+    "title": "Western medicine into colonial India",
+    "from": "europe",
+    "to": "india",
+    "start": 1830,
+    "end": 1860,
+    "display": "c. 1830–1860",
+    "summary": "Under British rule, vaccination and colonial medical services spread through India, displacing variolation and leaving indigenous medicine outside the official system.",
+    "body": [
+      "India already had a way of fighting smallpox: variolation had been practiced there since the early seventeenth century and was widely accepted by the time cowpox vaccine arrived. British administrators set out to replace it. In Bengal in the late 1830s a network of dispensaries supplied vaccine locally and sent lymph out with traveling vaccinators; the system was reorganized in 1853 and 1854, and the 1860s brought formal vaccination policies. Uptake was uneven. Some lower-caste Hindus welcomed vaccination partly because they had been excluded from the religious rituals around variolation.",
+      "The colonial medical establishment, dominated by the Indian Medical Service, largely ignored indigenous medicine. Ayurvedic and Unani practitioners answered with institutions of their own, such as the Tibbia College in Delhi."
+    ],
+    "confidence": {
+      "claim": "agreed",
+      "note": "Vaccination campaigns and colonial medical institutions are well documented in official records; how far indigenous practitioners were actively suppressed, rather than simply excluded from state support, is debated."
+    },
+    "related": [
+      "bengal-inoculation",
+      "jenner",
+      "unani-in-india"
+    ],
+    "sources": [
+      {
+        "title": "British Raj: The Slow Wheels of Bureaucracy",
+        "publisher": "Indiana University Libraries, History of the Smallpox Vaccine digital exhibition",
+        "url": "https://collections.libraries.indiana.edu/iulibraries/s/smallpox-vaccine-exhibit/page/raj",
+        "type": "institutional",
+        "supports": "Indian variolation since the 17th century; Bengal dispensaries in the late 1830s; 1853–54 reorganization; 1860s policies; caste and variolation rituals.",
+        "quote": "Variolation was practiced in the subcontinent since the early seventeenth century and appears to have become accepted by the majority of the population by the time vaccination arrived"
+      },
+      {
+        "title": "British Raj: The Slow Wheels of Bureaucracy — Bengal dispensaries",
+        "publisher": "Indiana University Libraries, History of the Smallpox Vaccine digital exhibition",
+        "url": "https://collections.libraries.indiana.edu/iulibraries/s/smallpox-vaccine-exhibit/page/raj",
+        "type": "institutional",
+        "supports": "The Bengal vaccination dispensary system of the late 1830s.",
+        "quote": "in Bengal in the late 1830s, a dispensary system was created in which brick-and-mortar offices provided vaccines for interested locals"
+      },
+      {
+        "title": "Global Pharma and Local Science: The Untold Tale of Reserpine",
+        "author": "Pradipto Roy",
+        "publisher": "Indian Journal of Psychiatry (Europe PMC full text)",
+        "year": 2018,
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5836351/fullTextXML",
+        "type": "scholarly",
+        "supports": "The Indian Medical Service's neglect of indigenous medicine; the Tibbia College as an institution outside the colonial establishment.",
+        "quote": "much like his western predecessors in the prestigious and authoritative Indian Medical Service (IMS), failed to assess indigenous medicines beyond sympathy"
+      }
+    ],
+    "further": [
+      "porter-1997"
+    ]
+  },
+  {
+    "id": "artemisinin-into-world",
+    "title": "Artemisinin into world medicine",
+    "from": "east-asia",
+    "to": "bio-drugs",
+    "start": 1972,
+    "end": 2015,
+    "display": "1972–2015",
+    "summary": "A secret Chinese research project, guided by a 4th-century recipe, isolated artemisinin in 1972; in combination therapy it became the world's frontline malaria drug.",
+    "body": [
+      "Tu Youyou led a research group in Project 523, a secret Chinese program launched in 1967 to find new malaria drugs. Screening traditional remedies, she returned to a recipe by Ge Hong, written about 340 CE, which took the juice of sweet wormwood (*qinghao*) with cold water rather than boiling it. That hint led to a low-temperature ether extraction: on 4 October 1971 sample 191 inhibited malaria parasites completely in rodents, and in November 1972 the team isolated crystals of the active compound, artemisinin.",
+      "The work was kept secret, and the first English-language report appeared only in December 1979. Combined with other drugs, artemisinin is now used wherever malaria is common and is estimated to cut malaria deaths by more than 20%, and by more than 30% in children. Tu shared the 2015 Nobel Prize."
+    ],
+    "confidence": {
+      "claim": "firm",
+      "note": "Tu's laboratory records, later publications and the Nobel committee's review document the discovery; credit within the large collective Project 523 has been disputed, and the mortality figures are modeled estimates."
+    },
+    "related": [
+      "artemisinin",
+      "ge-hong",
+      "cinchona"
+    ],
+    "sources": [
+      {
+        "title": "Tu Youyou – Biographical",
+        "author": "Tu Youyou",
+        "publisher": "NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/medicine/2015/tu/biographical/",
+        "type": "primary",
+        "supports": "Sample 191 on 4 October 1971; crystals isolated November 1972.",
+        "quote": "On October 4, 1971, we observed that sample number 191 of the Qinghao ethyl ether extract showed 100% effectiveness"
+      },
+      {
+        "title": "Avermectin and Artemisinin – Revolutionary Therapies against Parasitic Diseases (scientific background)",
+        "publisher": "The Nobel Assembly at Karolinska Institutet",
+        "year": 2015,
+        "url": "https://www.nobelprize.org/uploads/2018/07/advanced-medicineprize2015.pdf",
+        "type": "institutional",
+        "supports": "Tu's use of Ge Hong's recipe of c. 340 CE.",
+        "quote": "So again Tu turned to ancient literature and studied recipes by Ge Hong 340 AD"
+      },
+      {
+        "title": "Tu Youyou's discovery of artemisinin",
+        "publisher": "Journal of Clinical Investigation",
+        "year": 2011,
+        "url": "https://www.jci.org/articles/view/60887",
+        "type": "scholarly",
+        "supports": "Project 523 and its secrecy; first English-language report in December 1979.",
+        "quote": "The first English-language report about artemisinin was in December 1979"
+      },
+      {
+        "title": "The Nobel Prize in Physiology or Medicine 2015 – Press release",
+        "publisher": "NobelPrize.org",
+        "year": 2015,
+        "url": "https://www.nobelprize.org/prizes/medicine/2015/press-release/",
+        "type": "institutional",
+        "supports": "Global use and estimated mortality reductions with combination therapy.",
+        "quote": "When used in combination therapy, it is estimated to reduce mortality from Malaria by more than 20% overall and by more than 30% in children"
+      }
+    ],
+    "further": [
+      "unschuld-1985"
+    ]
+  },
+  {
+    "id": "rauwolfia-into-pharmacology",
+    "title": "Rauwolfia into pharmacology",
+    "from": "india",
+    "to": "bio-drugs",
+    "start": 1931,
+    "end": 1954,
+    "display": "1931–1954",
+    "summary": "Indian physicians' work on snakeroot for blood pressure and madness led Swiss chemists to reserpine in 1952, one of the first modern blood-pressure and antipsychotic drugs.",
+    "body": [
+      "The root of *Rauwolfia serpentina*, sarpagandha, was sold in Indian bazaars against fevers, snakebite and agitation, though it cannot be clearly identified in classical Ayurvedic drug lists. In 1931 the Calcutta physicians Gananath Sen and Kartick Chandra Bose reported that the powdered root calmed violent patients and lowered blood pressure. In Delhi the chemist Salimuzzaman Siddiqui isolated several of its alkaloids, and in 1949 the Bombay cardiologist Rustom Jal Vakil summed up years of clinical experience in the *British Heart Journal*, bringing it to Western attention.",
+      "In 1952 Müller, Schlittler and Bein at CIBA in Basel isolated reserpine in pure form; by 1954 it was confirmed in the United States as a sedative and blood-pressure drug, and it was soon used in psychiatry. The Indian pioneers are now largely forgotten."
+    ],
+    "confidence": {
+      "claim": "firm",
+      "note": "The published papers and dates are well documented; the claim that rauwolfia was an ancient Ayurvedic remedy is weaker, since early-20th-century Indian researchers could not identify it in classical texts."
+    },
+    "related": [
+      "reserpine",
+      "chlorpromazine"
+    ],
+    "sources": [
+      {
+        "title": "Global Pharma and Local Science: The Untold Tale of Reserpine",
+        "author": "Pradipto Roy",
+        "publisher": "Indian Journal of Psychiatry (Europe PMC full text)",
+        "year": 2018,
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5836351/fullTextXML",
+        "type": "scholarly",
+        "supports": "Sen and Bose 1931; Siddiqui's alkaloids; Vakil 1949; isolation in 1952 by Müller, Schlittler and Bein at CIBA; confirmation by 1954.",
+        "quote": "Following its isolation “in pure crystalline form” from the roots of the Rauwolfia plant in 1952 by Műller, Schlittler, and Bein"
+      },
+      {
+        "title": "Global Pharma and Local Science: The Untold Tale of Reserpine — Bose on Ayurvedic texts",
+        "author": "Pradipto Roy",
+        "publisher": "Indian Journal of Psychiatry (Europe PMC full text)",
+        "year": 2018,
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5836351/fullTextXML",
+        "type": "scholarly",
+        "supports": "Rauwolfia not identifiable in classical Ayurvedic drug lists.",
+        "quote": "No drug named as above and having similar properties as Rauwolfia can be found in any of the ‘Nighantus’ of Ayurvedic literature"
+      },
+      {
+        "title": "Notes on Rauwolfia and Ancient Medical Writings of India",
+        "author": "K. Somers",
+        "publisher": "Medical History (Cambridge University Press)",
+        "url": "https://cambridge.org/core/services/aop-cambridge-core/content/view/52C3E4348053FA2E50DFF6E64993EA03/S0025727300023498a.pdf/notes-on-rauwolfia-and-ancient-medical-writings-of-india.pdf",
+        "type": "scholarly",
+        "supports": "Vakil's 1949 paper as the trigger for Western interest.",
+        "quote": "it was largely the published observations of Rustom Jal Vakil in the British Heart jrournal (Vakil, I949) that drew the attention of the scientific world"
+      }
+    ],
+    "further": [
+      "harrington-2019"
+    ]
+  },
+  {
+    "id": "african-plants-into-pharmacology",
+    "title": "African plants into pharmacology",
+    "from": "africa",
+    "to": "bio-drugs",
+    "start": 1846,
+    "end": 1959,
+    "display": "1846–1959",
+    "summary": "A Calabar ordeal bean, arrow poisons and the Madagascar periwinkle gave Western medicine physostigmine, strophanthin and the anticancer drug vinblastine.",
+    "body": [
+      "People of Calabar, in today's Nigeria, used the seed they called *esere* as an ordeal to judge people accused of crimes. A report by Daniell brought the bean to scientific notice in 1846; Robert Christison described its effects to the Royal Society of Edinburgh in 1855, and in 1864 Jobst and Hesse isolated its active alkaloid, physostigmine, later used for glaucoma and synthesized by Percy Julian in 1935. *Strophanthus* seeds, used in arrow poisons, reached European notice in the early 1860s; their action on the heart was studied by Sharpey, Pelikan and Thomas Fraser, and by about 1885 strophanthus had entered medical practice.",
+      "The Madagascar periwinkle came by a different road. In 1952 Robert Noble in Canada received leaves from Jamaica, where it was thought to help diabetes; it did not lower blood sugar but destroyed white blood cells, and Noble and Charles Beer isolated vinblastine, patented in 1959 and made widely available with Eli Lilly."
+    ],
+    "confidence": {
+      "claim": "firm",
+      "note": "The chemistry and dates are well documented; the African knowledge behind them is recorded only through European observers, and the periwinkle lead came from Jamaican folk use, not from Madagascar."
+    },
+    "related": [
+      "calabar-bean",
+      "chemotherapy-origins"
+    ],
+    "sources": [
+      {
+        "title": "Physostigma (King's American Dispensatory, 1898)",
+        "author": "Harvey Wickes Felter and John Uri Lloyd",
+        "publisher": "Henriette's Herbal Homepage",
+        "url": "https://www.henriettes-herb.com/eclectic/kings/physostigma.html",
+        "type": "primary",
+        "supports": "Ordeal use of esere at Calabar; Jobst and Hesse's isolation of physostigmine in 1864.",
+        "quote": "The chief active principle of physostigma is the alkaloid physostigmine , discovered, in 1864, by Jobst and Hesse"
+      },
+      {
+        "title": "Physostigma (United States Dispensatory)",
+        "publisher": "Henriette's Herbal Homepage",
+        "url": "https://www.henriettes-herb.com/eclectic/usdisp/physostigma.html",
+        "type": "primary",
+        "supports": "The bean brought to scientific notice by Daniell in 1846.",
+        "quote": "This bean was brought to the notice of the scientific public by Daniell, in 1846"
+      },
+      {
+        "title": "Surmounting the insurmountable: Percy Julian",
+        "publisher": "United States Patent and Trademark Office",
+        "url": "https://www.uspto.gov/learning-and-resources/journeys-innovation/historical-stories/surmounting-insurmountable",
+        "type": "institutional",
+        "supports": "Julian's 1935 synthesis of physostigmine; glaucoma treatment.",
+        "quote": "Julian’s breakthrough came in 1935 with his synthesis of physostigmine, which chemists previously found in the Calabar bean"
+      },
+      {
+        "title": "Strophanthus (King's American Dispensatory, 1898)",
+        "author": "Harvey Wickes Felter and John Uri Lloyd",
+        "publisher": "Henriette's Herbal Homepage",
+        "url": "https://www.henriettes-herb.com/eclectic/kings/strophantus.html",
+        "type": "primary",
+        "supports": "Strophanthus as an arrow poison noticed in the early 1860s; Sharpey, Pelikan, Fraser; medical use from about 1885.",
+        "quote": "The powerful cardiac properties of the drug were recognized by Sharpey (1862), Pelikan (1865), Fraser (1871), but not until about 1885 did strophanthus gain a foothold in medical practice"
+      },
+      {
+        "title": "Robert Noble, MD PhD (1997 inductee)",
+        "publisher": "Canadian Medical Hall of Fame",
+        "url": "https://cdnmedhall.ca/laureates/robertnoble",
+        "type": "institutional",
+        "supports": "Periwinkle leaves from Jamaica in 1952; Noble and Beer's discovery of vinblastine; 1959 patent and Eli Lilly.",
+        "quote": "In 1952, Dr. Noble received an envelope that had 25 Madagascar periwinkle leaves enclosed from Jamaica"
+      }
+    ],
+    "further": [
+      "mukherjee-2010"
     ]
   }
 ]

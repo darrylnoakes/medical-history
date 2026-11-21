@@ -61,9 +61,9 @@ for (const e of wanted) {
       const src = ii.thumburl || ii.url;
       const buf = curl([src]);
       writeFileSync(tmp, buf);
-      const img = sharp(tmp, { failOn: 'none' }).rotate().resize({ width: 1200, height: 1500, fit: 'inside', withoutEnlargement: true });
+      const img = sharp(tmp, { failOn: 'none' }).rotate().resize({ width: 1000, height: 1300, fit: 'inside', withoutEnlargement: true });
       const outFile = join(OUT, `${e.id}.webp`);
-      const meta = await img.webp({ quality: 76 }).toFile(outFile);
+      const meta = await img.webp({ quality: 72 }).toFile(outFile);
       const short = (t) => (t.length > 110 ? t.slice(0, 107).replace(/\s+\S*$/, '') + '…' : t);
       const artist = short(strip(md.Artist?.value));
       const credit = short(strip(md.Credit?.value).replace(/^https?:\/\/\S+\s*/, ''));

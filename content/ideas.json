@@ -9,19 +9,51 @@
       "Humoral thinking underpinned European medicine, and everyday speech, Shakespeare's included, until at least the 1700s. It faded slowly rather than being refuted at a stroke; only in the late nineteenth century was its signature therapy, bloodletting, discredited for most ailments. It never vanished entirely. Unani medicine, brought to India by Arabic-speaking physicians and recognized today by the Indian government for clinical practice, still rests on the humoral theory."
     ],
     "status": "superseded",
-    "born": { "year": -400, "display": "c. 400 BCE", "confidence": "agreed" },
-    "died": { "year": 1860, "display": "mid-19th century", "confidence": "uncertain" },
+    "born": {
+      "year": -400,
+      "display": "c. 400 BCE",
+      "confidence": "agreed"
+    },
+    "died": {
+      "year": 1860,
+      "display": "mid-19th century",
+      "confidence": "uncertain"
+    },
     "spans": [
-      { "stream": "greco-roman", "from": -400, "to": 650 },
-      { "stream": "islamic", "from": 800, "to": 1850 },
-      { "stream": "europe", "from": 1080, "to": 1860, "fading": 1700 },
-      { "stream": "india", "from": 1300, "to": 2026 }
+      {
+        "stream": "greco-roman",
+        "from": -400,
+        "to": 650
+      },
+      {
+        "stream": "islamic",
+        "from": 800,
+        "to": 1850
+      },
+      {
+        "stream": "europe",
+        "from": 1080,
+        "to": 1860,
+        "fading": 1700
+      },
+      {
+        "stream": "india",
+        "from": 1300,
+        "to": 2026
+      }
     ],
     "confidence": {
       "claim": "agreed",
       "note": "That humoral theory dominated Greek, Islamic and European learned medicine is undisputed. Its end has no single date: it declined over the eighteenth and nineteenth centuries, and in Unani medicine it is still taught."
     },
-    "related": ["four-humours", "hippocrates", "galen", "ibn-sina-canon", "arabic-into-latin", "unani-in-india"],
+    "related": [
+      "four-humours",
+      "hippocrates",
+      "galen",
+      "ibn-sina-canon",
+      "arabic-into-latin",
+      "unani-in-india"
+    ],
     "sources": [
       {
         "title": "\"And there's the humor of it\": Shakespeare and the Four Humors",
@@ -76,7 +108,11 @@
         "quote": "With a history spanning at least 3000 years, bloodletting has only recently—in the late 19th century—been discredited as a treatment for most ailments."
       }
     ],
-    "further": ["nutton-2013", "porter-1997", "pormann-savage-smith-2007"]
+    "further": [
+      "nutton-2013",
+      "porter-1997",
+      "pormann-savage-smith-2007"
+    ]
   },
   {
     "id": "miasma",
@@ -88,19 +124,51 @@
       "Miasma reached its height in the nineteenth century. When John Snow argued in 1849 that cholera entered the body through the mouth, the accepted view was that it was airborne, and in the mid-1800s many people still held that diseases were caused by bad air. Reformers who believed it pressed for drains, sewers and clean streets, measures that helped even where the reasoning behind them was mistaken. The microbes of Pasteur and Koch displaced the theory, though not overnight, and by the last decades of the century it had lost the argument."
     ],
     "status": "superseded",
-    "born": { "year": -400, "display": "c. 400 BCE", "confidence": "agreed" },
-    "died": { "year": 1890, "display": "by the 1890s", "confidence": "agreed" },
+    "born": {
+      "year": -400,
+      "display": "c. 400 BCE",
+      "confidence": "agreed"
+    },
+    "died": {
+      "year": 1890,
+      "display": "by the 1890s",
+      "confidence": "agreed"
+    },
     "spans": [
-      { "stream": "greco-roman", "from": -400, "to": 650 },
-      { "stream": "islamic", "from": 850, "to": 1500 },
-      { "stream": "europe", "from": 1100, "to": 1860 },
-      { "stream": "bio-public", "from": 1840, "to": 1890, "fading": 1860 }
+      {
+        "stream": "greco-roman",
+        "from": -400,
+        "to": 650
+      },
+      {
+        "stream": "islamic",
+        "from": 850,
+        "to": 1500
+      },
+      {
+        "stream": "europe",
+        "from": 1100,
+        "to": 1860
+      },
+      {
+        "stream": "bio-public",
+        "from": 1840,
+        "to": 1890,
+        "fading": 1860
+      }
     ],
     "confidence": {
       "claim": "agreed",
       "note": "The prevalence of bad-air explanations from the Hippocratics to the mid-nineteenth century is well documented in primary texts. Its decline was gradual: many sanitarians held on to it for years after Snow and Koch, so any end date is approximate."
     },
-    "related": ["hippocrates", "roman-public-health", "snow-cholera", "chadwick", "nightingale", "pasteur-germ-theory"],
+    "related": [
+      "hippocrates",
+      "roman-public-health",
+      "snow-cholera",
+      "chadwick",
+      "nightingale",
+      "pasteur-germ-theory"
+    ],
     "sources": [
       {
         "title": "On Airs, Waters, and Places (trans. Francis Adams)",
@@ -145,7 +213,11 @@
         "quote": "In the mid-1800s, many people subscribed to the “miasma theory” instead, which argued that diseases were caused by bad air."
       }
     ],
-    "further": ["johnson-2006", "rosenberg-1962", "snowden-2019"]
+    "further": [
+      "johnson-2006",
+      "rosenberg-1962",
+      "snowden-2019"
+    ]
   },
   {
     "id": "bloodletting",
@@ -157,19 +229,51 @@
       "Doubt came from counting. In 1835 Pierre Louis compared pneumonia patients bled early in their illness with those bled later and found less benefit than expected. Contrary to legend, he did not condemn bleeding, only confined it to narrow limits, and Broussais's theories were already losing support. Pathology, the microscope and germ theory did the rest, and by the late nineteenth century bloodletting had been discredited for most ailments. It survives as phlebotomy for a few conditions, such as hemochromatosis and polycythemia vera."
     ],
     "status": "superseded",
-    "born": { "year": -400, "display": "c. 400 BCE (Hippocratic)", "confidence": "agreed" },
-    "died": { "year": 1900, "display": "late 19th century (as a general remedy)", "confidence": "agreed" },
+    "born": {
+      "year": -400,
+      "display": "c. 400 BCE (Hippocratic)",
+      "confidence": "agreed"
+    },
+    "died": {
+      "year": 1900,
+      "display": "late 19th century (as a general remedy)",
+      "confidence": "agreed"
+    },
     "spans": [
-      { "stream": "greco-roman", "from": -400, "to": 650 },
-      { "stream": "islamic", "from": 800, "to": 1850 },
-      { "stream": "europe", "from": 600, "to": 1860, "fading": 1835 },
-      { "stream": "bio-drugs", "from": 1840, "to": 1900, "fading": 1840 }
+      {
+        "stream": "greco-roman",
+        "from": -400,
+        "to": 650
+      },
+      {
+        "stream": "islamic",
+        "from": 800,
+        "to": 1850
+      },
+      {
+        "stream": "europe",
+        "from": 600,
+        "to": 1860,
+        "fading": 1835
+      },
+      {
+        "stream": "bio-drugs",
+        "from": 1840,
+        "to": 1900,
+        "fading": 1840
+      }
     ],
     "confidence": {
       "claim": "firm",
       "note": "The practice is abundantly documented from antiquity to the nineteenth century. What is debated is why it declined: Louis's figures mattered less than is often claimed, and changing theories of disease did much of the work."
     },
-    "related": ["four-humours", "galen", "heroic-medicine", "paris-clinic", "barber-surgeons"],
+    "related": [
+      "four-humours",
+      "galen",
+      "heroic-medicine",
+      "paris-clinic",
+      "barber-surgeons"
+    ],
     "sources": [
       {
         "title": "The history of bloodletting",
@@ -209,7 +313,10 @@
         "quote": "In 1835, Pierre-Charles-Alexandre Louis compared mortality rates among Parisian patients with pneumonia who had received prompt treatment with bloodletting with other patients who had been treated later"
       }
     ],
-    "further": ["wootton-2006", "porter-1997"]
+    "further": [
+      "wootton-2006",
+      "porter-1997"
+    ]
   },
   {
     "id": "supernatural-causes",
@@ -221,20 +328,51 @@
       "Religious and natural explanations long coexisted. Early Muslim teaching held plague to be a mercy and martyrdom from God for the faithful and denied contagion, since disease came directly from God, though observation of contagion kept the question alive. In the eighteenth century Ottoman city-dwellers were still described as shunning smallpox inoculation as an interference with providence, and in 1680s England James II handed out gold touchpieces in a ceremony of healing by royal touch. Germ theory removed gods and demons from medical textbooks; it has not removed them from many people's understanding of why illness strikes."
     ],
     "status": "superseded",
-    "born": { "year": -1800, "display": "attested by c. 1800 BCE (surely older)", "confidence": "agreed" },
+    "born": {
+      "year": -1800,
+      "display": "attested by c. 1800 BCE (surely older)",
+      "confidence": "agreed"
+    },
     "died": null,
     "spans": [
-      { "stream": "mesopotamia", "from": -1800, "to": 100 },
-      { "stream": "egypt", "from": -1800, "to": -30 },
-      { "stream": "greco-roman", "from": -800, "to": 1500 },
-      { "stream": "islamic", "from": 650, "to": 1900 },
-      { "stream": "europe", "from": 450, "to": 1860 }
+      {
+        "stream": "mesopotamia",
+        "from": -1800,
+        "to": 100
+      },
+      {
+        "stream": "egypt",
+        "from": -1800,
+        "to": -30
+      },
+      {
+        "stream": "greco-roman",
+        "from": -800,
+        "to": 1500
+      },
+      {
+        "stream": "islamic",
+        "from": 650,
+        "to": 1900
+      },
+      {
+        "stream": "europe",
+        "from": 450,
+        "to": 1860
+      }
     ],
     "confidence": {
       "claim": "agreed",
       "note": "Divine and demonic explanations are well attested in Mesopotamian, Egyptian, Greek and later texts. The current starts with writing only because earlier beliefs left no record; how far individual healers saw magic and medicine as separate is debated."
     },
-    "related": ["asu-ashipu", "sakikku", "ebers-papyrus", "asclepius-cult", "hippocrates", "royal-touch"],
+    "related": [
+      "asu-ashipu",
+      "sakikku",
+      "ebers-papyrus",
+      "asclepius-cult",
+      "hippocrates",
+      "royal-touch"
+    ],
     "sources": [
       {
         "title": "Demons and Population Control",
@@ -291,7 +429,11 @@
         "quote": "Gold touchpiece, given in the ceremony of healing by touch, issued by James II, English, 1685-1688"
       }
     ],
-    "further": ["geller-2010", "nunn-1996", "porter-1997"]
+    "further": [
+      "geller-2010",
+      "nunn-1996",
+      "porter-1997"
+    ]
   },
   {
     "id": "spontaneous-generation",
@@ -303,18 +445,46 @@
       "It came to a head in France, where Félix Pouchet defended spontaneous generation in *Hétérogénie* (1859). Through the early 1860s Louis Pasteur answered with experiments, including swan-necked flasks that let in air but not dust or airborne microbes: sterilized broth stayed lifeless. The result reached far beyond biology. If microbes came only from other microbes, they could be traced, killed and kept out, the premise on which germ theory, antiseptic surgery and sterile technique were built."
     ],
     "status": "abandoned",
-    "born": { "year": -340, "display": "4th century BCE (Aristotle)", "confidence": "agreed" },
-    "died": { "year": 1870, "display": "1860s–1870s", "confidence": "agreed" },
+    "born": {
+      "year": -340,
+      "display": "4th century BCE (Aristotle)",
+      "confidence": "agreed"
+    },
+    "died": {
+      "year": 1870,
+      "display": "1860s–1870s",
+      "confidence": "agreed"
+    },
     "spans": [
-      { "stream": "greco-roman", "from": -340, "to": 1500 },
-      { "stream": "europe", "from": 1100, "to": 1860, "fading": 1668 },
-      { "stream": "bio-lab", "from": 1840, "to": 1880, "fading": 1860 }
+      {
+        "stream": "greco-roman",
+        "from": -340,
+        "to": 1500
+      },
+      {
+        "stream": "europe",
+        "from": 1100,
+        "to": 1860,
+        "fading": 1668
+      },
+      {
+        "stream": "bio-lab",
+        "from": 1840,
+        "to": 1880,
+        "fading": 1860
+      }
     ],
     "confidence": {
       "claim": "firm",
       "note": "The key experiments of Redi, Spallanzani and Pasteur are dated by their publications. Pasteur did not end all debate at once; some defenders held out into the 1870s, so the end date is approximate."
     },
-    "related": ["microscope", "fracastoro", "pasteur-germ-theory", "lister", "koch"],
+    "related": [
+      "microscope",
+      "fracastoro",
+      "pasteur-germ-theory",
+      "lister",
+      "koch"
+    ],
     "sources": [
       {
         "title": "Aristotle's Biology",
@@ -366,7 +536,10 @@
         "quote": "Pasteur developed unique swan-neck flasks that allowed air to enter but not dust or airborne microbes."
       }
     ],
-    "further": ["bynum-1994", "porter-1997"]
+    "further": [
+      "bynum-1994",
+      "porter-1997"
+    ]
   },
   {
     "id": "qi-channels",
@@ -378,16 +551,31 @@
       "The framework travelled. Buddhist priests carried Chinese medicine to Korea and Japan before the sixth century, and it spread more widely under the Tang. It survived the arrival of Western medicine, with early twentieth-century reformers such as Zhang Xichun insisting that philosophy was its very basis. Acupuncture has gained popularity worldwide since the 1970s, and research continues into what it can and cannot do."
     ],
     "status": "living",
-    "born": { "year": -200, "display": "3rd–1st centuries BCE", "confidence": "uncertain" },
+    "born": {
+      "year": -200,
+      "display": "3rd–1st centuries BCE",
+      "confidence": "uncertain"
+    },
     "died": null,
     "spans": [
-      { "stream": "east-asia", "from": -200, "to": 2026 }
+      {
+        "stream": "east-asia",
+        "from": -200,
+        "to": 2026
+      }
     ],
     "confidence": {
       "claim": "agreed",
       "note": "Excavated manuscripts and the Inner Classic securely place the system's formation in the last centuries BCE, but the Inner Classic is a layered compilation and its exact date is debated. Claims of a much older origin rest on tradition."
     },
-    "related": ["mawangdui-manuscripts", "huangdi-neijing", "bronze-acupuncture-man", "sun-simiao", "tcm-standardised", "barefoot-doctors"],
+    "related": [
+      "mawangdui-manuscripts",
+      "huangdi-neijing",
+      "bronze-acupuncture-man",
+      "sun-simiao",
+      "tcm-standardised",
+      "barefoot-doctors"
+    ],
     "sources": [
       {
         "title": "Chinese Philosophy and Chinese Medicine",
@@ -426,7 +614,9 @@
         "quote": "It originated from traditional Chinese medicine but has gained popularity worldwide since the 1970s."
       }
     ],
-    "further": ["unschuld-1985"]
+    "further": [
+      "unschuld-1985"
+    ]
   },
   {
     "id": "tridosha",
@@ -438,16 +628,31 @@
       "Unlike Europe's humours, the doshas never lost their institutional home. Ayurveda remains one of India's traditional health care systems, and about 240,000 American adults use it. In 2022 the government of India committed USD 250 million to a WHO Global Centre for Traditional Medicine. Rigorous evidence is thin, however, and some Ayurvedic preparations have been found to contain toxic amounts of lead, mercury or arsenic."
     ],
     "status": "living",
-    "born": { "year": -200, "display": "by c. 200 BCE–200 CE", "confidence": "uncertain" },
+    "born": {
+      "year": -200,
+      "display": "by c. 200 BCE–200 CE",
+      "confidence": "uncertain"
+    },
     "died": null,
     "spans": [
-      { "stream": "india", "from": -200, "to": 2026 }
+      {
+        "stream": "india",
+        "from": -200,
+        "to": 2026
+      }
     ],
     "confidence": {
       "claim": "agreed",
       "note": "The three-dosha doctrine is central to the Charaka and Sushruta compendia, which practitioners still use. Those texts grew in layers and cannot be firmly dated; one review places Ayurveda's beginnings in the 2nd century BCE, others later, so the birth date is a broad estimate."
     },
-    "related": ["atharvaveda-healing", "charaka-samhita", "sushruta-samhita", "bower-manuscript", "vagbhata", "tibetan-four-tantras"],
+    "related": [
+      "atharvaveda-healing",
+      "charaka-samhita",
+      "sushruta-samhita",
+      "bower-manuscript",
+      "vagbhata",
+      "tibetan-four-tantras"
+    ],
     "sources": [
       {
         "title": "A glimpse of Ayurveda – The forgotten history and principles of Indian traditional medicine",
@@ -487,7 +692,10 @@
         "quote": "This global knowledge centre for traditional medicine, supported by an investment of USD 250 million from the Government of India"
       }
     ],
-    "further": ["wujastyk-2003", "zysk-1991"]
+    "further": [
+      "wujastyk-2003",
+      "zysk-1991"
+    ]
   },
   {
     "id": "human-dissection",
@@ -500,18 +708,41 @@
       "A popular story holds that the medieval Church forbade dissection. It issued no general ban. Pope Boniface VIII's bull of 1299 forbade dismembering corpses and reducing them to bones, a funerary custom, was not aimed at anatomy and had no significant impact on it in Italy. The larger obstacles were the scarcity of bodies and public revulsion, which made the supply of corpses a recurring scandal into the nineteenth century."
     ],
     "status": "established",
-    "born": { "year": -300, "display": "early 3rd century BCE", "confidence": "agreed" },
+    "born": {
+      "year": -300,
+      "display": "early 3rd century BCE",
+      "confidence": "agreed"
+    },
     "died": null,
     "spans": [
-      { "stream": "greco-roman", "from": -300, "to": -250 },
-      { "stream": "europe", "from": 1300, "to": 1860 },
-      { "stream": "bio-surgery", "from": 1840, "to": 2026 }
+      {
+        "stream": "greco-roman",
+        "from": -300,
+        "to": -250
+      },
+      {
+        "stream": "europe",
+        "from": 1300,
+        "to": 1860
+      },
+      {
+        "stream": "bio-surgery",
+        "from": 1840,
+        "to": 2026
+      }
     ],
     "confidence": {
       "claim": "agreed",
-      "note": "The Alexandrian dissections are known only from later writers such as Celsus and Galen, and the vivisection charge cannot be verified. The medieval revival is well documented, though whether Mondino cut with his own hands is debated, and Ghosh dates his public dissection to 1315 against the January 1316 date in his own text."
+      "note": "The Alexandrian dissections are known only from later writers such as Celsus and Galen, and the vivisection charge cannot be verified. The medieval revival is well documented, though whether Mondino cut with his own hands is debated, and accounts differ between 1315 and January 1316 for his best-known dissection."
     },
-    "related": ["alexandria-dissection", "galen", "mondino", "vesalius", "anatomy-act", "morgagni"],
+    "related": [
+      "alexandria-dissection",
+      "galen",
+      "mondino",
+      "vesalius",
+      "anatomy-act",
+      "morgagni"
+    ],
     "sources": [
       {
         "title": "Celsus, De Medicina, Prooemium (Loeb trans. W. G. Spencer)",
@@ -565,7 +796,10 @@
         "quote": "Vesalius performed his own careful dissections and observed the body in great detail, confirming and refuting many of Galen's anatomical and physiological tenets."
       }
     ],
-    "further": ["nutton-2013", "siraisi-1990"]
+    "further": [
+      "nutton-2013",
+      "siraisi-1990"
+    ]
   },
   {
     "id": "germ-theory",
@@ -577,17 +811,36 @@
       "Proof came from the laboratory. Louis Pasteur showed that fermentation was the work of living organisms, attacked spontaneous generation through the early 1860s, and argued that microbes also caused infectious disease. He was not the first to say so, but his experiments gave the theory strong support. Robert Koch, a country doctor whose microscope was a gift from his wife, showed that the anthrax bacillus caused anthrax, published in 1876, laid down conditions for proving that a particular bacterium causes a particular disease, and in 1882 published his work on the tubercle bacillus. By the 1880s the theory was established, and it remade surgery, public health and the search for vaccines and drugs."
     ],
     "status": "established",
-    "born": { "year": 1546, "display": "1546 (Fracastoro)", "confidence": "firm" },
+    "born": {
+      "year": 1546,
+      "display": "1546 (Fracastoro)",
+      "confidence": "firm"
+    },
     "died": null,
     "spans": [
-      { "stream": "europe", "from": 1546, "to": 1860 },
-      { "stream": "bio-lab", "from": 1840, "to": 2026 }
+      {
+        "stream": "europe",
+        "from": 1546,
+        "to": 1860
+      },
+      {
+        "stream": "bio-lab",
+        "from": 1840,
+        "to": 2026
+      }
     ],
     "confidence": {
       "claim": "firm",
       "note": "The laboratory proofs of the 1860s–1880s are thoroughly documented. How much Fracastoro or Varro anticipated modern microbes is a matter of interpretation; their particles were not microorganisms in the modern sense."
     },
-    "related": ["fracastoro", "microscope", "semmelweis", "pasteur-germ-theory", "koch", "lister"],
+    "related": [
+      "fracastoro",
+      "microscope",
+      "semmelweis",
+      "pasteur-germ-theory",
+      "koch",
+      "lister"
+    ],
     "sources": [
       {
         "title": "Varro, On Agriculture, Book I (Loeb trans. Hooper and Ash)",
@@ -631,7 +884,11 @@
         "quote": "Some two years after his arrival in Berlin Koch discovered the tubercle bacillus and also a method of growing it in pure culture. In 1882 he published his classical work on this bacillus."
       }
     ],
-    "further": ["bynum-1994", "porter-1997", "snowden-2019"]
+    "further": [
+      "bynum-1994",
+      "porter-1997",
+      "snowden-2019"
+    ]
   },
   {
     "id": "fair-tests",
@@ -643,17 +900,36 @@
       "The decisive refinement was concealed random allocation. In the British Medical Research Council's 1948 trial of streptomycin for pulmonary tuberculosis, chance decided who received the drug, and those enrolling patients could not know the next assignment in advance. Its report became a methodological landmark, and the randomised controlled trial became the yardstick by which new treatments are judged."
     ],
     "status": "established",
-    "born": { "year": 1747, "display": "1747", "confidence": "firm" },
+    "born": {
+      "year": 1747,
+      "display": "1747",
+      "confidence": "firm"
+    },
     "died": null,
     "spans": [
-      { "stream": "europe", "from": 1747, "to": 1860 },
-      { "stream": "bio-drugs", "from": 1840, "to": 2026 }
+      {
+        "stream": "europe",
+        "from": 1747,
+        "to": 1860
+      },
+      {
+        "stream": "bio-drugs",
+        "from": 1840,
+        "to": 2026
+      }
     ],
     "confidence": {
       "claim": "firm",
       "note": "Lind's trial and the 1948 MRC trial are documented in their published reports. Calling Lind's comparison the beginning is a convention: earlier proposals and comparisons existed, and Lind himself drew cautious conclusions."
     },
-    "related": ["lind-scurvy", "ibn-sina-canon", "franklin-commission", "streptomycin-rct", "evidence-based-medicine", "smoking-cancer"],
+    "related": [
+      "lind-scurvy",
+      "ibn-sina-canon",
+      "franklin-commission",
+      "streptomycin-rct",
+      "evidence-based-medicine",
+      "smoking-cancer"
+    ],
     "sources": [
       {
         "title": "Lind J (1753) A treatise of the scurvy",
@@ -706,7 +982,10 @@
         "quote": "Comparing the children of Israel with the Babylonian youths suggested that the vegetarian diet was healthier."
       }
     ],
-    "further": ["wootton-2006", "bynum-2008"]
+    "further": [
+      "wootton-2006",
+      "bynum-2008"
+    ]
   },
   {
     "id": "immunisation",
@@ -718,21 +997,56 @@
       "Variolation was far safer than natural smallpox but could still kill. Edward Jenner's use of cowpox, first tried on James Phipps in 1796 and published in 1798, removed that danger, and Pasteur later generalized the principle by weakening disease-causing microbes in the laboratory. The line from the old women of Constantinople runs to the eradication of smallpox."
     ],
     "status": "established",
-    "born": { "year": 1549, "display": "by 1549 (in writing)", "confidence": "agreed" },
+    "born": {
+      "year": 1549,
+      "display": "by 1549 (in writing)",
+      "confidence": "agreed"
+    },
     "died": null,
     "spans": [
-      { "stream": "east-asia", "from": 1549, "to": 2026 },
-      { "stream": "india", "from": 1731, "to": 1900 },
-      { "stream": "islamic", "from": 1660, "to": 1900 },
-      { "stream": "africa", "from": 1700, "to": 1900 },
-      { "stream": "europe", "from": 1600, "to": 1860 },
-      { "stream": "bio-drugs", "from": 1840, "to": 2026 }
+      {
+        "stream": "east-asia",
+        "from": 1549,
+        "to": 2026
+      },
+      {
+        "stream": "india",
+        "from": 1731,
+        "to": 1900
+      },
+      {
+        "stream": "islamic",
+        "from": 1660,
+        "to": 1900
+      },
+      {
+        "stream": "africa",
+        "from": 1700,
+        "to": 1900
+      },
+      {
+        "stream": "europe",
+        "from": 1600,
+        "to": 1860
+      },
+      {
+        "stream": "bio-drugs",
+        "from": 1840,
+        "to": 2026
+      }
     ],
     "confidence": {
       "claim": "agreed",
       "note": "Written evidence begins in China in 1549, but inoculation was a folk practice whose origins are unrecorded; claims of a much older Chinese or Indian invention rest on tradition. The eighteenth-century European adoption is well documented."
     },
-    "related": ["chinese-variolation", "bengal-inoculation", "onesimus", "montagu-variolation", "jenner", "smallpox-eradication"],
+    "related": [
+      "chinese-variolation",
+      "bengal-inoculation",
+      "onesimus",
+      "montagu-variolation",
+      "jenner",
+      "smallpox-eradication"
+    ],
     "sources": [
       {
         "title": "The origins of inoculation",
@@ -778,7 +1092,10 @@
         "quote": "Jenner E (1798) An enquiry into the causes and effects of the variolae vaccinae."
       }
     ],
-    "further": ["porter-1997", "snowden-2019"]
+    "further": [
+      "porter-1997",
+      "snowden-2019"
+    ]
   },
   {
     "id": "eugenics",
@@ -790,16 +1107,34 @@
       "After 1945 the word became an embarrassment, but the practices lingered. North Carolina's Eugenics Board, created in 1933, approved the sterilization of an estimated 7,600 people before it was dissolved in the late 1970s, and some survivors were compensated by the state in the 2010s. Debates over prenatal screening and embryo selection keep the history in view."
     ],
     "status": "abandoned",
-    "born": { "year": 1883, "display": "1883", "confidence": "firm" },
-    "died": { "year": 1977, "display": "1970s", "confidence": "agreed" },
+    "born": {
+      "year": 1883,
+      "display": "1883",
+      "confidence": "firm"
+    },
+    "died": {
+      "year": 1977,
+      "display": "1970s",
+      "confidence": "agreed"
+    },
     "spans": [
-      { "stream": "bio-public", "from": 1883, "to": 1977, "fading": 1945 }
+      {
+        "stream": "bio-public",
+        "from": 1883,
+        "to": 1977,
+        "fading": 1945
+      }
     ],
     "confidence": {
       "claim": "firm",
       "note": "The movement, its laws and court cases are thoroughly documented. Victim counts are minimums drawn from incomplete records, and eugenic practices did not end on a single date; some continued in other forms."
     },
-    "related": ["eugenics", "mendel", "nuremberg-code", "tuskegee"],
+    "related": [
+      "eugenics",
+      "mendel",
+      "nuremberg-code",
+      "tuskegee"
+    ],
     "sources": [
       {
         "title": "Francis Galton (1822-1911)",
@@ -846,52 +1181,75 @@
         "quote": "By the time of the dissolution of the EBNC in the late 1970s, an estimated 7,600 people had undergone forced sterilization under the board’s approval."
       }
     ],
-    "further": ["washington-2006"]
+    "further": [
+      "washington-2006"
+    ]
   },
   {
     "id": "informed-consent",
     "name": "Informed consent",
     "summary": "The rule that patients and research subjects must freely agree, knowing the risks, to what is done to them: codified after medicine's worst abuses.",
     "body": [
-      "The principle that a person must agree, knowingly and freely, to what is done to their body was made a rule of medical research by catastrophe. On 9 December 1946 an American military tribunal at Nuremberg opened proceedings against 23 leading German physicians and administrators for experiments on concentration camp prisoners carried out without their consent. On 20 August 1947 the judges found sixteen guilty and sentenced seven to death.",
+      "The principle that a person must agree, knowingly and freely, to what is done to their body was made a rule of medical research by catastrophe. From November 1946 to 20 August 1947 an American military tribunal at Nuremberg tried 23 defendants, all but three of them physicians, for crimes that consisted largely of medical experiments performed on concentration camp inmates against their will. The judges acquitted seven, convicted sixteen and sentenced seven to death.",
       "Their judgment set out ten principles for permissible experiments, now called the Nuremberg Code. The first is that the voluntary consent of the human subject is absolutely essential. The person must have legal capacity, be free of force, fraud, deceit or duress, and have sufficient knowledge and comprehension to make an understanding and enlightened decision. That last phrase is the seed of the word informed.",
       "Writing a rule down did not make it practice. In the United States the Public Health Service's Tuskegee study, begun in 1932, followed 600 Black men without obtaining their informed consent and was shut down only in 1972, after information leaked to the public. The outcry produced the National Research Act of 1974, which required institutional review boards to approve human studies, and the Belmont Report, built on respect for persons, beneficence and justice. Today informed consent is standard practice for any medical procedure: a physician must explain what is proposed, its expected outcome and its risks."
     ],
     "status": "established",
-    "born": { "year": 1947, "display": "1947 (Nuremberg Code)", "confidence": "firm" },
+    "born": {
+      "year": 1947,
+      "display": "1947 (Nuremberg Code)",
+      "confidence": "firm"
+    },
     "died": null,
     "spans": [
-      { "stream": "bio-public", "from": 1947, "to": 2026 }
+      {
+        "stream": "bio-public",
+        "from": 1947,
+        "to": 2026
+      }
     ],
     "confidence": {
       "claim": "firm",
       "note": "The Nuremberg judgment and the US reforms of the 1970s are documented in official records. The current begins in 1947 because that is when consent was codified for research; earlier legal and administrative precedents existed but are not traced here."
     },
-    "related": ["nuremberg-code", "tuskegee", "henrietta-lacks", "eugenics"],
+    "related": [
+      "nuremberg-code",
+      "tuskegee",
+      "henrietta-lacks",
+      "eugenics"
+    ],
     "sources": [
       {
-        "title": "The Doctors Trial: The Medical Case of the Subsequent Nuremberg Proceedings",
-        "publisher": "United States Holocaust Memorial Museum",
-        "url": "https://encyclopedia.ushmm.org/content/en/article/the-doctors-trial-the-medical-case-of-the-subsequent-nuremberg-proceedings",
+        "title": "United States of America v. Karl Brandt et al. (Case I), November 21, 1946–August 20, 1947: descriptive pamphlet for microfilm M887",
+        "publisher": "U.S. National Archives and Records Administration",
+        "url": "https://www.archives.gov/research/captured-german-records/microfilm/m887.pdf",
         "type": "institutional",
-        "supports": "The trial of 23 physicians and administrators opening 9 December 1946; verdict 20 August 1947, sixteen guilty, seven sentenced to death.",
-        "quote": "the American judges pronounced their verdict on August 20, 1947. Sixteen of the doctors were found guilty. Seven were sentenced to death."
+        "supports": "Trial dates November 1946–20 August 1947; 23 defendants, all but three physicians; crimes largely medical experiments on camp inmates against their will; seven acquitted and seven death sentences.",
+        "quote": "The crimes Charged in the Brandt case consisted largely of medical experiments performed on defenseless concentration camp inmates against their will"
       },
       {
-        "title": "The Nuremberg Code",
-        "publisher": "United States Holocaust Memorial Museum",
-        "url": "https://encyclopedia.ushmm.org/content/en/article/the-nuremberg-code",
+        "title": "United States of America v. Karl Brandt et al. (judgment and sentences)",
+        "publisher": "U.S. National Archives and Records Administration",
+        "url": "https://www.archives.gov/research/captured-german-records/microfilm/m887.pdf",
+        "type": "institutional",
+        "supports": "Seven of 23 defendants acquitted; seven death sentences.",
+        "quote": "the judgment and sentences, which acquitted 7 of the 23 defendants"
+      },
+      {
+        "title": "The Nuremberg Code (1947), reprinted in BMJ 1996;313:1448",
+        "publisher": "BMJ (via The Global Health Network)",
+        "url": "https://media.tghn.org/medialibrary/2011/04/BMJ_No_7070_Volume_313_The_Nuremberg_Code.pdf",
         "type": "primary",
-        "supports": "The Code's first principle of voluntary consent, including capacity, freedom from coercion and sufficient knowledge for an enlightened decision.",
-        "quote": "The voluntary consent of the human subject is absolutely essential. This means that the person involved should have legal capacity to give consent"
+        "supports": "The Code's first principle: voluntary consent with legal capacity, free choice and sufficient knowledge for an enlightened decision.",
+        "quote": "should have sufficient knowledge and comprehension of the elements of the subject matter involved as to enable him to make an understanding and enlightened decision"
       },
       {
-        "title": "Nazi Medical Experiments",
-        "publisher": "United States Holocaust Memorial Museum",
-        "url": "https://encyclopedia.ushmm.org/content/en/article/nazi-medical-experiments",
+        "title": "Nuremberg Code: Directives for Human Experimentation",
+        "publisher": "Office of Research Integrity, U.S. Department of Health and Human Services",
+        "url": "https://ori.hhs.gov/content/chapter-3-The-Protection-of-Human-Subjects-nuremberg-code-directives-human-experimentation",
         "type": "institutional",
-        "supports": "Experiments on prisoners without consent; the Nuremberg Code included the principle of informed consent.",
-        "quote": "The Nuremberg Code included the principle of informed consent and required standards for research."
+        "supports": "The ten principles of the Code, the first being voluntary consent.",
+        "quote": "The voluntary consent of the human subject is absolutely essential. The experiment should be such as to yield fruitful results for the good of society."
       },
       {
         "title": "The Tuskegee Syphilis Study (1932–1972)",
@@ -914,6 +1272,9 @@
         "quote": "Informed consent is standard practice for any medical procedure and generally requires physicians to tell patients about the medical procedure, its expected outcome, and its potential risks."
       }
     ],
-    "further": ["washington-2006", "skloot-2010"]
+    "further": [
+      "washington-2006",
+      "skloot-2010"
+    ]
   }
 ]
