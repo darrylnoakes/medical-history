@@ -18,7 +18,7 @@
     "place": "Glasgow Royal Infirmary, Scotland",
     "people": [
       "Joseph Lister (1827–1912), professor of surgery at Glasgow",
-      "James Greenlees, boy whose compound fracture was the first case Lister reported",
+      "James Greenlees, boy whose compound fracture was the first case in Lister's 1867 series",
       "Thomas Anderson (1819–1874), Glasgow chemist who pointed Lister to Pasteur's work"
     ],
     "themes": [
@@ -26,9 +26,9 @@
       "practice",
       "theory"
     ],
-    "summary": "A Glasgow surgeon read Pasteur, reasoned that germs rot wounds, and dressed a boy's shattered leg in carbolic acid. Making the idea stick took decades.",
+    "summary": "A Glasgow surgeon read Pasteur, reasoned that germs rot wounds, and dressed a boy's open fracture in carbolic acid. Making the idea stick took decades.",
     "body": [
-      "On 12 August 1865 an eleven-year-old boy, James Greenlees, was admitted to the Glasgow Royal Infirmary with a compound fracture of the leg: the broken bone had pierced the skin. Such wounds commonly festered, and the usual outcome was amputation or death. Joseph Lister dressed the wound with a pad soaked in carbolic acid. It did not suppurate.",
+      "On 12 August 1865 an eleven-year-old boy, James Greenlees, was admitted to the Glasgow Royal Infirmary with a compound fracture: the broken bone had pierced the skin, so that infection was likely and healing imperfect. Such wounds often ended in amputation. Joseph Lister dressed the wound with a pad soaked in carbolic acid. It did not suppurate.",
       "Lister was acting on a borrowed idea. The Glasgow chemist Thomas Anderson had introduced him to Louis Pasteur's work showing that fermentation and putrefaction were caused by living organisms carried in the air, not by oxygen itself. If so, Lister reasoned, wounds need not be sealed from the air; it was enough to kill the \"floating particles\" with a chemical dressing.",
       "He published in *The Lancet* in the spring of 1867, in four weekly articles describing eleven compound fractures, failures included, followed by a fifth on abscesses. Later that year he told the British Medical Association in Dublin that his two wards, once among the unhealthiest in the infirmary, had gone nine months without a single case of pyemia, hospital gangrene or erysipelas.",
       "Acceptance was slow. A leading Leeds surgeon, Thomas Nunneley, reported that his colleagues had tried the method and given it up. Lister kept changing his materials, carbolic acid itself irritated tissue, and the germ theory behind it was not yet proven. Historians now argue that every part of the system was contested for good reasons, not out of ignorance.",
@@ -170,6 +170,15 @@
         "type": "scholarly",
         "supports": "Wunderlich's 37 °C standard and range; modern average lower (36.6 °C in a study of 35,000 British patients); debate over true change versus measurement bias.",
         "quote": "found mean oral temperature to be 36.6°C, confirming this lower value"
+      },
+      {
+        "title": "Fever and Fever of Unknown Origin: Review, Recent Advances, and Lingering Dogma",
+        "publisher": "Open Forum Infectious Diseases",
+        "year": 2020,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7237822/",
+        "type": "scholarly",
+        "supports": "Wunderlich's life dates (1815–1877) and 1868 treatise.",
+        "quote": "In 1868, the German physician Carl Reinhold August Wunderlich (1815–1877) published the magnum opus"
       }
     ],
     "further": [
@@ -375,9 +384,9 @@
       "public-health",
       "institutions"
     ],
-    "summary": "To draw workers away from socialism, Germany compelled them to join sickness funds in 1883, creating the model of employment-based health insurance that much of the world still uses.",
+    "summary": "To draw workers away from socialism, Germany required them to join sickness funds in 1883, creating the employment-based model of health insurance that Germany and other countries still use.",
     "body": [
-      "When Otto von Bismarck became Germany's chancellor in 1871, hundreds of sickness insurance funds already existed. Alarmed by the workers' movement, he pushed to extend them, and in 1883 the Sickness Insurance Act made membership compulsory for workers in low-wage occupations, the first social insurance program organized on a national level. The motive was openly political. An imperial message read by Bismarck to the Reichstag on 17 November 1881 said social ills must be cured not only by repressing the Social Democrats, already banned under the Anti-Socialist Law of 1878, but by promoting workers' welfare.",
+      "When Otto von Bismarck became Germany's chancellor in 1871, hundreds of sickness insurance funds already existed. Alarmed by the workers' movement, he pushed to extend them to workers in low-wage occupations, and in 1883 the Sickness Insurance Act obliged covered workers to join, the first social insurance program organized on a national level. The motive was openly political. An imperial message read by Bismarck to the Reichstag on 17 November 1881 said social ills must be cured not only by repressing the Social Democrats, already banned under the Anti-Socialist Law of 1878, but by promoting workers' welfare.",
       "The funds grew fast: about 4.3 million members at the end of 1885, more than 9 million by 1900. Financed by contributions and run without profit, the scheme became the template for the \"Bismarck model\" of health care. Because cover came through work, it did not reach everyone."
     ],
     "myth": {
@@ -432,6 +441,16 @@
         "supports": "The Bismarck model: non-profit sickness funds financed by payroll deduction, not universal because tied to employment.",
         "quote": "The Bismarck Model does not provide with universal health coverage, since it requires employment for health insurance",
         "author": "Pier Paolo Bassareo et al."
+      },
+      {
+        "title": "Lessons From Unified Germany and Their Implications for Healthcare in the Unification of the Korean Peninsula",
+        "author": "Gun-Chun Ryu",
+        "publisher": "Journal of Preventive Medicine and Public Health",
+        "year": 2013,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3677065/",
+        "type": "scholarly",
+        "supports": "The 1881 edict and 1883 sickness insurance law; coverage compulsory under conditions set by law.",
+        "quote": "all economically active people were obliged to obtain coverage by statutory sickness insurance based on conditions defined by law"
       }
     ],
     "further": [
@@ -463,7 +482,7 @@
       "surgery",
       "institutions"
     ],
-    "summary": "The surgeon behind rubber gloves, the surgical residency and the radical mastectomy did much of it while secretly fighting an addiction.",
+    "summary": "The surgeon behind rubber gloves, the surgical residency and the radical mastectomy did much of it while battling an addiction that began with his cocaine experiments.",
     "body": [
       "Around 1890 William Halsted had Goodyear make thin rubber gloves for his scrub nurse, Caroline Hampton, whose hands were inflamed by mercuric chloride; only later did surgeons notice that gloves cut infections. At Johns Hopkins he built a pyramidal residency of graduated responsibility and research, and in 1894 reported his radical mastectomy, long the standard operation. Earlier experiments with cocaine in New York had left him addicted."
     ],
@@ -544,7 +563,7 @@
     "summary": "Blood from immunized horses saved children from diphtheria, won the first Nobel Prize in medicine, and, after a contaminated batch killed 13 children, gave the US its first biologics law.",
     "body": [
       "In 1890 Emil Behring and Kitasato Shibasaburō, working in Robert Koch's Berlin institute, reported that animals given graduated doses of sterilized diphtheria or tetanus cultures made substances in their blood that neutralized the bacterial poison. These antitoxins could protect a second animal and even cure one already sick. Horses were soon immunized to make serum in bulk. In Paris in 1894 Émile Roux and colleagues gave it to 300 children with diphtheria; 26 percent died, against about 50 percent in earlier years at the same hospital, though without a randomized comparison.",
-      "In 1901 Behring alone received the first Nobel Prize in Physiology or Medicine, though Kitasato's part was widely acknowledged. The same year in St. Louis, serum drawn from a retired milk-wagon horse named Jim, which had tetanus, killed 13 children. Congress responded with the Biologics Control Act of 1 July 1902, the first federal control over how such products were made."
+      "In 1901 Behring alone received the first Nobel Prize in Physiology or Medicine, though Kitasato's part was widely acknowledged. The same year in St. Louis, serum drawn from a retired milk-wagon horse named Jim, which had tetanus, killed 13 children, by the FDA's count. Congress responded with the Biologics Control Act of 1 July 1902, the first federal control over how such products were made."
     ],
     "links": [
       {
@@ -622,7 +641,7 @@
       "year": 1845,
       "earliest": 1840,
       "latest": 1850,
-      "end": 1890,
+      "end": 1889,
       "display": "1840s–1880s"
     },
     "confidence": {
@@ -640,7 +659,7 @@
     ],
     "summary": "Reformers built asylums to cure madness with kindness. Within decades they had become crowded warehouses for chronic patients.",
     "body": [
-      "In 1845 the Lunacy Act and County Asylums Act compelled every county in England and Wales to provide an asylum for pauper lunatics, moved out of workhouses, under a national inspecting commission. In the United States, Dorothea Dix's 1843 report to the Massachusetts legislature launched state hospitals. Built for curative \"moral treatment,\" they filled faster than they emptied: Utica admitted 300–500 people a year from 1846 but discharged about 200 recovered or improved, and overcrowding and restraint followed."
+      "In 1845 the Lunacy Act and County Asylums Act compelled every county in England and Wales to provide an asylum for pauper lunatics, moved out of workhouses, under a national inspecting commission. In the United States, Dorothea Dix's 1843 report to the Massachusetts legislature, urging enlargement of the Worcester asylum, began a campaign that helped found state hospitals across the country. Built for curative \"moral treatment,\" they filled faster than they emptied: Utica admitted 300–500 people a year from 1846 but discharged about 200 recovered or improved, and overcrowding and restraint followed."
     ],
     "links": [
       {

@@ -19,12 +19,12 @@
     "people": [
       "Abu Marwan Ibn Zuhr, 'Avenzoar' (c. 1092–1162), physician of Seville",
       "Abd al-Mu'min, Almohad ruler to whom the *Taysir* was dedicated",
-      "Ibn Rushd, 'Averroes', philosopher-physician of Córdoba and friend"
+      "Ibn Rushd, 'Averroes', philosopher-physician of Córdoba, about thirty years younger, who admired the *Taysir*"
     ],
     "themes": ["surgery", "practice"],
-    "summary": "To settle whether cutting the windpipe could be survived, a 12th-century Seville physician tried it on a goat first.",
+    "summary": "Hearing doctors dispute whether a cut windpipe could be survived, a 12th-century Seville physician, by his own account, tried it on a goat first.",
     "body": [
-      "Surgeons had argued for centuries over whether opening the windpipe of a choking patient was safe. In the *Taysir*, his manual of treatments and diets, the Seville physician Abu Marwan Ibn Zuhr (Avenzoar) recalls testing it while still in training: he cut into a goat's windpipe, removed a piece the size of a lupine seed, and washed the wound with water and honey until the animal recovered and lived a long time. The book, dedicated to the Almohad ruler Abd al-Mu'min and praised by Ibn Rushd (Averroes), also set apart a parasitic form of scabies."
+      "Surgeons had argued for centuries over whether opening the windpipe of a choking patient was safe. In the *Taysir*, his manual of treatments and diets, the Seville physician Abu Marwan Ibn Zuhr (Avenzoar) recalls testing it while still in training: he cut into a goat's windpipe, cut away a patch of it just smaller than a lupine seed, and washed the wound with water and honey until the animal recovered and lived a long time. The book, dedicated to the Almohad ruler Abd al-Mu'min, was called the finest work of its day on experience-based medicine by Ibn Rushd (Averroes), who was some thirty years younger. It also set apart a parasitic form of scabies."
     ],
     "links": [
       { "to": "al-razi", "kind": "built-on", "note": "Al-Razi had earlier tested mercury on monkeys before giving it to people." },

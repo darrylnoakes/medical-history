@@ -12,31 +12,31 @@
       "traditional": {
         "year": 1619,
         "display": "1619",
-        "note": "A later account credits Charles de Lorme, physician to Louis XIII, with devising a full leather outfit during a Paris plague of 1619."
+        "note": "A mid-17th-century account credits Charles de Lorme, physician to Louis XIII, with devising a full leather outfit during a Paris plague of 1619."
       }
     },
     "confidence": {
       "date": "uncertain",
       "claim": "disputed",
-      "note": "The attribution to Charles de Lorme rests on a later report, not a document from 1619. A 2020 museum study found no mention of the beak mask before the mid-17th century, then only in Italy and southern France, and doubts that the two surviving German masks were ever worn."
+      "note": "The attribution to Charles de Lorme rests on an account written decades after 1619, not on a document from that year. A 2020 museum study found no mention of the beak mask before the mid-17th century, and then only in Italy and southern France, and doubts that the two surviving German masks were ever used as protective clothing."
     },
     "place": "Rome, Italy, and southern France",
     "people": [
       "Charles de Lorme (1584–1678), physician to Louis XIII, credited with the idea",
-      "Thomas Bartholin (1616–1680), Danish physician who described the Roman costume",
+      "Thomas Bartholin (1616–1680), Danish physician who described the Roman costume in 1661",
       "Paulus Fürst, publisher of the 1656 satirical print 'Der Doctor Schnabel von Rom'"
     ],
     "themes": [
       "public-health",
       "practice"
     ],
-    "summary": "The beaked mask is a symbol of the Black Death, yet it first appears three centuries later, and there is little sign that many doctors ever wore one.",
+    "summary": "The beaked mask is a symbol of the Black Death, yet it first appears three centuries later, and there is little sign that it was ever widely worn.",
     "body": [
-      "The beaked mask now stands for the Black Death, but no one wore it in the 1340s; medieval physicians held vinegar-soaked herbs to their noses. A beak holding perfumes before the nose is credited to Charles de Lorme, physician to Louis XIII, supposedly during a Paris plague of 1619. Firm evidence comes from Rome in 1656: the Danish physician Thomas Bartholin described Roman plague doctors in gowns of pressed linen with beaks stuffed with fragrant substances, and a German satirical print mocked 'Doctor Beaky of Rome'. The historian Marion Ruisinger found the mask recorded only in Italy and southern France, with no proof of its use in central Europe."
+      "The beaked mask now stands for the Black Death, but no one wore it in the 1340s; medieval physicians held vinegar-soaked herbs to their noses. A scent holder in front of the nose is credited to Charles de Lorme, physician to Louis XIII, who is said to have designed a full leather outfit during a Paris plague of 1619, but that account dates from the mid-17th century. The earliest firm evidence concerns Rome in 1656: Thomas Bartholin, in a book of 1661, described Roman plague doctors in pressed linen with beaks stuffed with fragrant substances, and a German broadside mocked 'Doctor Beaky of Rome'. The mask is recorded only in Italy and southern France."
     ],
     "myth": {
       "tradition": "Doctors in beaked masks tended victims of the Black Death in the 1340s.",
-      "record": "The beak mask is not mentioned before the mid-17th century, and even then only in Italy and southern France; the two masks in German museums show signs of never having been worn."
+      "record": "The beak mask is not mentioned before the mid-17th century, and even then only in Italy and southern France; the two masks in German museums have details that argue against their use as protective clothing."
     },
     "links": [
       {
@@ -56,9 +56,9 @@
         "author": "Marion Maria Ruisinger",
         "publisher": "NTM Zeitschrift für Geschichte der Wissenschaften, Technik und Medizin (via Europe PMC)",
         "year": 2020,
-        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8156585/fullTextXML",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8156585/",
         "type": "scholarly",
-        "supports": "No mention of the beak mask before the mid-17th century, and then only in Italy and southern France; no evidence of use in central Europe; doubts about the surviving masks; Bartholin and the 1656 Rome epidemic.",
+        "supports": "No mention of the beak mask before the mid-17th century, and then only in Italy and southern France; no evidence of use in central Europe; details of the two German masks argue against use as protective clothing; Bartholin (1661) on the 1656 Rome epidemic.",
         "quote": "the beak mask is not mentioned before the mid-seventeenth century, and then only in Italy and Southern France. There is no proof at all of its use during plague outbreaks in Middle Europe."
       },
       {
@@ -84,7 +84,7 @@
     "image": {
       "commons": "File:Doctor Schnabel von Rom (BM 1876,0510.512).jpg",
       "alt": "Engraving of a figure in a long coat, wide hat, gloves and a beaked mask, holding a stick.",
-      "caption": "'Der Doctor Schnabel von Rom', a satirical German broadside of 1656 based on an Italian image of a Roman plague doctor. British Museum."
+      "caption": "'Der Doctor Schnabel von Rom', a satirical broadside printed in Nuremberg in 1656 by Paulus Fürst, with an engraving after an Italian image of a Roman plague doctor. British Museum."
     }
   },
   {
@@ -99,12 +99,12 @@
     "confidence": {
       "date": "firm",
       "claim": "firm",
-      "note": "The printed book of 1628 survives and its arguments can be read today; the dates of publication and of Malpighi's capillaries are not in doubt. Credit for the pulmonary circuit belongs to earlier writers, but the full circulation is Harvey's."
+      "note": "The printed book of 1628 survives and its arguments can be read today; the date of publication and Malpighi's 1661 sighting of capillaries are not in doubt. Credit for the pulmonary circuit belongs to earlier writers, but the full circulation, and the quantitative argument for it, is Harvey's."
     },
     "place": "London, England (published in Frankfurt)",
     "people": [
       "William Harvey (1578–1657), physician and anatomist",
-      "Hieronymus Fabricius (1537–1619), Harvey's teacher at Padua, who described the valves in the veins",
+      "Hieronymus Fabricius (1537–1619), Padua anatomist who described the valves in the veins; professor there when Harvey studied",
       "Marcello Malpighi, who saw the capillaries in 1661"
     ],
     "themes": [
@@ -114,9 +114,9 @@
     "summary": "A London physician did the arithmetic: the heart pumps more blood in half an hour than the whole body holds. So the blood must go round.",
     "body": [
       "In 1628 a slim Latin book of about 70 pages appeared in Frankfurt, written by William Harvey, physician to St Bartholomew's Hospital in London and a royal physician since 1618. *Exercitatio anatomica de motu cordis et sanguinis in animalibus*, usually shortened to *De motu cordis*, argued that the heart is a pump and that the blood travels around the body in a circle, out through the arteries and back through the veins.",
-      "This overturned a system that had ruled European medicine for nearly 1,500 years. Galen taught that blood was made in the liver and carried through the veins to nourish and build the tissues, which used it up, so it had to be constantly replaced. It was a reasonable picture of how food becomes body. Harvey, who had studied at Padua under Fabricius, the anatomist who described the valves in the veins, attacked it by watching the heart beat in living animals, and with a striking piece of arithmetic. Suppose, he wrote, the left ventricle throws out just half an ounce, or even one drachm, with each beat. In half an hour the heart beats more than a thousand times, so it moves more blood than the whole body contains. The liver could not make that much; the same blood must be going round.",
+      "This overturned a system that had ruled European medicine for nearly 1,500 years. Galen taught that blood was made in the liver and carried through the veins to nourish and build the tissues, which used it up, so it had to be constantly replaced. It was a reasonable picture of how food becomes body. Harvey, who had studied at Padua when Fabricius, the anatomist who described the valves in the veins, held the chair of anatomy there, attacked it by watching the heart beat in living animals, and with a striking piece of arithmetic. Suppose, he wrote, the left ventricle throws out just half an ounce, or even one drachm, with each beat. In half an hour the heart beats more than a thousand times, so it moves more blood than the whole body contains. The liver could not make that much; the same blood must be going round.",
       "Harvey could not see how blood crossed from the smallest arteries into the veins. That gap was closed in 1661, when Marcello Malpighi, using a microscope, saw the capillaries. Others had glimpsed part of the picture before him. In the 13th century the Arab physician Ibn al-Nafis described blood passing from the heart through the lungs and back, and in the 16th century Michael Servetus and Realdo Colombo argued for the same passage through the lungs.",
-      "Acceptance was slow but real. Conservative colleagues accused Harvey of quackery and his private practice suffered, yet by his death in 1657 circulation was widely accepted. Daily treatment barely changed. Purges and enemas built on Galen's physiology carried on, and Harvey himself still approved of bloodletting. Half a century after his death, Louis XIV of France had been bled 38 times. The discovery mattered first as a way of knowing: it showed that measurement and experiment could overturn the most revered authority in medicine. Its practical payoffs, such as blood transfusion, came later."
+      "Acceptance was slow but real. Conservative colleagues accused Harvey of quackery and his private practice suffered, yet by his death in 1657 circulation was widely accepted. Daily treatment barely changed. Purges and enemas built on Galen's physiology carried on, and Harvey himself still approved of bloodletting. Half a century after his death, Louis XIV of France was still being treated in the traditional way; over his life he received 38 bloodlettings, hundreds of enemas and some 2,000 purgatives. The discovery mattered first as a way of knowing: it showed that measurement and experiment could overturn the most revered authority in medicine. Its practical payoffs, such as blood transfusion, came later."
     ],
     "links": [
       {
@@ -163,7 +163,7 @@
         "author": "Ribatti D.",
         "publisher": "Journal of Angiogenesis Research (via Europe PMC)",
         "year": 2009,
-        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2776239/fullTextXML",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2776239/",
         "type": "scholarly",
         "supports": "Publication in Frankfurt in 1628; mathematical data; capillaries discovered by Malpighi in 1661.",
         "quote": "Harvey postulated the existence of small capillary anastomoses between arteries and veins, but these were not discovered until 1661 by Marcello Malpighi."
@@ -173,7 +173,7 @@
         "author": "Mohamed ElMaghawry, Alberto Zanatta, Fabio Zampieri",
         "publisher": "Global Cardiology Science & Practice (via Europe PMC)",
         "year": 2014,
-        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4220440/fullTextXML",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4220440/",
         "type": "scholarly",
         "supports": "Fabricius described venous valves and taught Harvey at Padua; Colombo and Servetus on pulmonary transit; Harvey's dates.",
         "quote": "Fabricius was the anatomy and surgery professor by the time William Harvey was studying medicine in Padua."
@@ -211,12 +211,12 @@
     "confidence": {
       "date": "firm",
       "claim": "agreed",
-      "note": "The book and its tables survive and can be checked. Historians agree on its importance, but his famous survival table rests on many unstated assumptions and is not a life table in the modern actuarial sense."
+      "note": "The book and its tables survive and can be checked. Historians agree on its importance, but the famous survival table rests on many unstated assumptions and is not a life table in the modern actuarial sense."
     },
     "place": "London, England",
     "people": [
       "John Graunt (1620–1674), London draper and author of the Observations",
-      "William Petty (1623–1687), physician and friend who coined 'political arithmetic' for such work"
+      "William Petty (1623–1687), physician and friend who labeled such work 'political arithmetic'"
     ],
     "themes": [
       "public-health",
@@ -224,12 +224,12 @@
     ],
     "summary": "A self-taught London draper turned the city's weekly lists of burials into reasoned estimates of who died, of what, and how young.",
     "body": [
-      "In 1662 John Graunt (1620–1674), a largely self-educated London draper, published *Natural and Political Observations ... upon the Bills of Mortality*. The Bills were weekly tallies of burials. Elderly women called searchers viewed each body and named a cause of death, and parish clerks printed the totals. Most readers scanned them only to see whether plague was rising, so they knew when to flee or how trade would suffer. Graunt saw that they could answer bigger questions.",
-      "Working mainly from the annual summaries of 1604–1660, and openly correcting for errors such as searchers bribed with ale to record syphilis as mere 'ulcers', he estimated London's population, showed that more boys are born than girls, measured migration from the countryside, and found that about a third of children died before age six. His table tracing the dying-out of a group of births is often called the first life table, but it rested on guesswork about ages; Edmond Halley later built one from real ages at death. The Royal Society elected Graunt a fellow, reportedly on the recommendation of Charles II."
+      "In 1662 John Graunt (1620–1674), a largely self-educated London draper, published *Natural and Political Observations ... upon the Bills of Mortality*. The Bills were weekly tallies of burials. Parish searchers, described by Graunt as sworn 'antient Matrons', viewed each body and named a cause of death; the parish clerks compiled the weekly totals. Most readers scanned them only to see whether plague was rising, so they knew when to flee or how trade would suffer. Graunt saw that they could answer bigger questions.",
+      "Working from the printed annual summaries, which began in 1604, and openly correcting for errors such as searchers who could be swayed by a cup of ale and a double fee to record syphilis as mere 'ulcers', he estimated London's population, showed that more boys are born than girls, measured migration from the countryside, and found that about a third of children died before age six. His table tracing the dying-out of a group of births is sometimes called the first life table, but it rested on guesswork about ages; Edmond Halley later built one from real ages at death. The Royal Society elected Graunt a fellow in 1662, on the personal recommendation of Charles II according to later accounts."
     ],
     "myth": {
       "tradition": "Graunt constructed the first life table.",
-      "record": "He was the first to describe, with many assumptions, the dying-out of a group of births, but without knowing ages at death; the first life table built on actual ages at death was Edmond Halley's."
+      "record": "His table of survival from birth was an early, assumption-laden estimate and is not a life table in the modern actuarial sense; the first life table based on actual ages at death was Edmond Halley's, in 1693."
     },
     "links": [
       {
@@ -254,9 +254,9 @@
         "author": "Henry Connor",
         "publisher": "Journal of Medical Biography (via Europe PMC)",
         "year": 2024,
-        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10919065/fullTextXML",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10919065/",
         "type": "scholarly",
-        "supports": "Graunt as self-educated draper; 1662 first edition; how the Bills were compiled by searchers and clerks; data of 1604–60; male:female ratio; migration; bribed searchers; the cohort table not a true life table; Halley's table from actual ages at death; election to the Royal Society.",
+        "supports": "Graunt as self-educated draper; 1662 first edition; how the Bills were compiled by searchers and clerks; annual summaries from 1604; male:female ratio; migration; searchers swayed by ale and fees; 36 percent of conceptions dying before six; the cohort table not a true life table; Halley's table from actual ages at death; election to the Royal Society on Charles II's recommendation.",
         "quote": "His table has sometimes been described as the first Life Table but it is not a Life Table in the modern actuarial sense."
       },
       {
@@ -289,13 +289,13 @@
     "confidence": {
       "date": "firm",
       "claim": "firm",
-      "note": "*Cerebri Anatome* was printed in 1664 and its coinage of 'neurologia' can be read in it. Even his birthplace is reported differently by modern authors, but his book and its terms are not in doubt."
+      "note": "*Cerebri Anatome* was printed in 1664 and its coinage of 'neurologia' can be read in it. Modern authors even report Willis's birthplace and birth date differently, but his book and its terms are not in doubt."
     },
     "place": "Oxford, England",
     "people": [
       "Thomas Willis (1621–1675), physician and anatomist",
-      "Christopher Wren, later the architect of St Paul's Cathedral, who drew illustrations for the book",
-      "Richard Lower, Willis's student and dissecting assistant"
+      "Christopher Wren (1632–1723), later the architect of St Paul's Cathedral, who drafted illustrations for the book",
+      "Richard Lower (1631–1691), Willis's student and dissecting assistant"
     ],
     "themes": [
       "mind",
@@ -304,7 +304,7 @@
     ],
     "summary": "An Oxford doctor dissected his own former patients, named the parts of the brain we still use, and coined the word 'neurology'.",
     "body": [
-      "In 1664 the Oxford physician Thomas Willis (1621–1675) published *Cerebri Anatome*, *The Anatomy of the Brain*, and in it coined 'neurologia', the doctrine of the nerves. Working largely from autopsies on his own former patients, he linked symptoms seen in life to structures found after death, and many of his names survive, among them the corpus striatum, the internal capsule and the vagus nerve. The ring of arteries at the base of the brain still bears his name. It was teamwork: Richard Lower and others prepared the brains, and Christopher Wren drew illustrations. A devout royalist, Willis hoped anatomy would reveal the workings of the soul."
+      "In 1664 the Oxford physician Thomas Willis (1621–1675) published *Cerebri Anatome*, *The Anatomy of the Brain*, and in it coined 'neurologia', the doctrine of the nerves. Working largely from autopsies on his own former patients, he linked symptoms seen in life to structures found after death, and many of his names survive, among them the corpus striatum, the internal capsule and the vagus nerve. The ring of arteries at the base of the brain still bears his name. It was teamwork: Richard Lower and others prepared the brains, and Christopher Wren drafted illustrations. A devout royalist, Willis hoped anatomy would reveal the workings of the soul."
     ],
     "links": [
       {
@@ -315,7 +315,7 @@
       {
         "to": "sydenham",
         "kind": "see-also",
-        "note": "His London rival, who preferred bedside observation to anatomy."
+        "note": "Working in London while Willis taught at Oxford, Sydenham took a bedside route to medical knowledge in place of anatomy."
       },
       {
         "to": "blood-transfusion-1667",
@@ -329,7 +329,7 @@
         "author": "Zoltán Molnár",
         "publisher": "Brain (via Europe PMC)",
         "year": 2021,
-        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8105036/fullTextXML",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8105036/",
         "type": "scholarly",
         "supports": "Cerebri Anatome 1664; dissection of his own patients; structures he named; Wren's illustrations; Lower and others on the team; religious motive.",
         "quote": "Willis’ anatomical observations were based largely on his personal, clinical, and autopsy experience from the dissection of his own patients when they died."
@@ -339,7 +339,7 @@
         "author": "Louis Caron",
         "publisher": "Medical History (via Europe PMC)",
         "year": 2015,
-        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4595957/fullTextXML",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4595957/",
         "type": "scholarly",
         "supports": "Coinage of 'neurologia' in Cerebri Anatome (1664).",
         "quote": "It was in the Cerebri Anatome that Willis coined the term ‘neurologia’, or what he elsewhere referred to as the ‘doctrine of the nerves’."
@@ -349,7 +349,7 @@
         "author": "Hélio A. G. Teive and others",
         "publisher": "Arquivos de Neuro-Psiquiatria (via Europe PMC)",
         "year": 2022,
-        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9685818/fullTextXML",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9685818/",
         "type": "scholarly",
         "supports": "The arterial circle at the base of the brain bears his name.",
         "quote": "with the description of the arterial circle—located at the base of the brain—, which bears his name"
@@ -393,7 +393,7 @@
     "summary": "A London experimenter drew a flea in its 'sable Armour'; a Delft cloth merchant found 'little animals' in rainwater. Medicine took two centuries to see why it mattered.",
     "body": [
       "In 1665 Robert Hooke published *Micrographia*, a large illustrated book of what his compound microscope revealed: a flea in its polished 'suite of sable Armour', and in thin slices of cork, rows of tiny boxes he called 'cells'. It became a bestseller. Samuel Pepys stayed up until two in the morning reading it and called it the most ingenious book he had ever read, while a satirist mocked Hooke for spending a fortune to study mites in cheese.",
-      "Across the North Sea, the Delft cloth merchant Antoni van Leeuwenhoek, who had probably seen *Micrographia*, was grinding his own tiny single lenses. He made more than 500 instruments, simple but powerful magnifiers that enlarged over 200 times, far beyond the 20 or 30 times of early compound microscopes. In a letter of October 1676 to the Royal Society, published in 1677, he reported 'living creatures in Rain water', the first detailed description of what we now call protists and bacteria. In 1683 he described similar creatures in the white matter scraped from between his teeth.",
+      "Across the North Sea, the Delft cloth merchant Antoni van Leeuwenhoek, who had probably seen *Micrographia*, was grinding his own tiny single lenses. He made more than 500 instruments, simple but powerful magnifiers that enlarged over 200 times, far beyond the 20 or 30 times of early compound microscopes. In a letter of October 1676 to the Royal Society, published in 1677, he reported 'living creatures in Rain water', which a modern historian calls the first detailed description of protists and bacteria. In 1683 he described similar creatures in the white matter scraped from between his teeth.",
       "London was skeptical. Christiaan Huygens suspected illusions of sight. The Royal Society asked the botanist Nehemiah Grew to repeat the work, and he failed; Hooke succeeded only at his third attempt, in 1677. Leeuwenhoek, an unschooled tradesman who kept his methods secret, gathered signed statements from eight respectable witnesses to vouch for what he had seen.",
       "Medicine took little notice. The idea of invisible disease-causing seeds was ancient, and the Jesuit scholar Athanasius Kircher (1602–1680) thought he saw 'worms' in the blood of plague victims and blamed them for the disease. But such claims could not be fitted into the reigning theories of bad air and imbalanced humors, which held until the 19th century. Because no one could match the clarity of Leeuwenhoek's lenses, his discoveries were doubted for generations. It was Louis Pasteur and Robert Koch, nearly two centuries later, who tied microbes to disease."
     ],
@@ -429,7 +429,7 @@
         "author": "Nick Lane",
         "publisher": "Philosophical Transactions of the Royal Society B (via Europe PMC)",
         "year": 2015,
-        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4360124/fullTextXML",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4360124/",
         "type": "scholarly",
         "supports": "The October 1676 letter published 1677; first detailed description of protists and bacteria; skepticism of Huygens; Grew's failure and Hooke's success in 1677; eight testimonies; discoveries doubted for centuries; Hooke's coinage of 'cell'.",
         "quote": "Later scientists could not match the resolution and clarity of Leeuwenhoek's microscopes, so his discoveries were doubted or even dismissed over the following centuries"
@@ -472,7 +472,7 @@
   },
   {
     "id": "blood-transfusion-1667",
-    "title": "The first blood transfusions",
+    "title": "Early blood transfusions",
     "stream": "europe",
     "tier": 3,
     "date": {
@@ -484,11 +484,11 @@
     "confidence": {
       "date": "firm",
       "claim": "firm",
-      "note": "The London experiments are recorded in the Royal Society's minutes and in Pepys's diary. Whether the human recipients were helped or simply survived is another matter."
+      "note": "The London dog experiments are recorded in Pepys's diary and in the Royal Society's early records, and the Paris cases in Denis's own reports. Whether the human recipients were helped or simply survived is another matter."
     },
     "place": "London, England, and Paris, France",
     "people": [
-      "Richard Lower, Oxford and London physician",
+      "Richard Lower (1631–1691), Oxford and London physician",
       "Edmund King, physician who performed the London human transfusion with Lower",
       "Jean-Baptiste Denis, Paris physician"
     ],
@@ -496,9 +496,9 @@
       "practice",
       "surgery"
     ],
-    "summary": "Within 40 years of Harvey, doctors were piping blood from dog to dog, then sheep to man. One volunteer was paid 20 shillings and said he felt 'a new man'.",
+    "summary": "Within 40 years of Harvey, doctors were piping blood from dog to dog, then sheep to man. A hired subject said he felt 'a new man'; Pepys thought him 'cracked'.",
     "body": [
-      "Harvey's circulation invited a bold next step. In 1665 Richard Lower kept a dog alive with blood from other dogs, and on 14 November 1666 the Royal Society watched one dog bled to death into another, which survived. In 1667 Jean-Baptiste Denis in Paris, and Lower and Edmund King in London, put sheep's blood into people. The London volunteer, a poor and 'a little frantic' former minister, was paid 20 shillings; afterwards he said he felt 'much better', though Pepys thought him 'cracked a little in his head'. Transfusion between humans came only in 1818, when James Blundell tried it for bleeding after childbirth."
+      "In February 1665 Richard Lower revived a dying dog with blood from another, and on 14 November 1666 the Royal Society watched one dog bled to death into another, which survived. In June 1667 Jean-Baptiste Denis in Paris began transfusing animal blood into people; that November Lower, with Edmund King, followed in London. The London subject, a poor, 'frantic' man who had 'been a kind of minister', was paid 20 shillings and said he felt 'much better'; Pepys thought him 'cracked'. Denis was later tried for manslaughter after a patient died, and cleared. The first documented human-to-human transfusion came in 1818."
     ],
     "links": [
       {
@@ -547,6 +547,16 @@
         "type": "institutional",
         "supports": "Lower's dog transfusion in 1665; Denis, Lower and King's sheep-to-human transfusions in 1667; Blundell's human transfusion for postpartum hemorrhage in 1818.",
         "quote": "Jean-Baptiste Denis in France and Richard Lower and Edmund King in England separately report successful transfusions from sheep to humans."
+      },
+      {
+        "title": "Direct blood transfusions",
+        "author": "James G. Chandler, Theresa L. Chin and Max V. Wohlauer",
+        "publisher": "Journal of Vascular Surgery (via PubMed Central)",
+        "year": 2012,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4065715/",
+        "type": "scholarly",
+        "supports": "Lower's dog transfusion in February 1665; Denis's first human transfusion on 15 June 1667; Coga's sheep-blood transfusion on 23 November 1667; Denis tried for manslaughter and exonerated; Blundell's 1818 human-to-human transfusion.",
+        "quote": "Denis was tried for manslaughter but exonerated when it was discovered that Mrs Mauroy was poisoning her husband with arsenic"
       }
     ],
     "further": []
@@ -573,20 +583,20 @@
       "practice",
       "theory"
     ],
-    "summary": "A Puritan ex-soldier told doctors to stop theorizing and watch their patients. He became the 'English Hippocrates', but only after he died.",
+    "summary": "A Puritan ex-soldier told doctors to stop theorizing and watch their patients. He was clashing with the medical establishment in his lifetime; the 'English Hippocrates' title came later.",
     "body": [
-      "Thomas Sydenham (1624–1689) came from a Puritan family, fought for Parliament in the Civil War and practiced in London outside the universities. Influenced by Francis Bacon, he argued that diseases should be understood from close observation of their signs and course, not from theories about hidden mechanisms. His *Observationes Medicae* of 1676 expanded a 1666 book on fevers into a system of 'epidemic constitutions' shaped by season and environment, and his sorting of diseases into distinct kinds helped found nosology. His accounts of gout, which he suffered for 30 years, and of the childhood chorea that bears his name became classics. He preferred diet to aggressive bloodletting."
+      "Thomas Sydenham (1624–1689) came from a Puritan family, fought for Parliament in the Civil War and practiced in London outside the universities. Influenced by Francis Bacon's empiricism, he argued that diseases should be understood from close observation of their signs and course, not from theories about hidden mechanisms. His *Observationes Medicae* of 1676 expanded a 1666 book on fevers into a system of 'epidemic constitutions' shaped by season and environment, and his sorting of diseases into distinct kinds helped lay the foundations of nosology. His accounts of gout, which he suffered for 30 years, and of the childhood chorea that bears his name became classics. For gout he favored diet over aggressive bloodletting."
     ],
     "links": [
       {
         "to": "willis",
         "kind": "see-also",
-        "note": "Willis's anatomy and Sydenham's bedside method were rival routes to medical knowledge."
+        "note": "Willis's anatomy and Sydenham's bedside method were contrasting routes to medical knowledge."
       },
       {
         "to": "ramazzini",
         "kind": "led-to",
-        "note": "Ramazzini followed Sydenham's revived Hippocratic approach."
+        "note": "Ramazzini's neo-Hippocratic approach is said to have been inspired by Sydenham's."
       },
       {
         "to": "graunt",
@@ -600,7 +610,7 @@
         "author": "João Pedro Sá Lins and others",
         "publisher": "Arquivos de Neuro-Psiquiatria (via Europe PMC)",
         "year": 2026,
-        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13472720/fullTextXML",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13472720/",
         "type": "scholarly",
         "supports": "Biography; Baconian method; Observationes Medicae 1676 and epidemic constitutions; nosology; gout and chorea; dietary management over bloodletting; conflict with the establishment; 'English Hippocrates' as a later title.",
         "quote": "he believed that the understanding of diseases should be derived from the close observation of signs and symptoms and the association of immediate causes"
@@ -610,7 +620,7 @@
         "author": "Henry Connor",
         "publisher": "Journal of Medical Biography (via Europe PMC)",
         "year": 2024,
-        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10919065/fullTextXML",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10919065/",
         "type": "scholarly",
         "supports": "Sydenham's first publication in 1666; his reductionist nosology and distinction of acute from chronic disease; practice in London from 1655.",
         "quote": "However Sydenham's first known publication was in 1666, four years after Graunt's Observations"
@@ -627,32 +637,28 @@
     "tier": 3,
     "date": {
       "year": 1660,
-      "end": 1682,
-      "display": "1660–1682 (Charles II's peak years)"
+      "end": 1685,
+      "display": "1660–1685 (Charles II's reign)"
     },
     "confidence": {
       "date": "firm",
       "claim": "firm",
-      "note": "Eyewitnesses such as Pepys describe the ceremony. The totals come from later compilers and differ slightly: 92,107 between 1660 and 1682 in one count, 'near a hundred thousand' over the reign in another."
+      "note": "Eyewitnesses such as Pepys describe the ceremony. The totals come from later compilers and differ slightly: 92,107 between 1660 and 1682 in a count quoted by Pepys's editor, 'near a hundred thousand' over the reign in Macaulay's account, which is also the only source here for the 1684 deaths."
     },
     "place": "Whitehall, London, England",
     "people": [
       "Charles II, restored to the English throne in 1660",
       "Samuel Pepys, diarist and eyewitness",
-      "Samuel Johnson, touched as a young child by Queen Anne"
+      "Samuel Johnson (1709–1784), touched as a young child by Queen Anne"
     ],
     "themes": [
       "practice",
       "institutions"
     ],
-    "summary": "Charles II laid hands on some 90,000 sick subjects to cure the 'king's evil'. In 1684 the crowd was so thick that several were trampled to death.",
+    "summary": "Charles II laid hands on roughly 90,000 to 100,000 sick subjects to cure the 'king's evil'. In 1684, by one account, the crowd was so thick that several were trampled to death.",
     "body": [
-      "On 23 June 1660 the newly restored Charles II was due to touch the sick at Whitehall. It rained, and the poor stood all morning in the garden before he touched them in the Banqueting House. English monarchs claimed a God-given power to cure scrofula, the 'king's evil', by laying on hands and hanging a gold coin round the sufferer's neck. Demand was immense: one count gives 92,107 people touched between 1660 and 1682, and in 1684 several were trampled to death in the crush. William III called it 'a silly superstition', but Queen Anne still touched, among others the young Samuel Johnson, without effect."
+      "On 23 June 1660 the newly restored Charles II was due to touch the sick at Whitehall. It rained, and the poor stood in the garden all morning before he touched them in the Banqueting House. English monarchs claimed a God-given power to cure scrofula, the 'king's evil', by laying on hands and hanging a gold coin round the sufferer's neck. Demand was immense: one count gives 92,107 people touched between 1660 and 1682, and Macaulay reported that in 1684 six or seven were trampled to death in the crush. William III called it 'a silly superstition', but Queen Anne still touched, among others the young Samuel Johnson; Boswell reports that it had no effect."
     ],
-    "myth": {
-      "tradition": "The English royal touch goes back to Edward the Confessor.",
-      "record": "The ceremony was traditionally traced to Edward the Confessor, but there is no direct evidence that the early Norman kings touched for the evil."
-    },
     "links": [],
     "sources": [
       {
@@ -661,7 +667,7 @@
         "publisher": "The Diary of Samuel Pepys (pepysdiary.com)",
         "url": "https://www.pepysdiary.com/diary/1660/06/23/",
         "type": "primary",
-        "supports": "The rained-off ceremony of 23 June 1660 and the Banqueting House; the count of 92,107 touched 1660–1682; the gold 'angel' hung round the neck; the doubtful Edward the Confessor origin.",
+        "supports": "The rained-off ceremony of 23 June 1660 and the Banqueting House; the count of 92,107 touched 1660–1682 (quoted from Burn, 1862); the gold 'angel' hung round the neck.",
         "quote": "between 1660 and 1682, 92,107 persons were touched for the evil."
       },
       {
@@ -715,15 +721,15 @@
       "public-health",
       "texts"
     ],
-    "summary": "An Italian professor surveyed 40 trades and found millers half-deaf and midwives worn out. His 1700 book made him the father of occupational medicine.",
+    "summary": "An Italian professor surveyed 40 trades and found millers half-deaf and midwives kneeling for hours. His 1700 book earned him the title father of occupational medicine.",
     "body": [
-      "In 1700 Bernardino Ramazzini (1633–1714), then a professor of medicine at Modena, published *De Morbis Artificum Diatriba*, a treatise on the diseases of workers covering some 40 occupations. Each chapter described a trade and its workplace, the questions to put to its workers, their diseases and the remedies. Corn millers, he wrote, were nearly all 'half-deaf' from the noise of wheels and millstones; midwives spent hours on their knees and risked infection from their patients. He suggested crude earplugs and thorough washing, and argued that rulers should protect workers' health. An enlarged edition appeared in 1713, the year before his death in Padua."
+      "In 1700 Bernardino Ramazzini (1633–1714), then a professor of medicine at Modena, published *De Morbis Artificum Diatriba*, a treatise on the diseases of workers covering some 40 occupations. Each chapter described a trade and its workplace, the questions to put to its workers, their diseases and the remedies. Corn millers, he wrote, were nearly all 'half-deaf' from the noise of wheels and millstones; Italian midwives spent hours on their knees and risked infection from their patients. For midwives he advised washing hands, arms and faces, and for noisy trades, in the 1713 edition, cotton plugs in the ears. He argued that rulers should protect workers' health. He moved to Padua in 1700 and died there in 1714."
     ],
     "links": [
       {
         "to": "sydenham",
         "kind": "built-on",
-        "note": "Ramazzini followed the revived Hippocratic approach of Sydenham."
+        "note": "Ramazzini's neo-Hippocratic approach is said to have been inspired by Sydenham's."
       },
       {
         "to": "chadwick",
@@ -737,9 +743,9 @@
         "author": "M. E. Paladino and others",
         "publisher": "Journal of Laryngology and Otology (via Europe PMC)",
         "year": 2023,
-        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10772019/fullTextXML",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10772019/",
         "type": "scholarly",
-        "supports": "Publication in 1700; chapter structure with questions for workers; millers' deafness; earplugs; rulers should protect workers; 1713 edition; death in Padua 1714.",
+        "supports": "Publication in 1700; chapter structure with questions for workers; millers' deafness; cotton ear plugs for coppersmiths in the 1713 edition; rulers should protect workers; move to Padua in 1700; death in Padua 1714.",
         "quote": "Each chapter of the treatise contains a description of the disease associated with a particular work activity followed by a literature analysis, workplace description, questions for the workers, disease description, remedies and advice."
       },
       {
@@ -747,7 +753,7 @@
         "author": "Tommaso Bianchi and others",
         "publisher": "Safety and Health at Work (via Europe PMC)",
         "year": 2019,
-        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6598806/fullTextXML",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6598806/",
         "type": "scholarly",
         "supports": "Midwives' kneeling posture and infection risk; washing as protection; chairs at Modena and Padua.",
         "quote": "Ramazzini identified two major occupational risks in midwifery: infection transmission and awkward postures."
@@ -757,7 +763,7 @@
         "publisher": "Collegium Ramazzini",
         "url": "https://www.collegiumramazzini.org/about/history",
         "type": "institutional",
-        "supports": "Diseases of workers in 40 occupations; birth 1633 in Carpi; father of occupational medicine.",
+        "supports": "Diseases of workers in 40 occupations; considered the father of occupational medicine.",
         "quote": "This volume described in detail the diseases of workers in 40 different occupations."
       }
     ],

@@ -588,5 +588,35 @@
   "license": "CC BY-SA 2.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
   "page": "https://commons.wikimedia.org/wiki/File:Template_from_Crick_and_Watson%E2%80%99s_DNA_molecular_model,_1953._(9660573227).jpg"
+ },
+ "the-pill": {
+  "commons": "File:Bottle for Enovid 10 mg Oral Contraceptive - DPLA - 0cc9d42b69b6fd3d586205f5831cade0.jpg",
+  "src": "/img/the-pill.webp",
+  "width": 1000,
+  "height": 1000,
+  "credit": "G.D. Searle & Co",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Bottle_for_Enovid_10_mg_Oral_Contraceptive_-_DPLA_-_0cc9d42b69b6fd3d586205f5831cade0.jpg"
+ },
+ "ct-scanner": {
+  "commons": "File:Emi1010.jpg",
+  "src": "/img/ct-scanner.webp",
+  "width": 640,
+  "height": 480,
+  "credit": "Philipcosson at English Wikipedia",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Emi1010.jpg"
+ },
+ "mri": {
+  "commons": "File:MRI Scanner Mark One.jpg",
+  "src": "/img/mri.webp",
+  "width": 869,
+  "height": 1300,
+  "credit": "AndyGaskell",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:MRI_Scanner_Mark_One.jpg"
  }
 }

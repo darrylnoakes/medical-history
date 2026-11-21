@@ -11,7 +11,7 @@
     "confidence": {
       "date": "firm",
       "claim": "firm",
-      "note": "The 1540 Act of Parliament and the company it created are documented in the company's own records and later histories; the 1745 separation is equally well recorded. The only shaky part of the popular story is its medieval back-story, covered below."
+      "note": "The 1540 Act and the 1745 separation are recorded in the Royal College of Surgeons' own institutional history and in a modern review of the company's history. The only shaky part of the popular story is its medieval back-story, covered below."
     },
     "place": "London, England",
     "people": [
@@ -24,7 +24,7 @@
     ],
     "summary": "In 1540 Henry VIII's Parliament joined London's barbers and surgeons into one company, which got four hanged felons a year to dissect.",
     "body": [
-      "Surgery was long a craft learned by apprenticeship. London's barbers did more than shave: they bled patients, cupped, pulled teeth and lanced abscesses, while a smaller guild of surgeons competed with them for work. In 1540, urged on by Thomas Vicary, surgeon to Henry VIII, Parliament merged the two into the Company of Barber-Surgeons; Holbein painted the king handing over the Act. The company was also given the bodies of four executed criminals a year for public anatomy lessons. The uneasy partnership lasted until 1745, when the surgeons left to form the company that became the Royal College of Surgeons."
+      "In the Middle Ages surgery was often performed by barbers. London's barbers did more than shave: they bled patients, cupped, pulled teeth and lanced abscesses, while a smaller guild of surgeons competed with them for work. In 1540, urged on by Thomas Vicary, surgeon to Henry VIII, Parliament merged the two into the Company of Barber-Surgeons; Holbein painted the king handing over the Act. The company was also given the bodies of four executed criminals a year for public anatomy lessons. The uneasy partnership lasted until 1745, when the surgeons left to form the company that became the Royal College of Surgeons."
     ],
     "myth": {
       "tradition": "The Church banned surgery at the Council of Tours in 1163 ('the Church abhors blood'), so the work fell to barbers.",
@@ -49,13 +49,13 @@
     ],
     "sources": [
       {
-        "title": "The Company of Barbers and Surgeons",
+        "title": "The Company of Barbers and Surgeons (review of Ian Burn, ed., 2000)",
         "author": "Harold Ellis",
         "publisher": "Journal of the Royal Society of Medicine",
         "year": 2001,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1282221/",
         "type": "scholarly",
-        "supports": "Barbers' minor surgery; Vicary's role; 1540 founding; four executed criminals a year; 1745 split.",
+        "supports": "Barbers' minor surgery; Vicary urging regulation; 1540 founding of the Company; four executed criminals a year; 1745 split.",
         "quote": "The Act of 1540 also allowed the bodies of four executed criminals to be anatomized annually at public demonstrations"
       },
       {
@@ -114,7 +114,7 @@
     ],
     "summary": "Within decades of Gutenberg, medicine went to press: Celsus in 1478, then a Venetian anthology whose woodcuts were the first printed anatomical pictures.",
     "body": [
-      "In 1478, about a quarter of a century after the first printed books, the Florentine printer Nicolaus Laurentii issued the first printed edition of the Roman writer Celsus's *De medicina*. In 1491 the Gregorii brothers of Venice printed the *Fasciculus medicinae*, a bundle of short medical treatises, many of them medieval, including advice on avoiding plague. Its woodcuts, including a zodiac man and a dissection scene, made it the first printed book with anatomical illustrations. It ran through fourteen editions and translations in 24 years. Its nominal author, Johannes de Ketham, may only have owned the manuscript."
+      "In 1478, about a quarter of a century after the first printed books, the Florentine printer Nicolaus Laurentii issued the first printed edition of the Roman writer Celsus's *De medicina*. In 1491 the Gregorii brothers of Venice printed the *Fasciculus medicinae*, a bundle of short medical treatises, many of them medieval, including advice on avoiding plague. Its woodcuts, including a zodiac man and a dissection scene, made it, by the National Library of Medicine's account, the first printed book with anatomical illustrations. It ran through fourteen editions and translations in 24 years. Its nominal author, Johannes de Ketham, may only have owned the manuscript."
     ],
     "links": [
       {
@@ -185,7 +185,7 @@
     "confidence": {
       "date": "agreed",
       "claim": "disputed",
-      "note": "Contemporary writers agree that the epidemic broke out among the armies fighting over Naples in 1494–95. Where it came from is still argued: ancient DNA now favors an American origin, but specialists disagree over possible pre-1492 cases in European skeletons."
+      "note": "Contemporary writers agree that the epidemic broke out among the armies fighting over Naples in 1494–95. Where it came from is still argued: the 2024 ancient-DNA study favors an American origin, but its authors say the evidence for pre-Columbian infection in Europe and Africa should not be quickly dismissed."
     },
     "place": "Naples, Italy, then all of Europe",
     "people": [
@@ -198,8 +198,8 @@
     ],
     "summary": "In 1495 a new and ghastly disease burst out of a French army in Italy. Europe blamed its neighbors; scientists still argue over where it came from.",
     "body": [
-      "In 1494 Charles VIII of France marched an army recruited across Western Europe down Italy to claim Naples. In its camps a disfiguring illness unknown to physicians broke out, and when the soldiers went home in 1495 they took it with them; within five years it had spread throughout Europe. Witnesses described boils 'that stood out like acorns', a sickening stench and terrible pain. Everyone blamed someone else: the French called it the Neapolitan disease, the English and Italians the French disease. The name we use comes from a Latin poem of 1530 by Girolamo Fracastoro, in which a shepherd called Syphilus is struck down by Apollo. Doctors treated it with mercury and with guaiacum, a wood from the Americas.",
-      "Because the outbreak followed so soon after Columbus returned in 1493, people suspected early on that it came from the New World. The question is still open. Claimed pre-Columbian cases in European skeletons are hard to tell apart from related infections such as yaws, or are poorly dated. Ancient bacterial genomes from the Americas, published in 2024, point to an American origin for the whole family of syphilis bacteria, though their authors warn against dismissing the European evidence."
+      "In 1494 Charles VIII of France marched an army recruited across Western Europe down Italy to claim Naples. In its camps a disfiguring illness unknown to physicians broke out, and when the soldiers went home in 1495 they took it with them; within five years it had spread throughout Europe. Witnesses described boils 'that stood out like acorns' and terrible pain. Everyone blamed someone else: the French called it the Neapolitan disease, the English and Italians the French disease. The name we use comes from a Latin poem of 1530 by Girolamo Fracastoro, in which a shepherd called Syphilus is struck down by Apollo. Doctors treated it with mercury and with guaiacum, a wood from the Americas.",
+      "Because the outbreak followed so soon after Columbus's first voyage (1492–93), people in the early 1500s suspected that it came from the New World. The question is still open. Claimed pre-Columbian cases in European skeletons are hard to tell apart from related infections such as yaws and bejel, or their dating is questionable. Ancient bacterial genomes from the Americas, published in December 2024, give the strongest support so far for an American origin of *Treponema pallidum*, the bacterium family behind syphilis, though their authors warn against dismissing pre-Columbian evidence elsewhere."
     ],
     "links": [
       {
@@ -215,7 +215,7 @@
       {
         "to": "salvarsan",
         "kind": "led-to",
-        "note": "The first effective drug against syphilis, four centuries later."
+        "note": "A chemical cure for syphilis, four centuries later."
       },
       {
         "to": "paracelsus",
@@ -275,12 +275,14 @@
     "tier": 2,
     "date": {
       "year": 1527,
+      "earliest": 1527,
+      "latest": 1527,
       "display": "24 June 1527"
     },
     "confidence": {
-      "date": "firm",
+      "date": "agreed",
       "claim": "agreed",
-      "note": "His appointment at Basel in March 1527 and his flight in February 1528 are documented; the St John's Day burning is reported consistently, though accounts differ on which books went into the fire. His lasting influence is a matter of broad agreement among historians."
+      "note": "His appointment at Basel in March 1527 and his flight in February 1528 are documented in the standard biography. The 24 June date for the bonfire comes from that biography and from later retellings, and accounts differ on which books were burned. His lasting influence is a matter of broad agreement among historians."
     },
     "place": "Basel, Switzerland",
     "people": [
@@ -294,11 +296,11 @@
     "summary": "Hired as Basel's city physician in 1527, Paracelsus lectured in German, raged at the apothecaries and threw Avicenna's Canon onto a bonfire.",
     "body": [
       "Theophrastus von Hohenheim, who called himself Paracelsus, won the post of city physician and professor at Basel in March 1527 after treating the great publisher Johannes Froben. He lectured in German rather than Latin, admitted barber-surgeons to his classes and attacked the apothecaries' profits. On St John's Day, 24 June, he threw a copy of Avicenna's *Canon*, the standard medical textbook, onto a students' bonfire. When Froben died in October his enemies closed in, and in February 1528 he fled the city, to wander for the rest of his life.",
-      "His medicine mixed alchemy, astrology and sharp observation. He rejected the theory of the four humors, sought chemical causes and chemical cures for disease, wrote the first book on the diseases of miners, and condemned guaiacum for syphilis in favor of mercury. Few of his works were printed in his lifetime; after his death in 1541 they appeared by the hundreds and inspired a school of chemical medicine."
+      "His medicine mixed alchemy, astrology and sharp observation. He rejected the theory of the four humors, sought chemical causes and chemical cures for disease, wrote what a University of Iowa catalogue calls the first monograph on the occupational diseases of miners (printed only in 1567), and condemned guaiacum for syphilis in favor of mercury. Few of his works were printed in his lifetime; after his death in 1541 they appeared by the hundreds, and his influence on later chemical medicine was profound."
     ],
     "myth": {
       "tradition": "Paracelsus publicly burned the collected works of Galen and Avicenna, the two pillars of medical authority.",
-      "record": "Versions differ. The standard scholarly biography says he burned a copy of Avicenna's *Canon* at a student celebration; Galen's books appear only in some retellings."
+      "record": "Versions differ. The *Dictionary of Scientific Biography* says he burned a copy of Avicenna's *Canon* at a student celebration; Galen's books appear only in some retellings, including one by the Linda Hall Library."
     },
     "links": [
       {
@@ -313,8 +315,8 @@
       },
       {
         "to": "ramazzini",
-        "kind": "led-to",
-        "note": "His study of miners' diseases was an early landmark of occupational medicine."
+        "kind": "see-also",
+        "note": "An earlier study of miners' diseases, printed only in 1567."
       }
     ],
     "sources": [
@@ -368,7 +370,7 @@
     "image": {
       "commons": "File:Paracelsus.jpg",
       "alt": "Painted half-length portrait of a stout man in a fur hat over a red cap, holding a small book before a river landscape, with the inscription FAMOSO DOCTOR PARESELSVS.",
-      "caption": "Presumed portrait of Paracelsus: one of many anonymous 17th-century copies of a lost original attributed to Quentin Massys."
+      "caption": "Presumed portrait of Paracelsus: one of many anonymous 17th-century copies after a portrait attributed to Quentin Massys."
     }
   },
   {
@@ -389,7 +391,7 @@
     "people": [
       "Andreas Vesalius (1514–1564), anatomist",
       "Joannes Oporinus, Basel printer",
-      "Jan Stephan van Calcar (1499–c. 1546), artist sometimes credited with the woodcuts"
+      "Jan Stephan van Calcar (born c. 1499), artist sometimes credited with the woodcuts"
     ],
     "themes": [
       "surgery",
@@ -399,8 +401,8 @@
     "summary": "A 28-year-old professor at Padua published the most famous anatomy book ever printed, built on human dissection and dazzling woodcuts.",
     "body": [
       "In 1543 Andreas Vesalius, a 28-year-old professor of surgery and anatomy at Padua, published *De humani corporis fabrica*, 'seven books on the fabric of the human body'. He had it printed across the Alps in Basel by Joannes Oporinus, alongside a short *Epitome* for students. Its woodcuts became instantly famous: a title page showing Vesalius dissecting a corpse amid a jostling crowd, skeletons and flayed 'muscle men' posed like classical statues against the countryside around Padua, even decorated capital letters showing cherubs robbing graves.",
-      "Medical teaching then rested on the ancient authority of Galen. Vesalius had come to see that Galen's anatomy came largely from animals. In public demonstrations at Bologna in 1540 he declared that human anatomy could be learned only by dissecting human bodies, and he did the cutting himself. The *Fabrica* pointed out where Galen had described apes rather than people: the human jaw is one bone, not two, and the breastbone has three segments, not seven. He also doubted that blood seeped through invisible pores in the wall between the heart's ventricles.",
-      "The change was neither instant nor total. The Paris anatomist Jacobus Sylvius, his former teacher, attacked him violently, and Vesalian anatomy gained general support only around 1600, spread by his successors at Padua. Its pictures spread faster, copied and plagiarized across Europe within two years. Vesalius himself soon left research to become physician to Emperor Charles V, though he produced a revised edition in 1555.",
+      "Medical teaching then rested on the ancient authority of Galen. Vesalius had come to see that Galen's anatomy came largely from animals. In public demonstrations at Bologna in 1540 he declared that human anatomy could be learned only by dissecting human bodies, and, unlike most professors of the day, he did the cutting himself. The *Fabrica* pointed out where Galen had described apes rather than people: the human jaw is one bone, not two, and the breastbone has three segments, not seven. He also doubted that blood seeped through invisible pores in the wall between the heart's ventricles.",
+      "The change was neither instant nor total. The Paris anatomist Jacobus Sylvius, his former teacher, attacked him violently in 1551, and Vesalian anatomy gained general support only around 1600, spread by his successors at Padua. Its pictures spread faster: Thomas Geminus's copies were printed in London by 1545, the first of many plagiarisms. Vesalius himself soon left research to become physician to Emperor Charles V, though he produced a revised edition in 1555.",
       "Even the details are less tidy than legend. The colophon gives June 1543, but the book actually appeared in August. The artists are unknown: Jan Stephan van Calcar was long credited, but most scholars now point to several hands from Titian's workshop in Venice."
     ],
     "myth": {
@@ -425,8 +427,8 @@
       },
       {
         "to": "harvey",
-        "kind": "led-to",
-        "note": "Padua's anatomical tradition led on to Harvey's circulation."
+        "kind": "see-also",
+        "note": "Historians often weigh the *Fabrica* against Harvey's book on the circulation as medicine's great milestone."
       }
     ],
     "sources": [
@@ -436,7 +438,7 @@
         "publisher": "Complete Dictionary of Scientific Biography (via Encyclopedia.com)",
         "url": "https://www.encyclopedia.com/people/medicine/medicine-biographies/andreas-vesalius",
         "type": "reference",
-        "supports": "Printing by Oporinus in Basel; August vs June publication; Bologna 1540; corrections of Galen (jaw, sternum, septum); acceptance of liver blood-making; Sylvius's attack and slow acceptance; uncertain artists; imperial service and 1555 edition.",
+        "supports": "Printing by Oporinus in Basel; August vs June publication; Bologna 1540; corrections of Galen (jaw, sternum, septum); acceptance of liver blood-making; Sylvius's attack and slow acceptance; uncertain artists; imperial service and 1555 edition. Page also carries a second article, by Giglioni, that supports Sylvius's 1551 attack and acceptance around 1600.",
         "quote": "With the publication of De humani corporis fabrica (Basel, 1543)—in August rather than in June as given in the colophon"
       },
       {
@@ -554,7 +556,12 @@
     "further": [
       "porter-1997",
       "wootton-2006"
-    ]
+    ],
+    "image": {
+      "commons": "File:Portrait of Ambroise Paré, the King's surgeon Met DP887880.jpg",
+      "alt": "Engraved portrait of the elderly French surgeon Ambroise Paré, shown in a bust-length oval frame with an inscription around it.",
+      "caption": "Ambroise Paré at age 72, engraved by Étienne Delaune, 1582, for the Latin edition of his collected works."
+    }
   },
   {
     "id": "fracastoro",
@@ -580,11 +587,11 @@
     ],
     "summary": "Three centuries before Pasteur, a Veronese poet-physician argued that diseases spread by tiny seeds passed by touch, clothing and the air.",
     "body": [
-      "In 1546 Girolamo Fracastoro, the Veronese physician who had named syphilis in verse, published *De contagione*. He argued that contagious diseases spread through tiny 'seeds' (*seminaria*) in three ways: by direct contact, as in scabies; by 'fomites' such as clothes and sheets; and at a distance, as with plague and smallpox. He gave an early description of typhus and discussed the contagiousness of tuberculosis, measles and rabies. His seeds owed much to the ancient atomism of Lucretius, and the rival idea that bad air caused epidemics stayed dominant for three more centuries."
+      "In 1546 Girolamo Fracastoro, the Veronese physician who had named syphilis in verse, published *De contagione*. He argued that contagious diseases spread through tiny 'seeds' (*seminaria*) in three ways: by direct contact, as in scabies; by 'fomites' such as clothes and sheets; and at a distance, as with plague and smallpox. He gave an early description of typhus and discussed the contagiousness of tuberculosis, measles and rabies. His seeds owed much to the ancient atomism of Lucretius, and the popular rival idea that bad air caused epidemics overshadowed it; it was nearly three centuries before Pasteur and Koch tied specific diseases to specific microbes."
     ],
     "myth": {
       "tradition": "Fracastoro discovered the germ theory of disease three centuries before Pasteur.",
-      "record": "His *seminaria* had some lifelike traits, but they came from ancient philosophy, not observation; whether he foresaw microbes cannot be established, and his ideas were largely overshadowed."
+      "record": "His *seminaria* had some lifelike traits, but they came from ancient philosophy, not observation; whether he foresaw microbes cannot be established, and the miasma theory overshadowed his ideas."
     },
     "links": [
       {
@@ -609,7 +616,7 @@
         "publisher": "Complete Dictionary of Scientific Biography (via Encyclopedia.com)",
         "url": "https://www.encyclopedia.com/people/medicine/medicine-biographies/girolamo-fracastoro",
         "type": "reference",
-        "supports": "1546 publication; three modes of contagion; origins of the seminaria in Lucretius; caution about microbes. Also the later overshadowing by miasma theory.",
+        "supports": "1546 publication; three modes of contagion; origins of the seminaria in Lucretius; caution about microbes. The same page's second (Encyclopedia of World Biography) article supplies the overshadowing by miasma theory and the 'nearly 300 years' to Pasteur.",
         "quote": "It is difficult—perhaps impossible—to establish incontrovertibly whether Fracastoro really foresaw, as some would like to belive, the existence of microbes"
       },
       {
@@ -650,9 +657,9 @@
       "technology",
       "practice"
     ],
-    "summary": "For over a century one family of London man-midwives guarded a simple instrument that could save mothers and babies in obstructed labor.",
+    "summary": "For over a century one family of London man-midwives guarded a simple instrument that helped deliver babies in obstructed labor.",
     "body": [
-      "The Chamberlens, French Protestants who settled in England in 1569, became a dynasty of man-midwives famous for handling difficult births. Their secret was a short forceps whose two blades, inserted one at a time and then joined, could grip a baby's head. Peter Chamberlen the Elder (d. 1631), who attended the queens of James I and Charles I, is thought to have devised it. The family kept the design to itself for over a hundred years. Hugh Chamberlen may have sold it to a Dutch obstetrician in 1692; forceps were common knowledge by the 1730s."
+      "The Chamberlens, French Protestants who settled in England in 1569, became man-midwives famous for difficult births. Their secret was a short forceps whose two blades, inserted one at a time and then joined, could grip a baby's head. Peter Chamberlen the Elder (d. 1631), who attended the queens of James I and Charles I, is thought to have devised it, though a University of Iowa account dates a practical design to the late 1640s. The family kept the design to itself for over a hundred years. Hugh Chamberlen may have sold it to a Dutch obstetrician in 1692; forceps were common knowledge by the 1730s."
     ],
     "links": [
       {
@@ -663,7 +670,7 @@
       {
         "to": "soranus",
         "kind": "see-also",
-        "note": "Ancient obstetrics the forceps eventually transformed."
+        "note": "Ancient obstetrics, long before any instrument like this."
       }
     ],
     "sources": [
@@ -716,7 +723,7 @@
     "confidence": {
       "date": "firm",
       "claim": "firm",
-      "note": "*De statica medicina* is dated 1614 and Santorio's instruments are described in his own printed works; the exact date he added a scale to the thermoscope is unknown, sometime between 1602 and 1612."
+      "note": "*De statica medicina* is dated 1614 and Santorio's instruments are described in his own printed works. The invention of the thermometer was disputed between Santorio, Galileo, Sagredo and others; its first printed mention is in Santorio's 1612 commentary on Galen."
     },
     "place": "Padua and Venice, Italy",
     "people": [
@@ -728,7 +735,7 @@
     ],
     "summary": "A Padua professor sat for years on a weighing chair to measure what the body loses invisibly, and helped turn the thermoscope into a thermometer.",
     "body": [
-      "Santorio Santorio, professor of theoretical medicine at Padua from 1611, sat in a chair hung from a balance and weighed himself, his food and his excreta, reportedly over some thirty years. The difference revealed 'insensible perspiration', moisture lost unseen through skin and lungs, which he found exceeded all visible excretions combined. His little book of aphorisms, *De statica medicina* (1614), went through dozens of editions. A friend of Galileo, he also added a scale to the thermoscope, making a thermometer, and timed pulses with a pendulum. He still worked within humoral medicine, but insisted on measuring it."
+      "Santorio Santorio, professor of theoretical medicine at Padua from 1611, sat in a chair hung from a balance and weighed himself, his food and his excreta, reportedly for thirty years. The difference revealed 'insensible perspiration', moisture lost unseen through skin and lungs, which he found exceeded all visible excretions combined. His little book of aphorisms, *De statica medicina* (1614), went through dozens of editions. A friend of Galileo, he was, by one standard biography, the first to add a scale to the air thermoscope, making a thermometer (others disputed the priority); he also timed pulses with a pendulum. He still worked within humoral medicine, but insisted on measuring it."
     ],
     "links": [
       {
