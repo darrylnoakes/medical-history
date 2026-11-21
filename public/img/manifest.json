@@ -668,5 +668,15 @@
   "license": "Public domain",
   "licenseUrl": "",
   "page": "https://commons.wikimedia.org/wiki/File:Measlesvirus.jpg"
+ },
+ "cancer-immunotherapy": {
+  "commons": "File:Portrait of William Coley Wellcome M0017955.jpg",
+  "src": "/img/cancer-immunotherapy.webp",
+  "width": 990,
+  "height": 1300,
+  "credit": "Gallery: https://wellcomeimages.org/indexplus/image/M0017955.html Wellcome Collection gallery…",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_William_Coley_Wellcome_M0017955.jpg"
  }
 }

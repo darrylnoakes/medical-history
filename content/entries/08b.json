@@ -96,7 +96,6 @@
       "Philippe Pinel was appointed physician at the Bicêtre hospice in Paris on 25 August 1793, during the Revolution, and on 13 May 1795 became chief physician at the Salpêtrière, with its 600-bed ward for the mentally ill. From these wards came his 'moral treatment' of insanity: close observation, conversation, routine and firm kindness instead of blows. In his treatise on mental alienation (1801; English translation 1806) he reported that at Bicêtre keepers were forbidden 'on any pretext whatever, to strike a madman', though strait-waistcoats and seclusion remained.",
       "The legend that grew up around him, in paintings and popular prints, has Pinel personally freeing the chained insane. His book tells a more shared story. Pinel praised 'the zeal, the humanity, and intelligence of the keeper' at Bicêtre, and elsewhere describes the governor, Pussin, steadying patients, once with servants rattling chains for effect. Historian Dora Weiner, working from a document found in 1978, concluded that Pussin introduced Pinel to these methods and in 1797 first replaced chains with straitjackets at Bicêtre; Pinel followed at the Salpêtrière about three years later. In England the Quaker-run York Retreat was pursuing similar moral treatment."
     ],
-    ],
     "myth": {
       "tradition": "In 1793 Philippe Pinel dramatically struck the chains from the insane at Bicêtre, single-handedly inventing humane psychiatry.",
       "record": "Pinel's own treatise praises the keeper and shows the governor Pussin handling patients, and strait-waistcoats stayed in use. Weiner found that Pussin first replaced chains with straitjackets at Bicêtre in 1797, and Pinel followed at the Salpêtrière about three years later; the solitary heroic scene was fixed by later paintings and prints."
@@ -174,12 +173,12 @@
     "confidence": {
       "date": "firm",
       "claim": "firm",
-      "note": "Jenner's own 1798 Inquiry dates the Phipps vaccination to 14 May 1796. What remains uncertain is which virus he actually used: the modern vaccine is vaccinia, not cowpox, and old vaccine samples point to horsepox."
+      "note": "Jenner's own *Inquiry* dates the Phipps vaccination to 14 May 1796. What remains uncertain is which virus he actually used: the modern vaccine is vaccinia, not cowpox, and old vaccine samples point to horsepox."
     },
     "place": "Gloucestershire, England",
     "people": [
       "Edward Jenner (1749–1823), Gloucestershire doctor",
-      "James Phipps, the eight-year-old boy first vaccinated",
+      "James Phipps, the eight-year-old boy Jenner inoculated with cowpox in 1796",
       "Sarah Nelmes, dairymaid whose cowpox sore supplied the matter",
       "Benjamin Jesty, farmer who used cowpox on his family in 1774"
     ],
@@ -189,7 +188,7 @@
       "Before 1796 the best protection against smallpox was variolation: deliberately infecting a healthy person with matter from a smallpox sore. It usually caused a milder illness than catching the disease, but it could kill, could set off new outbreaks, and needed a steady supply of smallpox patients. Country people had noticed something else. Dairy workers who caught cowpox, a mild disease that left pustules on the hands, seemed to escape smallpox. Reports of this circulated in the 1760s, and in 1774, during an outbreak at Yetminster, a farmer named Benjamin Jesty deliberately gave cowpox to his wife and two sons.",
       "Edward Jenner, a country doctor in Gloucestershire, put the belief to a public test. On 14 May 1796 he took matter from a cowpox sore on the hand of a dairymaid, Sarah Nelmes, and inserted it through two shallow cuts into the arm of James Phipps, aged eight. The boy was briefly unwell. About six weeks later Jenner inoculated him with smallpox matter, and no disease followed. The Royal Society rejected his paper in 1797, so in 1798 he published *An Inquiry into the Causes and Effects of the Variolae Vaccinae* at his own expense, describing Phipps and 22 other cases.",
       "The method, later called vaccination after the Latin *vacca*, cow, spread fast. By 1800 it had reached other European countries and the United States, passed at first from arm to arm; after 1860 vaccine was mostly grown on calves. Bavaria required it of army recruits in 1807. Britain outlawed variolation in 1840 and in 1853 made vaccination compulsory for children, provoking the first anti-vaccination movement. In 1980 the World Health Assembly declared the world free of smallpox.",
-      "Jenner was not the first to use cowpox, and he did not know what he was injecting. His contribution was the first systematic account of challenge experiments, published for others to check. He suspected the disease came from horses, and a 1902 American vaccine has turned out to be closely related to horsepox; the vaccinia virus of 20th-century vaccines is distinct from cowpox. Which virus Jenner used is unknown."
+      "Jenner was not the first to use cowpox, and he did not know what he was injecting. His contribution was the first systematic account of challenge experiments, published for others to check. He suspected the disease came from horses, and a Philadelphia vaccine sample from 1902 has turned out, on sequencing, to be closely related to horsepox; the vaccinia virus of 20th-century vaccines is distinct from cowpox. Which virus Jenner used is unknown."
     ],
     "myth": {
       "tradition": "Jenner discovered that cowpox protects against smallpox, and the vaccine he gave the world was cowpox.",
@@ -262,7 +261,7 @@
     "image": {
       "commons": "File:Edward Jenner. Line engraving after J. R. Smith, 1800. Wellcome V0003071.jpg",
       "alt": "Engraved half-length portrait of Edward Jenner in a dark coat and white cravat, leaning on a ledge.",
-      "caption": "Edward Jenner, in a line engraving after a portrait by J. R. Smith of 1800, two years after the *Inquiry* made him famous. Wellcome Collection."
+      "caption": "Edward Jenner, in a line engraving after a portrait by J. R. Smith, 1800. Wellcome Collection."
     }
   },
   {
@@ -278,14 +277,14 @@
     "confidence": {
       "date": "firm",
       "claim": "firm",
-      "note": "Hahnemann's 1796 paper and the 1810 Organon are dated publications. Modern reviews agree there is no reliable evidence that homeopathy works for any condition."
+      "note": "Hahnemann's 1796 paper and the 1810 Organon are dated publications. The U.S. National Institutes of Health's complementary-health center finds little evidence that homeopathy works for any specific condition."
     },
     "place": "Germany",
     "people": ["Samuel Hahnemann (1755–1843), German physician and chemist"],
     "themes": ["theory", "drugs"],
-    "summary": "A German doctor disgusted with the dangerous drugs of his day proposed that like cures like, and that diluting a medicine makes it stronger.",
+    "summary": "A German doctor uneasy about the dangerous drugs of his day proposed that like cures like, and that diluting a medicine makes it stronger.",
     "body": [
-      "Samuel Hahnemann quit practice for a time, finding the drugs of his day uncertain and often dangerous. In 1796 he published the paper that founded homeopathy, expanded in his *Organon* of 1810. Its rules: like cures like, so a substance that causes symptoms in the healthy can treat them in the sick; and the more a medicine is diluted, the stronger it becomes. Many remedies are diluted until no molecule of the original remains. Set beside bleeding and mercury purges, Hahnemann's regime of tiny doses, good food, exercise and fresh air looked gentle. Modern reviews find no reliable evidence that it works for any condition."
+      "Samuel Hahnemann quit practice for a time, finding the drugs of his day uncertain and often dangerous. In 1796 he published his first paper setting out the views that became homeopathy, and developed them in his *Organon* of 1810. Its rules: like cures like, so a substance that causes symptoms in the healthy can treat them in the sick; and the more a medicine is diluted, the stronger it becomes. Many homeopathic products are diluted until no molecule of the original remains. Beside bleeding and mercury purges, such tiny doses looked gentle. Today the U.S. National Institutes of Health finds little evidence that homeopathy works for any specific condition."
     ],
     "links": [
       { "to": "heroic-medicine", "kind": "see-also", "note": "Homeopathy grew up as a gentle alternative to depletion." },
@@ -297,7 +296,7 @@
         "publisher": "Complete Dictionary of Scientific Biography, via Encyclopedia.com",
         "url": "https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/hahnemann-christian-friedrich-samuel",
         "type": "reference",
-        "supports": "His dissatisfaction with contemporary drugs; the 1796 paper; the Organon of 1810.",
+        "supports": "His dissatisfaction with contemporary drugs; the 1796 first paper that later formed the basis of homeopathy; the Organon of 1810.",
         "quote": "in 1796 published his first paper setting forth his own views, which later formed the basis of homeopathy"
       },
       {
@@ -305,7 +304,7 @@
         "publisher": "National Center for Complementary and Integrative Health (NIH)",
         "url": "https://www.nccih.nih.gov/health/homeopathy",
         "type": "institutional",
-        "supports": "The two principles; extreme dilution; the lack of reliable evidence of effectiveness.",
+        "supports": "The two principles; extreme dilution; little evidence of effectiveness for any specific condition.",
         "quote": "Many homeopathic products are so diluted that no molecules of the original substance remain."
       },
       {
@@ -321,7 +320,7 @@
         "publisher": "Encyclopedia.com (Gale, World of Health)",
         "url": "https://www.encyclopedia.com/people/medicine/medicine-biographies/samuel-hahnemann",
         "type": "reference",
-        "supports": "Hahnemann's advice of exercise, food and fresh air in contrast to heroic therapy.",
+        "supports": "His disenchantment with the heroic treatments of the day and his own advice to patients of exercise, food and fresh air; his cinchona self-experiment.",
         "quote": "instead encouraged his own patients to seek exercise, healthy food, and fresh air"
       }
     ],
@@ -353,8 +352,8 @@
     "themes": ["institutions", "theory", "practice"],
     "summary": "After the Revolution, Paris doctors followed patients from bedside to autopsy table and began to count their results.",
     "body": [
-      "The Revolution dissolved France's old medical faculties, and on 4 December 1794 the Convention founded new schools of health. Paris, with its huge hospitals, became the place to learn medicine: doctors examined patients on the wards, then followed them to the dissecting room. Xavier Bichat, who worked at the Hôtel-Dieu and died in 1802 aged 31, broke the organs down into their common materials, which he called tissues, and argued that each tissue could fall ill on its own. 'Open a few corpses,' he wrote in 1801, and the confusion of symptoms would clear.",
-      "The Paris doctors also counted. In 1835 Pierre Louis compared 77 pneumonia patients by when they had first been bled: about 44 per cent of those bled in the first four days died, against 25 per cent of those bled later. He concluded that bleeding had 'narrow limits' of usefulness. In 1833 alone, France imported 42 million medicinal leeches."
+      "The Revolution dissolved France's old medical faculties, and on 4 December 1794 the Convention founded new schools of health. Paris, with its huge hospitals, became the place to learn medicine, and its doctors tied what they saw at the bedside to what they found at autopsy. Xavier Bichat, who worked at the Hôtel-Dieu and died in 1802 aged 31, performed as many as 600 autopsies in a single year. He broke the organs down into their common materials, which he called tissues, and held that inflammation differs from tissue to tissue. 'Open a few corpses,' he wrote in 1801, and the confusion of symptoms would clear.",
+      "The Paris doctors also counted. François Broussais blamed all fevers on inflamed organs and had leeches piled on patients; in 1833 alone France imported 42 million. In 1835 Pierre Louis, long a critic of Broussais, compared 77 pneumonia patients by when they were first bled: about 44 per cent of those bled in the first four days died, against 25 per cent of those bled later, though early bleeding also shortened the illness by about three days. He concluded that bleeding had 'narrow limits' of usefulness."
     ],
     "myth": {
       "tradition": "Louis's statistics proved bloodletting useless and swiftly ended it.",
@@ -374,7 +373,7 @@
         "year": 2004,
         "url": "https://www.jameslindlibrary.org/articles/pierre-charles-alexandre-louis-and-the-evaluation-of-bloodletting/",
         "type": "scholarly",
-        "supports": "Broussais and the 42 million leeches of 1833; Louis's 77 patients, the 44 and 25 per cent death rates, his 'narrow limits' conclusion, and doubt about his impact.",
+        "supports": "Broussais's inflammation theory and leeching, the 42 million leeches of 1833; Louis's 77 patients, the 44 and 25 per cent death rates, bleeding shortening illness by about 3 days, his 'narrow limits' conclusion, and doubt about his impact.",
         "quote": "in 1833 alone, France imported 42 million leeches for medical use"
       },
       {
@@ -392,7 +391,7 @@
         "year": 1801,
         "url": "https://archive.org/stream/61020510RX1.nlm.nih.gov/61020510RX1_djvu.txt",
         "type": "primary",
-        "supports": "Bichat's call to open corpses (1801) and his claim that each tissue can be diseased separately.",
+        "supports": "Bichat's call to open corpses (1801); his contents list shows inflammations varying by tissue.",
         "quote": "Ouvrez quelques cadavres, vous verrez aussitôt disparoître l’obscurité que jamais la seule observation n’auroit pu dissiper"
       },
       {
@@ -400,7 +399,7 @@
         "publisher": "Encyclopedia.com (World of Forensic Science; Encyclopedia of World Biography)",
         "url": "https://www.encyclopedia.com/people/medicine/medicine-biographies/marie-francois-xavier-bichat",
         "type": "reference",
-        "supports": "Bichat at the Hôtel-Dieu, his introduction of the term 'tissues', his death in 1802 aged 31.",
+        "supports": "Bichat at the Hôtel-Dieu, as many as 600 autopsies in a year, his introduction of the term 'tissues', his death in 1802 aged 31.",
         "quote": "He broke down the organs into their common elemental materials, for which he introduced the term \"tissues.\""
       },
       {
@@ -432,7 +431,7 @@
     "confidence": {
       "date": "firm",
       "claim": "agreed",
-      "note": "The expedition's dates and route are well established in Spanish records; figures for the number vaccinated are rough, and little is known of the children's later lives."
+      "note": "The expedition's dates and route are well established in historical accounts; the number vaccinated is only roughly known, and little is known of the children's later lives."
     },
     "place": "From La Coruña, Spain, to the Americas, the Philippines and China",
     "people": [
@@ -441,9 +440,9 @@
       "José Salvany y Lleopart, Balmis's deputy"
     ],
     "themes": ["public-health", "institutions"],
-    "summary": "To carry Jenner's vaccine across an ocean, Spain shipped 22 orphans and passed the infection from arm to arm, one child after another.",
+    "summary": "To carry Jenner's vaccine across an ocean, Spain sent 22 orphans and passed the infection from arm to arm, one child after another.",
     "body": [
-      "In 1803 King Charles IV sent the military physician Francisco Javier de Balmis to carry Jenner's new vaccine to Spain's colonies. The vaccine could not be kept alive for the long voyage, so it travelled in people: 22 orphaned children sailed from La Coruña on the corvette *María Pita* and were vaccinated in turn, arm to arm. Their carer, Isabel Zendal, brought her own son. The expedition reached the Caribbean in February 1804 and split in Venezuela; José Salvany spent years vaccinating in South America and died there, while Balmis went on to Mexico, the Philippines and China, returning to Spain in 1806. None of the children came home."
+      "King Charles IV backed the military physician Francisco Javier de Balmis in carrying Jenner's new vaccine to Spain's colonies. The vaccine could not survive the voyage on its own, so it travelled in people: 22 orphaned children sailed from La Coruña on the corvette *María Pita* in 1803 and were vaccinated in turn, arm to arm. Their carer, Isabel Zendal, brought her own son. It reached the Caribbean in February 1804 and split in Venezuela; José Salvany spent years vaccinating in South America, work that cost him his life, while Balmis went on to Mexico, the Philippines and China, reaching Spain again in 1806. None of the children came home."
     ],
     "links": [
       { "to": "jenner", "kind": "built-on", "note": "The expedition carried Jenner's cowpox vaccine." },
@@ -457,7 +456,7 @@
         "year": 2019,
         "url": "https://www.historyofvaccines.org/blog/en-espanol-la-expedicion-balmis-espan%cc%83a-y-la-primera-campan%cc%83a-de-vacunacion-internacional/",
         "type": "institutional",
-        "supports": "Charles IV and Balmis; 22 orphans with Isabel Zendal and her son; departure from La Coruña on the María Pita in 1803; Caribbean in February 1804; Salvany's death in South America; Philippines and China; return in 1806; none of the children returned.",
+        "supports": "Charles IV and Balmis; 22 orphans with Isabel Zendal and her son; departure from La Coruña on the María Pita in 1803; Caribbean in February 1804; the split in Venezuela; Salvany's years in South America, which cost him his life; Philippines and China; return in 1806; none of the children returned.",
         "quote": "viajaron con Balmis 22 niños huérfanos junto con su cuidadora, Isabel Zendal, y su hijo"
       },
       {
@@ -469,7 +468,7 @@
         "type": "scholarly",
         "supports": "Arm-to-arm transmission through orphaned children; royal commission to Balmis.",
         "quote": "the vaccine was kept viable by passing it from arm to arm in orphaned children",
-        "manualCheck": "Oxford Academic serves a Cloudflare JavaScript challenge to curl; the abstract was read in this session through a browser-based fetch and the quoted phrase taken from it."
+        "manualCheck": "Oxford Academic serves a Cloudflare JavaScript challenge to curl; the abstract was read in this session through the Europe PMC record (PMID 16206103) and the quoted phrase copied from it."
       }
     ],
     "further": ["snowden-2019"]
@@ -487,20 +486,20 @@
     },
     "confidence": {
       "date": "agreed",
-      "claim": "firm",
-      "note": "Sertürner's reports of 1805–06 and his 1817 paper are dated publications; the experimental work behind them stretched over years and cannot be pinned to a single date."
+      "claim": "agreed",
+      "note": "Sertürner's reports of 1805–06 and his 1817 paper are dated publications, and he is conventionally credited with the first alkaloid. The experimental work behind them stretched over years (one review gives 1803–1817), so neither a single date nor a clean priority can be fixed."
     },
     "place": "Paderborn and Einbeck, Germany",
     "people": ["Friedrich Wilhelm Sertürner (1783–1841), German apothecary"],
     "themes": ["drugs", "technology"],
     "summary": "A self-taught apothecary's assistant pulled the 'sleep-inducing factor' out of opium, isolating the first alkaloid and testing it on himself.",
     "body": [
-      "Medicines around 1800 were mostly crude plant preparations whose active ingredients came in unknown and varying amounts. Opium, used since ancient times, remained among the most important. Friedrich Sertürner, a young apothecary's assistant with little formal training, used ammonia to separate an almost pure 'sleep-inducing factor' from it. His first reports, in 1805 and 1806, attracted no attention. In 1817 he republished the work at length, calling the substance *morphium* after the god of sleep and dreams, and this time chemists took notice.",
+      "Medicines around 1800 were mostly crude plant preparations whose active ingredients came in unknown and varying amounts. Opium, used since ancient times, remained among the most important. Friedrich Sertürner, a young apothecary's assistant with little formal training, used ammonia to separate an almost pure 'sleep-inducing factor' from it. His first reports, in 1805 and 1806, attracted no attention. He named the substance *morphium* after the god of sleep and dreams, and in 1817 republished the work at length, and this time chemists took notice.",
       "Sertürner had tested it on himself and three young volunteers: a quarter of a grain produced a happy light-headedness, while larger doses brought drowsiness and then confusion. He showed the substance was an alkali, overturning the belief that the active principles of plants were acids. Morphine was the first alkaloid isolated from any plant, the start of alkaloid chemistry, and it gave doctors a drug whose dose could be measured."
     ],
     "links": [
       { "to": "hypodermic-syringe", "kind": "led-to", "note": "The syringe was soon used to inject morphine." },
-      { "to": "opioid-crisis", "kind": "led-to", "note": "Morphine's descendants fuelled later addiction epidemics." },
+      { "to": "opioid-crisis", "kind": "led-to", "note": "Morphine's descendants fueled later addiction epidemics." },
       { "to": "aspirin", "kind": "led-to", "note": "Purified plant drugs paved the way for manufactured ones." }
     ],
     "sources": [
@@ -511,7 +510,7 @@
         "year": 2016,
         "url": "https://doi.org/10.4103/0019-5049.193696",
         "type": "scholarly",
-        "supports": "Crude plant medicines around 1800; self-experiment with three volunteers and the doses; naming after the god of sleep; first alkaloid isolated from any plant.",
+        "supports": "Crude plant medicines around 1800; the 1803–1817 span of the work; self-experiment with three volunteers and the doses; naming after the god of sleep; first alkaloid isolated from any plant.",
         "quote": "Morphine was not only the first alkaloid to be extracted from opium but also the first ever alkaloid to be isolated from any plant."
       },
       {

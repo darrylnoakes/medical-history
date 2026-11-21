@@ -23,13 +23,13 @@
     ],
     "summary": "A German psychiatrist sorted madness by how it unfolded over years, splitting the psychoses into two great families that still shape diagnosis.",
     "body": [
-      "In the sixth edition of his psychiatry textbook, published in 1899, Emil Kraepelin divided the major psychoses in two. *Dementia praecox*, a term borrowed from the French psychiatrist Bénédict Morel, gathered catatonia, hebephrenia and chronic delusional states into one illness with a steady downhill course. Manic-depressive insanity absorbed the recurrent and circular mood illnesses, which carried a better outlook. Kraepelin classified by symptoms, course and outcome rather than by unproven theories about causes, drawing on records of thousands of patients. Today's diagnostic manuals still follow his lead, though critics doubt his two categories are natural kinds."
+      "In the sixth edition of his psychiatry textbook, published in 1899, Emil Kraepelin divided the major psychoses in two. *Dementia praecox*, a term borrowed from the French psychiatrist Bénédict Morel, gathered catatonia, hebephrenia and chronic delusional states into one illness with, as Kraepelin saw it, a poor prognosis. Manic-depressive insanity absorbed the recurrent and circular mood illnesses, which he judged to carry a better outlook. Kraepelin classified by symptoms, course and outcome rather than by unproven theories about causes, drawing on records of thousands of patients. Today's diagnostic categories are still recognizably Kraepelinian, though critics doubt that his two categories are natural kinds."
     ],
     "links": [
       {
         "to": "asylum-era",
         "kind": "built-on",
-        "note": "Kraepelin's long-term case records came from asylum patients."
+        "note": "Kraepelin's course-based method needed long-term observation of patients, which institutions made possible."
       },
       {
         "to": "freud",
@@ -92,11 +92,11 @@
     "confidence": {
       "date": "firm",
       "claim": "disputed",
-      "note": "Both books are firmly dated (*The Interpretation of Dreams* came out at the turn of 1899 and 1900, and sources give either year). Freud's influence is not in doubt; whether his theory is science, and how well the founding cases went, has been contested from the start."
+      "note": "Both books are firmly dated; the *Interpretation of Dreams* is dated 1899 by some sources and 1900 by others (its Deuticke imprint reads 1900). Freud's influence is not in doubt; whether his theory is science, and how well the founding cases went, has been contested from the start."
     },
     "place": "Vienna, Austria",
     "people": [
-      "Sigmund Freud (born 1856), Viennese neurologist, founder of psychoanalysis",
+      "Sigmund Freud (1856–1939), Viennese neurologist, founder of psychoanalysis",
       "Josef Breuer, Viennese physician",
       "Bertha Pappenheim (1859–1936), Breuer's patient 'Anna O.', later a social worker and feminist leader"
     ],
@@ -108,7 +108,7 @@
     "summary": "A young Viennese woman named the 'talking cure'; Sigmund Freud turned it into psychoanalysis, the most influential and most contested theory of the mind.",
     "body": [
       "In 1895 the Viennese physicians Josef Breuer and Sigmund Freud published *Studies on Hysteria*. Its best-known case, \"Anna O.,\" was Bertha Pappenheim, whom Breuer had treated for partial paralysis and hallucinations; describing her traumatic experiences seemed to bring relief, and she named the process the \"talking cure.\" Freud, who had found the effects of hypnosis short-lived, took up Breuer's method and argued that many neuroses grew from forgotten traumatic experiences that could be recalled and discharged.",
-      "Breuer balked at Freud's growing emphasis on sex, and Freud went on alone. *The Interpretation of Dreams*, published at the turn of 1899 and 1900, argued that dreams express hidden desires and became the founding text of psychoanalysis, the first systematic theory and technique of psychotherapy.",
+      "Breuer balked at Freud's growing emphasis on sex, and Freud went on alone. *The Interpretation of Dreams*, dated 1899 by some sources and 1900 by others (the Deuticke imprint reads 1900), argued that dreams express hidden desires and became the founding text of psychoanalysis, often described as the first major systematic form of psychotherapy.",
       "Its scientific standing was contested from the start. The philosopher Karl Popper argued that a genuine scientific theory must be testable, and critics charged that psychoanalysis could explain any behavior and so ruled nothing out. In 1952 the psychologist Hans Eysenck challenged whether psychotherapy worked at all, pushing the field toward controlled trials."
     ],
     "myth": {
@@ -129,7 +129,7 @@
     ],
     "sources": [
       {
-        "title": "Sigmund Freud: Conflict and Culture — From the Individual to Society",
+        "title": "The Individual: Therapy (Sigmund Freud: Conflict and Culture)",
         "publisher": "Library of Congress",
         "url": "https://www.loc.gov/exhibits/freud/freud02.html",
         "type": "institutional",
@@ -159,7 +159,7 @@
         "year": 2023,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10575551/",
         "type": "scholarly",
-        "supports": "*The Interpretation of Dreams* dated to 1899 (cited from the Deuticke edition of 1900); dreams as hidden desires.",
+        "supports": "*The Interpretation of Dreams* dated to 1899 by this source (the Deuticke edition it cites is dated 1900); dreams as hidden desires.",
         "quote": "In 1899, Sigmund Freud released his groundbreaking book “The Interpretation of Dreams.”"
       },
       {
@@ -210,7 +210,7 @@
       "Late on Friday 8 November 1895, in his laboratory at the University of Würzburg, Wilhelm Conrad Röntgen was passing an electric discharge through a vacuum tube shrouded in black card when a paper screen coated with barium platinocyanide, as far as two meters away, began to glow. Something invisible was escaping the tube and passing through the card. Not knowing what it was, he called it X-rays.",
       "For about six weeks he kept the discovery to himself, testing what the rays could pass through. On 22 December he placed the hand of his wife, Anna Bertha, over a photographic plate; the print shows her bones and a ring, with the flesh a faint shadow. At the end of December his paper \"On a New Kind of Rays\" appeared in the proceedings of Würzburg's Physical-Medical Society, and on 1 January 1896 he mailed reprints and prints to physicists including Lord Kelvin, Henri Poincaré and Hendrik Lorentz. The Vienna newspaper *Die Presse* broke the story on 5 January.",
       "The news spread fast because almost every physics laboratory had the tubes to repeat the experiment. Within weeks an X-ray located a bullet in a patient's leg in Canada; within a year Glasgow Royal Infirmary had a radiology department imaging kidney stones and a penny lodged in a child's throat. Röntgen never patented the discovery. In 1901 he received the first Nobel Prize in Physics.",
-      "The cost came almost as quickly. Thomas Edison reported sore eyes in March 1896, and the *British Medical Journal* described burned hands in April. One study of the radiologists' book of honor estimates that a beginner in 1896 ran perhaps a 10–25 percent risk of eventually dying from the work, falling to 1–2 percent a few years later."
+      "The cost came almost as quickly. Thomas Edison reported sore eyes in March 1896, and the *British Medical Journal* described burned hands in April. One study of the radiologists' book of honor estimates that a beginner's risk of eventually dying from the work was up to 10–25 percent in 1896, against 1–2 percent in the years just after."
     ],
     "myth": {
       "tradition": "Someone else, usually Nikola Tesla, really discovered X-rays before Röntgen.",
@@ -425,9 +425,9 @@
     "confidence": {
       "date": "firm",
       "claim": "disputed",
-      "note": "Hoffmann's synthesis of 10 August 1897 and Bayer's 1899 trademark are documented. Who directed the work is contested: Eichengrün's claim, made decades later, is supported by the historian Walter Sneader but not by Bayer."
+      "note": "Hoffmann's synthesis of 10 August 1897 and Bayer's 1899 trademark are documented. Who directed the work is contested: Eichengrün's claim, made decades later, is supported by the historian Walter Sneader (as summarized by Wood) but Bayer continued to credit Hoffmann."
     },
-    "place": "Bayer laboratories, Wuppertal (then Elberfeld), Germany",
+    "place": "Bayer laboratories, Wuppertal, Germany",
     "people": [
       "Edward Stone, Oxfordshire clergyman",
       "Felix Hoffmann (1868–1946), Bayer chemist",
@@ -440,11 +440,11 @@
     "body": [
       "In 1763 Edward Stone, a clergyman in Chipping Norton, Oxfordshire, wrote to the Royal Society that dried, powdered willow bark cured the \"agues\" (fevers) of about 50 people. Searching earlier books, he had found only mentions of the tree's name. Chemists later isolated willow's active principle, and from 1874 synthetic salicylic acid was on sale, but it irritated the stomach.",
       "On 10 August 1897 Felix Hoffmann, a chemist at Bayer, described making acetylsalicylic acid in a pure, stable form fit for medicine; others had made the compound before, but not usably. Bayer registered the trademark Aspirin on 6 March 1899. Within a fortnight of the aspirin work Hoffmann also made heroin.",
-      "Credit is disputed. Arthur Eichengrün, who directed Hoffmann's work, later said aspirin had been produced and tested under him and that his role was erased in the Nazi period; the historian Walter Sneader found his case persuasive. Bayer continued to credit Hoffmann."
+      "Credit is disputed. Arthur Eichengrün, whom a leading scientific commentary describes as having directed Hoffmann's work, claimed that his contribution had been expunged from the archives in the Nazi period; the historian Walter Sneader supports that view. Bayer continued to credit Hoffmann."
     ],
     "myth": {
       "tradition": "Felix Hoffmann invented aspirin to ease his father's rheumatism.",
-      "record": "The father story is a legend told since the 1930s. Evidence suggests Arthur Eichengrün, Hoffmann's Jewish superior, played a significant role and was written out of the account."
+      "record": "The father story is described as a legend by the Science History Institute. Some evidence indicates that Arthur Eichengrün, a Jewish Bayer colleague, played a significant role and was left out of the story as told since the 1930s."
     },
     "links": [
       {
@@ -534,8 +534,8 @@
       },
       {
         "to": "nuremberg-code",
-        "kind": "led-to",
-        "note": "Reed's contracts are an early landmark in research consent."
+        "kind": "see-also",
+        "note": "Reed's signed contracts are often cited as an early landmark in research consent."
       },
       {
         "to": "artemisinin",
@@ -665,7 +665,7 @@
   },
   {
     "id": "patent-medicines",
-    "title": "Patent medicines and the first drug laws",
+    "title": "Patent medicines and the 1906 Food and Drugs Act",
     "stream": "bio-drugs",
     "tier": 3,
     "date": {
@@ -687,7 +687,7 @@
       "institutions",
       "public-health"
     ],
-    "summary": "Microbe Killer and heroin cough syrup were legal until 1906, when the US began to police what medicine labels said, though not whether medicines worked.",
+    "summary": "Microbe Killer and heroin cough syrup were sold freely until 1906, when the US began to police what medicine labels said, though not whether medicines worked.",
     "body": [
       "Around 1900 anyone could sell a cure in the United States: William Radam's Microbe Killer faced no federal check, and Bayer marketed its new drug heroin, launched in 1898, to suppress coughs. Journalists such as Samuel Hopkins Adams exposed the trade, and on 30 June 1906 President Theodore Roosevelt signed the Food and Drugs Act. It regulated labels, not safety: alcohol, heroin, cocaine and eight other dangerous ingredients had to be declared. In 1911 the Supreme Court ruled that false curative claims fell outside it."
     ],
