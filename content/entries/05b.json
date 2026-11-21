@@ -153,7 +153,7 @@
     "confidence": {
       "date": "uncertain",
       "claim": "firm",
-      "note": "The commentary survives in manuscript and its argument is not in doubt. Its date rests on modern accounts that he wrote it at about 29, which depends on a birth year given as 1210 or 1213; he died in 1288. Whether Servetus or Colombo knew his work is disputed: one encyclopedia holds that a Latin translator knew of it, while others find no evidence that the passage reached Europe."
+      "note": "The commentary survives in manuscript and its argument is not in doubt. Its date rests on modern accounts that he wrote it at 29, which depends on a birth year given as 1210 or 1213 (the range runs from his arrival in Cairo in 1236 to his death in 1288). Whether Servetus or Colombo knew his work is disputed: one encyclopedia holds that a Latin translator knew of it, while others find no evidence that the passage reached Europe."
     },
     "place": "Damascus and Cairo",
     "people": [
@@ -164,13 +164,13 @@
     "themes": ["theory", "texts"],
     "summary": "Three centuries before Europe, a Cairo physician declared Galen wrong: blood cannot seep through the heart's wall, so it must pass through the lungs.",
     "body": [
-      "Galen taught that blood passed from the right side of the heart to the left through invisible pores in the wall between the ventricles. In his commentary on the anatomy in Ibn Sina's *Canon*, the Damascus-trained physician Ibn al-Nafis flatly denied it: the wall is solid and has no passage, visible or invisible. Blood must therefore travel from the right ventricle through the lungs, mixing with air there, and return to the left side by the pulmonary vein. He even inferred small passages between the pulmonary artery and vein, some 400 years before Malpighi saw capillaries.",
+      "Galen taught that blood passed from the right side of the heart to the left through invisible pores in the wall between the ventricles. In his commentary on the anatomy in Ibn Sina's *Canon*, the Damascus-trained physician Ibn al-Nafis flatly denied it: the wall is solid and has no passage, visible or invisible. Blood must therefore travel from the right ventricle through the lungs and reach the left side from there. He even inferred small passages between the pulmonary artery and vein, some 400 years before Malpighi saw capillaries.",
       "Ibn al-Nafis became personal physician to Sultan Baybars and head of the physicians of Egypt and Syria, and left his house and library to the Mansuri hospital in Cairo. His insight lay unnoticed by modern scholars until 1924, when the Egyptian physician Muhyi al-Din al-Tatawi found a manuscript in Berlin while writing a doctoral thesis for Freiburg.",
-      "Michael Servetus in 1553 and Realdo Colombo in 1559 described the same route. A Latin translation of another of Ibn al-Nafis's commentaries appeared in 1547, but many historians think the Europeans reached the idea independently."
+      "Michael Servetus in 1553 and Realdo Colombo in 1559 described the same route. A Latin translation of another of Ibn al-Nafis's works appeared in 1547, and one encyclopedia holds that its translator knew of the discovery, but many historians think the Europeans reached the idea independently."
     ],
     "myth": {
       "tradition": "Servetus and Colombo copied the pulmonary circulation from Ibn al-Nafis through Latin translations.",
-      "record": "No Latin version of his passage on the lungs is known; the 1547 translation by Andrea Alpago covered compound drugs. Transmission remains possible but unproven."
+      "record": "No Latin version of his passage on the lungs is documented in the sources consulted; the 1547 translation by Andrea Alpago dealt with compound drugs and apparently did not mention the lung route. Transmission remains possible but unproven."
     },
     "links": [
       { "to": "ibn-sina-canon", "kind": "built-on", "note": "His discovery appears in a commentary on the anatomy of the *Canon*." },
@@ -222,20 +222,20 @@
     "confidence": {
       "date": "firm",
       "claim": "agreed",
-      "note": "The founding in 683/1284 is documented, and two endowment deeds survive. What daily life was like rests on those deeds and on later chroniclers such as al-Nuwayri and al-Maqrizi; no reliable patient counts survive."
+      "note": "Northrup dates the founding to 683/1284 (a Hijri year that runs into 1285) and two founding endowment deeds survive, though the one she cites is dated April 1286. What daily life was like rests on those deeds and on later chroniclers such as al-Nuwayri and al-Maqrizi."
     },
     "place": "Bayn al-Qasrayn, Cairo, Egypt",
     "people": [
       "al-Mansur Qalawun, Mamluk sultan and founder"
     ],
     "themes": ["institutions", "practice"],
-    "summary": "A Mamluk sultan's hospital, endowed in 1284, paid patients to go home in new clothes, and still treats eye patients on the same site.",
+    "summary": "A Mamluk sultan's hospital, founded in 1284, gave patients money and clothing when they went home, and an eye clinic still stands on the same site.",
     "body": [
-      "In 1284 the Mamluk sultan Qalawun founded a hospital beside his tomb and madrasa in central Cairo; one story says he vowed to build it after medicines from Nur al-Din's hospital in Damascus cured him. A separate endowment paid for male and female staff, wards divided by illness and sex, physicians, eye doctors and surgeons, and money and clothing for patients when they left. Treatment and employment were limited to Muslims. Decayed by 1800, it was reborn on the same site as an eye clinic in 1915."
+      "In 1284 the Mamluk sultan Qalawun founded a hospital beside his tomb and madrasa in central Cairo; one story says he vowed to build it after medicines from Nur al-Din's hospital in Damascus cured him. The hospital had its own endowment, separate from the tomb and madrasa. In the later chronicler al-Maqrizi's description, the sultan paid male and female attendants and set patients in different rooms by condition, with separate space for women. Departments covered internal medicine, eye disease and surgery, and discharged patients received money and clothing. Muslim patients, military and civilian, were admitted without a time limit. By the time of the French expedition of 1798 it had fallen into disrepair, and a new wing, begun in 1912, reopened it as an eye clinic in 1915."
     ],
     "myth": {
       "tradition": "The Mansuri hospital welcomed patients of every faith.",
-      "record": "Its founding deed, as historians read it, barred Christians and Jews from treatment and employment there, apparently a new restriction for hospitals of the time."
+      "record": "Its founding deed, as historian Linda Northrup reads it, barred Christians and Jews from treatment and employment there, which she calls apparently a new development, though Christian and Jewish doctors still served at the sultan's court."
     },
     "links": [
       { "to": "bimaristans", "kind": "built-on", "note": "It followed the model of earlier hospitals such as Nur al-Din's in Damascus." },

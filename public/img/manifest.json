@@ -648,5 +648,25 @@
   "license": "Public domain",
   "licenseUrl": "",
   "page": "https://commons.wikimedia.org/wiki/File:US_Navy_081117-N-7526R-568_Cmdr._Thomas_Nelson_and_Lt._Robert_Roadfuss_discuss_proper_procedures_while_performing_a_laparoscopic_cholecystectomy_surgery.jpg"
+ },
+ "dolly": {
+  "commons": "File:Dolly the Sheep National Museum of Scotland.jpg",
+  "src": "/img/dolly.webp",
+  "width": 1000,
+  "height": 667,
+  "credit": "Sgerbic",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Dolly_the_Sheep_National_Museum_of_Scotland.jpg"
+ },
+ "wakefield-mmr": {
+  "commons": "File:Measlesvirus.jpg",
+  "src": "/img/wakefield-mmr.webp",
+  "width": 1000,
+  "height": 765,
+  "credit": "NIAID",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Measlesvirus.jpg"
  }
 }

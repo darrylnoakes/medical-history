@@ -13,7 +13,7 @@
     "confidence": {
       "date": "agreed",
       "claim": "firm",
-      "note": "Universities grew up gradually, so there is no single founding date; Montpellier's 1220 statutes and 1289 papal bull are documented. The 1322 case against Jacoba Felicie survives in the court records printed in the Paris university cartulary."
+      "note": "Universities grew up gradually, so there is no single founding date; Montpellier's 1220 statutes and 1289 papal bull are documented in later reference works. The 1322 case against Jacoba Felicie survives in the court records printed in the Paris university cartulary."
     },
     "place": "Bologna, Paris and Montpellier",
     "people": [
@@ -24,10 +24,10 @@
       "institutions",
       "practice"
     ],
-    "summary": "In the 13th century medicine became a university degree, and the new doctors used their licenses to drive out rivals, including a skilled woman healer in Paris.",
+    "summary": "In the 13th century medicine became a university subject. By 1322 the Paris faculty was prosecuting unlicensed healers, among them a woman her own patients praised.",
     "body": [
-      "Medicine was one of the founding subjects of Europe's first universities. At Bologna the university grew out of student guilds; at Paris, by the late 12th century, a body of masters taught theology, law, medicine and arts. At Montpellier, statutes given in 1220 by the papal legate Cardinal Conrad placed the medical school under the bishop of Maguelonne, and a papal bull of 1289 joined its schools into a university. Students learned from books, above all Galen and Avicenna, the texts Pope Clement V prescribed for Montpellier in 1309, with anatomy taught from Mondino's manual.",
-      "Faculties used the license to police the market. In 1322 the Paris faculty prosecuted Jacoba Felicie, a woman of about thirty, for practicing without its approval, under a rule threatening excommunication and a fine of sixty Paris pounds. One patient testified that she had treated him better than the physicians would have. She argued that it was better and more decent for a skilled woman to examine a sick woman than for a man to do so. The same order named other unlicensed healers, among them a woman surgeon, Margaret of Ypres, and a Jewish woman, Belota."
+      "Medicine was among the subjects taught in Europe's first universities. At Bologna the university grew up around guilds of foreign students, at first of law; at Paris, in the last quarter of the 12th century, masters of theology, law, medicine and arts joined in a single teaching body. At Montpellier, statutes given in 1220 by the papal legate Cardinal Conrad placed the medical school under the bishop of Maguelonne, and a papal bull of 1289 combined its schools into a university. Students learned from books, above all Galen and Avicenna, whose works Pope Clement V prescribed for Montpellier in 1309; in the universities generally, practical anatomy followed the manuals of Mondino of Bologna and Henri de Mondeville.",
+      "Faculties also used their licenses to police the market. In 1322 the Paris faculty prosecuted Jacoba Felicie, a woman her own pleading described as about thirty, for practicing without its approval, under a rule threatening excommunication and a fine of sixty Paris pounds. One patient testified that she had treated him better than physicians would have. She argued that it was better and more decent for a skilled woman to examine a sick woman than for a man to do so. The same prohibition was served on other women and men, among them a woman surgeon, Margaret of Ypres, and a Jewish woman, Belota."
     ],
     "links": [
       {
@@ -68,7 +68,7 @@
         "year": 1912,
         "url": "https://www.newadvent.org/cathen/15188a.htm",
         "type": "reference",
-        "supports": "Paris masters' corporation including medicine; Galen and Avicenna as set texts prescribed for Montpellier by Clement V in 1309; Mondino's anatomy.",
+        "supports": "Paris masters' corporation including medicine; Bologna's student guilds; Galen and Avicenna prescribed for Montpellier by Clement V in 1309; Mondino's and Mondeville's anatomies as guides in the medical course.",
         "quote": "in medicine, the works of Galen, Avicenna , and other writers prescribed for Montpellier by Clement V in 1309"
       },
       {
@@ -78,7 +78,7 @@
         "year": 1921,
         "url": "https://archive.org/stream/evolutionofmoder00osle/evolutionofmoder00osle_djvu.txt",
         "type": "scholarly",
-        "supports": "Bologna's student-run university versus the Paris masters' model; Bologna and Montpellier as the key medical universities.",
+        "supports": "Bologna's student guilds (of law) versus the Paris masters' model; Bologna and Montpellier as the key medical universities.",
         "quote": "Two universities have a special interest at this period in connection with the development of medical studies, Bologna and Montpellier."
       },
       {
@@ -88,7 +88,7 @@
         "year": 1891,
         "url": "https://archive.org/stream/chartulariumuniv02univuoft/chartulariumuniv02univuoft_djvu.txt",
         "type": "primary",
-        "supports": "The 1322 prosecution; penalty of excommunication and sixty Paris pounds; her age; witness testimony; her argument about women patients; other women named.",
+        "supports": "The 1322 prosecution; penalty of excommunication and sixty Paris pounds; her pleading calling her about thirty; witness testimony; her argument about women patients; Margaret of Ypres and Belota named in the same prohibition.",
         "quote": "Item melius est et honestius et par quod mulier sagax et experta in arte visitet"
       }
     ],
@@ -108,7 +108,7 @@
     "confidence": {
       "date": "firm",
       "claim": "agreed",
-      "note": "The Constitutions of Melfi of 1231 survive and their medical clauses are well studied. How strictly the rules were enforced across the kingdom is much less clear."
+      "note": "The Constitutions of Melfi of 1231 survive and their medical clauses are well studied. How strictly the rules were enforced across the kingdom is not shown by the sources used here."
     },
     "place": "Melfi, Kingdom of Sicily (southern Italy)",
     "people": [
@@ -171,38 +171,38 @@
     "stream": "europe",
     "tier": 2,
     "date": {
-      "year": 1286,
-      "earliest": 1280,
+      "year": 1290,
+      "earliest": 1285,
       "latest": 1300,
-      "display": "c. 1286"
+      "display": "c. 1290"
     },
     "confidence": {
       "date": "agreed",
       "claim": "agreed",
-      "note": "A sermon of 1306 and a Pisan convent chronicle put the invention a couple of decades earlier, and Venetian guild rules show eyeglasses in production by about 1300. The inventor is unknown; credit to Alessandro della Spina rests on the chronicle, which itself says he copied someone else."
+      "note": "Sources place the invention in the late 13th century: one reading of Giordano's 1306 sermon gives c. 1290, one modern study says shortly after 1286, and Venetian guild rules mention eyeglasses by about 1300. Who and where are unsettled: a Pisan chronicle credits Alessandro della Spina but says he copied an unnamed earlier maker, and the Enciclopedia Italiana favors an unknown Venetian glassmaker."
     },
-    "place": "Northern Italy (probably Pisa or Venice)",
+    "place": "Northern Italy (Pisa or Venice)",
     "people": [
-      "Giordano da Pisa (d. 1311), Dominican preacher",
-      "Alessandro della Spina (d. 1313), Dominican friar of Pisa"
+      "Giordano da Pisa (also called Giordano da Rivalto), Dominican preacher",
+      "Alessandro della Spina (d. by 1313), Dominican friar of Pisa"
     ],
     "themes": [
       "technology"
     ],
-    "summary": "Around 1286 someone in northern Italy riveted two lenses together and gave aging readers back their eyes. Nobody knows who, and the famous name on a Florentine tomb is a hoax.",
+    "summary": "Around 1290 someone in northern Italy joined two lenses with a rivet and gave aging readers back their eyes. Nobody knows who, and the famous Florentine claimant rests on a scholarly forgery.",
     "body": [
-      "Eyeglasses appeared in northern Italy in the late 13th century, and no one knows who made the first pair. The evidence points to the years shortly after 1286, most likely in Pisa. In a sermon of 1306 the Dominican preacher Giordano da Pisa spoke of the new invention, and the chronicle of his Pisan convent of Santa Caterina credits his fellow friar Alessandro della Spina with making them around 1290, while admitting that Alessandro copied a pair from someone who had made them first and would not share the secret. By 1300 Venetian glassmakers were producing eyeglasses, and the city's guild rules mention them repeatedly over the next two decades.",
+      "Eyeglasses appeared in northern Italy in the late 13th century, and no one knows who made the first pair. One modern study puts them shortly after 1286, most likely in Pisa. A sermon of 1306 by the Dominican preacher Giordano da Pisa is read by the Italian national biographical dictionary as dating the first pair, made by his fellow friar Alessandro della Spina, to around 1290. The chronicle of their convent, Santa Caterina in Pisa, says only that Alessandro made and shared eyeglasses that someone else had made first and would not share. The Enciclopedia Italiana prefers Venice: guild rules from the end of the 13th century mention eyeglasses as distinct from reading stones, and it reports the widely accepted view that an unknown Venetian glassmaker invented them. By 1300 Venetian glassmakers were certainly producing eyeglasses.",
       "The first spectacles were two convex lenses in frames riveted together at the handles, clamped on the nose and often steadied by hand. They helped the farsighted read, which suited the few who lived past their forties and could read at all. Lenses for the nearsighted, harder to grind, arrived only in the mid-15th century."
     ],
     "myth": {
-      "tradition": "Spectacles were invented by Salvino degli Armati of Florence, whose tomb in Santa Maria Maggiore called him the 'inventor of eyeglasses', and who got a monument there in the 19th century.",
-      "record": "The epitaph, supposedly dated 1318, first appears in Ferdinando Leopoldo del Migliore's 1684 history of Florence. The historian Isidoro del Lungo showed it to be a fabrication."
+      "tradition": "Spectacles were invented by Salvino degli Armati of Florence, whose tomb in Santa Maria Maggiore supposedly called him 'inventor of eyeglasses' and who was honored with a monument there in the 19th century.",
+      "record": "The epitaph, supposedly dated 1318, is known only from Ferdinando Leopoldo del Migliore's 1684 history of Florence, which said it came from an old burial register. The historian Isidoro del Lungo showed in 1920 how false notices and false inscriptions had built the identification of Salvino; the Enciclopedia Italiana calls the claim sheer mystification."
     },
     "links": [
       {
         "to": "ibn-al-haytham-optics",
-        "kind": "built-on",
-        "note": "Earlier optics of lenses; Roger Bacon had described reading lenses."
+        "kind": "see-also",
+        "note": "Optical theory of the age; Roger Bacon discussed magnifying lenses but is not credited with spectacles."
       }
     ],
     "sources": [
@@ -213,7 +213,7 @@
         "year": 2008,
         "url": "https://archive.org/download/bhc2008v033p028/bhc2008v033p028.pdf",
         "type": "scholarly",
-        "supports": "Inventor unknown; shortly after 1286, most likely Pisa; Venetian production by 1300 and guild regulations; convex lenses for reading; concave lenses mid-15th century.",
+        "supports": "Inventor unknown; shortly after 1286, most likely Pisa; Venetian production by 1300 and guild regulations; riveted frames with convex lenses; concave lenses mid-15th century.",
         "quote": "While the specific inventor of eyeglasses is unknown, available evidence points towards their development shortly after 1286, most likely in Pisa"
       },
       {
@@ -222,7 +222,7 @@
         "year": 1960,
         "url": "https://www.treccani.it/enciclopedia/alessandro-della-spina_(Dizionario-Biografico)/",
         "type": "reference",
-        "supports": "Giordano's 1306 sermon; Alessandro making glasses c. 1290; the chronicle's unnamed first inventor; the Salvino Armati identification exposed by del Lungo as a scholarly fraud.",
+        "supports": "Giordano's 1306 sermon read as dating Alessandro's first pair to c. 1290; the chronicle's unnamed earlier inventor; Del Lungo's reconstruction of the Salvino Armati 'impostura erudita' through false notices and epigraphs; Alessandro already dead in 1313.",
         "quote": "Intorno al 1290, secondo quanto nel 1306 dichiarò in una predica un suo confratello, Giordano da Rivalto, egli fabbricò il primo paio di occhiali di vetro."
       },
       {
@@ -231,7 +231,16 @@
         "year": 1935,
         "url": "https://www.treccani.it/enciclopedia/occhiali_(Enciclopedia-Italiana)/",
         "type": "reference",
-        "supports": "The Salvino degli Armati epitaph and del Migliore's 1684 claim; del Lungo's demonstration that it was a fabrication; the 19th-century monument.",
+        "supports": "The Salvino degli Armati epitaph and del Migliore's 1684 claim; del Lungo's demonstration that it was a fabrication; the 19th-century monument; Albertotti's Venetian guild evidence and his widely accepted view of an unknown Venetian glassmaker; Bacon only a precursor.",
+        "quote": "ha rivendicato a qualche ignoto vetraio veneziano del Duecento il merito della scoperta"
+      },
+      {
+        "title": "Occhiali (Salvino degli Armati epitaph)",
+        "publisher": "Enciclopedia Italiana (Treccani)",
+        "year": 1935,
+        "url": "https://www.treccani.it/enciclopedia/occhiali_(Enciclopedia-Italiana)/",
+        "type": "reference",
+        "supports": "Del Migliore's 1684 report of a 1318 epitaph calling Salvino degli Armati inventor of eyeglasses, and del Lungo's finding that it was pure mystification.",
         "quote": "Solo le indagini d' Isidoro del Lungo hanno chiaramente mostrato come l'affermazione di F. L. del Migliore sia pura e semplice mistificazione."
       },
       {
@@ -256,24 +265,24 @@
     "confidence": {
       "date": "firm",
       "claim": "agreed",
-      "note": "The Anathomia is dated 1316 in its own text and its use for two centuries is well documented. Whether Mondino wielded the knife himself or read while an assistant cut is still debated."
+      "note": "Sources agree the Anathomia was written in 1316, and its use for about two centuries is well documented. Whether Mondino wielded the knife himself or read while an assistant cut is still debated."
     },
     "place": "Bologna, Italy",
     "people": [
-      "Mondino de' Liuzzi (c. 1275–1326), Bolognese physician and anatomist"
+      "Mondino de' Liuzzi (born c. 1270–1275, died 1326), Bolognese physician and anatomist"
     ],
     "themes": [
       "practice",
       "texts"
     ],
-    "summary": "In 1316 a Bologna professor wrote the dissection manual that Europe's medical schools would read aloud over corpses for the next two centuries.",
+    "summary": "In 1316 a Bologna professor wrote the dissection manual that Europe's medical schools relied on for the next two centuries.",
     "body": [
-      "Bologna was already opening bodies before Mondino de' Liuzzi: from 1265 the city had physicians examine corpses in cases of fatal wounds. Mondino, a pupil of Taddeo Alderotti, made dissection part of teaching. In 1316 he finished his *Anathomia*, a short manual organized in the order a body has to be opened before it decays. He mentions anatomizing a woman in January 1316 and refers to dissections almost every month, on executed criminals and, it seems, the hospital poor. The book was used in Europe's medical schools until the mid-16th century.",
-      "Its anatomy was mostly Galen's and the Arabic writers', errors included: a five-lobed liver taken from dogs and a womb with seven chambers. It was written to be read aloud while others worked; in the scene later shown in printed editions a reader comments on the text, a demonstrator points, and a dissector cuts. Mondino could learn, though. By 1319, having read a new Latin translation of Galen's *On the Use of Parts*, he dropped the seven-chambered womb."
+      "Bologna was already opening bodies before Mondino de' Liuzzi: from 1265 the city had a body of physicians who examined corpses in cases of fatal wounds. Mondino, a pupil of Taddeo Alderotti, made dissection an accepted part of teaching. In 1316 he finished his *Anathomia*, a short manual organized in the order a body has to be opened before it decays. He mentions anatomizing a woman in January 1316 and refers to dissections of nearly monthly frequency, on executed criminals, presumably on the hospital poor, and on pigs. The book was used in Europe's medical schools until the mid-16th century.",
+      "Its anatomy was mostly Galen's and the Arabic writers', errors included: a five-lobed liver taken from dogs and a womb with seven chambers. The book's style suggests it was meant to be read aloud while others worked; illustrations from the later 14th century show a professor reading from a book on a platform, a demonstrator pointing, and a dissector, a barber or surgeon, cutting. Mondino could learn, though. By 1319, having read a new Latin translation of Galen's *On the Use of Parts*, he dropped the seven-chambered womb."
     ],
     "myth": {
-      "tradition": "Mondino's skilled assistant was a young woman, Alessandra Giliani, celebrated as the first female anatomist.",
-      "record": "The story was made up in 1739 by the Bolognese historian Alessandro Macchiavelli, who identified the long-haired dissector in a 15th-century woodcut as Alessandra and backed the claim with fake sources."
+      "tradition": "Mondino's dissector was a young woman, Alessandra Giliani, remembered as a pioneering female anatomist.",
+      "record": "The story took hold in 1739, when the Bolognese historian Alessandro Macchiavelli passed off the long-haired dissector in an image in a 15th-century edition of Mondino's text as Alessandra Giliani, backing the claim with fake sources. It was believed for more than two centuries."
     },
     "links": [
       {
@@ -284,7 +293,7 @@
       {
         "to": "alexandria-dissection",
         "kind": "see-also",
-        "note": "The last systematic human dissection, some 1,500 years earlier."
+        "note": "Human dissection in antiquity, long before Mondino revived it."
       },
       {
         "to": "vesalius",
@@ -298,7 +307,7 @@
         "publisher": "University of Bologna",
         "url": "https://www.unibo.it/en/university/who-we-are/our-history/famous-people-and-students/mondino-de-liuzzi",
         "type": "institutional",
-        "supports": "Bologna's 1265 inquest physicians; Taddeo Alderotti; Anathomia 1316 used to the later 16th century; reader, demonstrator and dissector; the Alessandra Giliani fabrication by Macchiavelli in 1739.",
+        "supports": "Bologna's 1265 inquest physicians; Taddeo Alderotti; Anathomia of 1316 used until the later 16th century; the division of labor of reader, presenter and dissector; the Alessandra Giliani story passed off by Macchiavelli in 1739 with fake sources.",
         "quote": "The dissector with long hair working under the watchful eye of the professor is falsely passed off by Macchiavelli as Alessandra Giliani da Persiceto"
       },
       {
@@ -307,7 +316,7 @@
         "publisher": "Dizionario Biografico degli Italiani (Treccani)",
         "url": "https://www.treccani.it/enciclopedia/mondino-de-liuzzi_(Dizionario-Biografico)",
         "type": "reference",
-        "supports": "Anothomia composed 1316; used in European universities until the mid-16th century; near-monthly dissections on the executed and probably hospital poor; 1319 revision after Galen's De usu partium; death in 1326.",
+        "supports": "Anothomia composed 1316; used in European universities until the mid-16th century; near-monthly dissections on the executed, probably the hospital poor, and sows; 1319 revision after Galen's De usu partium; death in 1326; birth uncertain (c. 1270).",
         "quote": "lo portarono alla composizione, nel 1316, dell' Anothomia , testo usato in parecchie università d'Europa sino alla metà del XVI secolo"
       },
       {
@@ -315,7 +324,7 @@
         "publisher": "Complete Dictionary of Scientific Biography (Encyclopedia.com)",
         "url": "https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/mondino-de-luzzi",
         "type": "reference",
-        "supports": "Woman anatomized January 1316; debate over whether he dissected himself; written to be read aloud; five-lobed liver; seven-chambered womb; Galenic and Arabic sources.",
+        "supports": "Woman anatomized January 1316; debate over whether he dissected himself; likely written to be read aloud; later 14th-century illustrations of professor, demonstrator and dissector; five-lobed liver; seven-chambered womb; subjects apparently criminals.",
         "quote": "Regardless of what Mondino himself did, it seems likely from the way in which his book was written that he intended it to be read aloud while others were doing the actual dissection."
       }
     ],
@@ -336,7 +345,7 @@
     "confidence": {
       "date": "firm",
       "claim": "agreed",
-      "note": "Chronicles, tax records and burial grounds date the pandemic's spread across Europe closely, and ancient DNA has settled that the killer was Yersinia pestis. The death toll is an estimate from patchy records: recent studies quote anything from 30% to 60%, and the Central Asian origin rests on a single 2022 study of seven individuals."
+      "note": "Chronicles, tax records and burial grounds date the pandemic's spread across Europe closely, and ancient DNA has settled that the killer was Yersinia pestis. The death toll is an estimate from patchy records: recent studies quote anything from 30% to 60%, and the Central Asian origin rests on a single 2022 study of seven individuals, of whom three yielded plague DNA."
     },
     "place": "Central Eurasia to Europe, the Middle East and North Africa",
     "people": [
@@ -348,12 +357,12 @@
       "public-health",
       "theory"
     ],
-    "summary": "Between 1346 and 1353 plague killed perhaps a third to more than half of the people it reached. Ancient DNA has now traced its source to tombstones by a lake in Kyrgyzstan.",
+    "summary": "Between 1346 and 1353 plague killed perhaps a third to more than half of the people it reached. Ancient DNA now points to a source near a lake in Kyrgyzstan.",
     "body": [
-      "In 1338 and 1339 a trading community near Lake Issyk-Kul, in what is now Kyrgyzstan, buried an unusual number of its dead under tombstones inscribed in Syriac. Some give the cause of death simply as \"pestilence.\" In 2022 a team led by Maria Spyrou recovered plague DNA from the teeth of seven people excavated there in the 1880s. Their strain of *Yersinia pestis* sits at the exact root of the great branching of plague lineages linked to the pandemic's emergence, and its closest living relatives circulate among rodents in the Tian Shan mountains. The most popular earlier theory had placed the source in China.",
-      "By 1347 the disease had reached the Mediterranean on ships from the Golden Horde's ports on the Black Sea, and between 1346 and 1353 it swept through Europe, the Middle East and North Africa. How many died is still argued over: recent studies estimate 30 to 50% of the population, while others say up to 60%. For decades some scholars argued the killer was something other than plague, because medieval accounts did not match modern outbreaks. In 2010 DNA and proteins of *Yersinia pestis* were found in skeletons from plague pits in England, France, Germany, Italy and the Netherlands, and a full medieval genome from a London cemetery followed in 2011.",
-      "People explained the catastrophe with the best science they had. In October 1348 the medical masters of Paris, asked by King Philip for a report, named a \"distant and first cause\": a conjunction of three planets in Aquarius at one hour after noon on 20 March 1345, which had corrupted the air. Astrology and bad air were mainstream natural philosophy, not superstition. Others found human culprits. Jews were accused of poisoning wells, tortured into confessions and killed across Germany; in Strasbourg on 14 February 1349 about two thousand were burned on a wooden platform in their own cemetery.",
-      "Medicine had no answer. Guy de Chauliac, the pope's physician at Avignon, wrote that the mortality \"rendered doctors useless.\" The lasting responses would be administrative rather than medical. The Black Death was only the first wave of a second plague pandemic that kept returning for some 500 years, into the early 19th century."
+      "In 1338 and 1339 an epidemic devastated a trading community near Lake Issyk-Kul, in what is now Kyrgyzstan. Its tombstones, inscribed in Syriac, give the cause of death as \"pestilence.\" In 2022 a team led by Maria Spyrou sampled teeth from seven people excavated there between 1885 and 1892; three carried plague DNA, and two genomes were reconstructed. That strain of *Yersinia pestis* is the most recent common ancestor of the great diversification of plague lineages linked to the pandemic's emergence, and comparison with present-day strains from the Tian Shan region supports a local origin. One of the most popular earlier theories had placed the source in China.",
+      "Plague first entered the Mediterranean in 1347, on trade ships carrying goods from the Golden Horde's territories on the Black Sea, and between 1346 and 1353 it swept through Europe, the Middle East and North Africa. How many died is still argued over: recent studies estimate up to 30 to 50% of the population, while others say up to 60%. For decades the cause itself was debated, and early ancient-DNA results were controversial. In 2010 a team reported *Yersinia pestis* DNA from plague pits in England, France and the Netherlands, and plague protein from pits in Italy and Germany too; a full medieval genome from a London cemetery followed in 2011.",
+      "People explained the catastrophe with the best science they had. In October 1348 the medical masters of Paris, writing at the command of King Philip, named a \"distant and first cause\": a conjunction of three planets in Aquarius at one hour after noon on 20 March 1345, which had corrupted the air. Astrology and bad air were mainstream natural philosophy, not superstition. Others found human culprits. Jews were accused of poisoning wells, tortured into confessions and killed across Germany; in Strasbourg on 14 February 1349 about two thousand were burned on a wooden platform in their own cemetery.",
+      "Medicine had no answer. Guy de Chauliac, the pope's physician at Avignon, wrote that the mortality \"rendered doctors useless.\" Some of the lasting responses, such as quarantine, would be administrative rather than medical. The Black Death was only the first wave of a second plague pandemic that kept returning for some 500 years, into the early 19th century."
     ],
     "links": [
       {
@@ -364,7 +373,7 @@
       {
         "to": "guy-de-chauliac",
         "kind": "see-also",
-        "note": "A papal surgeon's eyewitness account from Avignon."
+        "note": "A papal physician's eyewitness account from Avignon."
       },
       {
         "to": "plague-contagion-andalus",
@@ -385,7 +394,7 @@
         "year": 2022,
         "url": "https://www.nature.com/articles/s41586-022-04800-3",
         "type": "scholarly",
-        "supports": "Dates 1346–1353; 1338–1339 'pestilence' tombstones at Issyk-Kul; seven individuals; strain at the root of the diversification; Tian Shan reservoirs; up to 60% toll.",
+        "supports": "Dates 1346–1353; 1338–1339 'pestilence' tombstones at Issyk-Kul; seven individuals sampled (teeth, excavated 1885–1892), three with plague DNA; strain is the most recent common ancestor of the diversification; Tian Shan strains support local emergence; up to 60% toll.",
         "quote": "These sites are thought to have housed victims of a fourteenth-century epidemic as tombstone inscriptions directly dated to 1338–1339 state ‘pestilence’ as the cause of death for the buried individuals"
       },
       {
@@ -394,7 +403,7 @@
         "year": 2022,
         "url": "https://www.mpg.de/18778852/origins-of-the-black-death-identified",
         "type": "institutional",
-        "supports": "Plague entered the Mediterranean in 1347 from the Golden Horde's Black Sea territories; up to 60%; earlier China theory; Syriac tombstones; trading community; 500-year second pandemic.",
+        "supports": "Plague entered the Mediterranean in 1347 from the Golden Horde's Black Sea territories; up to 60%; popular earlier China theory; Syriac tombstones; trading community struck in 1338–1339; 500-year second pandemic lasting to the early 19th century.",
         "quote": "In 1347, plague first entered the Mediterranean via trade ships transporting goods from the territories of the Golden Horde in the Black Sea."
       },
       {
@@ -414,7 +423,7 @@
         "year": 2010,
         "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1001134",
         "type": "scholarly",
-        "supports": "The long controversy over the Black Death's cause, and its resolution by ancient DNA and protein from plague pits in five countries (2010).",
+        "supports": "Long controversy over the Black Death's cause and its resolution: Y. pestis DNA from pits in England, France and the Netherlands, F1 antigen in Italy and Germany (2010).",
         "quote": "Here, by combining ancient DNA analyses and protein-specific detection, we demonstrate unambiguously that Y. pestis caused the Black Death."
       },
       {
@@ -452,6 +461,14 @@
         "type": "primary",
         "supports": "Accusations of well-poisoning, confessions under torture and burnings of Jews across Germany in 1349.",
         "quote": "And many Jews confessed as much under torture: that they had bred spiders and toads in pots and pans, and had obtained poison from overseas"
+      },
+      {
+        "title": "Guy de Chauliac on the Great Mortality (translated excerpt)",
+        "publisher": "Northeastern University, Pandemic Teaching Initiative",
+        "url": "https://cssh.northeastern.edu/pandemic-teaching-initiative/wp-content/uploads/sites/43/2020/10/guy-de-chauliac-1.pdf",
+        "type": "primary",
+        "supports": "Guy de Chauliac, physician to Clement VI at Avignon, on the mortality rendering doctors useless.",
+        "quote": "For the mortality rendered doctors useless and put them to shame, because they did not dare visit the sick out of the fear of being infected."
       }
     ],
     "further": [
@@ -475,12 +492,12 @@
     },
     "confidence": {
       "date": "firm",
-      "claim": "firm",
-      "note": "The Ragusan ordinance survives in the council's register, the Liber viridis, and is dated 27 July 1377. Its effectiveness is harder to judge: the city still suffered plague in the following decades."
+      "claim": "agreed",
+      "note": "The Ragusan ordinance is preserved in the council's register, the Liber viridis, and is dated 27 July 1377. That it is the earliest known quarantine rests on Mirko Grmek's work of the late 1970s as summarized by Ravančić; Ravančić judges the measures effective, since Ragusa had no major plague outbreak until 1391."
     },
     "place": "Ragusa (modern Dubrovnik, Croatia)",
     "people": [
-      "Mirko Dražen Grmek, Croatian historian of medicine who established Dubrovnik's priority"
+      "Mirko Dražen Grmek, Croatian physician and historian of medicine who showed Dubrovnik's priority"
     ],
     "themes": [
       "public-health",
@@ -488,7 +505,7 @@
     ],
     "summary": "In 1377 the Adriatic port of Ragusa made travelers from plague zones wait a month before entering. Venice later stretched it to forty days and gave the world a word.",
     "body": [
-      "On 27 July 1377 the Great Council of Ragusa, a trading republic on the Adriatic, passed an ordinance whose title states the rule: *Veniens de locis pestiferis non intret Ragusinum vel districtum*, whoever comes from plague-stricken places shall not enter Ragusa or its territory. Arrivals had to spend a month in isolation first. Townspeople who visited them, or brought them food without authorization, had to stay a month too. Earlier cities had expelled or walled up the sick; in 1348 Milan's archbishop had the first three plague houses boarded up with everyone inside. Ragusa's isolation was temporary, which kept the port open to trade. Its councillors consulted no physicians and had no theory of contagion, only hard experience.",
+      "On 27 July 1377 the Great Council of Ragusa, a trading republic on the Adriatic, passed an ordinance whose title states the rule: *Veniens de locis pestiferis non intret Ragusinum vel districtum*, whoever comes from plague-stricken places shall not enter Ragusa or its territory. Arrivals had to spend a month in isolation first. Townspeople who visited them, or brought them food without authorization, had to stay a month too. Earlier cities had expelled or walled up the sick; in 1348 Milan's archbishop had the first three plague houses boarded up with everyone inside. Ragusa's isolation was temporary, which kept the port open to trade. As far as can be told, the councillors did not consult the city's physicians and had no medical theory of contagion, only hard experience.",
       "The system grew. Ragusa set up a standing health office by 1397, and Venice opened the first permanent plague hospital, or lazaretto, on the island of Santa Maria di Nazareth in 1423. In the mid-15th century Venice lengthened the wait from 30 to 40 days, *quaranta*, which gave quarantine its name."
     ],
     "myth": {
@@ -520,7 +537,7 @@
         "year": 2021,
         "url": "https://hrcak.srce.hr/file/398280",
         "type": "scholarly",
-        "supports": "Ordinance of 27 July 1377 and its title; month-long isolation and penalties; Milan 1348; no physicians consulted; health office by 1397; Venice lengthening 30 to 40 days; Grmek and the Venice claim.",
+        "supports": "Ordinance of 27 July 1377 and its title; month-long isolation and penalties; Milan 1348; no consultation of city physicians as far as can be ascertained; no major outbreak until 1391; health office by 1397; Venice lengthening 30 to 40 days; Grmek and the Venice claim.",
         "quote": "the ordinance of Dubrovnik’s Grand Council entitled Veniens de locis pestiferis non intret Ragusinum vel districtum, issued on July 27, 1377"
       },
       {
@@ -554,7 +571,7 @@
     },
     "place": "Avignon, France",
     "people": [
-      "Guy de Chauliac (c. 1300–c. 1368), surgeon and papal physician"
+      "Guy de Chauliac (born c. 1290–1300, died c. 1368–1370), surgeon and papal physician"
     ],
     "themes": [
       "surgery",
@@ -562,7 +579,7 @@
     ],
     "summary": "The pope's physician stayed in plague-stricken Avignon, caught the disease, survived, and wrote the surgical textbook Europe used for three centuries.",
     "body": [
-      "When plague reached Avignon in January 1348, Guy de Chauliac, educated at Montpellier and Bologna, was physician to Pope Clement VI. Some doctors fled; Guy wrote that \"in order to avoid a bad reputation\" he did not dare leave, then caught the disease and lay ill for nearly six weeks with a swelling in his groin. In 1363 he finished his *Chirurgia magna* (Great Surgery), blending Greek and Arabic authorities with his own experience, including ways of tying off bleeding vessels. Translated into several vernaculars, among them Middle English, it remained a standard surgical text for three centuries."
+      "When plague reached Avignon in January 1348, Guy de Chauliac, educated at Montpellier and Bologna, was physician to Pope Clement VI. He wrote that doctors dared not visit the sick for fear of infection, and that he himself, \"in order to avoid a bad reputation,\" did not dare leave. Late in the outbreak he caught the disease and lay ill for nearly six weeks with a swelling in his groin. In 1363 he finished his *Chirurgia magna* (Great Surgery), blending Greek and Arabic authorities with his own experience, including ways of tying off bleeding vessels. Translated into several vernaculars, among them Middle English, it remained a standard surgical text for three centuries."
     ],
     "links": [
       {
@@ -596,7 +613,7 @@
         "publisher": "Northeastern University, Pandemic Teaching Initiative",
         "url": "https://cssh.northeastern.edu/pandemic-teaching-initiative/wp-content/uploads/sites/43/2020/10/guy-de-chauliac-1.pdf",
         "type": "primary",
-        "supports": "Plague began at Avignon January 1348; he did not dare leave; ill nearly six weeks with a groin swelling.",
+        "supports": "Plague began at Avignon January 1348 while he served Clement VI; doctors did not dare visit the sick; he did not dare depart; ill nearly six weeks with a groin swelling.",
         "quote": "And I, in order to avoid a bad reputation, did not dare depart [from Avignon], but with a continuous fear I preserved myself as best I could with the aforesaid remedies."
       },
       {
@@ -604,7 +621,7 @@
         "publisher": "Science and Its Times (Encyclopedia.com)",
         "url": "https://www.encyclopedia.com/history/news-wires-white-papers-and-books/guy-de-chauliac",
         "type": "reference",
-        "supports": "Study at Montpellier and Bologna; title Inventarium, 1363; vernacular translations including Middle English.",
+        "supports": "Study at Montpellier and Bologna; title Inventarium, 1363; drew on Arabic treatises including Albucasis; vernacular translations including Middle English; birth and death given as c. 1290 and c. 1370.",
         "quote": "was translated into several vernacular languages, including Middle English"
       }
     ],

@@ -12,17 +12,17 @@
     "confidence": {
       "date": "firm",
       "claim": "agreed",
-      "note": "Rush's own 1794 account records his doses and bleedings, and the 1793 epidemic is well documented. That his treatment did more harm than good is the judgment of colleagues then and historians since, but he kept no records that could settle it."
+      "note": "Rush's own 1794 account records his purges and bleedings, and the 1793 epidemic and its death toll are well documented. That his treatment did more harm than good was the charge of some colleagues then, but he kept no records that could settle it."
     },
     "place": "Philadelphia, Pennsylvania, United States",
     "people": ["Benjamin Rush (1746–1813), Philadelphia physician"],
     "themes": ["practice", "drugs"],
     "summary": "In Philadelphia's 1793 yellow fever epidemic, Benjamin Rush drained his patients of blood and purged them with mercury, and called it a cure.",
     "body": [
-      "Between August and November 1793 yellow fever killed 4,000 to 5,000 people in Philadelphia, about a tenth of the city. Benjamin Rush stayed while other physicians fled, and answered with 'depletion': purges of calomel, a mercury compound, and repeated bleeding. 'I drew from many persons seventy and eighty ounces in five days,' he wrote. He believed fever came from overexcited blood vessels, so emptying the body made sense to him. Critics charged that he killed more than he saved; he kept no records to test it. George Washington's fatal illness in 1799 got the same 'heroic' bloodletting and blistering."
+      "Between August and November 1793 yellow fever killed 4,000 to 5,000 people in Philadelphia, about a tenth of the city. Benjamin Rush stayed while other physicians fled, and answered with 'depletion': purges of calomel, a mercury compound, and repeated bleeding. 'I drew from many persons seventy and eighty ounces in five days,' he wrote. He believed fever came from overexcited blood vessels, so emptying the body made sense to him. Critics charged that he killed more than he saved, and he kept no records that could test it. George Washington, treated for a sore throat in 1799, was also bled and blistered before he died."
     ],
     "links": [
-      { "to": "homeopathy", "kind": "see-also", "note": "Hahnemann's gentle doses were partly a reaction against depletion." },
+      { "to": "homeopathy", "kind": "see-also", "note": "Hahnemann's small doses were partly a reaction against heroic treatment." },
       { "to": "paris-clinic", "kind": "see-also", "note": "Pierre Louis later counted the results of bloodletting." },
       { "to": "insect-vectors", "kind": "see-also", "note": "Yellow fever was later shown to be spread by mosquitoes." }
     ],
@@ -32,7 +32,7 @@
         "publisher": "University of Pennsylvania Archives and Records Center (Penn People)",
         "url": "https://archives.upenn.edu/exhibits/penn-people/biography/benjamin-rush/",
         "type": "institutional",
-        "supports": "Death toll of 4,000–5,000 (about a tenth of the city), August–November 1793; purges and bloodletting; Rush stayed while others fled; his theory of excited blood vessels.",
+        "supports": "Death toll of 4,000–5,000 (about a tenth of the city), August–November 1793; purges and bloodletting; Rush stayed while others fled; his theory of excited blood vessels; the accusation that he applied his therapy excessively.",
         "quote": "it claimed the lives of between 4000 and 5000 residents of Philadelphia, or about one-tenth of the population"
       },
       {
@@ -42,7 +42,7 @@
         "year": 1794,
         "url": "https://archive.org/stream/2569009R.nlm.nih.gov/2569009R_djvu.txt",
         "type": "primary",
-        "supports": "Rush's own description of calomel-and-jalap purges and the quantity of blood he drew.",
+        "supports": "Rush's own description of his calomel purges and of the quantity of blood he drew.",
         "quote": "I drew from many perfons feventy and eighty ounces in five days"
       },
       {
@@ -50,7 +50,7 @@
         "publisher": "Encyclopedia.com (Gale biographical entries)",
         "url": "https://www.encyclopedia.com/people/medicine/medicine-biographies/benjamin-rush",
         "type": "reference",
-        "supports": "Critics' charge that he caused more deaths than he prevented; his failure to keep records.",
+        "supports": "Critics' charge that he caused more deaths than he prevented; his failure to keep records that could test his theory.",
         "quote": "His treatment was bleeding, and he was charged with causing many more deaths than he prevented."
       },
       {
@@ -58,7 +58,7 @@
         "publisher": "Encyclopedia.com (Gale, World of Health)",
         "url": "https://www.encyclopedia.com/people/medicine/medicine-biographies/samuel-hahnemann",
         "type": "reference",
-        "supports": "The label 'heroic' therapy; Washington's treatment by bloodletting and blistering in 1799.",
+        "supports": "Washington's death in 1799 after treatment that included bloodletting and blistering; the 'Age of Heroic Medicine' label.",
         "quote": "George Washington died in 1799 after being treated for sore throat. His therapies included bloodletting and blistering with cantharides"
       }
     ],
@@ -70,15 +70,20 @@
     "stream": "europe",
     "tier": 2,
     "date": {
-      "year": 1795,
+      "year": 1797,
       "earliest": 1793,
       "latest": 1801,
-      "display": "1793–1801"
+      "display": "1793–1801",
+      "traditional": {
+        "year": 1793,
+        "display": "1793",
+        "note": "Paintings, prints and popular accounts place Pinel's dramatic striking-off of the chains at Bicêtre in 1793, the year he arrived."
+      }
     },
     "confidence": {
       "date": "agreed",
-      "claim": "disputed",
-      "note": "Pinel's appointments to Bicêtre (1793) and the Salpêtrière (1795) and his 1801 treatise are documented. The famous scene of Pinel striking off the chains is contested: his own book credits the keeper Pussin, and we could not open a source fixing exactly who removed the chains, or when."
+      "claim": "agreed",
+      "note": "Pinel's appointments to Bicêtre (1793) and the Salpêtrière (1795) and his 1801 treatise are documented. That the keeper Pussin, not Pinel, first took chains off patients (1797) rests chiefly on historian Dora Weiner's study of Pussin's own notes; the exact scope of what each man did is not settled, and the 1793 scene is a later image."
     },
     "place": "Bicêtre and the Salpêtrière, Paris, France",
     "people": [
@@ -86,19 +91,20 @@
       "Pussin, lay governor (keeper) of the insane at Bicêtre"
     ],
     "themes": ["mind", "institutions", "practice"],
-    "summary": "Paintings show Philippe Pinel striking the chains off the mad. His own book gives much of the credit to the hospital's keeper, Pussin.",
+    "summary": "Paintings show Philippe Pinel striking the chains off the insane in 1793. Scholars credit his hospital's governor, Jean-Baptiste Pussin, who unchained Bicêtre's men in 1797.",
     "body": [
-      "Philippe Pinel was appointed physician at the Bicêtre hospice in Paris on 25 August 1793, during the Revolution, and on 13 May 1795 moved to the Salpêtrière, with its 600-bed ward for the mentally ill. From these wards came his 'moral treatment' of insanity: close observation, conversation, routine and firm kindness instead of blows. In his treatise on mental alienation (1801; English translation 1806) he reported that at Bicêtre keepers were forbidden 'on any pretext whatever, to strike a madman', though strait-waistcoats and seclusion remained.",
-      "The legend that grew up around him, in paintings and popular prints, has Pinel personally freeing the chained insane. His book tells a more shared story. Pinel praised 'the zeal, the humanity, and intelligence of the keeper', the governor Pussin, and described Pussin, not himself, taming patients, once with servants rattling chains for effect. In England the Quaker-run York Retreat was pursuing similar moral treatment."
+      "Philippe Pinel was appointed physician at the Bicêtre hospice in Paris on 25 August 1793, during the Revolution, and on 13 May 1795 became chief physician at the Salpêtrière, with its 600-bed ward for the mentally ill. From these wards came his 'moral treatment' of insanity: close observation, conversation, routine and firm kindness instead of blows. In his treatise on mental alienation (1801; English translation 1806) he reported that at Bicêtre keepers were forbidden 'on any pretext whatever, to strike a madman', though strait-waistcoats and seclusion remained.",
+      "The legend that grew up around him, in paintings and popular prints, has Pinel personally freeing the chained insane. His book tells a more shared story. Pinel praised 'the zeal, the humanity, and intelligence of the keeper' at Bicêtre, and elsewhere describes the governor, Pussin, steadying patients, once with servants rattling chains for effect. Historian Dora Weiner, working from a document found in 1978, concluded that Pussin introduced Pinel to these methods and in 1797 first replaced chains with straitjackets at Bicêtre; Pinel followed at the Salpêtrière about three years later. In England the Quaker-run York Retreat was pursuing similar moral treatment."
+    ],
     ],
     "myth": {
       "tradition": "In 1793 Philippe Pinel dramatically struck the chains from the insane at Bicêtre, single-handedly inventing humane psychiatry.",
-      "record": "Pinel's own treatise credits the lay keeper Pussin for Bicêtre's humane regime and still used strait-waistcoats; the solitary heroic scene was fixed by later paintings and prints."
+      "record": "Pinel's own treatise praises the keeper and shows the governor Pussin handling patients, and strait-waistcoats stayed in use. Weiner found that Pussin first replaced chains with straitjackets at Bicêtre in 1797, and Pinel followed at the Salpêtrière about three years later; the solitary heroic scene was fixed by later paintings and prints."
     },
     "links": [
-      { "to": "asylum-era", "kind": "led-to", "note": "Moral treatment inspired the 19th-century asylum building boom." },
+      { "to": "asylum-era", "kind": "led-to", "note": "Moral treatment helped inspire the 19th-century asylum building boom." },
       { "to": "paris-clinic", "kind": "see-also", "note": "Pinel also taught at the new Paris school of health." },
-      { "to": "heroic-medicine", "kind": "see-also", "note": "Rush in Philadelphia was treating madness with bleeding and purges." }
+      { "to": "heroic-medicine", "kind": "see-also", "note": "Rush in Philadelphia traced insanity, like fever, to excited blood vessels and prescribed depletion." }
     ],
     "sources": [
       {
@@ -108,7 +114,7 @@
         "year": 1806,
         "url": "https://archive.org/stream/treatiseoninsani00pine/treatiseoninsani00pine_djvu.txt",
         "type": "primary",
-        "supports": "Pinel's tribute to the keeper (Pussin) at Bicêtre, and his statement that keepers were forbidden to strike patients.",
+        "supports": "Pinel's tribute to the keeper at Bicêtre (unnamed in this passage; Pussin is named as governor elsewhere in the book), and his statement that keepers were forbidden to strike patients.",
         "quote": "I found ample amends in the zeal, the humanity, and intelligence of the keeper"
       },
       {
@@ -118,7 +124,7 @@
         "year": 1806,
         "url": "https://archive.org/stream/treatiseoninsani00pine/treatiseoninsani00pine_djvu.txt",
         "type": "primary",
-        "supports": "Pussin's role and the staged use of chains to frighten a patient.",
+        "supports": "Pussin's name and role as governor, and the staged use of chains to frighten a patient.",
         "quote": "Citizen Pussin appeared one night at the door of his chamber, and, with fire darting from his eyes, and thunder in his voice"
       },
       {
@@ -134,15 +140,26 @@
         "publisher": "U.S. National Library of Medicine",
         "url": "https://www.nlm.nih.gov/hmd/topics/diseases-of-mind/index.html",
         "type": "institutional",
-        "supports": "The popular dramatic version of the unchaining (the tradition) and the Quaker York Retreat's moral treatment.",
+        "supports": "The popular dramatic version of the unchaining (the tradition, dated 1793) and the Quaker York Retreat's moral treatment from 1792.",
         "quote": "In 1793, Philippe Pinel dramatically struck the chains binding the lunatic women in the Parisian asylum"
+      },
+      {
+        "title": "Philippe Pinel's \"Memoir on Madness\" of December 11, 1794: a fundamental text of modern psychiatry",
+        "author": "Dora B. Weiner",
+        "publisher": "American Journal of Psychiatry 149(6):725–732",
+        "year": 1992,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/1590490/",
+        "type": "scholarly",
+        "supports": "Pussin, Pinel's assistant, removed the chains from the insane men at Bicêtre in 1797 and replaced them with strait-jackets; Pinel followed at the Salpêtrière three years later.",
+        "quote": "it was Pinel's assistant, Jean Baptiste Pussin, who removed the chains from the insane men at Bicêtre Hospice in 1797 and replaced them with strait-jackets",
+        "manualCheck": "PubMed and the publisher site block non-browser clients; the abstract was read in this session through the Europe PMC search API (record PMID 1590490) and the NCBI efetch service, and the quoted sentence copied from it."
       }
     ],
     "further": ["scull-2015"],
     "image": {
       "commons": "File:Pinel freeing the insane from their chains Wellcome L0071529.jpg",
-      "alt": "Dark oil painting of a crowded asylum courtyard: a man in a black coat and hat stands beside a pale young woman as women patients sit and crouch around them.",
-      "caption": "Pinel freeing the insane, an oil study by Tony Robert-Fleury from the 1870s, painted some eighty years after the events it imagines. Images like this fixed the legend. Wellcome Collection."
+      "alt": "Dark painted sketch of a crowded asylum interior: a man in a dark coat and hat stands beside a bare-shouldered woman while patients sit and crouch around them.",
+      "caption": "Pinel freeing the insane, by Tony Robert-Fleury, dated only to the 1870s, some eighty years after the scene it imagines. Images like this helped fix the legend. Wellcome Collection."
     }
   },
   {
