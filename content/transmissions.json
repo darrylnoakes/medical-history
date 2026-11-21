@@ -7,14 +7,14 @@
     "start": -600,
     "end": -250,
     "display": "c. 600–250 BCE",
-    "summary": "Greeks credited Egypt with deep medical wisdom, and one Hippocratic jaw technique matches a far older papyrus. How much they really borrowed is still argued.",
+    "summary": "Greeks credited Egypt with deep medical wisdom, and one Hippocratic jaw technique matches an older papyrus. How much they really borrowed is uncertain.",
     "body": [
-      "Greeks long treated Egypt as the home of medicine. The *Odyssey* has Helen drugging wine with a gift from Polydamna, \"a woman of Egypt,\" a land of potent herbs where everyone was said to be a skilled physician. In the sixth century BCE the Persian king Darius sent the Egyptian priest Udjahorresnet home to restore the \"House of Life,\" a temple center of learning, so Egyptian medical teaching was still alive when Greeks were writing their first medical books.",
-      "Hard evidence of borrowing is thinner than the reputation. In 1930 the Egyptologist James Henry Breasted argued that the Hippocratic way of resetting a dislocated jaw is identical to the one in the Edwin Smith Papyrus, and a few remedies, such as the milk of a woman nursing a boy, turn up in both traditions. The closest contact came after Alexander: Herophilus taught and dissected at Alexandria under the first two Ptolemies. Whether Egyptian practice shaped what he did there is argued rather than shown."
+      "Greeks long treated Egypt as the home of medicine. The *Odyssey* has Helen drugging wine with a gift from Polydamna, \"a woman of Egypt,\" a land of potent herbs where, the poet says, everyone was a skilled physician. In the late sixth century BCE the Persian king Darius sent the Egyptian priest Udjahorresnet home to re-establish the \"House of Life,\" an old Egyptian institution of archives and learning that the Egyptologist James Henry Breasted took to include a school of medicine.",
+      "Hard evidence of borrowing is thinner than the reputation. In 1930 Breasted argued that the Hippocratic way of resetting a dislocated jaw is identical to the one in the Edwin Smith Papyrus, comparing the papyrus with a first-century BCE illustration of the Hippocratic method. A few remedies, such as the milk of a woman nursing a boy, turn up in both traditions. The closest contact came after Alexander: Herophilus taught and dissected at Alexandria under the first two Ptolemies. Whether Egyptian practice shaped what he did there is unproven."
     ],
     "confidence": {
-      "claim": "disputed",
-      "note": "That Greeks admired Egyptian medicine is plain from their own literature; specific borrowings rest on a handful of parallels such as Breasted's jaw-reduction match, which may reflect shared common sense rather than copying. Influence on Alexandrian anatomy is plausible but undocumented."
+      "claim": "uncertain",
+      "note": "That Greeks admired Egyptian medicine is plain from their own literature. Specific borrowings rest on a handful of parallels, notably Breasted's match between the papyrus and a first-century BCE illustration of the Hippocratic jaw reduction, and copying is not demonstrated. Influence on Alexandrian anatomy is plausible but undocumented."
     },
     "related": [
       "edwin-smith-papyrus",
@@ -82,14 +82,14 @@
     "start": -700,
     "end": -400,
     "display": "c. 700–400 BCE",
-    "summary": "Babylon had a vast, organized medical literature centuries before Hippocrates. Scholars see echoes in early Greek texts, but nobody has shown how ideas crossed.",
+    "summary": "Babylon had a vast, organized medical literature centuries before Hippocrates. Scholars see echoes in early Greek texts, but no route of transmission has been documented.",
     "body": [
       "Babylonian and Assyrian healers built a large, systematic medical literature long before the Greeks: a catalogue from Assur shows that Mesopotamia had an organized corpus of medicine more than two centuries before Hippocrates. Greeks on the Aegean coast of Asia Minor lived within reach of that world, and Assyriologists such as Markham Geller have pointed to parallels between Akkadian medical texts and early Greek writings linked to the medical center of Cnidos.",
-      "A parallel is not a pedigree. The differences are deep: Babylonian medicine set out no explicit theory of humors or of hot against cold, and its recipes sit beside incantations, while the Hippocratic writers argued from nature. Geller himself stresses how Babylonian practice differed from its Greek counterpart. Influence by trade, travel or Persian-era contact is plausible, but it remains a hypothesis built on resemblances, not a documented transfer."
+      "A parallel is not a pedigree. The differences are deep: Babylonian medicine set out no explicit theory of humors or of hot against cold (Geller thinks its theory was implicit rather than absent), and its recipes sit beside incantations, while Greek medicine developed competing schools and theories. Geller himself stresses how Babylonian practice differed from its Greek counterpart. Influence by trade, travel or Persian-era contact is plausible, but it remains a hypothesis built on resemblances, not a documented transfer."
     ],
     "confidence": {
-      "claim": "disputed",
-      "note": "The age and scale of Mesopotamian medicine are well established from cuneiform tablets; the claim that it shaped Hippocratic medicine rests on suggestive parallels in a few texts, with no direct evidence of transmission."
+      "claim": "uncertain",
+      "note": "The age and scale of Mesopotamian medicine are well established from cuneiform tablets. The claim that it shaped Hippocratic medicine rests on parallels Geller noted in a few Cnidian texts, with no direct evidence of transmission, so the influence is asserted more than shown."
     },
     "related": [
       "sakikku",
@@ -143,12 +143,12 @@
     "display": "c. 750–1000",
     "summary": "In Abbasid Baghdad, translators such as Hunayn ibn Ishaq turned Galen and Hippocrates into Syriac and Arabic, giving Islamic medicine its Greek foundation.",
     "body": [
-      "From the middle of the eighth century to the end of the tenth, caliphs, courtiers and wealthy physicians in Baghdad paid to have Greek science put into Arabic, often by way of Syriac, the language of the Christian scholars who did much of the work. The greatest translator was Hunayn ibn Ishaq (808–873), a Christian of the Church of the East who trained in Baghdad and served the caliph al-Mutawakkil. By his own count, ten years before his death he had made 95 Syriac and 34 Arabic versions of Galen alone.",
-      "Hippocratic treatises and Dioscorides' herbal followed, in several Arabic versions. The movement did more than preserve old books. It created a precise Arabic medical vocabulary and handed Galen's humoral medicine to physicians from Spain to Iran and India, who used it as the common framework for centuries of their own writing."
+      "From the middle of the eighth century to the end of the tenth, caliphs and the physician families at their courts sponsored the work of putting Greek science into Arabic in Baghdad, often by way of Syriac, the language of the Christian scholars who did much of the work. The greatest translator was Hunayn ibn Ishaq (808–873), a Christian of the Church of the East who trained in Baghdad and served the caliph al-Mutawakkil. By his own count, ten years before his death he had made 95 Syriac and 34 Arabic versions of Galen alone.",
+      "Hippocratic treatises and Dioscorides' herbal followed, in several Arabic versions. The movement did more than preserve old books. It gave Arabic a large technical vocabulary and handed Galen's humoral medicine to physicians from Spain to Iran and India, who used it as the common framework for centuries of their own writing."
     ],
     "confidence": {
       "claim": "firm",
-      "note": "Surviving manuscripts, Hunayn's own account of his Galen translations and later bibliographies document the movement in unusual detail; scholars debate its motives more than its scale."
+      "note": "Surviving manuscripts and Hunayn's own account of his Galen translations document the movement in unusual detail, and Arabic versions of the main Greek medical authors are well attested."
     },
     "related": [
       "translation-movement",
@@ -272,8 +272,8 @@
     "display": "c. 1075–1280",
     "summary": "From Constantine the African in Italy to Gerard of Cremona in Toledo, translators carried Arabic medicine, and the Greek medicine inside it, into Latin Europe.",
     "body": [
-      "Latin Europe first met Arabic medicine through Constantine the African, who in late eleventh-century Italy turned Arabic medical books into Latin, often disguising where they came from; his versions included Hunayn's Arabic *Aphorisms* of Hippocrates. In the twelfth century the center shifted to Toledo, newly in Christian hands and rich in Arabic manuscripts. There Gerard of Cremona (d. 1187) translated al-Razi's *Book for al-Mansur*, al-Zahrawi's surgery and Ibn Sina's *Canon*.",
-      "In 1279 Faraj ben Salim, a Sicilian-Jewish physician working for Charles of Anjou, put al-Razi's enormous *Hawi* into Latin as the *Continens*. These books, and the Greek medicine they carried, became the backbone of European medical teaching; the *Canon* was still read at Louvain and Montpellier in the seventeenth century."
+      "The first major wave of Arabic medicine into Latin came from Constantine the African, who in late eleventh-century Italy turned Arabic medical books into Latin, often disguising where they came from; his versions included Hunayn's Arabic *Aphorisms* of Hippocrates. In the twelfth century the center shifted to Toledo, newly in Christian hands and rich in Arabic manuscripts. There Gerard of Cremona (d. 1187) translated al-Razi's *Book for al-Mansur*, al-Zahrawi's surgery and Ibn Sina's *Canon*.",
+      "In 1279 Faraj ben Salim, a Sicilian-Jewish physician working for Charles of Anjou, put al-Razi's enormous *Hawi* into Latin as the *Continens*. These books, and the Greek medicine they carried, became staples of European medical teaching; the *Canon* was still read at Louvain and Montpellier in the seventeenth century."
     ],
     "confidence": {
       "claim": "firm",
@@ -327,17 +327,17 @@
     "title": "Indian medicine into China",
     "from": "india",
     "to": "east-asia",
-    "start": 250,
+    "start": 300,
     "end": 900,
-    "display": "c. 250–900",
-    "summary": "Buddhist monks and texts carried Indian healing into China: tales of the physician Jivaka, recipes in his name and, many believe, needle surgery for cataract.",
+    "display": "c. 300–900",
+    "summary": "Buddhist monks carried Indian healing into China: tales of the physician Jivaka, formulas in his name and, by one account, needle surgery for cataract.",
     "body": [
-      "As Buddhism spread from India into China, healing traveled with doctrine. Monastic rules, sutras on illness and stories of the Buddha as physician were translated into Chinese. The legend of Jivaka, the Buddha's own doctor, famed for opening the skull, survives in Chinese versions from the fourth and fifth centuries, and the celebrated physician Sun Simiao later compiled formulas named after him. A Sanskrit and Khotanese medical text attributed to Jivaka turned up at Dunhuang on the Silk Road.",
-      "Eye surgery is the case most often cited. Couching, pushing a clouded lens out of the line of sight with a needle, is described in the *Sushruta Samhita*, and the technique has been traced from India to China and on to Japan. How deeply any of this reshaped mainstream Chinese medicine, rather than Buddhist circles, is still debated."
+      "As Buddhism spread from India into China, healing traveled with it. Indian monks, one study notes, offered medical care to the poor to promote their religion. The legend of Jivaka, the Buddha's physician, survives in Chinese in several versions from the fourth and fifth centuries, one of them embedded in a monastic code. The doctor Sun Simiao later compiled formulas named after him, and a Sanskrit and Khotanese medical text attributed to him, from the ninth or tenth century, turned up at Dunhuang.",
+      "Eye surgery is the case most often cited. Couching, pushing a clouded lens out of the line of sight with a needle, is described in the *Sushruta Samhita*. A review in *Survey of Ophthalmology* says Indian monks brought it to China along the Silk Road at the end of the Western Han, though the clearest documentation is Tang: Wang Tao described the operation in 752. How far any of this reshaped mainstream Chinese medicine, rather than Buddhist circles, is unclear."
     ],
     "confidence": {
       "claim": "uncertain",
-      "note": "Indian medical material in Chinese Buddhist texts is well documented; the size of its influence on Chinese medical practice, and lineages such as cataract couching, are argued from scattered evidence and partly asserted."
+      "note": "Indian medical material in Chinese Buddhist texts is well documented, but the early dating of couching in China rests on a single review's account, and its wider influence on Chinese medical practice is argued from scattered evidence and partly asserted."
     },
     "related": [
       "sushruta-samhita",
@@ -352,7 +352,7 @@
         "year": 2024,
         "url": "https://www.shin-ibs.edu/documents/pwj4/5/4-5-2-Giddings-Salguero.pdf",
         "type": "scholarly",
-        "supports": "Chinese versions of the Jivaka legend from the 4th–5th centuries; formulas named after Jivaka compiled by Sun Simiao; Jivaka text found at Dunhuang; trephination legend.",
+        "supports": "Chinese versions of the Jivaka legend from the 4th–5th centuries, including one in the Dharmaguptaka Vinaya; formulas named after Jivaka compiled by Sun Simiao; Jivaka text found at Dunhuang (9th–10th century).",
         "quote": "Several medical formulas named after Jīvaka were compiled in medieval formularies by the famous doctor Sun Simiao"
       },
       {
@@ -366,12 +366,13 @@
         "quote": "Jīvaka’s legend is found in Chinese in several different versions dating from the fourth to fifth centuries"
       },
       {
-        "title": "History of Ophthalmology in Asia Pacific",
-        "publisher": "American Academy of Ophthalmology, Museum of Vision",
-        "url": "https://www.aao.org/museum/exhibition-detail/history-of-ophthalmology-in-asia-pacific-3",
-        "type": "institutional",
-        "supports": "Couching described in the Sushruta Samhita and traced via Buddhist transmission to China and Japan.",
-        "quote": "Evidence of this is particularly strong in the case of couching cataracts which we can trace from India to China to Japan and on"
+        "title": "Couching for cataract in China",
+        "publisher": "Survey of Ophthalmology",
+        "year": 2010,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2916044/",
+        "type": "scholarly",
+        "supports": "Couching described in the Sushruta Samhita; introduced to China by Indian monks along the Silk Road; Wang Tao's 752 description; monks providing medical care.",
+        "quote": "In summary, the Indian monks transferred the procedure of couching for cataract to China via the Silk Road at the end of West Han Dynasty."
       }
     ],
     "further": [
@@ -389,7 +390,7 @@
     "display": "c. 1450–1530",
     "summary": "Byzantine manuscripts, humanist translators and the Aldine press gave Europe Galen and Hippocrates in their own Greek, and new Latin versions made from it.",
     "body": [
-      "Byzantine scholars who reached Italy around the fall of Constantinople in 1453 brought Greek manuscripts and the skill to read them. Humanist physicians wanted Galen and Hippocrates without the layers of medieval Latin and Arabic. The Englishman Thomas Linacre, who had worked with the Venetian printer Aldus Manutius and studied under Niccolò Leoniceno, published new Latin translations of Galen from 1517, replacing versions made from incomplete manuscripts. Scholars such as Janus Lascaris copied Galen from ninth-century Greek manuscripts in Florence.",
+      "Byzantine scholars who reached Italy around the fall of Constantinople in 1453 brought Greek manuscripts and the skill to read them. Humanist physicians wanted Greek texts they could trust: Burgundio of Pisa's medieval Latin version of Galen on hygiene, for example, had been made from an incomplete and unreliable manuscript. The Englishman Thomas Linacre, who had known the Venetian printer Aldus Manutius and studied under Niccolò Leoniceno, replaced it with a new Latin translation, first published in 1517, and went on to translate more of Galen. The Greek scholar Janus Lascaris transcribed a Galenic text from a ninth-century manuscript in Florence.",
       "Printing made the recovery permanent. The Aldine press issued Galen's complete works in Greek in 1525 and the first Greek edition of the Hippocratic corpus in 1526. The return to the sources had an ironic result: reading the genuine Galen closely made his mistakes easier to see, and within a generation anatomists were correcting him."
     ],
     "confidence": {
@@ -399,8 +400,7 @@
     "related": [
       "galen",
       "printing-medicine",
-      "vesalius",
-      "late-antique-encyclopedists"
+      "vesalius"
     ],
     "sources": [
       {
@@ -476,17 +476,16 @@
     "summary": "Guaiac, tobacco, sarsaparilla, ipecac and above all cinchona bark crossed the Atlantic, popularized by books like Nicolás Monardes's 'Joyfull newes out of the newe founde worlde'.",
     "body": [
       "Within decades of Columbus, American plants were entering European pharmacies. Guaiac wood was shipped from America in the sixteenth century as a supposed specific for syphilis, and tobacco, sarsaparilla and curare followed. Their great publicist was the Seville physician Nicolás Monardes, who never crossed the Atlantic but grew American plants and tried them on his patients. His book, first published in Spanish in 1565, appeared in Latin in 1574 and in English in 1577 as *Joyfull newes out of the newe founde worlde*.",
-      "The most consequential import was cinchona bark from the Andes, first documented in Spanish use in Peru around 1630; Andean peoples seem to have used it against shivering. Shipped to Europe by the Jesuits and known as Jesuit's powder, it became the standard treatment for intermittent fevers, which were shown two centuries later to be malaria. Ipecacuanha arrived in the same century. Where Indigenous healers' knowledge lay behind these drugs, European books rarely recorded it."
+      "The most consequential import was cinchona bark from the Andes, first documented in Spanish use in Peru around 1630; although it was not part of the Inca pharmacopeia, Andean peoples seem to have used it against shivering. Shipped to Europe by the Jesuits and known as Jesuit's powder, it was used increasingly against fevers, intermittent fevers especially, which we now know to be malaria. Ipecacuanha arrived in the same century. Where Indigenous healers' knowledge lay behind these drugs, European books rarely recorded it."
     ],
     "confidence": {
-      "claim": "firm",
-      "note": "The arrival of these drugs is well documented in printed books; claims for many of them, guaiac especially, rested on hope rather than effect, and the Indigenous origins of the knowledge are usually inferred rather than recorded."
+      "claim": "agreed",
+      "note": "The arrival of these drugs is well documented in printed books, but the early history of cinchona is a mixture of fact and legend; claims for many of the drugs, guaiac especially, rested on hope rather than effect, and Indigenous origins of the knowledge are usually inferred rather than recorded."
     },
     "related": [
       "cinchona",
       "aztec-medicine",
-      "syphilis-1495",
-      "columbian-exchange-epidemics"
+      "syphilis-1495"
     ],
     "sources": [
       {
@@ -530,17 +529,16 @@
     "summary": "Reports from Constantinople and Smyrna, and Lady Mary Wortley Montagu's example, brought the Ottoman practice of smallpox inoculation to London.",
     "body": [
       "In the Ottoman Empire, children were given a mild case of smallpox on purpose by putting matter from a smallpox sore into a small cut. In December 1713 the physician Emmanuel Timoni described the practice in a letter from Constantinople that was read to the Royal Society in May 1714; Giacomo Pylarini, a Padua-trained physician, published his own account in 1716. Timoni reported that Circassians and Georgians had brought the custom to Constantinople some forty years earlier.",
-      "Learned reports changed little until Lady Mary Wortley Montagu, wife of the British ambassador, watched the old women who did the \"engrafting\" each autumn and had her son inoculated. Back in London during an epidemic, she had her daughter inoculated in April 1721, the first time it was done in Britain. That August an experiment on condemned prisoners at Newgate helped persuade the doubters."
+      "The reports reached learned readers, but the practice itself came through Lady Mary Wortley Montagu, wife of the British ambassador, who watched the old women who did the \"engrafting\" each autumn and had her son inoculated. Back in London during an epidemic, she had her daughter inoculated in April 1721, reported as the first time it was done in Britain. That August an experiment on condemned prisoners at Newgate helped persuade the doubters. In 1722, after further trials on orphans and charity children, Princess Caroline had her own two daughters inoculated."
     ],
     "confidence": {
       "claim": "firm",
-      "note": "Timoni's and Pylarini's reports, Montagu's letters and the 1721 London events are well documented; Montagu's personal influence is sometimes overstated relative to the physicians and royal patrons who took the practice up."
+      "note": "Timoni's and Pylarini's reports, Montagu's letters and the 1721–22 London trials are well documented; how much Montagu's personal example, as against the learned reports and royal patronage, changed practice is a matter of emphasis."
     },
     "related": [
       "montagu-variolation",
       "onesimus",
-      "jenner",
-      "chinese-variolation"
+      "jenner"
     ],
     "sources": [
       {
@@ -577,6 +575,14 @@
         "type": "institutional",
         "supports": "Her son's inoculation; daughter inoculated April 1721; Newgate experiment August 1721.",
         "quote": "In April 1721, he inoculated young Mary Alice, the first time the procedure was performed in Britain"
+      },
+      {
+        "title": "Variolation in the United Kingdom",
+        "publisher": "Indiana University Libraries, Smallpox and Vaccination exhibit",
+        "url": "https://collections.libraries.indiana.edu/iulibraries/s/smallpox-vaccine-exhibit/page/uk-variolation",
+        "type": "institutional",
+        "supports": "Further trials on orphans in 1722 and the inoculation of Princess Caroline's two daughters.",
+        "quote": "Shortly afterwards, Caroline's two daughters were variolated."
       }
     ],
     "further": [
@@ -592,14 +598,14 @@
     "start": 1707,
     "end": 1726,
     "display": "1707–1726",
-    "summary": "An enslaved West African man, Onesimus, told Cotton Mather how he had been inoculated in Africa, setting off Boston's 1721 inoculation campaign.",
+    "summary": "An enslaved West African man, Onesimus, told Cotton Mather how he had been inoculated in Africa, helping set off Boston's 1721 inoculation campaign.",
     "body": [
       "In colonial New England the decisive informant was an enslaved man. Onesimus, given to the Puritan minister Cotton Mather by his Boston congregation in 1707, told Mather he had been through an operation in Africa that gave him a mild smallpox and lifelong protection. Mather questioned other Africans in Boston and heard similar accounts, which matched what he read of Constantinople in the Royal Society's *Philosophical Transactions*.",
-      "When smallpox struck Boston in 1721, Mather pressed for inoculation, and on 26 June the physician Zabdiel Boylston began with his own son and two enslaved members of his household, a man and a boy. Boylston's figures, published in London in 1726, counted 6 deaths among 282 people inoculated against 844 among 5,759 natural cases. African knowledge, recorded only through Mather's pen, set the experiment going."
+      "When smallpox struck Boston in 1721, Mather pressed for inoculation, and on 26 June the physician Zabdiel Boylston began with his own son and two enslaved members of his household, a man and a boy. Boylston's figures, published in London in 1726, counted 6 deaths among 282 people inoculated against 844 among 5,759 natural cases. What is known of the African knowledge behind the experiment is recorded only through Mather's pen."
     ],
     "confidence": {
       "claim": "agreed",
-      "note": "Mather's letters and Boylston's published account document the episode well; everything known of Onesimus himself comes from Mather, and sources differ on whether he arrived in 1706 or 1707."
+      "note": "Mather's letters and Boylston's published account document the episode well; everything known of Onesimus himself comes from Mather, and Mather also knew the reports from Constantinople, so the African testimony was one of several spurs."
     },
     "related": [
       "onesimus",
@@ -655,7 +661,7 @@
     "display": "14th–17th centuries",
     "summary": "Physicians at the courts of the Delhi Sultanate and the Mughals brought Greco-Islamic medicine to India, where it met Ayurveda and became what is now called Unani.",
     "body": [
-      "Muslim rulers in India brought physicians trained in the Greco-Islamic tradition of Galen and Ibn Sina, and with them its hospitals. Sultan Firuz Shah, who took the throne of Delhi in 1351, recorded that he had built a hospital where physicians diagnosed disease, set diets and gave medicines at his expense. At the Delhi Sultanate and later Muslim courts of central and southern India, these doctors worked alongside Ayurvedic colleagues; in 1590 the historian Muhammad Qasim Firishta described himself as a Muslim practitioner of Ayurveda. Under the Mughals, physicians from Persia kept arriving at court.",
+      "Muslim rulers in India drew physicians trained in the Greco-Islamic tradition of Galen and Ibn Sina to their courts. Sultan Firuz Shah, who took the throne of Delhi in 1351, recorded that he had built a hospital where physicians diagnosed disease, set diets and gave medicines paid for from his endowments. At the Delhi Sultanate and later Muslim courts of central and southern India, these doctors worked alongside Ayurvedic colleagues; in 1590 the historian Muhammad Qasim Firishta described himself as a Muslim practitioner of Ayurveda. Under the Mughals the Delhi court kept drawing physicians, some of them from Persia.",
       "The exchange ran both ways, and the tradition became Indian. The name \"Unani\", from the Arabic for Greek, first appears in two late eighteenth-century treatises from Delhi."
     ],
     "confidence": {
@@ -707,10 +713,10 @@
     "start": 1794,
     "end": 1816,
     "display": "1794–1816",
-    "summary": "A 1794 report of a forehead-flap nose rebuilt near Poona inspired Joseph Carpue's 1814 operation in London and helped launch modern plastic surgery.",
+    "summary": "A 1794 report of a forehead-flap nose rebuilt near Poona inspired Joseph Carpue's 1814 operation in London, described as the first plastic surgery operation in Britain.",
     "body": [
       "In October 1794 the *Gentleman's Magazine* printed a letter from India describing Cowasjee, a bullock driver for the British army whose nose had been cut off as a prisoner. A Maratha surgeon of the Kumar caste near Poona had built him a new one from a flap of forehead skin, shaped over a wax template; the writers said the operation was not uncommon in India and very old.",
-      "The report reached London surgeons. On 22 October 1814 Joseph Constantine Carpue, having studied the accounts, used the method to rebuild an army officer's nose, the first such operation in Britain, and in 1816 he published his cases. The German surgeon Carl Ferdinand von Gräfe took the technique further and is credited with coining the term \"plastic surgery\"."
+      "The report reached London surgeons. On 22 October 1814 Joseph Constantine Carpue, who had read the accounts from India, used the method to rebuild an army officer's nose, described by the British Library as the first plastic surgery operation in Britain, and in 1816 he published his cases. His work in turn inspired further practice by the German surgeon Carl Ferdinand von Gräfe."
     ],
     "confidence": {
       "claim": "firm",
@@ -728,7 +734,7 @@
         "year": 2016,
         "url": "https://www.bl.uk/stories/blogs/posts/britains-first-nose-job",
         "type": "institutional",
-        "supports": "The 1794 Gentleman's Magazine report on Cowasjee; Carpue's operation of 22 October 1814 and 1816 book; von Gräfe.",
+        "supports": "The 1794 Gentleman's Magazine report on Cowasjee; Carpue's operation of 22 October 1814 inspired by reports from India; his 1816 book; von Gräfe.",
         "quote": "The most famous of these was a 1794 report in the Gentleman’s Magazine, describing the reconstruction of the nose of a man named Cowasjee"
       },
       {
@@ -763,10 +769,10 @@
     "start": 1771,
     "end": 1861,
     "display": "1771–1861",
-    "summary": "Through Dutch books at Nagasaki, Japanese doctors learned European anatomy and vaccination; in China, missionary surgeons brought ether anesthesia.",
+    "summary": "Through Dutch books at Nagasaki, Japanese doctors learned European anatomy and vaccination; in China, the eye surgeon Peter Parker is remembered for introducing ether anesthesia.",
     "body": [
-      "Japan's window on Europe was the Dutch trading post at Nagasaki. In 1771 Sugita Genpaku and his colleagues took a Dutch anatomy atlas to the dissection of an executed criminal, were struck by its accuracy, and spent three years translating it; *Kaitai shinsho* appeared in 1774. In 1824 the German physician Philipp Franz von Siebold opened a small school of Western medicine, and in August 1849 cowpox lymph brought by the Dutch produced Japan's first successful vaccination, which spread from Kyushu to Kyoto, Osaka and Edo within months. In 1861 the Edo vaccination clinic became the Institute of Western Medicine.",
-      "In China, the eye surgeon Peter Parker is best known for introducing ether anesthesia."
+      "Japan's window on Europe was the Dutch trading post at Nagasaki. In 1771 Sugita Genpaku and his colleagues took a Dutch anatomy atlas to the dissection of an executed criminal, were struck by its accuracy, and spent years translating it; *Kaitai shinsho* appeared in 1774. In 1824 the German physician Philipp Franz von Siebold opened a small school of Western medicine, and in August 1849 cowpox lymph brought by the Dutch produced Japan's first successful vaccination, which spread from Kyushu to Kyoto, Osaka and Edo within months. In 1861 the Edo vaccination clinic became the Institute of Western Medicine.",
+      "In China, the eye surgeon Peter Parker is probably best known for introducing anesthesia in the form of sulfuric ether."
     ],
     "confidence": {
       "claim": "firm",
@@ -823,14 +829,14 @@
     "start": 1830,
     "end": 1860,
     "display": "c. 1830–1860",
-    "summary": "Under British rule, vaccination and colonial medical services spread through India, displacing variolation and leaving indigenous medicine outside the official system.",
+    "summary": "Under British rule, vaccination and colonial medical schools spread through India; variolation lost official favor and indigenous medicine lost state teaching and support.",
     "body": [
-      "India already had a way of fighting smallpox: variolation had been practiced there since the early seventeenth century and was widely accepted by the time cowpox vaccine arrived. British administrators set out to replace it. In Bengal in the late 1830s a network of dispensaries supplied vaccine locally and sent lymph out with traveling vaccinators; the system was reorganized in 1853 and 1854, and the 1860s brought formal vaccination policies. Uptake was uneven. Some lower-caste Hindus welcomed vaccination partly because they had been excluded from the religious rituals around variolation.",
-      "The colonial medical establishment, dominated by the Indian Medical Service, largely ignored indigenous medicine. Ayurvedic and Unani practitioners answered with institutions of their own, such as the Tibbia College in Delhi."
+      "India already had a way of fighting smallpox: variolation had been practiced there since the early seventeenth century and was widely accepted by the time cowpox vaccine arrived. British administrators promoted vaccination in its place. In Bengal in the late 1830s a network of dispensaries supplied vaccine locally and sent lymph out with traveling vaccinators; the system was reorganized in 1853 and 1854, and the 1860s brought formal vaccination policies. Uptake was uneven. Some lower-caste Hindus welcomed vaccination partly because they had been excluded from the religious rituals around variolation.",
+      "Medical teaching changed too. In 1826 classes in Unani medicine were held at the Calcutta madrasa and in Ayurveda at the Sanskrit college. In 1835, after Macaulay's minute urged withholding grants from institutions teaching in native languages, official patronage of indigenous medicine ended, those classes were discontinued, and a new medical college trained Indian students in the European manner. Ayurvedic and Unani practitioners later built institutions of their own."
     ],
     "confidence": {
       "claim": "agreed",
-      "note": "Vaccination campaigns and colonial medical institutions are well documented in official records; how far indigenous practitioners were actively suppressed, rather than simply excluded from state support, is debated."
+      "note": "Vaccination campaigns and the 1835 educational decisions are documented in the cited histories; how far the colonial state actively suppressed indigenous practitioners, rather than simply ending state support, is not settled by these sources."
     },
     "related": [
       "bengal-inoculation",
@@ -855,14 +861,13 @@
         "quote": "in Bengal in the late 1830s, a dispensary system was created in which brick-and-mortar offices provided vaccines for interested locals"
       },
       {
-        "title": "Global Pharma and Local Science: The Untold Tale of Reserpine",
-        "author": "Pradipto Roy",
-        "publisher": "Indian Journal of Psychiatry (Europe PMC full text)",
-        "year": 2018,
-        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5836351/fullTextXML",
+        "title": "Evolution of medical education in India: The impact of colonialism",
+        "publisher": "Journal of Postgraduate Medicine",
+        "year": 2016,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5105212/",
         "type": "scholarly",
-        "supports": "The Indian Medical Service's neglect of indigenous medicine; the Tibbia College as an institution outside the colonial establishment.",
-        "quote": "much like his western predecessors in the prestigious and authoritative Indian Medical Service (IMS), failed to assess indigenous medicines beyond sympathy"
+        "supports": "Unani and Ayurvedic classes of 1826; the 1835 end of official patronage of indigenous medicine and the new Calcutta medical college.",
+        "quote": "The termination of official patronage to indigenous systems of medicine sealed the fate of the students of the two leading oriental institutions in Calcutta."
       }
     ],
     "further": [
@@ -884,7 +889,7 @@
     ],
     "confidence": {
       "claim": "firm",
-      "note": "Tu's laboratory records, later publications and the Nobel committee's review document the discovery; credit within the large collective Project 523 has been disputed, and the mortality figures are modeled estimates."
+      "note": "Tu's own account and later publications document the dates, and the Nobel committee's review accepts the role of Ge Hong's recipe, which rests mainly on Tu's testimony. The project was collective, with many groups contributing, and the mortality figures are modeled estimates."
     },
     "related": [
       "artemisinin",
@@ -941,14 +946,14 @@
     "start": 1931,
     "end": 1954,
     "display": "1931–1954",
-    "summary": "Indian physicians' work on snakeroot for blood pressure and madness led Swiss chemists to reserpine in 1952, one of the first modern blood-pressure and antipsychotic drugs.",
+    "summary": "Indian physicians' work on snakeroot for blood pressure and madness drew Swiss chemists to reserpine in 1952, one of the first modern blood-pressure and antipsychotic drugs.",
     "body": [
-      "The root of *Rauwolfia serpentina*, sarpagandha, was sold in Indian bazaars against fevers, snakebite and agitation, though it cannot be clearly identified in classical Ayurvedic drug lists. In 1931 the Calcutta physicians Gananath Sen and Kartick Chandra Bose reported that the powdered root calmed violent patients and lowered blood pressure. In Delhi the chemist Salimuzzaman Siddiqui isolated several of its alkaloids, and in 1949 the Bombay cardiologist Rustom Jal Vakil summed up years of clinical experience in the *British Heart Journal*, bringing it to Western attention.",
-      "In 1952 Müller, Schlittler and Bein at CIBA in Basel isolated reserpine in pure form; by 1954 it was confirmed in the United States as a sedative and blood-pressure drug, and it was soon used in psychiatry. The Indian pioneers are now largely forgotten."
+      "The root of *Rauwolfia serpentina*, sarpagandha, was sold in Indian markets against fevers and snakebite and above all for insanity, as \"drugs for the mad,\" though it cannot be clearly identified in classical Ayurvedic drug lists. In 1931 the Calcutta physicians Gananath Sen and Kartick Chandra Bose reported its use in high blood pressure and in \"insanity with violent maniacal symptoms.\" In Delhi the chemist Salimuzzaman Siddiqui isolated several of its alkaloids, and in 1949 the Bombay cardiologist Rustom Jal Vakil summed up years of clinical experience in the *British Heart Journal*, bringing it to Western attention.",
+      "In 1952 Müller, Schlittler and Bein at CIBA in Basel isolated reserpine in pure form; by 1954 it was confirmed in the United States as a sedative and blood-pressure drug, and it was soon used in psychiatry. One historian argues that the Indian pioneers' part has been largely overlooked."
     ],
     "confidence": {
-      "claim": "firm",
-      "note": "The published papers and dates are well documented; the claim that rauwolfia was an ancient Ayurvedic remedy is weaker, since early-20th-century Indian researchers could not identify it in classical texts."
+      "claim": "agreed",
+      "note": "The published papers and dates are well documented, and sources name Vakil's 1949 paper as what drew Western attention; how much the Swiss work depended on the Indian research is an interpretation. The claim that rauwolfia was an ancient Ayurvedic remedy is weaker, since early-20th-century Indian researchers could not identify it in classical texts."
     },
     "related": [
       "reserpine",
@@ -960,7 +965,7 @@
         "author": "Pradipto Roy",
         "publisher": "Indian Journal of Psychiatry (Europe PMC full text)",
         "year": 2018,
-        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5836351/fullTextXML",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5836351/",
         "type": "scholarly",
         "supports": "Sen and Bose 1931; Siddiqui's alkaloids; Vakil 1949; isolation in 1952 by Müller, Schlittler and Bein at CIBA; confirmation by 1954.",
         "quote": "Following its isolation “in pure crystalline form” from the roots of the Rauwolfia plant in 1952 by Műller, Schlittler, and Bein"
@@ -970,7 +975,7 @@
         "author": "Pradipto Roy",
         "publisher": "Indian Journal of Psychiatry (Europe PMC full text)",
         "year": 2018,
-        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5836351/fullTextXML",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5836351/",
         "type": "scholarly",
         "supports": "Rauwolfia not identifiable in classical Ayurvedic drug lists.",
         "quote": "No drug named as above and having similar properties as Rauwolfia can be found in any of the ‘Nighantus’ of Ayurvedic literature"
@@ -1000,11 +1005,11 @@
     "summary": "A Calabar ordeal bean, arrow poisons and the Madagascar periwinkle gave Western medicine physostigmine, strophanthin and the anticancer drug vinblastine.",
     "body": [
       "People of Calabar, in today's Nigeria, used the seed they called *esere* as an ordeal to judge people accused of crimes. A report by Daniell brought the bean to scientific notice in 1846; Robert Christison described its effects to the Royal Society of Edinburgh in 1855, and in 1864 Jobst and Hesse isolated its active alkaloid, physostigmine, later used for glaucoma and synthesized by Percy Julian in 1935. *Strophanthus* seeds, used in arrow poisons, reached European notice in the early 1860s; their action on the heart was studied by Sharpey, Pelikan and Thomas Fraser, and by about 1885 strophanthus had entered medical practice.",
-      "The Madagascar periwinkle came by a different road. In 1952 Robert Noble in Canada received leaves from Jamaica, where it was thought to help diabetes; it did not lower blood sugar but destroyed white blood cells, and Noble and Charles Beer isolated vinblastine, patented in 1959 and made widely available with Eli Lilly."
+      "The Madagascar periwinkle came by a different road. In 1952 Robert Noble in Canada received leaves from Jamaica and studied them for possible anti-diabetic properties; the extract barely changed blood sugar but destroyed white blood cells. Noble and Charles Beer isolated vinblastine, patented in 1959 and made widely available with Eli Lilly."
     ],
     "confidence": {
       "claim": "firm",
-      "note": "The chemistry and dates are well documented; the African knowledge behind them is recorded only through European observers, and the periwinkle lead came from Jamaican folk use, not from Madagascar."
+      "note": "The chemistry and dates are well documented; the African knowledge behind them is recorded only through European observers, and the periwinkle lead reached researchers by way of Jamaica, not from African healers."
     },
     "related": [
       "calabar-bean",

@@ -748,5 +748,65 @@
   "license": "Public domain",
   "licenseUrl": "",
   "page": "https://commons.wikimedia.org/wiki/File:Galen-Pig-Vivisection.jpg"
+ },
+ "huangdi-neijing": {
+  "commons": "File:The Yellow Emperor transmits medical books to Lei Gong Wellcome L0039956.jpg",
+  "src": "/img/huangdi-neijing.webp",
+  "width": 867,
+  "height": 1300,
+  "credit": "(hi-res image) Gallery: https://wellcomeimages.org/indexplus/image/L0039956.html Wellcome Collection…",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:The_Yellow_Emperor_transmits_medical_books_to_Lei_Gong_Wellcome_L0039956.jpg"
+ },
+ "shennong-bencao": {
+  "commons": "File:Chinese woodcut, Famous medical figures; Shen Nong Wellcome L0039313.jpg",
+  "src": "/img/shennong-bencao.webp",
+  "width": 867,
+  "height": 1300,
+  "credit": "Gan Bozong (Tang period, 618-907)",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Chinese_woodcut,_Famous_medical_figures;_Shen_Nong_Wellcome_L0039313.jpg"
+ },
+ "zhang-zhongjing": {
+  "commons": "File:Chinese woodcut, Famous medical figures; Zhang Zhongjing Wellcome L0039319.jpg",
+  "src": "/img/zhang-zhongjing.webp",
+  "width": 867,
+  "height": 1300,
+  "credit": "Gan Bozong (Tang period, 618-907)",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Chinese_woodcut,_Famous_medical_figures;_Zhang_Zhongjing_Wellcome_L0039319.jpg"
+ },
+ "hua-tuo": {
+  "commons": "File:Chinese woodcut, Famous medical figures; Portrait of Hua Tuo Wellcome L0039320.jpg",
+  "src": "/img/hua-tuo.webp",
+  "width": 867,
+  "height": 1300,
+  "credit": "Gan Bozong (Tang period, 618-907)",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Chinese_woodcut,_Famous_medical_figures;_Portrait_of_Hua_Tuo_Wellcome_L0039320.jpg"
+ },
+ "barefoot-doctors": {
+  "commons": "File:1966-01 1966年湖南省巡逻医疗队在湘西农村.jpg",
+  "src": "/img/barefoot-doctors.webp",
+  "width": 481,
+  "height": 380,
+  "credit": "《人民画报》",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:1966-01_1966%E5%B9%B4%E6%B9%96%E5%8D%97%E7%9C%81%E5%B7%A1%E9%80%BB%E5%8C%BB%E7%96%97%E9%98%9F%E5%9C%A8%E6%B9%98%E8%A5%BF%E5%86%9C%E6%9D%91.jpg"
+ },
+ "ibn-sina-canon": {
+  "commons": "File:Avicenna canon 1597.jpg",
+  "src": "/img/ibn-sina-canon.webp",
+  "width": 916,
+  "height": 1300,
+  "credit": "Wikimedia Commons contributor",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Avicenna_canon_1597.jpg"
  }
 }

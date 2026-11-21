@@ -4,9 +4,9 @@
     "name": "Humoral theory",
     "summary": "Health as a balance of four bodily fluids: a Greek idea that ruled learned medicine for some two thousand years and still underpins Unani practice today.",
     "body": [
-      "The theory held that the body contained four humours, blood, phlegm, yellow bile and black bile, and that health was their proper balance. Each humour was paired with two of the qualities hot, cold, moist and dry, with an element, a season and a stage of life, so that one scheme could explain a fever, a gloomy temperament and why the old were thought cold and dry. Illness meant that a humour was in excess or deficit; treatment meant restoring balance through diet, purging, vomiting or letting blood.",
-      "The idea took shape in the Hippocratic writings of classical Greece and was systematized by Galen in the second century CE, who built a theory of temperaments on the four qualities. Its strength was coherence: it tied the body to the seasons and the cosmos and gave every symptom a reason. Scholars of the Islamic world, for whom Galen and Hippocrates were the pre-eminent authorities, ordered the Greek material into encyclopedias. Ibn Sina's *Canon*, which counted the humours among the material causes of health and sickness, was printed more than thirty-five times in the fifteenth and sixteenth centuries alone.",
-      "Humoral thinking underpinned European medicine, and everyday speech, Shakespeare's included, until at least the 1700s. It faded slowly rather than being refuted at a stroke; only in the late nineteenth century was its signature therapy, bloodletting, discredited for most ailments. It never vanished entirely. Unani medicine, brought to India by Arabic-speaking physicians and recognized today by the Indian government for clinical practice, still rests on the humoral theory."
+      "The theory held that the body contained four humors, blood, phlegm, yellow bile and black bile, and that health was their proper balance. Each humor was paired with two of the qualities hot, cold, moist and dry, with an element, a season and a stage of life, so that one scheme could explain a fever, a gloomy temperament and why the old were thought cold and dry. Illness meant that a humor was in excess or deficit; treatment meant restoring balance through diet, purging, vomiting or letting blood.",
+      "The idea took shape in the Hippocratic writings of classical Greece and was systematized by Galen in the second century CE, who built a theory of temperaments on the four qualities. Its strength was coherence: it tied the body to the seasons and the cosmos and gave every symptom a reason. Scholars of the Islamic world, for whom Galen and Hippocrates were the pre-eminent authorities, ordered the Greek material into encyclopedias. Ibn Sina's *Canon*, which counted the humors among the material causes of health and sickness, was printed more than thirty-five times in the fifteenth and sixteenth centuries alone.",
+      "Humoral thinking underpinned European medicine until at least the 1700s, and it shaped how writers such as Shakespeare understood temperament and emotion. It faded slowly rather than being refuted at a stroke; only in the late nineteenth century was its signature therapy, bloodletting, discredited for most ailments. It never vanished entirely. Unani medicine, brought to India by Arabs and recognized today by the Indian government for clinical practice, still rests on the humoral theory."
     ],
     "status": "superseded",
     "born": {
@@ -60,7 +60,7 @@
         "publisher": "U.S. National Library of Medicine",
         "url": "https://www.nlm.nih.gov/exhibition/shakespeare-and-the-four-humors/index.html",
         "type": "institutional",
-        "supports": "The four humours, their link to elements, qualities, seasons and life stages; imbalance as illness; dominance in Europe until at least the 1700s.",
+        "supports": "The four humors, their link to elements, qualities, seasons and life stages; imbalance as illness; underpinning European medicine until at least the 1700s; Shakespeare's understanding of personality in humoral terms.",
         "quote": "The theory of the four humors underpinned European medicine and thinking on the innerworkings of the body until at least the 1700s."
       },
       {
@@ -68,7 +68,7 @@
         "publisher": "U.S. National Library of Medicine",
         "url": "https://www.nlm.nih.gov/exhibition/shakespeare-and-the-four-humors/digitalgallery-nojs-detail016.html",
         "type": "institutional",
-        "supports": "Galen (c. 131–c. 201) built on the Hippocratic four humours and added the four qualities and temperaments.",
+        "supports": "Galen (c. 131–c. 201) built on the Hippocratic four humors and added the four qualities and temperaments.",
         "quote": "wrote De temperamentis based on Hippocrates’ medical theory of the four humors—blood, phlegm, yellow bile, and black bile—to which he added the qualities dry, moist, hot, and cold"
       },
       {
@@ -84,7 +84,7 @@
         "publisher": "Internet Medieval Sourcebook, Fordham University",
         "url": "https://sourcebooks.fordham.edu/halsall/source/1020Avicenna-Medicine.asp",
         "type": "primary",
-        "supports": "Ibn Sina counted the humours among the material causes of health and sickness.",
+        "supports": "Ibn Sina counted the humors among the material causes of health and sickness.",
         "quote": "Material causes, on which health and sickness depend, are--- the affected member, which is the immediate subject, and the humors"
       },
       {
@@ -94,7 +94,7 @@
         "year": 2017,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5198827/",
         "type": "scholarly",
-        "supports": "Unani medicine rests on Hippocratic humoral theory, was brought to India by Arabs and is recognized by the Indian government.",
+        "supports": "Unani medicine originated in Greece on Hippocrates' humoral theory, was introduced to India by the Arabs and is recognized by the Indian government.",
         "quote": "Since then, this system of medicine has made a firm footing in India and is recognized by the Indian government for clinical practice and research funding."
       },
       {
@@ -117,11 +117,11 @@
   {
     "id": "miasma",
     "name": "Miasma",
-    "summary": "Disease as a poison in the air, rising from marshes, filth and rot: wrong about the cause, yet a powerful argument for drains and clean cities.",
+    "summary": "Disease as a poison in the air, rising from marshes, filth and rot: wrong about the cause, yet an influential argument for cleaner cities.",
     "body": [
-      "Long before anyone could see a microbe, physicians noticed that sickness clustered in particular places: low marshy ground, stagnant water, crowded and stinking streets. The Hippocratic treatise *Airs, Waters, and Places* (c. 400 BCE) told a doctor arriving in a strange city to study its winds, its exposure to the sun and whether its waters were marshy. The Roman architect Vitruvius warned against building near marshes, whose morning fogs, charged with the breath of swamp creatures, spread an unwholesome effluvia over the inhabitants. Bad air, or miasma, was the natural explanation.",
-      "The idea travelled with Greek medicine. Ibn Sina listed airs among the causes that change and preserve the condition of the body, and the choice of air became part of every regimen of health. It was not a foolish theory. Foul smells often did mark real danger, and miasma explained why epidemics struck some districts and spared others, without needing any agent that no one had ever seen.",
-      "Miasma reached its height in the nineteenth century. When John Snow argued in 1849 that cholera entered the body through the mouth, the accepted view was that it was airborne, and in the mid-1800s many people still held that diseases were caused by bad air. Reformers who believed it pressed for drains, sewers and clean streets, measures that helped even where the reasoning behind them was mistaken. The microbes of Pasteur and Koch displaced the theory, though not overnight, and by the last decades of the century it had lost the argument."
+      "Long before anyone could see a microbe, physicians noticed that sickness clustered in particular places: low marshy ground and stagnant water. The Hippocratic treatise *Airs, Waters, and Places* (c. 400 BCE) told a doctor arriving in a strange city to study its winds, its exposure to the sun and whether its waters were marshy. The Roman architect Vitruvius warned against building near marshes, whose morning fogs, charged with the breath of swamp creatures, spread an unwholesome effluvia over the inhabitants. Bad air, or miasma, became a natural explanation.",
+      "The idea traveled with Greek medicine. Ibn Sina listed airs among the causes that change and preserve the condition of the body. It was not a foolish theory: it tied disease to places people could observe, and it needed no agent that no one had ever seen.",
+      "In the nineteenth century the idea was still dominant. When John Snow argued in 1849 that cholera entered the body through the mouth, the accepted view was that it was airborne, and in the mid-1800s many people still held that diseases were caused by bad air. Historians describe a miasmatic approach to disease that shaped nineteenth-century ideas of hygiene and cleanliness and fed the public health and sanitation movements, even though its reasoning was mistaken. Snow's rival view was not widely accepted until the 1860s, and Pasteur's microbes displaced the theory, though not overnight."
     ],
     "status": "superseded",
     "born": {
@@ -132,7 +132,7 @@
     "died": {
       "year": 1890,
       "display": "by the 1890s",
-      "confidence": "agreed"
+      "confidence": "uncertain"
     },
     "spans": [
       {
@@ -142,7 +142,7 @@
       },
       {
         "stream": "islamic",
-        "from": 850,
+        "from": 1000,
         "to": 1500
       },
       {
@@ -159,7 +159,7 @@
     ],
     "confidence": {
       "claim": "agreed",
-      "note": "The prevalence of bad-air explanations from the Hippocratics to the mid-nineteenth century is well documented in primary texts. Its decline was gradual: many sanitarians held on to it for years after Snow and Koch, so any end date is approximate."
+      "note": "Bad-air explanations are well documented in primary texts from the Hippocratic writers to the mid-nineteenth century. Its decline was gradual and none of the sources used here dates its end, so 'by the 1890s' is an approximation."
     },
     "related": [
       "hippocrates",
@@ -211,6 +211,16 @@
         "type": "institutional",
         "supports": "Miasma theory was still widely held in the mid-1800s, when germ theory displaced it.",
         "quote": "In the mid-1800s, many people subscribed to the “miasma theory” instead, which argued that diseases were caused by bad air."
+      },
+      {
+        "title": "When filth became dangerous: the miasmatic and contagionistic origins of nineteenth-century cleanliness practices among Swedish provincial doctors",
+        "author": "Annelie Drakman",
+        "publisher": "Medical History (Cambridge University Press)",
+        "year": 2025,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12041326/",
+        "type": "scholarly",
+        "supports": "Miasmatic and contagionistic ideas shaped nineteenth-century conceptions of hygiene and cleanliness and played a role in public health and sanitation movements.",
+        "quote": "Thus, the miasmatic and contagionistic approach to disease shaped conceptions of hygiene and cleanliness."
       }
     ],
     "further": [
@@ -224,15 +234,15 @@
     "name": "Bloodletting",
     "summary": "Opening a vein to drain excess blood: one of the longest-lived treatments in medicine, abandoned as a cure-all only in the nineteenth century.",
     "body": [
-      "For more than two thousand years, removing blood was among the most common things a physician did. Its logic came from humoral theory: if illness meant an excess of a humour, the remedy was to take some away, and blood was the easiest humour to reach. Bloodletting was already a common treatment by the first century CE, and when Galen declared blood the dominant humour it gained still greater weight. Practitioners opened veins with lancets and fleams, or bled locally with cups and leeches.",
+      "For more than two thousand years, removing blood was among the most common things a physician did. A medical-journal review traces the practice back some 3,000 years to the Egyptians, but the logic that sustained it came from humoral theory: if illness meant an excess of a humor, the remedy was to take some away, and blood was the easiest humor to reach. Bloodletting was already a common treatment by the first century CE, and when Galen declared blood the dominant humor it gained still greater weight. Practitioners opened veins with lancets and fleams, or bled locally with cups and leeches.",
       "Physicians of the Islamic world and medieval Europe inherited Galen's authority and the procedure with it, and bleeding reached its peak in Europe in the nineteenth century. In Paris, François Broussais traced fevers to inflamed organs and had leeches applied over them; France imported 42 million leeches for medical use in 1833 alone. In Philadelphia, Benjamin Rush bled patients heavily during the yellow fever epidemics of the 1790s, and George Washington was bled copiously in his last illness.",
-      "Doubt came from counting. In 1835 Pierre Louis compared pneumonia patients bled early in their illness with those bled later and found less benefit than expected. Contrary to legend, he did not condemn bleeding, only confined it to narrow limits, and Broussais's theories were already losing support. Pathology, the microscope and germ theory did the rest, and by the late nineteenth century bloodletting had been discredited for most ailments. It survives as phlebotomy for a few conditions, such as hemochromatosis and polycythemia vera."
+      "Doubt came from counting. In 1835 Pierre Louis compared pneumonia patients bled early in their illness with those bled later and found less benefit than expected. He did not condemn bleeding, but said his figures set narrow limits to its usefulness, and Broussais's theories were already losing support. By the late nineteenth century bloodletting had been discredited for most ailments. It survives as phlebotomy for a few conditions, such as hemochromatosis and polycythemia vera."
     ],
     "status": "superseded",
     "born": {
       "year": -400,
-      "display": "c. 400 BCE (Hippocratic)",
-      "confidence": "agreed"
+      "display": "c. 400 BCE (humoral rationale; practice older)",
+      "confidence": "uncertain"
     },
     "died": {
       "year": 1900,
@@ -265,7 +275,7 @@
     ],
     "confidence": {
       "claim": "firm",
-      "note": "The practice is abundantly documented from antiquity to the nineteenth century. What is debated is why it declined: Louis's figures mattered less than is often claimed, and changing theories of disease did much of the work."
+      "note": "The practice is abundantly documented from antiquity to the nineteenth century, though its earliest origins (one review says Egypt, about 3,000 years ago) are not firmly dated. Why it declined is debated: Louis's impact on practice is hard to assess, and Broussais's theories were already losing support."
     },
     "related": [
       "four-humours",
@@ -282,7 +292,7 @@
         "year": 2010,
         "url": "https://bcmj.org/premise/history-bloodletting",
         "type": "scholarly",
-        "supports": "Humoral rationale; common by the 1st century; Galen's emphasis on blood; lancets, fleams, cups and leeches; peak in the 19th century; Rush and Washington; decline; survival for hemochromatosis and polycythemia vera.",
+        "supports": "Practice traced to the Egyptians about 3,000 years ago; humoral rationale; common by the 1st century; Galen's emphasis on blood; lancets, fleams, cups and leeches; peak in the 19th century; Rush and Washington; decline.",
         "quote": "By the 1st century bloodletting was already a common treatment, but when Galen of Pergamum (129–200 AD) declared blood as the most dominant humor"
       },
       {
@@ -321,11 +331,11 @@
   {
     "id": "supernatural-causes",
     "name": "Supernatural causes",
-    "summary": "Illness as the work of gods, demons, sorcery or sin: probably the oldest explanation of disease, argued with by learned medicine but never wholly displaced.",
+    "summary": "Illness as the work of gods, demons, sorcery or sin: among the oldest explanations of disease, long argued with by learned medicine and often used alongside it.",
     "body": [
       "In the earliest medical writing, disease often had an author. Babylonians and Assyrians attributed the deaths of mothers and infants to disease, demons or sorcery, and guarded against them with incantations, charms, amulets and prescriptions. Mesopotamian tablets from about 1800 BCE list omens that an incantation priest, the *āšipu*, consulted after examining a patient, and many Egyptian medical papyri include spells against diseases sent by angry gods. Such measures sat alongside herbs, potions, poultices and bandages, not in place of them.",
-      "Around 400 BCE the Hippocratic author of *On the Sacred Disease* attacked the idea head on. Epilepsy, he wrote, was no more divine than any other disease and had a natural cause; people called it divine out of ignorance and wonder, and those who cured it with purifications and incantations exploited that ignorance. Yet the same Greek world flocked to the temples of Asclepius, where the sick slept in hope of a healing dream.",
-      "Religious and natural explanations long coexisted. Early Muslim teaching held plague to be a mercy and martyrdom from God for the faithful and denied contagion, since disease came directly from God, though observation of contagion kept the question alive. In the eighteenth century Ottoman city-dwellers were still described as shunning smallpox inoculation as an interference with providence, and in 1680s England James II handed out gold touchpieces in a ceremony of healing by royal touch. Germ theory removed gods and demons from medical textbooks; it has not removed them from many people's understanding of why illness strikes."
+      "Around 400 BCE the Hippocratic author of *On the Sacred Disease* attacked the idea head on. Epilepsy, he wrote, was no more divine than any other disease and had a natural cause; people called it divine out of ignorance and wonder, and those who cured it with purifications and incantations exploited that ignorance. Yet the same Greek world sent the sick to the temples of Asclepius, where they slept in the hope of a healing dream.",
+      "Religious and natural explanations long coexisted. Early Muslim teaching held plague to be a mercy and martyrdom from God for the faithful and denied contagion, since disease came directly from God; these tenets provoked sustained controversy. In the eighteenth century Ottoman city-dwellers were still described as shunning smallpox inoculation as an interference with providence, and in 1680s England James II handed out gold touchpieces in a ceremony of healing by royal touch. In scientific medicine natural causes eventually displaced such explanations; the sources used here do not date that change, which was gradual and not complete in every community."
     ],
     "status": "superseded",
     "born": {
@@ -333,7 +343,11 @@
       "display": "attested by c. 1800 BCE (surely older)",
       "confidence": "agreed"
     },
-    "died": null,
+    "died": {
+      "year": 1880,
+      "display": "late 19th century (in scientific medicine; approximate)",
+      "confidence": "uncertain"
+    },
     "spans": [
       {
         "stream": "mesopotamia",
@@ -347,8 +361,8 @@
       },
       {
         "stream": "greco-roman",
-        "from": -800,
-        "to": 1500
+        "from": -420,
+        "to": 650
       },
       {
         "stream": "islamic",
@@ -363,7 +377,7 @@
     ],
     "confidence": {
       "claim": "agreed",
-      "note": "Divine and demonic explanations are well attested in Mesopotamian, Egyptian, Greek and later texts. The current starts with writing only because earlier beliefs left no record; how far individual healers saw magic and medicine as separate is debated."
+      "note": "Divine and demonic explanations are well attested in Mesopotamian, Egyptian, Greek and later texts. The current starts where writing starts, so older beliefs cannot be documented; how far individual healers saw magic and medicine as separate is debated, and the end date is an approximation for scientific medicine only."
     },
     "related": [
       "asu-ashipu",
@@ -391,7 +405,7 @@
         "year": 2016,
         "url": "https://www.penn.museum/sites/expedition/secrets-of-ancient-magic/",
         "type": "institutional",
-        "supports": "Divine causation of disease; Mesopotamian omen tablets c. 1800 BCE and the āšipu; spells in Egyptian papyri; Asclepius temple healing; magic alongside herbs and bandages.",
+        "supports": "Divine causation of disease; Mesopotamian omen tablets c. 1800 BCE and the āšipu; spells in Egyptian papyri; magic used alongside herbs, potions, poultices and bandages.",
         "quote": "many medical papyri from ancient Egypt include spells and incantations to cure diseases caused by angry deities"
       },
       {
@@ -427,6 +441,16 @@
         "type": "institutional",
         "supports": "Royal healing by touch under James II in the 1680s.",
         "quote": "Gold touchpiece, given in the ceremony of healing by touch, issued by James II, English, 1685-1688"
+      },
+      {
+        "title": "Sacred psychiatry in ancient Greece",
+        "author": "Georgios Tzeferakos and Athanasios Douzenis",
+        "publisher": "Annals of General Psychiatry",
+        "year": 2014,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3991897/",
+        "type": "scholarly",
+        "supports": "Healing by incubation in Asclepius's temples: patients slept to experience healing dreams.",
+        "quote": "There, the afflicted person slept or tranced to experience healing dreams or visions."
       }
     ],
     "further": [
@@ -440,20 +464,20 @@
     "name": "Spontaneous generation",
     "summary": "The belief that flies, worms and later microbes arise from mud, rot or broth. It took two centuries of experiments, ending with Pasteur's flasks, to kill it.",
     "body": [
-      "Maggots appear on rotting meat, worms in mud, mould on bread. For most of history the obvious conclusion was that such creatures arose from decaying matter itself. Aristotle, in fourth-century BCE Greece, gave the idea philosophical standing, ending his account of animal generation with creatures that arise 'spontaneously' rather than from parents. It mattered to medicine because it made rot creative: when Girolamo Fracastoro described seeds of contagion in 1546, he imagined them as spontaneously generated in certain kinds of putrefaction.",
-      "The challenge came by experiment. In 1668 Francesco Redi published evidence against spontaneous generation in insects, then a widely accepted Aristotelian idea, concluding that they were born from eggs laid by their mothers. But the microscope opened a new frontier. The animalcules teeming in infusions of plant and animal matter seemed to show that at least the smallest life still arose unbidden. Lazzaro Spallanzani repeated the infusion experiments of Needham and Buffon, showed their techniques were inadequate, and published his refutation in 1765. The argument was not settled.",
-      "It came to a head in France, where Félix Pouchet defended spontaneous generation in *Hétérogénie* (1859). Through the early 1860s Louis Pasteur answered with experiments, including swan-necked flasks that let in air but not dust or airborne microbes: sterilized broth stayed lifeless. The result reached far beyond biology. If microbes came only from other microbes, they could be traced, killed and kept out, the premise on which germ theory, antiseptic surgery and sterile technique were built."
+      "Worms and other creatures seemed simply to emerge from decaying plants and animals. For most of history the obvious conclusion was that such creatures arose from decaying matter itself. Aristotle, in fourth-century BCE Greece, discussed them in his *Generation of Animals*, in a closing account of animals that are not sexually generated, including those that arise 'spontaneously'. It mattered to medicine because it made rot creative: when Girolamo Fracastoro described seeds of contagion in 1546, he imagined them as spontaneously generated in certain kinds of putrefaction.",
+      "The challenge came by experiment. In 1668 Francesco Redi completed a work giving experimental evidence against spontaneous generation in insects, then a widely accepted Aristotelian idea, concluding that they were born from eggs laid by their mothers. But the microscope opened a new frontier. Needham and Buffon described the genesis of animalcules in infusions of plant and animal matter, which seemed to show that at least the smallest life still arose unbidden. Lazzaro Spallanzani carefully replicated their experiments, showed their techniques were inadequate, and published his refutation in 1765. The argument was not settled.",
+      "It came to a head in France, where Félix Pouchet defended spontaneous generation in *Hétérogénie* (1859). Through the early 1860s Louis Pasteur answered with experiments, including swan-necked flasks that let in air but not dust or airborne microbes: sterilized broth stayed lifeless. The result reached beyond biology: Pasteur argued that microorganisms travel through the air to the things they spoil, and that line of work gave his germ theory strong support."
     ],
     "status": "abandoned",
     "born": {
       "year": -340,
-      "display": "4th century BCE (Aristotle)",
+      "display": "by the 4th century BCE (Aristotle's writings)",
       "confidence": "agreed"
     },
     "died": {
       "year": 1870,
-      "display": "1860s–1870s",
-      "confidence": "agreed"
+      "display": "1860s (Pasteur's experiments)",
+      "confidence": "uncertain"
     },
     "spans": [
       {
@@ -476,7 +500,7 @@
     ],
     "confidence": {
       "claim": "firm",
-      "note": "The key experiments of Redi, Spallanzani and Pasteur are dated by their publications. Pasteur did not end all debate at once; some defenders held out into the 1870s, so the end date is approximate."
+      "note": "The key experiments of Redi, Spallanzani and Pasteur are dated by their publications. The belief is older than Aristotle's text, and none of the sources used here says when the last defenders gave up, so the end date is approximate."
     },
     "related": [
       "microscope",
@@ -491,7 +515,7 @@
         "publisher": "Stanford Encyclopedia of Philosophy",
         "url": "https://plato.stanford.edu/entries/aristotle-biology/",
         "type": "reference",
-        "supports": "Aristotle's Generation of Animals discusses animals that arise spontaneously.",
+        "supports": "Aristotle's Generation of Animals closes its main discussion with animals that are not sexually generated, including those that arise 'spontaneously'.",
         "quote": "closes with a discussion of animals that are not sexually generated, including those that arise ‘spontaneously.’"
       },
       {
@@ -544,29 +568,29 @@
   {
     "id": "qi-channels",
     "name": "Qi and the channels",
-    "summary": "Health as the smooth flow of qi through channels linking organs, body and cosmos: the framework of Chinese medicine for two thousand years, and still in daily use.",
+    "summary": "Health as the smooth flow of qi through channels linking organs, body and cosmos: the framework of Chinese medicine for two thousand years, and still in use today.",
     "body": [
       "Chinese medicine built its picture of the body from ideas it shared with Chinese philosophy: *qi*, the stuff of which bodies and the world are made; yin and yang, paired and complementary forces; and the Five Agents, or *wuxing*. Warring States texts already tied qi, yin and yang to health and long life, and the *Zhuangzi* says that human birth is caused by the gathering together of qi.",
-      "Manuscripts from a tomb at Mawangdui, dated to 169 BCE, show a developed medical literature before the great synthesis. The *Huangdi neijing*, the Inner Classic of the Yellow Emperor, a complex and many-layered text probably compiled in the first century BCE, set out a systematic medical cosmology in which the body mirrored the state and the heavens. Health came from the balance of yin and yang, and qi flowed through channels, often called meridians in English, that linked the body's surface to its organs and their functions. This was not anatomy in the Western sense and did not try to be. It guided diagnosis by the pulse and treatment with needles, moxa and drugs.",
-      "The framework travelled. Buddhist priests carried Chinese medicine to Korea and Japan before the sixth century, and it spread more widely under the Tang. It survived the arrival of Western medicine, with early twentieth-century reformers such as Zhang Xichun insisting that philosophy was its very basis. Acupuncture has gained popularity worldwide since the 1970s, and research continues into what it can and cannot do."
+      "Manuscripts from a tomb at Mawangdui, dated to 169 BCE, show a developed medical literature before the great synthesis. The *Huangdi neijing*, the Inner Classic of the Yellow Emperor, a complex and many-layered text probably compiled in the first century BCE, set out a systematic medical cosmology in which the body mirrored the state and the heavens. Health came from the balance of yin and yang, and qi flowed through channels, often called meridians in English, that linked the body's surface to its organs and their functions. This was not anatomy in the Western sense and did not try to be. It shaped practice: the seventh-century physician Sun Simiao's compendium, for example, has chapters on pulse diagnosis, acumoxa (acupuncture and moxibustion combined) and herbal recipes.",
+      "The framework traveled. Buddhist priests carried Chinese medicine to Korea and Japan before the sixth century, and it spread more widely under the Tang. It survived the arrival of Western medicine, with early twentieth-century reformers such as Zhang Xichun insisting that philosophy was its very basis. Acupuncture has gained popularity worldwide since the 1970s, and research continues into what it can and cannot do."
     ],
     "status": "living",
     "born": {
-      "year": -200,
-      "display": "3rd–1st centuries BCE",
+      "year": -250,
+      "display": "Warring States period, by the 3rd century BCE",
       "confidence": "uncertain"
     },
     "died": null,
     "spans": [
       {
         "stream": "east-asia",
-        "from": -200,
+        "from": -250,
         "to": 2026
       }
     ],
     "confidence": {
       "claim": "agreed",
-      "note": "Excavated manuscripts and the Inner Classic securely place the system's formation in the last centuries BCE, but the Inner Classic is a layered compilation and its exact date is debated. Claims of a much older origin rest on tradition."
+      "note": "Warring States texts and the excavated Mawangdui manuscripts place the ideas' formation in the last centuries BCE, but the Inner Classic is a layered compilation and its exact date is debated, so the birth date is a broad estimate. Claims of a much older origin rest on tradition."
     },
     "related": [
       "mawangdui-manuscripts",
@@ -584,7 +608,7 @@
         "year": 2020,
         "url": "https://plato.stanford.edu/entries/chinese-phil-medicine/",
         "type": "reference",
-        "supports": "Shared theories of qi, yin-yang and wuxing; the Zhuangzi on qi; the Huangdi neijing probably compiled in the 1st century BCE; Zhang Xichun as an early 20th-century reformer.",
+        "supports": "Shared theories of qi, yin-yang and wuxing in Warring States texts; the Zhuangzi on qi; analogies between body, state and cosmos; the Huangdi neijing probably compiled in the 1st century BCE; Sun Simiao's chapters on pulse diagnosis and acumoxa; Zhang Xichun as an early 20th-century reformer.",
         "quote": "New systematic medical theories based on these ideas were systematized in a cosmological framework in the Huang Di neijing , a complex and multi-layered text, probably compiled in the first century BCE"
       },
       {
@@ -624,13 +648,13 @@
     "summary": "Ayurveda's theory that three doshas, vata, pitta and kapha, govern the body and that illness is their imbalance: ancient, hard to date, and very much alive.",
     "body": [
       "Ayurveda describes the body through three *doshas*, vata, pitta and kapha, which are formed in varying combinations from five elements: air, water, space, earth and fire. Each governs a set of functions. In one modern summary, vata keeps things moving and eliminates waste, pitta regulates body heat, hunger and thirst, and kapha lubricates the joints, while catabolism, metabolism and anabolism are assigned to the three in turn. Health is a balance among them, and an imbalance between the three is a state of disease. Alongside the doshas sit seven bodily tissues and three waste products.",
-      "The classic statements are the great Sanskrit compendia. The *Charaka Samhita*, compiled by Agnivesha and edited by Charaka, covers the whole of Ayurvedic medicine, and the *Sushruta Samhita* covers surgery; both are still used by practitioners and have been carried into Tibetan, Arabic, Persian and other languages. Their dates are much debated, and so the birth of the idea can be placed only roughly. Writers often translate the doshas as 'humours', and the comparison with Greek humoral theory is tempting, though the two systems count and define their elements differently.",
-      "Unlike Europe's humours, the doshas never lost their institutional home. Ayurveda remains one of India's traditional health care systems, and about 240,000 American adults use it. In 2022 the government of India committed USD 250 million to a WHO Global Centre for Traditional Medicine. Rigorous evidence is thin, however, and some Ayurvedic preparations have been found to contain toxic amounts of lead, mercury or arsenic."
+      "The classic statements are the great Sanskrit compendia. The *Charaka Samhita*, which tradition says Agnivesha compiled and Charaka edited, covers the whole of Ayurvedic medicine, and the *Sushruta Samhita* covers surgery; both are still used by practitioners and have been carried into Tibetan, Arabic, Persian and other languages. Their dates are not firmly known (one review places the beginnings of Ayurveda in the 2nd century BCE), so the birth of the idea can be placed only roughly. Writers often translate the doshas as 'humors', and the comparison with Greek humoral theory is tempting, though Greek theory counted four humors and Ayurveda three.",
+      "Unlike Europe's humors, the doshas never lost their institutional home. Ayurveda remains one of India's traditional health care systems, and the National Center for Complementary and Integrative Health estimates that about 240,000 American adults use it. In 2022 the government of India committed USD 250 million to a WHO Global Centre for Traditional Medicine. Rigorous evidence is thin, however, and some Ayurvedic preparations have been found to contain toxic amounts of lead, mercury or arsenic."
     ],
     "status": "living",
     "born": {
       "year": -200,
-      "display": "by c. 200 BCE–200 CE",
+      "display": "c. 2nd century BCE (one review); texts later",
       "confidence": "uncertain"
     },
     "died": null,
@@ -661,7 +685,7 @@
         "year": 2017,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5198827/",
         "type": "scholarly",
-        "supports": "Five elements forming three doshas; their functions; balance as health and imbalance as disease; tissues and wastes; Charaka and Sushruta compendia and their translations; Ayurveda dated from the 2nd century BCE.",
+        "supports": "Five elements forming three doshas; their functions; balance as health and imbalance as disease; tissues and wastes; the three humors as Tridoshas.",
         "quote": "The three humors; Vata dosha , Pitta dosha and Kapha dosha are collectively called as “ Tridoshas ” and they control the basic physiological functions of the body"
       },
       {
@@ -671,7 +695,7 @@
         "year": 2017,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5198827/",
         "type": "scholarly",
-        "supports": "Charaka Samhita compiled by Agnivesha, edited by Charaka; Sushruta Samhita on surgery; still used by practitioners.",
+        "supports": "Charaka Samhita compiled by Agnivesha and edited by Charaka, Sushruta Samhita on surgery; both still used; available in Tibetan, Greek, Chinese, Arabic and Persian; Ayurveda dated from the 2nd century BCE.",
         "quote": "Charaka Samhita describes all aspects of Ayurvedic medicine and Sushruta Samhita describes the Science of Surgery."
       },
       {
@@ -703,9 +727,9 @@
     "summary": "Opening the dead to learn how bodies are built: tried at Alexandria, then abandoned for some fifteen centuries before returning in medieval Italy.",
     "body": [
       "In early third-century BCE Alexandria, under the first Ptolemies, Herophilus and Erasistratus did something possibly unique in the Greek world: they systematically cut open human bodies. Alexandria offered an environment in which dissecting the dead did not meet with general disapproval, and Herophilus used it to distinguish the cerebrum from the cerebellum and trace nerves from the brain and spinal cord. The Roman writer Celsus later reported that the two men had also opened living criminals supplied by the kings, a charge that cannot now be checked.",
-      "Then the practice stopped. By Galen's time, in the second century CE, dissection even at Alexandria was restricted to animals, and Galen's animal-based anatomy became the authority for well over a millennium.",
-      "Human dissection returned in the universities of northern Italy. Bodies were opened to find the cause of death from the 1280s, and in Bologna in 1315 or 1316 Mondino de' Luzzi anatomized a woman's corpse; his *Anatomia*, completed in 1316 and apparently meant to be read aloud while others did the cutting, dominated teaching for two hundred years. In 1543 Vesalius's *Fabrica*, built on his own careful dissections, began to correct Galen.",
-      "A popular story holds that the medieval Church forbade dissection. It issued no general ban. Pope Boniface VIII's bull of 1299 forbade dismembering corpses and reducing them to bones, a funerary custom, was not aimed at anatomy and had no significant impact on it in Italy. The larger obstacles were the scarcity of bodies and public revulsion, which made the supply of corpses a recurring scandal into the nineteenth century."
+      "Then the practice stopped. By Galen's time, in the second century CE, dissection even at Alexandria was restricted to animals.",
+      "Human dissection returned in the universities of northern Italy. The first recorded case in Italy of a body opened to find the cause of death dates to 1286, and in Bologna in 1315 or 1316 Mondino de' Luzzi anatomized a woman's corpse; his *Anatomia*, completed in 1316 and apparently meant to be read aloud while others did the cutting, dominated teaching for two hundred years. In 1543 Vesalius's *Fabrica*, built on his own careful dissections, confirmed some of Galen's teachings and refuted many others.",
+      "A popular story holds that the medieval Church forbade dissection. It issued no general ban. Pope Boniface VIII's bull of about 1299 forbade manipulating corpses and reducing them to bones. It was aimed at a trade in the bones of soldiers killed in the Holy Wars, not at anatomy, and had no significant impact on anatomical work in Italy, though it did halt dissection in some other European countries. The larger obstacles were public condemnation and a shortage of bodies, which pushed anatomists toward grave robbing and body snatching."
     ],
     "status": "established",
     "born": {
@@ -722,7 +746,7 @@
       },
       {
         "stream": "europe",
-        "from": 1300,
+        "from": 1286,
         "to": 1860
       },
       {
@@ -733,7 +757,7 @@
     ],
     "confidence": {
       "claim": "agreed",
-      "note": "The Alexandrian dissections are known only from later writers such as Celsus and Galen, and the vivisection charge cannot be verified. The medieval revival is well documented, though whether Mondino cut with his own hands is debated, and accounts differ between 1315 and January 1316 for his best-known dissection."
+      "note": "The Alexandrian dissections are known only from later writers such as Celsus and Galen, and the vivisection charge cannot be verified. The medieval revival is well documented, though whether Mondino cut with his own hands is debated, and sources differ on the date of his best-known dissection: 1315 in one review, January 1316 in the Dictionary of Scientific Biography."
     },
     "related": [
       "alexandria-dissection",
@@ -784,7 +808,7 @@
         "year": 2015,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4582158/",
         "type": "scholarly",
-        "supports": "Boniface VIII's 1299 bull was not aimed at dissection and had little effect in Italy; autopsies recorded from 1286; Mondino's public dissection in Bologna; public condemnation as the main obstacle.",
+        "supports": "Boniface VIII's bull of about 1299 was not meant to impede dissection and had no significant impact in Italy; first recorded Italian case of a body opened to find the cause of death in 1286; Mondino's dissection in Bologna in 1315 (this source); public condemnation as the main obstacle; grave robbing and body snatching.",
         "quote": "It was not meant to impede human dissection and although it stopped the practice of dissection in some of the European countries, did not have any significant impact on the anatomical activities in Italy"
       },
       {
@@ -807,14 +831,14 @@
     "summary": "The idea that specific living microbes cause specific diseases: guessed at in Rome, argued for in 1546, and proved in the laboratory between the 1860s and 1880s.",
     "body": [
       "The notion of invisible living agents of disease is old. In the first century BCE the Roman scholar Varro, writing in his eightieth year, warned farmers that swamps bred minute creatures too small to be seen, which floated in the air and entered the body through the mouth and nose to cause serious diseases. In 1546 the physician Girolamo Fracastoro of Verona, in *De contagione*, described seeds of contagion (*seminaria*) that spread by direct contact, through objects such as clothing and sheets, or at a distance.",
-      "These were speculations, and historians resist making Fracastoro a prophet of microbiology. He could not clearly distinguish living from non-living particles and imagined his seeds arising spontaneously in putrefaction. For three centuries contagion competed with miasma, and in the mid-1800s many people still blamed bad air.",
-      "Proof came from the laboratory. Louis Pasteur showed that fermentation was the work of living organisms, attacked spontaneous generation through the early 1860s, and argued that microbes also caused infectious disease. He was not the first to say so, but his experiments gave the theory strong support. Robert Koch, a country doctor whose microscope was a gift from his wife, showed that the anthrax bacillus caused anthrax, published in 1876, laid down conditions for proving that a particular bacterium causes a particular disease, and in 1882 published his work on the tubercle bacillus. By the 1880s the theory was established, and it remade surgery, public health and the search for vaccines and drugs."
+      "These were speculations. One scholarly account calls it difficult, perhaps impossible, to establish whether Fracastoro foresaw microbes: he could not clearly distinguish organic from inorganic, and he imagined his seeds arising spontaneously in putrefaction. In the mid-1800s many people still blamed bad air.",
+      "Proof came from the laboratory. Louis Pasteur showed that fermentation was the work of living organisms, attacked spontaneous generation through the early 1860s, and argued that microbes also caused infectious disease. He was not the first to say so, but his experiments gave the theory strong support. Robert Koch, a country doctor whose microscope was a gift from his wife, showed that the anthrax bacillus caused anthrax, work published in 1876, and in 1882 published his work on the tubercle bacillus, which he had grown in pure culture. Pasteur, meanwhile, moved on to vaccines made from weakened disease-causing agents. Together this work won broad acceptance for the theory, which went on to reshape surgery, public health and the search for vaccines and drugs."
     ],
     "status": "established",
     "born": {
       "year": 1546,
-      "display": "1546 (Fracastoro)",
-      "confidence": "firm"
+      "display": "1546 (Fracastoro's seeds of contagion; proof came later)",
+      "confidence": "disputed"
     },
     "died": null,
     "spans": [
@@ -831,7 +855,7 @@
     ],
     "confidence": {
       "claim": "firm",
-      "note": "The laboratory proofs of the 1860s–1880s are thoroughly documented. How much Fracastoro or Varro anticipated modern microbes is a matter of interpretation; their particles were not microorganisms in the modern sense."
+      "note": "The laboratory work of the 1860s–1880s is thoroughly documented. Whether Fracastoro or Varro anticipated modern microbes is a matter of interpretation (one scholarly account calls it impossible to establish), so the 1546 birth date is a convention, not a firm fact."
     },
     "related": [
       "fracastoro",
@@ -864,7 +888,7 @@
         "publisher": "Complete Dictionary of Scientific Biography, via Encyclopedia.com",
         "url": "https://www.encyclopedia.com/people/medicine/medicine-biographies/girolamo-fracastoro",
         "type": "reference",
-        "supports": "De contagione (1546); three modes of contagion; scholarly caution about whether he foresaw microbes.",
+        "supports": "De contagione (1546); three modes of contagion (contact, fomites such as clothing and sheets, at a distance); scholarly caution about whether he foresaw microbes.",
         "quote": "He discussed this situation in De contagione et contagiosis morbis et curatione (On Contagion, Contagious Diseases , and Their Cure, 1546)"
       },
       {
@@ -880,7 +904,7 @@
         "publisher": "NobelPrize.org",
         "url": "https://www.nobelprize.org/prizes/medicine/1905/koch/biographical/",
         "type": "institutional",
-        "supports": "Koch's anthrax work (published 1876), his microscope from his wife, Koch's postulates, and the 1882 tubercle bacillus paper.",
+        "supports": "Koch's anthrax work (published by Cohn in 1876), his microscope from his wife, pure culture, and the 1882 tubercle bacillus paper.",
         "quote": "Some two years after his arrival in Berlin Koch discovered the tubercle bacillus and also a method of growing it in pure culture. In 1882 he published his classical work on this bacillus."
       }
     ],
@@ -893,11 +917,11 @@
   {
     "id": "fair-tests",
     "name": "Fair tests of treatments",
-    "summary": "Comparing like with like to see whether a treatment works: from Lind's scurvy sailors in 1747 to the randomised trial that became medicine's standard of proof.",
+    "summary": "Comparing like with like to see whether a treatment works: from Lind's scurvy sailors in 1747 to the randomized trials of the twentieth century.",
     "body": [
       "For most of history a treatment's reputation rested on authority and on patients who seemed to get better. The fair test asks a harder question: better than what? Earlier precursors are often claimed, with varying justice. The Book of Daniel describes captive youths on a vegetable diet faring better than Babylonians on the king's food. Ibn Sina, around 1012, wrote that a drug's potency could be learned with certainty by experiment under stated conditions. In the seventeenth century Jan Baptist van Helmont dared the humoral physicians to take 200 or 500 fever patients, divide them by casting lots, and count the funerals. It was a challenge, not a trial.",
-      "In May 1747, aboard the *Salisbury*, the naval surgeon James Lind took twelve sailors with scurvy, as similar as he could find them, housed and fed them alike, and compared six remedies. Oranges and lemons worked fastest. Lind is rightly remembered, but he did not draw the clear lesson later credited to him, and his later writings still promoted other remedies. In 1835 Pierre Louis used numbers to question bloodletting in pneumonia, and others counted outcomes through the nineteenth century.",
-      "The decisive refinement was concealed random allocation. In the British Medical Research Council's 1948 trial of streptomycin for pulmonary tuberculosis, chance decided who received the drug, and those enrolling patients could not know the next assignment in advance. Its report became a methodological landmark, and the randomised controlled trial became the yardstick by which new treatments are judged."
+      "In May 1747, aboard the *Salisbury*, the naval surgeon James Lind took twelve sailors with scurvy, as similar as he could find them, housed and fed them alike, and compared six remedies. Oranges and lemons worked fastest. Lind is rightly remembered, but he did not draw the clear lesson later credited to him, and his later writings still promoted other remedies. In 1835 Pierre Louis used numbers to question bloodletting in pneumonia, concluding that his figures set narrow limits to its usefulness.",
+      "The decisive refinement was concealed random allocation. In the British Medical Research Council's trial of streptomycin for pulmonary tuberculosis, begun in 1946 and reported in 1948, chance decided who received the drug, and those enrolling patients were not told the allocation schedule in advance. Its report became a methodological landmark, a model of meticulous design that later controlled trials could follow."
     ],
     "status": "established",
     "born": {
@@ -920,7 +944,7 @@
     ],
     "confidence": {
       "claim": "firm",
-      "note": "Lind's trial and the 1948 MRC trial are documented in their published reports. Calling Lind's comparison the beginning is a convention: earlier proposals and comparisons existed, and Lind himself drew cautious conclusions."
+      "note": "Lind's trial and the Medical Research Council streptomycin trial are documented in their published reports. Calling Lind's comparison the beginning is a convention: earlier proposals and comparisons existed, and Lind himself drew cautious conclusions."
     },
     "related": [
       "lind-scurvy",
@@ -954,7 +978,7 @@
         "publisher": "James Lind Library",
         "url": "https://www.jameslindlibrary.org/medical-research-council-1948/",
         "type": "primary",
-        "supports": "Concealed random allocation in the 1948 MRC streptomycin trial; methodological landmark.",
+        "supports": "Concealed random allocation in the Medical Research Council streptomycin trial (report of 1948); methodological landmark.",
         "quote": "concealed random allocation was used to generate comparison groups in the British Medical Research Council’s celebrated multicentre controlled trial of streptomycin in patients with pulmonary tuberculosis"
       },
       {
@@ -980,6 +1004,16 @@
         "type": "institutional",
         "supports": "The Book of Daniel's comparison of diets, often cited as a precursor.",
         "quote": "Comparing the children of Israel with the Babylonian youths suggested that the vegetarian diet was healthier."
+      },
+      {
+        "title": "Evolution of Clinical Research: A History Before and Beyond James Lind",
+        "author": "Arun Bhatt",
+        "publisher": "Perspectives in Clinical Research",
+        "year": 2010,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3149409/",
+        "type": "scholarly",
+        "supports": "The streptomycin trial was carried out in 1946 and was a landmark model of meticulous design and implementation.",
+        "quote": "This landmark trial was a model of meticulousness in design and implementation, with systematic enrolment criteria and data collection compared with the ad hoc nature of other contemporary research."
       }
     ],
     "further": [
@@ -993,8 +1027,8 @@
     "summary": "Deliberately giving a mild infection to prevent a deadly one: a folk practice across Asia, Africa and Europe that became variolation, then vaccination.",
     "body": [
       "Smallpox survivors did not catch it again, and people in many places learned to use the fact. The earliest written discussion of variolation in China appears in a book first published in 1549, and later Chinese manuals describe blowing smallpox material up a child's nose. In eighteenth-century Bengal, English residents watched itinerant Brahmins prick smallpox matter into the skin; claims that ancient Sanskrit texts describe the practice are not borne out by the texts. In Wales, where it was called buying the pocks, it was apparently in use by about 1600.",
-      "Learned Europe heard of it from the Ottoman world and from Africa. In 1714 a letter from Emanuel Timonius in Constantinople was read to the Royal Society, and in Boston Cotton Mather learned of inoculation from Onesimus, an enslaved African man in his household, who showed him the scar it had left. Lady Mary Wortley Montagu, wife of the British ambassador in Constantinople, described old women who opened a vein with a needle and inserted matter from a nutshell. She had her son inoculated there, and in April 1721, back in England, her daughter. The first inoculations in Britain and Massachusetts followed that year.",
-      "Variolation was far safer than natural smallpox but could still kill. Edward Jenner's use of cowpox, first tried on James Phipps in 1796 and published in 1798, removed that danger, and Pasteur later generalized the principle by weakening disease-causing microbes in the laboratory. The line from the old women of Constantinople runs to the eradication of smallpox."
+      "Learned Europe heard of it from the Ottoman world and from Africa. In 1714 a letter from Emanuel Timonius in Constantinople was read to the Royal Society, and in Boston Cotton Mather learned of inoculation from Onesimus, an enslaved African man in his household, who showed him the scar it had left. Lady Mary Wortley Montagu, wife of a British diplomat in Constantinople, described old women who opened a vein with a needle and inserted matter from a nutshell. She had her son inoculated there, and in April 1721, back in England, her daughter. The first inoculations in Britain and Massachusetts followed that year.",
+      "Variolation was considered safe and effective, though deaths, rare, were recorded. Edward Jenner's use of cowpox, first tried on James Phipps in 1796 and published in 1798, began the era of vaccination, and Pasteur later generalized the principle by weakening disease-causing microbes in the laboratory. Vaccination led ultimately to the eradication of smallpox."
     ],
     "status": "established",
     "born": {
@@ -1016,12 +1050,12 @@
       },
       {
         "stream": "islamic",
-        "from": 1660,
+        "from": 1650,
         "to": 1900
       },
       {
         "stream": "africa",
-        "from": 1700,
+        "from": 1707,
         "to": 1900
       },
       {
@@ -1102,9 +1136,9 @@
     "name": "Eugenics",
     "summary": "The movement to 'improve' human heredity by controlling who had children: respectable science for half a century, it licensed forced sterilization and fed Nazi murder.",
     "body": [
-      "Francis Galton, a statistician and cousin of Charles Darwin, coined the word eugenics in 1883 and defined it as the study of agencies under social control that may improve or impair the racial qualities of future generations. He and his followers held that health and disease, intellect and character were largely inherited, and that a society could plan its breeding as farmers planned theirs. The idea borrowed the prestige of statistics and heredity, and drew strength from the racism, antisemitism, xenophobia and imperialism of its age.",
+      "Francis Galton, a statistician and half-cousin of Charles Darwin, coined the word eugenics in 1883 and defined it as the study of agencies under social control that may improve or impair the racial qualities of future generations. He and his followers held that health and disease, intellect and character were largely inherited, and that a society could plan its breeding as farmers planned theirs. The idea borrowed the prestige of statistics and heredity, and drew strength from the racism, antisemitism, xenophobia and imperialism of its age.",
       "In the early twentieth century eugenics was mainstream, backed by anthropologists, geneticists, social reformers and public health officials. In the United States, laws in 30 states led to the involuntary sterilization of at least 60,000 people judged unfit or feebleminded. In 1927, in *Buck v. Bell*, the Supreme Court ruled eight to one that Virginia could sterilize Carrie Buck. Nazi Germany took the logic furthest: a campaign of forced sterilization with at least 400,000 victims, and the killing of at least 70,000 disabled adults and 5,200 children, on the road to the Holocaust.",
-      "After 1945 the word became an embarrassment, but the practices lingered. North Carolina's Eugenics Board, created in 1933, approved the sterilization of an estimated 7,600 people before it was dissolved in the late 1970s, and some survivors were compensated by the state in the 2010s. Debates over prenatal screening and embryo selection keep the history in view."
+      "Eugenic practices such as involuntary sterilization and forced institutionalization were common in many US states until at least the 1970s, and the National Human Genome Research Institute says that in some instances they have continued in various forms. North Carolina's Eugenics Board, created in 1933, approved the sterilization of an estimated 7,600 people before it was dissolved in the late 1970s, and some survivors were compensated by the state in the 2010s. Debates over prenatal screening and embryo selection keep the history in view."
     ],
     "status": "abandoned",
     "born": {
@@ -1114,8 +1148,8 @@
     },
     "died": {
       "year": 1977,
-      "display": "1970s",
-      "confidence": "agreed"
+      "display": "late 1970s (end of US state programs; some practices persist)",
+      "confidence": "uncertain"
     },
     "spans": [
       {
@@ -1127,13 +1161,11 @@
     ],
     "confidence": {
       "claim": "firm",
-      "note": "The movement, its laws and court cases are thoroughly documented. Victim counts are minimums drawn from incomplete records, and eugenic practices did not end on a single date; some continued in other forms."
+      "note": "The movement, its laws and court cases are thoroughly documented. Victim counts are stated by the sources as minimums, and the movement did not end on a single date: the end year marks the close of North Carolina's board, while some eugenic practices have continued in other forms."
     },
     "related": [
       "eugenics",
-      "mendel",
-      "nuremberg-code",
-      "tuskegee"
+      "nuremberg-code"
     ],
     "sources": [
       {
@@ -1151,7 +1183,7 @@
         "publisher": "National Human Genome Research Institute",
         "url": "https://www.genome.gov/about-genomics/fact-sheets/Eugenics-and-Scientific-Racism",
         "type": "institutional",
-        "supports": "Galton's definition; supporters; roots in racism and xenophobia; US sterilizations; continuing debates over screening.",
+        "supports": "Galton's definition; supporters; roots in racism, xenophobia and imperialism; US sterilizations; eugenic practices common until at least the 1970s and in some instances continuing; continuing debates over screening.",
         "quote": "which resulted in the involuntary sterilization of at least 60,000 people through 30 states’ laws by the 1970s"
       },
       {
@@ -1191,14 +1223,14 @@
     "summary": "The rule that patients and research subjects must freely agree, knowing the risks, to what is done to them: codified after medicine's worst abuses.",
     "body": [
       "The principle that a person must agree, knowingly and freely, to what is done to their body was made a rule of medical research by catastrophe. From November 1946 to 20 August 1947 an American military tribunal at Nuremberg tried 23 defendants, all but three of them physicians, for crimes that consisted largely of medical experiments performed on concentration camp inmates against their will. The judges acquitted seven, convicted sixteen and sentenced seven to death.",
-      "Their judgment set out ten principles for permissible experiments, now called the Nuremberg Code. The first is that the voluntary consent of the human subject is absolutely essential. The person must have legal capacity, be free of force, fraud, deceit or duress, and have sufficient knowledge and comprehension to make an understanding and enlightened decision. That last phrase is the seed of the word informed.",
-      "Writing a rule down did not make it practice. In the United States the Public Health Service's Tuskegee study, begun in 1932, followed 600 Black men without obtaining their informed consent and was shut down only in 1972, after information leaked to the public. The outcry produced the National Research Act of 1974, which required institutional review boards to approve human studies, and the Belmont Report, built on respect for persons, beneficence and justice. Today informed consent is standard practice for any medical procedure: a physician must explain what is proposed, its expected outcome and its risks."
+      "Their judgment set out ten principles for permissible experiments, now called the Nuremberg Code. The first is that the voluntary consent of the human subject is absolutely essential. The person must have legal capacity, be free of force, fraud, deceit or duress, and have sufficient knowledge and comprehension to make an understanding and enlightened decision. That last phrase anticipates what later came to be called informed consent.",
+      "Writing a rule down did not make it practice. In the United States the Public Health Service's Tuskegee study, begun in 1932, followed 600 Black men without obtaining their informed consent and was shut down only in 1972, after information leaked to the public. The outcry produced the National Research Act of 1974, which required institutional review boards to approve human studies, and the Belmont Report, built on respect for persons, beneficence and justice. Today informed consent is standard practice for any medical procedure and generally requires physicians to tell patients what is proposed, its expected outcome and its risks."
     ],
     "status": "established",
     "born": {
       "year": 1947,
       "display": "1947 (Nuremberg Code)",
-      "confidence": "firm"
+      "confidence": "agreed"
     },
     "died": null,
     "spans": [
@@ -1209,8 +1241,8 @@
       }
     ],
     "confidence": {
-      "claim": "firm",
-      "note": "The Nuremberg judgment and the US reforms of the 1970s are documented in official records. The current begins in 1947 because that is when consent was codified for research; earlier legal and administrative precedents existed but are not traced here."
+      "claim": "agreed",
+      "note": "The Nuremberg judgment and the US reforms of the 1970s are documented in official records. Starting the current in 1947 is a judgment: the Code is the best-known codification of consent in research, but earlier legal and ethical precedents, and the first use of the phrase 'informed consent', are not traced in the sources used here."
     },
     "related": [
       "nuremberg-code",
