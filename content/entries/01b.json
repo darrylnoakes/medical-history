@@ -1,0 +1,698 @@
+[
+  {
+    "id": "sakikku",
+    "title": "The Diagnostic Handbook (Sakikkû)",
+    "stream": "mesopotamia",
+    "tier": 2,
+    "date": {
+      "year": -1057,
+      "earliest": -1068,
+      "latest": -1047,
+      "display": "c. 1060 BCE (reign of Adad-apla-iddina)"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "agreed",
+      "note": "The date rests on a catalogue rubric, copied in the first millennium BCE, that credits the edition to Esagil-kin-apli under King Adad-apla-iddina (1068–1047 BCE); Geller calls him a scholar 'said to have lived' in the 11th century. The surviving tablets are later copies, and that he edited older omen collections rather than writing them is the scholarly consensus."
+    },
+    "place": "Babylonia (southern Iraq)",
+    "people": [
+      "Esagil-kin-apli (fl. 11th century BCE), chief scholar (ummânu) credited with the edition",
+      "Adad-apla-iddina (r. 1068–1047 BCE), king of Babylon"
+    ],
+    "themes": [
+      "texts",
+      "theory"
+    ],
+    "summary": "A Babylonian scholar is credited with weaving centuries of medical omens into 40 tablets that read the body from head to foot; many entries link an illness to a god, demon or ghost.",
+    "body": [
+      "Around 1060 BCE a Babylonian scholar named Esagil-kin-apli, chief scholar (*ummânu*) under King Adad-apla-iddina, is credited by a later catalogue note with a feat it calls unprecedented. The diagnostic omens of his day, the note says, were like twisted threads with no copy to consult. He wove them into a single edition of 40 tablets, arranged 'from cranium to feet', called *Sakikkû*, 'symptoms'.",
+      "Each entry runs on an if–then pattern: if the patient shows this sign, then this is the diagnosis or the outcome. Many entries add the 'hand' of a god, demon or ghost. Markham Geller reads that as an association with a deity rather than a cause; Nils Heeßel, whom he cites, takes it as the divine agent behind the illness. The opening tablets read omens met on the way to the bedside: a healer who passed a pig, a brick or a pregnant woman would probably find the patient would die. It predicted; treatment mostly lived in separate prescription texts.",
+      "How much of it was really his is doubtful. The credit comes from catalogue notes, and Geller treats him as a Babylonian counterpart to Hippocrates: one name that lent authority to a standardized body of texts, much as the Hippocratic name served for a corpus mostly written by anonymous authors."
+    ],
+    "links": [
+      {
+        "to": "asu-ashipu",
+        "kind": "see-also",
+        "note": "The diagnostic omens belonged to the exorcist's art as well as the physician's."
+      },
+      {
+        "to": "ashurbanipal-library",
+        "kind": "led-to",
+        "note": "Assyrian library editors followed an editorial method credited to Esagil-kin-apli."
+      },
+      {
+        "to": "hippocrates",
+        "kind": "see-also",
+        "note": "Another famous name attached to a corpus too big for one author."
+      }
+    ],
+    "sources": [
+      {
+        "title": "A Babylonian Hippocrates",
+        "author": "Markham J. Geller",
+        "publisher": "In U. Steinert (ed.), Assyrian and Babylonian Scholarly Text Catalogues (De Gruyter, 2018); UCL Discovery",
+        "year": 2018,
+        "url": "https://discovery.ucl.ac.uk/id/eprint/10050562/1/Geller_%5B9781501504914%20-%20Assyrian%20and%20Babylonian%20Scholarly%20Text%20Catalogues%5D%20A%20Babylonian%20Hippocrates.pdf",
+        "type": "scholarly",
+        "supports": "Esagil-kin-apli's title and 11th-century date; the 40-tablet total; the note on his edition 'from cranium to feet' and the twisted-threads rubric; the comparison with Hippocrates and the 'authority' of an attributed name.",
+        "quote": "only at the very end does the text mention that Sakikkû is composed of 40 tablets"
+      },
+      {
+        "title": "Alternative voices in Babylonian medicine",
+        "author": "Markham Geller",
+        "publisher": "Claroscuro 20 (2021); UCL Discovery",
+        "year": 2021,
+        "url": "https://discovery.ucl.ac.uk/10144838/7/Geller_Alternative%20voices%20in%20Babylonian%20Medicine_VoR.pdf",
+        "type": "scholarly",
+        "supports": "If–then logic; 'hand' of a deity read as association not cause (and Heeßel's opposing view); omens met on the way to the patient; therapeutic texts rarely offer prognoses.",
+        "quote": "if the healer encountered a pig or brick or pregnant woman while en route to the patient, this would probably indicate that the patient would die"
+      },
+      {
+        "title": "Loose Threads of Tradition: Two Late Hemerological Compilations",
+        "author": "Enrique Jiménez",
+        "publisher": "Journal of Cuneiform Studies 68 (2016); LMU Munich Open Access",
+        "year": 2016,
+        "url": "https://epub.ub.uni-muenchen.de/49553/1/Jimenez_Loose_Threads_of_Tradition.pdf",
+        "type": "scholarly",
+        "supports": "Dates of Adad-apla-iddina and the catalogue rubric crediting Esagil-kin-apli with a new edition of tangled texts.",
+        "quote": "a scholar who lived during the reign of the Isin II monarch Adad-apla-iddina (1068–1047 BCE)"
+      }
+    ],
+    "further": [
+      "geller-2010"
+    ]
+  },
+  {
+    "id": "ashurbanipal-library",
+    "title": "The Nineveh Medical Encyclopaedia",
+    "stream": "mesopotamia",
+    "tier": 3,
+    "date": {
+      "year": -650,
+      "earliest": -669,
+      "latest": -630,
+      "display": "7th century BCE (reign of Ashurbanipal)"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "agreed",
+      "note": "The tablets carry Ashurbanipal's library colophons, which fixes them to his reign. That the fragments form one twelve-part encyclopedia is a recent reconstruction based on a catalogue from Ashur; the original length (about 13,250 lines, of which some 43 percent survives) is an estimate."
+    },
+    "place": "Nineveh, Assyria (near modern Mosul, Iraq)",
+    "people": [
+      "Ashurbanipal (r. 669–c. 630 BCE), king of Assyria",
+      "Strahil Panayotov, Assyriologist who matched the Ashur catalogue to the Nineveh tablets"
+    ],
+    "themes": [
+      "texts",
+      "drugs"
+    ],
+    "summary": "Scribes of an Assyrian king compiled a medical encyclopedia of an estimated 13,000 lines, ordered from head to toe. Only recently did scholars realize the broken fragments were one work.",
+    "body": [
+      "In the 7th century BCE, scribes working for the Assyrian king Ashurbanipal assembled at Nineveh a vast handbook of remedies, now called the Nineveh Medical Encyclopaedia. Its twelve treatises, about fifty large two-column tablets and an estimated 13,000 lines, start with the head, eyes, ears and teeth and work down to the feet. The broken tablets long looked like a random collection; only when a catalogue from the city of Ashur was reconstructed did scholars see they followed one plan. Since 2020 the NinMed project at the British Museum has been rebuilding and translating it."
+    ],
+    "links": [
+      {
+        "to": "sakikku",
+        "kind": "built-on",
+        "note": "Its editors worked in the same editorial tradition the later catalogues credit to Esagil-kin-apli."
+      },
+      {
+        "to": "asu-ashipu",
+        "kind": "see-also",
+        "note": "The encyclopaedia is the physician's prescription literature at its fullest."
+      }
+    ],
+    "sources": [
+      {
+        "title": "“Weaving Together Loose Threads”: On the Serialisation of the Therapeutic Corpus at Nineveh",
+        "author": "Krisztián Simkó",
+        "publisher": "KASKAL n.s. 1 (2024), Edizioni Ca' Foscari",
+        "year": 2024,
+        "url": "https://edizionicafoscari.unive.it/media/pdf/article/kaskal/2024/1/art-10.30687-KASKAL-5235-1939-2024-01-018_Jc5gLE3.pdf",
+        "type": "scholarly",
+        "supports": "Twelve treatises, fifty chapters, two-column tablets, head-to-foot order, original line count estimated at 13,253 (5,757 preserved), assembled in Ashurbanipal's library.",
+        "quote": "With more than 13,000 lines, the Nineveh Medical Encyclopaedia represents a substantial piece of scholarly literature"
+      },
+      {
+        "title": "Introducing Assyrian medicine: healthcare fit for a king",
+        "publisher": "Wellcome (funded grant record)",
+        "year": 2019,
+        "url": "https://wellcome.org/research-funding/funding-portfolio/funded-grants/introducing-assyrian-medicine-healthcare-fit-king",
+        "type": "institutional",
+        "supports": "Ashurbanipal's dates; the encyclopaedia recognized only recently from the reconstructed catalogue; British Museum–UCL project.",
+        "quote": "the existence of the encyclopaedia has only recently been recognised thanks to the reconstruction and translation of an ancient medical catalogue"
+      },
+      {
+        "title": "Collections and context – Cuneiform medicine at Nineveh: The great NinMed project",
+        "publisher": "Know the Ancients blog, Freie Universität Berlin (reprinted from the British Museum Department of the Middle East Newsletter)",
+        "year": 2022,
+        "url": "https://blogs.fu-berlin.de/knowtheancients/2022/03/28/collections-and-context-cuneiform-medicine-at-nineveh-the-great-ninmed-project/",
+        "type": "institutional",
+        "supports": "NinMed running at the British Museum since 2020; Panayotov's link between the Ashur catalogue and the Nineveh tablets; the tablets once thought a random collection.",
+        "quote": "Instead of being a large but random collection, as it had seemed, the Nineveh medical tablets could now be shown to constitute a medical encyclopaedia"
+      }
+    ],
+    "further": [
+      "geller-2010"
+    ]
+  },
+  {
+    "id": "imhotep",
+    "title": "Imhotep, the physician who may not have been one",
+    "stream": "egypt",
+    "tier": 2,
+    "date": {
+      "year": -2650,
+      "earliest": -2690,
+      "latest": -2610,
+      "display": "c. 2650 BCE (reign of Djoser)"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "agreed",
+      "note": "Two inscriptions from his lifetime place Imhotep at the court of Djoser in the 3rd Dynasty, though absolute dates for that dynasty carry decades of uncertainty. None of the early evidence connects him with medicine; the earliest surviving health-related reference is of the 4th century BCE, and scholars disagree about whether Manetho already linked him to medicine."
+    },
+    "place": "Memphis and Saqqara, Egypt",
+    "people": [
+      "Imhotep (fl. 27th century BCE), official of King Djoser",
+      "Djoser (3rd Dynasty), king of Egypt",
+      "William Osler (1849–1919), physician who in 1921 called him the first physician to emerge from antiquity"
+    ],
+    "themes": [
+      "institutions",
+      "theory"
+    ],
+    "summary": "Imhotep was a real royal official. The healer-god, and the 'first physician' of modern textbooks, came more than two thousand years later.",
+    "body": [
+      "Imhotep was real. Two inscriptions from his own lifetime, one on the base of a statue of King Djoser, give his titles: royal seal-bearer, great of seers (a priest of Heliopolis) and overseer of sculptors. Those titles fit the tradition that he designed Djoser's Step Pyramid, Egypt's first monumental stone building, though no inscription says so, and one museum catalogue finds no evidence from Djoser's time. None calls him a physician.",
+      "His fame then grew for millennia. By the New Kingdom he was remembered as a sage and patron of scribes. In the Late Period he was worshipped near Memphis as a son of the god Ptah, and hundreds of bronze figurines show him seated with a papyrus on his lap. The earliest surviving health-related reference dates to the 4th century BCE, after which Greeks equated him with Asklepios.",
+      "William Osler, in lectures published in 1921, called him the first physician to stand out from the mists of antiquity. Part of that reputation may rest on an insertion. A fragment of Manetho credits a Third Dynasty king with medical skill that made Egyptians count him an Asklepios; a widely used English translation printed Imhotep's name into it. Patric Blomstedt and a newer translator reject that emendation, while Marina Escolano-Poveda reads Manetho as describing Imhotep as devoted to medicine."
+    ],
+    "myth": {
+      "tradition": "Imhotep was history's first great physician, the true 'father of medicine', and perhaps the author of the Edwin Smith surgical papyrus.",
+      "record": "Sources from his lifetime show an architect-official and priest. Nothing ties him to medicine for some two thousand years; the healer-god belongs to the Late Period and Greco-Roman Egypt."
+    },
+    "links": [
+      {
+        "to": "asclepius-cult",
+        "kind": "see-also",
+        "note": "Greeks identified the deified Imhotep with Asclepius."
+      },
+      {
+        "to": "edwin-smith-papyrus",
+        "kind": "see-also",
+        "note": "Breasted floated Imhotep as the surgical treatise's author, as pure conjecture."
+      },
+      {
+        "to": "first-named-physicians",
+        "kind": "see-also",
+        "note": "The Old Kingdom healers whose titles really do name them as physicians."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Imhotep: A Sage between Fiction and Reality",
+        "author": "Marina Escolano-Poveda",
+        "publisher": "American Research Center in Egypt",
+        "url": "https://arce.org/?p=2463",
+        "type": "scholarly",
+        "supports": "Two contemporary inscriptions and Imhotep's titles; Step Pyramid attribution; later veneration as sage, son of Ptah and Asklepios; hundreds of bronze figurines; Manetho read as describing Imhotep's devotion to medicine.",
+        "quote": "These titles call Imhotep the royal seal bearer and great of seers (priest of the temple of Heliopolis), as well as overseer of sculptors"
+      },
+      {
+        "title": "Imhotep and the Discovery of Cerebrospinal Fluid",
+        "author": "Patric Blomstedt",
+        "publisher": "Anatomy Research International (2014), via Europe PMC",
+        "year": 2014,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3972951/",
+        "type": "scholarly",
+        "supports": "No early sources link Imhotep to medicine; earliest health-related reference in the 30th Dynasty; identification with Asclepius; the inserted name in the Manetho fragment (and that a newer translation rejects it).",
+        "quote": "The earliest health-related reference is as late as the 30th dynasty (4th century BC), where he appears as a divine healer"
+      },
+      {
+        "title": "The Evolution of Modern Medicine (Silliman lectures, 1913)",
+        "author": "William Osler",
+        "publisher": "Yale University Press, 1921 (Internet Archive scan)",
+        "year": 1921,
+        "url": "https://archive.org/download/evolutionofmoder00osle/evolutionofmoder00osle_djvu.txt",
+        "type": "primary",
+        "supports": "Osler's claim that Imhotep was the first physician to emerge from antiquity (lectures given April 1913, published 1921).",
+        "quote": "Imhotep, the first figure of a physician to stand out clearly from the mists of antiquity"
+      },
+      {
+        "title": "Statuette of Imhotep, in bronze",
+        "publisher": "Sainsbury Centre, University of East Anglia",
+        "url": "https://sainsburycentre.ac.uk/?p=31087",
+        "type": "institutional",
+        "supports": "Late Period votive bronzes of Imhotep, son of Ptah, possibly offered with prayers for healing; no evidence from Djoser's time linking him to the Step Pyramid.",
+        "quote": "Imhotep is sometimes described as the architect of the Step Pyramid, but there is no evidence from the time of Djoser to link Imhotep to this monument"
+      }
+    ],
+    "further": [
+      "nunn-1996"
+    ],
+    "image": {
+      "commons": "File:Imhotep-Louvre.JPG",
+      "alt": "Small bronze statuette of a seated man in a skullcap holding an open papyrus scroll on his knees.",
+      "caption": "Bronze figurine of the deified Imhotep reading a papyrus, Ptolemaic period (332–30 BCE), Louvre E 4216, made more than two thousand years after his lifetime."
+    }
+  },
+  {
+    "id": "first-named-physicians",
+    "title": "The earliest healers known by name",
+    "stream": "egypt",
+    "tier": 3,
+    "date": {
+      "year": -2500,
+      "earliest": -2700,
+      "latest": -2300,
+      "display": "Old Kingdom, c. 2650–2300 BCE"
+    },
+    "confidence": {
+      "date": "uncertain",
+      "claim": "agreed",
+      "note": "Hesy-Ra, Iry and Peseshet are known from Old Kingdom inscriptions, but their exact reigns are not fixed in the sources used here, and it is debated whether Hesy-Ra was a practicing doctor. That Merit Ptah is a 1930s construction with no ancient evidence behind her is the conclusion of a peer-reviewed study."
+    },
+    "place": "Old Kingdom Egypt (Iry's tombstone is from Giza)",
+    "people": [
+      "Hesy-Ra (c. 2650 BCE), 'chief of dentists and doctors' under Djoser",
+      "Iry (Old Kingdom), palace physician",
+      "Peseshet (Old Kingdom), overseer of healer women",
+      "Kate Campbell Hurd-Mead, physician and medical historian who introduced 'Merit Ptah'",
+      "Jakub Kwiecinski, historian who traced the Merit Ptah story"
+    ],
+    "themes": [
+      "institutions",
+      "practice"
+    ],
+    "summary": "Egypt's tombs name some of the earliest known doctors, from a royal 'guardian of the anus' to Peseshet, overseer of healer women. Merit Ptah, the 'first woman doctor', never existed.",
+    "body": [
+      "The earliest healer known by name may be Hesy-Ra, 'chief of dentists and doctors' under King Djoser, though whether he practiced medicine or supervised healing at court is debated. Better documented is Iry, a court physician whose tombstone was found at Giza: head of the palace doctors, 'palace eye-physician' and 'palace physician of the belly', with the title 'guardian of the anus'. A woman, Peseshet, is named in her son's tomb as 'overseer of healer women'.",
+      "Merit Ptah, widely hailed as the first woman physician, is not real: Jakub Kwiecinski traced her to a 1930s misreading by the historian Kate Campbell Hurd-Mead."
+    ],
+    "myth": {
+      "tradition": "Merit Ptah, an Old Kingdom court physician, was the first woman doctor known to history.",
+      "record": "No woman physician of that name appears in the ancient record: the name occurs only as a tomb owner's wife in the New Kingdom. Kwiecinski argues the story began in the 1930s when Hurd-Mead garbled a report of Peseshet, a genuine 'overseer of healer women'."
+    },
+    "links": [
+      {
+        "to": "imhotep",
+        "kind": "see-also",
+        "note": "The famous name with no medical title, beside the obscure ones that have them."
+      },
+      {
+        "to": "edwin-smith-papyrus",
+        "kind": "see-also",
+        "note": "The surviving copy was made centuries after these specialists practiced."
+      }
+    ],
+    "sources": [
+      {
+        "title": "From Shamans to Priests of Sekhmet: A Review of the Literature in Search for the Origins of Ancient Egyptian Doctors",
+        "publisher": "Cureus (2024)",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11409832/",
+        "type": "scholarly",
+        "supports": "Hesy-Ra, chief of dentists and doctors under Djoser c. 2650 BCE; debate over whether he was a practicing doctor.",
+        "quote": "It is open to debate, therefore, if Hesy-Ra was a real doctor or a priest in charge of supervision of healing activities at the king's court"
+      },
+      {
+        "title": "The Edwin Smith Surgical Papyrus, vol. 1",
+        "author": "James Henry Breasted",
+        "publisher": "Oriental Institute Publications 3, University of Chicago, 1930 (ISAC open-access PDF)",
+        "year": 1930,
+        "url": "https://isac-assets.s3.amazonaws.com/isac-publications/oip3.pdf",
+        "type": "primary",
+        "supports": "Iry, Old Kingdom palace physician known from a tombstone at Giza, his titles as eye-physician and belly-physician, and his date relative to the 17th-century BCE copy.",
+        "quote": "This court physician, who bore the name of Iry, lived and died some eight hundred years before the surviving copy of our treatise was made"
+      },
+      {
+        "title": "Merit Ptah, “The First Woman Physician”: Crafting of a Feminist History with an Ancient Egyptian Setting (abstract)",
+        "author": "Jakub M. Kwiecinski",
+        "publisher": "Journal of the History of Medicine and Allied Sciences 75 (2020), record via Europe PMC",
+        "year": 2020,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31755919/",
+        "type": "scholarly",
+        "supports": "Merit Ptah as a 1930s invention by Hurd-Mead, based on a misread report of an authentic healer.",
+        "quote": "showing that Merit Ptah came into being in the 1930s when Kate Campbell Hurd-Mead misinterpreted a report about an authentic ancient Egyptian healer"
+      },
+      {
+        "title": "Ancient Egypt's Mythical Female Doctor Merit Ptah Helped 'Open Medicine and STEM to Women'",
+        "author": "Rosie McCall",
+        "publisher": "Newsweek",
+        "year": 2019,
+        "url": "https://www.newsweek.com/ancient-egypt-mythical-female-doctor-merit-ptah-open-medicine-stem-women-1477616",
+        "type": "news",
+        "supports": "Peseshet's title, her son's tomb, Merit Ptah's name appearing only as a New Kingdom tomb owner's wife, and Kwiecinski's argument that Peseshet was the source of the Merit Ptah confusion.",
+        "quote": "Peseshet is described as the \"Overseer of Healer Women,\" and came from the same time period as Merit Ptah"
+      }
+    ],
+    "further": [
+      "nunn-1996"
+    ]
+  },
+  {
+    "id": "kahun-papyrus",
+    "title": "The Kahun Gynecological Papyrus",
+    "stream": "egypt",
+    "tier": 3,
+    "date": {
+      "year": -1825,
+      "earliest": -2000,
+      "latest": -1750,
+      "display": "Middle Kingdom, c. 1825 BCE"
+    },
+    "confidence": {
+      "date": "uncertain",
+      "claim": "agreed",
+      "note": "Modern reviews date the papyrus to about 1825–1835 BCE (Middle Kingdom), while Breasted in 1930 thought the fragments perhaps as old as 2000 BCE, so the range is wide. Their content is clear, but how much older the treatise itself is cannot be known."
+    },
+    "place": "Kahun (Lahun), Egypt",
+    "people": [
+      "F. Ll. Griffith, Egyptologist who published the papyri in 1898"
+    ],
+    "themes": [
+      "texts",
+      "practice"
+    ],
+    "summary": "Scraps of a treatise on women's diseases from Kahun are among the oldest medical papyri, older than the famous Ebers and Edwin Smith rolls.",
+    "body": [
+      "Scanty remains of a treatise on diseases of women, found at Kahun (Lahun) and published by F. Ll. Griffith in 1898, are among the oldest surviving medical papyri. Modern reviews date the copy to about 1825–1835 BCE, in the Middle Kingdom; Breasted thought the fragments perhaps as old as 2000 BCE. Its 34 sections cover gynecology, conception and contraception, with non-surgical remedies such as fumigation, massage and pessaries. Breasted noted that, unlike the later Ebers Papyrus, it is a specialist work, and that, like the Edwin Smith Papyrus, it frames its cases with 'instructions'."
+    ],
+    "links": [
+      {
+        "to": "ebers-papyrus",
+        "kind": "see-also",
+        "note": "The larger compilation that came later."
+      },
+      {
+        "to": "edwin-smith-papyrus",
+        "kind": "see-also",
+        "note": "Shares the case-and-instructions format."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Edwin Smith Surgical Papyrus, vol. 1",
+        "author": "James Henry Breasted",
+        "publisher": "Oriental Institute Publications 3, University of Chicago, 1930 (ISAC open-access PDF)",
+        "year": 1930,
+        "url": "https://isac-assets.s3.amazonaws.com/isac-publications/oip3.pdf",
+        "type": "primary",
+        "supports": "The Kahun treatise on diseases of women, published by Griffith (1898), perhaps c. 2000 BCE per Breasted, as a specialist treatise unlike the large compilations; its use of the word for 'instructions'.",
+        "quote": "They include the scanty remains of a treatise on diseases of women, and fragments of a veterinary manual treating diseases of cattle"
+      },
+      {
+        "title": "Traditional ancient Egyptian medicine: A review",
+        "publisher": "Saudi Journal of Biological Sciences (2021)",
+        "year": 2021,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8459052/",
+        "type": "scholarly",
+        "supports": "Kahun papyrus copy dated 1825 BCE; 34 sections on gynecology, contraception and conception; non-surgical treatments.",
+        "quote": "The text contains 34 sections that deal with gynecology, contraception, and conception techniques"
+      },
+      {
+        "title": "Uterine prolapse: from antiquity to today",
+        "publisher": "Obstetrics and Gynecology International (2012)",
+        "year": 2012,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3236436/",
+        "type": "scholarly",
+        "supports": "Kahun papyrus dated ca. 1835 BCE (second modern date).",
+        "quote": "it is the falling of the womb,” (Kahun papyrus ca. 1835 B.C.E.)"
+      },
+      {
+        "title": "The Evolution of Modern Medicine (Silliman lectures, 1913)",
+        "author": "William Osler",
+        "publisher": "Yale University Press, 1921 (Internet Archive scan)",
+        "year": 1921,
+        "url": "https://archive.org/download/evolutionofmoder00osle/evolutionofmoder00osle_djvu.txt",
+        "type": "primary",
+        "supports": "The Kahun papyrus counted among the principal Egyptian medical papyri.",
+        "quote": "Others are the Kahun, Berlin, Hearst and British Museum papyri"
+      }
+    ],
+    "further": [
+      "nunn-1996"
+    ]
+  },
+  {
+    "id": "edwin-smith-papyrus",
+    "title": "The Edwin Smith Papyrus",
+    "stream": "egypt",
+    "tier": 1,
+    "date": {
+      "year": -1600,
+      "earliest": -1700,
+      "latest": -1550,
+      "display": "c. 1600 BCE"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "firm",
+      "note": "The papyrus is dated by its handwriting to the 17th century BCE. Its archaic language suggests it copies an older text, which is widely accepted, but how much older, and who wrote the original, are unknown."
+    },
+    "place": "Thebes (modern Luxor), Egypt",
+    "people": [
+      "Edwin Smith (1822–1906), American collector who bought it at Luxor in 1862",
+      "James Henry Breasted, Egyptologist who published the translation in 1930"
+    ],
+    "themes": [
+      "surgery",
+      "texts",
+      "practice"
+    ],
+    "summary": "An Egyptian scribe copying an old book on wounds stopped mid-sentence c. 1600 BCE. What survives is the oldest known surgical treatise, with 48 cases from head to spine.",
+    "body": [
+      "Sometime around 1600 BCE, a scribe in Egypt sat copying an old book on wounds. He worked down the body from the top of the head, through the face, neck, arms and chest, case after case, and then, partway through case 48, an injury of the spine, he stopped in the middle of a sentence. The result is the Edwin Smith Papyrus, the oldest known surgical treatise.",
+      "Cases follow a nearly fixed order: a title, an examination, a diagnosis ending in one of three verdicts (an ailment the practitioner will treat, one he will contend with, or one not to be treated), then treatment where there is any. That last verdict, which James Henry Breasted found in no other Egyptian medical text, appears 14 times, once by an evident scribal slip: the author described injuries he knew he could not cure, because they were worth describing. Magic appears in only one of the 48 cases. The text contains what Breasted announced as the earliest known word for 'brain', and likens the brain's surface to the corrugations on metal slag.",
+      "The book was already old when copied. Its terms had grown so obscure that an ancient editor added 69 explanatory glosses; one explains that to 'moor him at his mooring stakes' means to put the patient on his usual diet. Breasted placed the original in the Pyramid Age, at least a thousand years before the copy. A recent reappraisal summarized that the surviving copy was most likely penned in the 17th century BCE and probably reproduces an older document; the original's date and author remain unknown.",
+      "Edwin Smith, an American living at Thebes, bought the roll in 1862; after his death in 1906 his daughter gave it to the New-York Historical Society, and Breasted published his translation in 1930. Its back holds a different world: incantations against pestilence and a recipe for turning an old man young, added later. Breasted's suggestion that Imhotep wrote the original, which he himself called pure conjecture, is still repeated, though nothing links Imhotep to medicine until some two thousand years after his death."
+    ],
+    "myth": {
+      "tradition": "The papyrus was written by Imhotep and shows Egyptian surgery free of magic.",
+      "record": "The author is unknown; Breasted offered Imhotep as 'pure conjecture'. The treatise itself is strikingly practical, but the same roll carries incantations and a rejuvenation recipe on its back."
+    },
+    "links": [
+      {
+        "to": "ebers-papyrus",
+        "kind": "see-also",
+        "note": "A passage on the heart appears in both papyri."
+      },
+      {
+        "to": "imhotep",
+        "kind": "see-also",
+        "note": "The legendary author Breasted proposed."
+      },
+      {
+        "to": "kahun-papyrus",
+        "kind": "see-also",
+        "note": "An earlier specialist treatise in the same case format."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Edwin Smith Surgical Papyrus, vol. 1: Hieroglyphic Transliteration, Translation, and Commentary",
+        "author": "James Henry Breasted",
+        "publisher": "Oriental Institute Publications 3, University of Chicago, 1930 (ISAC open-access PDF)",
+        "year": 1930,
+        "url": "https://isac-assets.s3.amazonaws.com/isac-publications/oip3.pdf",
+        "type": "primary",
+        "supports": "Magic in only one of 48 cases; the 'not to be treated' verdict 14 times; 69 glosses and the mooring-stakes example; brain likened to metal slag; verso incantations and rejuvenation recipe; the copyist stopping mid-sentence; Imhotep authorship as 'pure conjecture'.",
+        "quote": "there is resort to magic in only one case out of the forty-eight cases preserved"
+      },
+      {
+        "title": "The Edwin Smith Surgical Papyrus, Volume 1 (publication page)",
+        "publisher": "Institute for the Study of Ancient Cultures (ISAC), University of Chicago",
+        "url": "https://isac.uchicago.edu/publications/edwin-smith-surgical-papyrus-volume-1",
+        "type": "institutional",
+        "supports": "Smith's purchase at Thebes in 1862; the claim of the earliest word for 'brain'; cases discussed even when hopeless.",
+        "quote": "It contains, for example, for the first time in human speech a word for \"brain.\""
+      },
+      {
+        "title": "The Edwin Smith papyrus: a clinical reappraisal of the oldest known document on spinal injuries",
+        "author": "Joost J. van Middendorp, Gonzalo M. Sanchez, Alwyn L. Burridge",
+        "publisher": "European Spine Journal 19 (2010), via Europe PMC",
+        "year": 2010,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2989268/",
+        "type": "scholarly",
+        "supports": "48 cases ordered from skull to spine; ends mid-sentence; three verdicts; 17th-century BCE date and probable older original; history of ownership (1862, 1906, Breasted 1930).",
+        "quote": "A recent reappraisal summarized that the papyrus was most likely penned in the seventeenth century b.c . and probably is a copy of an older document"
+      },
+      {
+        "title": "Imhotep and the Discovery of Cerebrospinal Fluid",
+        "author": "Patric Blomstedt",
+        "publisher": "Anatomy Research International (2014), via Europe PMC",
+        "year": 2014,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3972951/",
+        "type": "scholarly",
+        "supports": "No link between Imhotep and medicine for some two thousand years; Breasted as the origin of the authorship idea.",
+        "quote": "there are no sources within the first 2000 years after Imhotep suggesting him to be in any way connected with the field of medicine"
+      }
+    ],
+    "further": [
+      "nunn-1996",
+      "porter-1997"
+    ],
+    "image": {
+      "commons": "File:Edwin Smith Papyrus v2.jpg",
+      "alt": "Two columns of dense hieratic handwriting in black and red ink on a light papyrus.",
+      "caption": "Columns VI and VII of the Edwin Smith Papyrus, hieratic script copied in Egypt c. 1600 BCE, discussing facial injuries (cases 12–20)."
+    }
+  },
+  {
+    "id": "ebers-papyrus",
+    "title": "The Ebers Papyrus",
+    "stream": "egypt",
+    "tier": 2,
+    "date": {
+      "year": -1550,
+      "earliest": -1600,
+      "latest": -1500,
+      "display": "c. 1550 BCE"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "firm",
+      "note": "Breasted dates the manuscript to the early 16th century BCE, and a calendar on its back has been used since the 1860s to date it to about the mid-16th century; Osler gave about 1500 BCE. Its contents are not in doubt, but the original treatises it compiles are older and undated."
+    },
+    "place": "Thebes (modern Luxor), Egypt; now at Leipzig",
+    "people": [
+      "Georg Ebers (1837–1898), Egyptologist and novelist who bought and published it",
+      "Edwin Smith (1822–1906), collector who sold it"
+    ],
+    "themes": [
+      "drugs",
+      "texts"
+    ],
+    "summary": "Egypt's biggest surviving medical book, a 20-meter roll of prescriptions, charms and a few careful diagnoses, compiled from older treatises c. 1550 BCE.",
+    "body": [
+      "The Ebers Papyrus is the largest medical book to survive from ancient Egypt: a roll of 110 columns, more than 20 meters long, copied in the early 16th century BCE. It is less one book than a library, stitched together from many specialist treatises. Most of it is prescriptions for named complaints, 877 by James Henry Breasted's count, mixed with incantations and charms.",
+      "Only near the end does it record how a patient was examined and diagnosed, 47 times in all. One passage on the heart, introduced as from a 'Secret Book of the Physician', also appears in the Edwin Smith Papyrus; Breasted thought the Ebers scribe was quoting the treatise preserved there.",
+      "Its modern story is a tangle. Georg Ebers told of a roll found between the legs of a mummy at Thebes, a tale that has been called a romance. In fact he bought it in 1872 from the American collector Edwin Smith and published it at Leipzig in 1875; it is now in the Leipzig library."
+    ],
+    "links": [
+      {
+        "to": "edwin-smith-papyrus",
+        "kind": "see-also",
+        "note": "Shares a passage on the heart."
+      },
+      {
+        "to": "kahun-papyrus",
+        "kind": "see-also",
+        "note": "Specialist treatises of this kind are what it compiles."
+      },
+      {
+        "to": "sumerian-pharmacopoeia",
+        "kind": "see-also",
+        "note": "Mesopotamia's much older written prescriptions."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Edwin Smith Surgical Papyrus, vol. 1",
+        "author": "James Henry Breasted",
+        "publisher": "Oriental Institute Publications 3, University of Chicago, 1930 (ISAC open-access PDF)",
+        "year": 1930,
+        "url": "https://isac-assets.s3.amazonaws.com/isac-publications/oip3.pdf",
+        "type": "primary",
+        "supports": "110 columns, 2,289 lines and 877 recipes, early 16th century BCE; a compilation of special treatises; 47 diagnoses; the heart passage from the 'Secret Book of the Physician'; Ebers's 1875 Leipzig edition; the calendar on the back.",
+        "quote": "Among these recipe-papyri only the Papyrus Ebers shows any attention to a record of the examination and diagnosis of the case"
+      },
+      {
+        "title": "Lost in translation: the history of the Ebers Papyrus and Dr. Carl H. von Klein",
+        "author": "Jane A. Hartsock, Colin M. E. Halverson",
+        "publisher": "Journal of the Medical Library Association 111 (2023), via Europe PMC",
+        "year": 2023,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10621680/",
+        "type": "scholarly",
+        "supports": "Ebers's romantic account of the find; purchase from Edwin Smith in 1872.",
+        "quote": "In 1872, Smith sold the papyrus to Ebers for a sum that Smith had intended to be prohibitory"
+      },
+      {
+        "title": "The Evolution of Modern Medicine (Silliman lectures, 1913)",
+        "author": "William Osler",
+        "publisher": "Yale University Press, 1921 (Internet Archive scan)",
+        "year": 1921,
+        "url": "https://archive.org/download/evolutionofmoder00osle/evolutionofmoder00osle_djvu.txt",
+        "type": "primary",
+        "supports": "Length of 20.23 meters, home in the Leipzig Library, date about 1500 BCE, and the mix of incantations, charms and prescriptions in the papyri.",
+        "quote": "They are motley collections, filled with incantations, charms"
+      },
+      {
+        "title": "Ebers Papyrus (Breath of Life exhibition)",
+        "publisher": "U.S. National Library of Medicine (archived exhibition page)",
+        "url": "https://www.nlm.nih.gov/archive/20120918/hmd/breath/breath_exhibit/MindBodySpirit/IIBa18.html",
+        "type": "institutional",
+        "supports": "Prescriptions for 'over seven hundred remedies' in a museum summary (Breasted counts 877 recipes); the inhaled asthma remedy shown in the image.",
+        "quote": "the Ebers Papyrus contains prescriptions written in hieroglyphics for over seven hundred remedies"
+      }
+    ],
+    "further": [
+      "nunn-1996"
+    ],
+    "image": {
+      "commons": "File:Papyrus Ebers.png",
+      "alt": "A column of handwritten hieratic text in black and red ink on papyrus.",
+      "caption": "A column of the Ebers Papyrus, copied c. 1550 BCE. The U.S. National Library of Medicine identifies the prescription shown as a remedy for asthma, herbs heated on a brick so that the patient could breathe the fumes."
+    }
+  },
+  {
+    "id": "egyptian-prosthetic-toe",
+    "title": "The Cairo toe",
+    "stream": "egypt",
+    "tier": 3,
+    "date": {
+      "year": -700,
+      "earliest": -1000,
+      "latest": -600,
+      "display": "before 600 BCE"
+    },
+    "confidence": {
+      "date": "uncertain",
+      "claim": "agreed",
+      "note": "The University of Manchester release dates the toes only as older than 600 BCE, so the age is known only roughly, and the earlier bound of the range is a judgment, not a sourced figure. That the toe worked rests on replica tests with two volunteers plus its design, which Finch argues suggest use in life rather than a burial fitting."
+    },
+    "place": "Egypt; now in the Egyptian Museum, Cairo",
+    "people": [
+      "Jacky Finch, University of Manchester Egyptologist who tested replicas"
+    ],
+    "themes": [
+      "technology",
+      "surgery"
+    ],
+    "summary": "A wood-and-leather big toe found on an Egyptian mummy let modern volunteers walk comfortably in sandals, making it a strong candidate for the oldest working prosthesis.",
+    "body": [
+      "A three-part artificial big toe of wood and leather, found attached to the foot of an Egyptian mummy and now in the Egyptian Museum in Cairo, may be among the earliest functional prosthetic body parts. In 2011 Jacky Finch of the University of Manchester had two volunteers who had lost their right big toe walk on exact replicas of it, and of a cartonnage toe in the British Museum, wearing replica Egyptian sandals. One volunteer walked extremely well with both, and both found the Cairo toe particularly comfortable. Its hinge and flattened underside led Finch to suggest it was worn in life."
+    ],
+    "links": [
+      {
+        "to": "edwin-smith-papyrus",
+        "kind": "see-also",
+        "note": "Another window on practical Egyptian care for injuries."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Mummies' false toes helped ancient Egyptians walk",
+        "publisher": "University of Manchester (news release)",
+        "year": 2011,
+        "url": "https://www.manchester.ac.uk/about/news/mummies-false-toes-helped-ancient-egyptians-walk/",
+        "type": "institutional",
+        "supports": "Three-part wood and leather toe in the Cairo Museum; dated before 600 BCE; Finch's replica tests with two volunteers and replica sandals; design features and comfort; publication in the Lancet.",
+        "quote": "has shown that a three-part wood and leather artefact housed in the Egyptian Museum in Cairo"
+      },
+      {
+        "title": "Mummies' false toes helped ancient Egyptians walk",
+        "publisher": "EurekAlert! (AAAS), release from the University of Manchester",
+        "year": 2011,
+        "url": "https://www.eurekalert.org/news-releases/781138",
+        "type": "news",
+        "supports": "Volunteers found the Cairo toe particularly comfortable; hinge, chamfered front edge and flattened underside; Finch's conclusion that the toes were worn in life.",
+        "quote": "although both volunteers said they found the Cairo toe particularly comfortable"
+      }
+    ],
+    "further": []
+  }
+]

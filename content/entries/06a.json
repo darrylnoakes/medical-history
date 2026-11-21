@@ -1,0 +1,601 @@
+[
+  {
+    "id": "andean-trepanation",
+    "title": "Skull surgery in the Andes",
+    "stream": "americas",
+    "tier": 2,
+    "date": {
+      "year": -400,
+      "earliest": -500,
+      "latest": -300,
+      "end": 1530,
+      "display": "c. 400 BCE to the 1500s CE"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "agreed",
+      "note": "More than 800 trepanned skulls from Peru have been studied, the oldest dated to about 400 BCE. Survival rates are inferred from healing at the edges of the holes, a sound but indirect method, and why most operations were done is reconstructed from associated injuries rather than written records."
+    },
+    "place": "Coastal and highland Peru",
+    "people": [
+      "John W. Verano, Tulane University bioarchaeologist who studied the Peruvian skulls",
+      "David S. Kushner, University of Miami neurologist and lead author of the 2018 survival study"
+    ],
+    "themes": [
+      "surgery",
+      "practice"
+    ],
+    "summary": "Ancient Peruvians cut holes in living skulls for some 2,000 years, and by Inca times most patients survived.",
+    "body": [
+      "Peru has yielded more trepanned skulls than the rest of the world combined: over 800 of them, from the coast and the Andean highlands, some with as many as seven holes cut or scraped through the bone. The earliest, from Peru's southern coast, date to about 400 BCE. The practice lasted through the Inca empire until the Spanish conquest, and healers in highland Peru and Bolivia were still reported doing it in the twentieth century.",
+      "Bone records whether the patient lived. Smooth, remodeled edges mean healing; a raw edge means death during or soon after the operation. Read this way, only about 40 percent of patients survived in 400–200 BCE. Between 1000 and 1400 CE survival reached a high of 91 percent, and in the Inca period it averaged 75 to 83 percent; over the centuries the holes became smaller, with less bone cut away. Head trauma from sling stones and clubs was common in the warlike highlands, which may explain why many were trepanned, though headaches and convulsions have also been suggested.",
+      "Cranial surgery in the American Civil War killed 46 to 56 percent of patients. How Andean surgeons controlled pain and infection is unknown; they left no written records."
+    ],
+    "links": [
+      {
+        "to": "trepanation",
+        "kind": "see-also",
+        "note": "The same operation in Neolithic Europe, thousands of years earlier."
+      },
+      {
+        "to": "coca",
+        "kind": "see-also",
+        "note": "Coca is among the painkillers suggested, without proof, for Andean skull surgery."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Holes in the head",
+        "publisher": "University of Miami News",
+        "year": 2018,
+        "url": "https://news.miami.edu/stories/2018/06/holes-in-the-head.html",
+        "type": "institutional",
+        "supports": "Over 800 trepanned skulls from coastal and highland Peru, up to seven holes each, earliest c. 400 BCE; more than the rest of the world combined.",
+        "quote": "More than 800 prehistoric skulls with evidence of trepanation—at least one but as many as seven telltale holes—have been found in the coastal regions and the Andean highlands of Peru, the earliest dating back to about 400 B.C."
+      },
+      {
+        "title": "Trepanation Reveals the Success of the Incas",
+        "publisher": "American College of Surgeons, Bulletin (From the Archives)",
+        "year": 2022,
+        "url": "https://facs.org/for-medical-professionals/news-publications/news-and-articles/bulletin/2022/november-december-2022-volume-107-issue-11/from-the-archives/",
+        "type": "institutional",
+        "supports": "Survival 40% in 400–200 BC rising to a high of 91% in 1000–1400 AD, 75–83% in the Inca period (Kushner et al. 2018); Civil War cranial surgery mortality 46–56%; head trauma from sling stones and clubs common in the highlands; multiple trepanations may have treated headaches or convulsions.",
+        "quote": "This study concluded that in ancient Peru (400–200 BC), the long-term survival rate was 40% and improved to a high of 91% (1000–1400 AD)."
+      },
+      {
+        "title": "Peru's Ancient Skull Surgeries Studied",
+        "publisher": "Archaeology (Archaeological Institute of America)",
+        "year": 2018,
+        "url": "https://archaeology.org/news/2018/06/08/180608-peru-trepanation-techniques",
+        "type": "news",
+        "supports": "Earliest skulls from Peru's southern coast; 40% survival early, 75–83% in the Inca period; holes became smaller over time.",
+        "quote": "The study suggests that about 40 percent of the earliest patients survived, but by the Inca period, between 75 and 83 percent of the patients recovered."
+      },
+      {
+        "title": "Ancient Peruvians had trepanation skills: Survival rate of skull surgery in Incan times twice that of US Civil War",
+        "publisher": "ScienceDaily (University of Miami press release)",
+        "year": 2018,
+        "url": "https://www.sciencedaily.com/releases/2018/06/180608200055.htm",
+        "type": "news",
+        "supports": "Survival judged from bone remodeling; anesthesia and infection control unknown, no written records.",
+        "quote": "We do not know how the ancient Peruvians prevented infection, but it seems that they did a good job of it. Neither do we know what they used as anesthesia"
+      },
+      {
+        "title": "Holes in the Head: The Art and Archaeology of Trepanation in Ancient Peru",
+        "author": "John W. Verano",
+        "publisher": "Dumbarton Oaks Research Library and Collection",
+        "year": 2016,
+        "url": "https://doaks.org/research/publications/books/holes-in-the-head",
+        "type": "institutional",
+        "supports": "Disappearance after the Spanish conquest, with reports of trepanation by healers in highland Peru and Bolivia into the twentieth century.",
+        "quote": "there are reports of trepanations being performed by healers in highland Peru and Bolivia into the twentieth century"
+      }
+    ],
+    "further": [],
+    "image": {
+      "commons": "File:The crude method of trephining (sic) with the sharpened edge of a stone practiced by peoples living in Peru some 500 or 600 years ago is revealed by the skulls at the National Museum LCCN95519350.jpg",
+      "alt": "Photograph of ancient Peruvian skulls with surgical openings cut into them.",
+      "caption": "Trepanned skulls from ancient Peru, photographed at the National Museum in 1926 by the National Photo Company. Library of Congress."
+    }
+  },
+  {
+    "id": "coca",
+    "title": "Coca: from Andean leaf to local anesthetic",
+    "stream": "americas",
+    "tier": 3,
+    "date": {
+      "year": -6000,
+      "earliest": -6300,
+      "latest": -5800,
+      "display": "by c. 6000 BCE (8,000 years ago)"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "firm",
+      "note": "Coca leaves and calcite from house floors in Peru's Nanchoc Valley are radiocarbon dated to at least 8,000 years ago; that is a minimum, and older finds could push it back. Niemann's isolation of cocaine in 1860 and Koller's 1884 demonstration are well documented, though sources differ on how to date Koller's announcement (the Heidelberg congress in September, a Vienna presentation on 25 October)."
+    },
+    "place": "Nanchoc Valley, northern Peru; Vienna and Heidelberg",
+    "people": [
+      "Albert Niemann, German chemist who isolated cocaine",
+      "Carl Koller (1857–1944), Viennese ophthalmologist"
+    ],
+    "themes": [
+      "drugs",
+      "surgery"
+    ],
+    "summary": "Andeans chewed coca 8,000 years ago; in 1884 its alkaloid, cocaine, let surgeons numb the eye.",
+    "body": [
+      "People in Peru's Nanchoc Valley were chewing coca by at least 8,000 years ago: leaves of that age lie in house floors beside pieces of calcite, which chewers use to draw the alkaloids out of the leaf. Albert Niemann isolated the main alkaloid, cocaine, in 1860. In September 1884 a paper by the young Viennese doctor Carl Koller, read for him at an ophthalmology congress in Heidelberg, showed that cocaine drops made the eye insensible to touch. News spread around the world, and before the year was out some doctors experimenting with the drug, William Halsted among them, had become addicted."
+    ],
+    "links": [
+      {
+        "to": "andean-trepanation",
+        "kind": "see-also",
+        "note": "Coca is a suspected, unproven painkiller for Andean skull surgery."
+      },
+      {
+        "to": "ether-anaesthesia",
+        "kind": "see-also",
+        "note": "General anesthesia arrived four decades before local anesthesia."
+      },
+      {
+        "to": "halsted",
+        "kind": "led-to",
+        "note": "Halsted used cocaine for nerve blocks and became addicted."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Early Holocene coca chewing in northern Peru",
+        "author": "Tom D. Dillehay, Jack Rossen, Donald Ugent, Anathasios Karathanasis, Víctor Vásquez, Patricia J. Netherly",
+        "publisher": "Antiquity",
+        "year": 2010,
+        "url": "https://www.cambridge.org/core/journals/antiquity/article/abs/early-holocene-coca-chewing-in-northern-peru/6452FDEFF4B27959A376256AFCFAEECE",
+        "type": "scholarly",
+        "supports": "Coca chewing by at least 8000 cal BP in the Nanchoc Valley; calcite used to release alkaloids.",
+        "quote": "Chewing coca in South America began by at least 8000 cal BP: our authors found and identified coca leaves of that date in house floors in the Nanchoc Valley, Peru."
+      },
+      {
+        "title": "Cocaine: What is the Crack? A Brief History of the Use of Cocaine as an Anesthetic",
+        "author": "Melody Redman",
+        "publisher": "Anesthesiology and Pain Medicine (full text via Europe PMC, PMC4335732)",
+        "year": 2011,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4335732/",
+        "type": "scholarly",
+        "supports": "Niemann isolated cocaine in 1860; Koller's 1884 work on the eye; Halsted's addiction.",
+        "quote": "It was not until 1860 that Albert Niemann isolated cocaine from coca leaves."
+      },
+      {
+        "title": "Your trip to the dentist wouldn't include anesthesia without this doctor",
+        "author": "Howard Markel",
+        "publisher": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/health/your-trip-to-the-dentist-wouldnt-include-anesthesia-without-this-doctor",
+        "type": "news",
+        "supports": "Koller's paper on cocaine anesthesia of the eye, read for him by Josef Brettauer at the Heidelberg congress, September 1884.",
+        "quote": "During the summer of 1884, Koller slaved over a formal address on cocaine anesthesia for the International Ophthalmological Congress to be held that September at Heidelberg."
+      },
+      {
+        "title": "Carl Koller, MD",
+        "publisher": "American Academy of Ophthalmology, Museum of Vision",
+        "url": "https://www.aao.org/biographies-detail/carl-koller-md",
+        "type": "institutional",
+        "supports": "Koller's life dates; rapid worldwide spread of the news in 1884.",
+        "quote": "The paper was immediately lauded by ophthalmologists as news spread around the world."
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "aztec-medicine",
+    "title": "The Aztec herbal",
+    "stream": "americas",
+    "tier": 2,
+    "date": {
+      "year": 1552,
+      "display": "1552"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "The Latin manuscript survives and is dated 1552; its authors and its later travels through Spanish and Vatican libraries are well documented. Its Nahuatl original does not survive."
+    },
+    "place": "College of Santa Cruz, Tlatelolco (now Mexico City)",
+    "people": [
+      "Martín de la Cruz, Nahua healer and author",
+      "Juan Badiano, Nahua lecturer at the college and Latin translator"
+    ],
+    "themes": [
+      "drugs",
+      "texts"
+    ],
+    "summary": "In 1552 two Nahua scholars produced a painted book of Mexican healing plants that spent four centuries in Europe.",
+    "body": [
+      "In 1552, at the Franciscan College of Santa Cruz in Tlatelolco, a Nahua healer named Martín de la Cruz composed a book of Mexican healing plants in his own language, and Juan Badiano, a Nahua lecturer at the college, translated it into Latin. The *Libellus de medicinalibus Indorum herbis*, often called the Badianus Manuscript, has 185 paintings of plants and is the earliest known illustrated text of Nahua medicine. A friar commissioned it for Francisco de Mendoza, son of the viceroy of New Spain, and it may have been presented to the Emperor Charles V.",
+      "It then disappeared from view. It passed from the Spanish royal library to Cardinal Francesco Barberini and, in 1902, into the Vatican Library, where Charles Upson Clark found it in 1929. In 1990 Pope John Paul II returned it to Mexico; it is now kept by the National Institute of Anthropology and History. With Francisco Hernández's natural history of the 1570s and Bernardino de Sahagún's Florentine Codex of about 1577, it is one of three key sources on pre-Hispanic medicine, all of them made under Spanish rule."
+    ],
+    "links": [
+      {
+        "to": "dioscorides",
+        "kind": "see-also",
+        "note": "The classic herbal of the Old World, for comparison."
+      },
+      {
+        "to": "bencao-gangmu",
+        "kind": "see-also",
+        "note": "A near-contemporary Chinese compendium of healing plants."
+      },
+      {
+        "to": "cinchona",
+        "kind": "see-also",
+        "note": "Another American plant remedy carried into European medicine."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Special Collections - The Badianus Manuscript",
+        "publisher": "Tisch Library, Tufts University",
+        "url": "https://tischlibrary.tufts.edu/special-collections-badianus-manuscript",
+        "type": "institutional",
+        "supports": "Authors and translator, college at Tlatelolco, 185 illustrations, commission for Francisco de Mendoza, Barberini and Vatican, rediscovery 1929, return in 1990, now at INAH.",
+        "quote": "The manuscript was composed by Martín de la Cruz in the Aztec language and was then translated into Latin by Juan Badiano, a lecturer at the Colegio de Indios de la Santa Cruz de Tlatelolco."
+      },
+      {
+        "title": "The Herbal of the Florentine Codex: Description and Contextualization of Paragraph V in Book XI",
+        "author": "Victoria Ríos Castaño",
+        "publisher": "The Americas (Cambridge University Press)",
+        "year": 2018,
+        "url": "https://cambridge.org/core/journals/americas/article/herbal-of-the-florentine-codex-description-and-contextualization-of-paragraph-v-in-book-xi/EF6E2F2050BA21BF10F5C5DCD51CD99A",
+        "type": "scholarly",
+        "supports": "Date 1552; the Libellus, Hernández's natural history (1570s) and the Florentine Codex (c. 1577) as the three essential sources.",
+        "quote": "composed by the Nahuas Martín de la Cruz and Juan Badiano in the Imperial College of Santa Cruz of Tlatelolco"
+      },
+      {
+        "title": "Códice de la Cruz-Badiano: discursos pronunciados con motivo de la ceremonia de entrega",
+        "publisher": "Instituto Nacional de Antropología e Historia (Antropología, edición especial 30)",
+        "year": 1990,
+        "url": "https://revistas.inah.gob.mx/index.php/antropologia/article/download/20765/22182/43730",
+        "type": "primary",
+        "supports": "The 1990 handover of the codex to Mexico (ceremony of 15 July 1990 at the National Museum of Anthropology).",
+        "quote": "Discursos pronunciados con motivo de la ceremonia de entrega del Códice de la Cruz-Badiano al pueblo mexicano"
+      }
+    ],
+    "further": [],
+    "image": {
+      "commons": "File:Badianus.jpg",
+      "alt": "Manuscript page with colored paintings of several plants above handwritten Latin text.",
+      "caption": "A page of the *Libellus de medicinalibus Indorum herbis*, painted and written at Tlatelolco in 1552, pairing Nahua plant drawings with Latin descriptions of remedies."
+    }
+  },
+  {
+    "id": "columbian-exchange-epidemics",
+    "title": "The Great Dying",
+    "stream": "americas",
+    "tier": 1,
+    "date": {
+      "year": 1520,
+      "earliest": 1519,
+      "latest": 1520,
+      "end": 1600,
+      "display": "1520 to c. 1600"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "disputed",
+      "note": "That epidemics killed a very large share of the Americas' Indigenous people in the century after 1492 is not in doubt. How many lived there beforehand, and so how many died, rests on sparse tribute records, censuses and archaeology, and estimates differ several-fold; the cause of the 1545 cocoliztli epidemic is also still argued."
+    },
+    "place": "The Caribbean, Mexico, the Andes and the wider Americas",
+    "people": [],
+    "themes": [
+      "public-health",
+      "theory"
+    ],
+    "summary": "In the century after 1492, new diseases, war and enslavement killed perhaps nine in ten of the Americas' people.",
+    "body": [
+      "In 1520 smallpox reached Mexico. By one estimate it killed 5 to 8 million people; another puts it at 30 to 50 percent of Mexico's Indigenous population. It was one wave among many. A review of the evidence dates the first documented outbreak to Hispaniola in 1497. Smallpox then spread into the Inca lands in the late 1520s, and influenza, measles, typhus and other infections followed, each hitting people who had never been exposed to them before.",
+      "How many died is fiercely debated, because nobody counted the Americas in 1492. Estimates of the population before contact have run from around 40 million to Dobyns's 112 million, and loss rates from 40 to 95 percent. A 2019 synthesis of 119 regional estimates put the pre-contact population at about 60.5 million and the loss by 1600 at about 90 percent, some 54.5 million deaths. Its authors calculate that the farmland abandoned as a result regrew into forest that could account for about 3.5 parts per million of a 7 to 10 ppm fall in atmospheric carbon dioxide in the late 1500s and early 1600s.",
+      "Disease did not act alone. Warfare, enslavement and hunger after societies broke down multiplied the toll. In New Spain, Indigenous laborers under the encomienda system were overworked and underfed, which likely left them more vulnerable.",
+      "Not every killer was obviously European. The *cocoliztli* (Nahuatl for \"pest\") of 1545 to 1548 killed an estimated 5 to 15 million people. Some researchers argued it was a native hemorrhagic fever carried by rodents during a megadrought. In 2018, DNA from victims buried at Teposcolula-Yucundaa in Oaxaca pointed instead to *Salmonella enterica* Paratyphi C, a cause of enteric fever: a strong candidate for that outbreak, though not proof of what caused the wider catastrophe."
+    ],
+    "myth": {
+      "tradition": "Native Americans died in such numbers because they were genetically too weak to resist European germs.",
+      "record": "Lack of prior exposure mattered, and some researchers have suggested that low genetic diversity helped pathogens spread, but a 2019 review found no evidence that genetic differences made the diseases more deadly. Conquest itself, through war, slavery, forced labor and hunger, made the epidemics far worse."
+    },
+    "links": [
+      {
+        "to": "black-death",
+        "kind": "see-also",
+        "note": "The other great demographic catastrophe, caused by a single pathogen."
+      },
+      {
+        "to": "hospital-de-jesus",
+        "kind": "see-also",
+        "note": "Mexico City's colonial hospital opened as the epidemics began."
+      },
+      {
+        "to": "smallpox-eradication",
+        "kind": "see-also",
+        "note": "The disease that led the first wave was eradicated in 1980."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Megadrought and Megadeath in 16th Century Mexico",
+        "author": "Rodolfo Acuna-Soto, David W. Stahle, Malcolm K. Cleaveland, Matthew D. Therrell",
+        "publisher": "Emerging Infectious Diseases (CDC)",
+        "year": 2002,
+        "url": "https://wwwnc.cdc.gov/eid/article/8/4/01-0175_article",
+        "type": "scholarly",
+        "supports": "Smallpox 1519–20 killed 5–8 million; cocoliztli 1545–48 killed 5–15 million; hemorrhagic-fever and drought hypothesis; harsh encomienda conditions.",
+        "quote": "beginning with the smallpox epidemic of 1519 to 1520 when 5 million to 8 million people perished"
+      },
+      {
+        "title": "Earth system impacts of the European arrival and Great Dying in the Americas after 1492",
+        "author": "Alexander Koch, Chris Brierley, Mark M. Maslin, Simon L. Lewis",
+        "publisher": "Quaternary Science Reviews",
+        "year": 2019,
+        "url": "https://eprints.whiterose.ac.uk/id/eprint/154711/1/1-s2.0-S0277379118307261-main.pdf",
+        "type": "scholarly",
+        "supports": "Hispaniola outbreak 1497; 1520 Mexican smallpox killed 30–50%; Inca lands late 1520s; Clark's c. 40 million and Dobyns's 112 million; loss rates 40–95%; 60.5 million and 90% loss by 1600; 54.5 million deaths; regrowth accounting for 3.5 ppm of a 7–10 ppm CO2 fall; warfare, slavery, hunger; no evidence for genetic susceptibility.",
+        "quote": "While other factors such as warfare, the enslavement of indigenous people, and hunger following social disintegration resulting from the loss of such a large fraction of societies meant even larger population losses"
+      },
+      {
+        "title": "Salmonella enterica genomes from victims of a major sixteenth-century epidemic in Mexico",
+        "author": "Åshild J. Vågene et al.",
+        "publisher": "Nature Ecology & Evolution",
+        "year": 2018,
+        "url": "https://www.nature.com/articles/s41559-017-0446-6",
+        "type": "scholarly",
+        "supports": "Salmonella enterica Paratyphi C in ten individuals from the Teposcolula-Yucundaa epidemic cemetery, proposed as a strong candidate cause of the 1545 cocoliztli there.",
+        "quote": "We propose that S . Paratyphi C be considered a strong candidate for the epidemic population decline during the 1545 cocoliztli outbreak at Teposcolula-Yucundaa."
+      }
+    ],
+    "further": [
+      "crosby-1972"
+    ],
+    "image": {
+      "commons": "File:FlorentineCodex BK12 F54 smallpox.jpg",
+      "alt": "Sixteenth-century drawing of Nahua people infected with smallpox.",
+      "caption": "Nahua people sick with smallpox, from Book XII of the Florentine Codex, the encyclopedia of Nahua life compiled under Bernardino de Sahagún around 1577."
+    }
+  },
+  {
+    "id": "hospital-de-jesus",
+    "title": "Hospital de Jesús, Mexico City",
+    "stream": "americas",
+    "tier": 3,
+    "date": {
+      "year": 1524,
+      "earliest": 1521,
+      "latest": 1524,
+      "display": "1524"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "agreed",
+      "note": "1524 is the date given by both city tourism and press sources, neither of which cites a founding document. The 'oldest continuously operating hospital in the Americas' title is a popular claim (the city's own page says only 'probably'), and other hospitals were reported to be working in the city at the same time."
+    },
+    "place": "Historic center, Mexico City",
+    "people": [
+      "Hernán Cortés, Spanish conqueror and founder"
+    ],
+    "themes": [
+      "institutions"
+    ],
+    "summary": "Founded by Cortés in 1524, this Mexico City hospital still sees patients five centuries later.",
+    "body": [
+      "Hernán Cortés founded a hospital in Mexico City in 1524, three years after his forces took the Aztec capital, on the spot where tradition says he first met Moctezuma in November 1519. First called the Hospital de la Purísima Concepción, it took its present name in 1665. Because Cortés created it as a secular foundation, it escaped the 19th-century Reform Laws that closed many church institutions. It still treats patients and is probably the oldest continuously operating hospital in the Americas."
+    ],
+    "links": [
+      {
+        "to": "medieval-hospitals",
+        "kind": "see-also",
+        "note": "The European hospital tradition that Spanish foundations in the Americas belonged to."
+      },
+      {
+        "to": "columbian-exchange-epidemics",
+        "kind": "see-also",
+        "note": "It opened as epidemics devastated Mexico's Indigenous people."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Hospital de la Iglesia de Jesús Nazareno",
+        "publisher": "Gobierno de la Ciudad de México, Secretaría de Turismo",
+        "url": "https://mexicocity.cdmx.gob.mx/venues/church-hospital-de-jesus-nazareno/",
+        "type": "institutional",
+        "supports": "Founded 1524 by Cortés; probably the oldest hospital in the Americas; legend of the meeting site; original name; renamed 1665; secular foundation survived the Reform Laws; other hospitals operating at the same time.",
+        "quote": "fue fundado en 1524 por Hernán Cortés y es probable que sea el hospital más antiguo de América"
+      },
+      {
+        "title": "Hospital founded by Spanish conqueror persists 500 years later in Mexico's capital",
+        "publisher": "Associated Press (via ABC4 Utah)",
+        "year": 2024,
+        "url": "https://www.abc4.com/news/health/ap-health/ap-hospital-founded-by-spanish-conqueror-persists-500-years-later-in-mexicos-capital/amp/",
+        "type": "news",
+        "supports": "Meeting of Cortés and Moctezuma on 8 November 1519; conquest by 1521; founding in 1524; still treating patients; described as the oldest continuously operating hospital in the Americas.",
+        "quote": "Cortés had conquered the city by 1521, and to honor that original encounter, he founded the hospital in 1524."
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "cinchona",
+    "title": "Cinchona, the fever-bark",
+    "stream": "americas",
+    "tier": 1,
+    "date": {
+      "year": 1630,
+      "earliest": 1620,
+      "latest": 1640,
+      "display": "c. 1630",
+      "traditional": {
+        "year": 1638,
+        "display": "1638",
+        "note": "Legend says the Countess of Chinchón, cured of a fever in Peru, brought the bark to Spain in 1638."
+      }
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "agreed",
+      "note": "Spanish use of the bark in Peru is documented from around 1630, but its early history was already a tangle of fact and legend when first compiled in 1663. How far Andean peoples used it before the Spanish is uncertain; the isolation of quinine in 1820 is firmly documented."
+    },
+    "place": "Peru and the Andes; Rome, London, Paris; later Java",
+    "people": [
+      "Thomas Sydenham, English physician who came to champion the bark",
+      "Pierre Joseph Pelletier and Joseph Caventou, French chemists who isolated quinine"
+    ],
+    "themes": [
+      "drugs",
+      "public-health"
+    ],
+    "summary": "A bitter Andean bark became Europe's one reliable fever cure, then quinine, a drug that helped carry empires into the tropics.",
+    "body": [
+      "Around 1630, Spaniards in Peru began to record the use of a bitter tree bark against fever. Shipped to Europe by the Jesuit order, it became known as Jesuit's powder or *Cortex peruanus*, and through the later 17th century it was used ever more widely against intermittent fevers, the shaking agues that were shown 200 years later to be caused by malarial parasites.",
+      "Where the knowledge began is unclear. The bark was not part of the Inca pharmacopeia, but Andean people appear to have used it against shivering. The version accepted in Europe was a romantic story, in which a Spanish countess was cured in Peru and carried the bark home. Even by 1663, when its history was first compiled, the bark's story was a mixture of fact and legend.",
+      "Its reception was fierce. Protestants distrusted a remedy promoted by Jesuits, and the market filled with weak or fake barks, since Europeans did not know the tree itself until botanists described it around 1730. Yet it won converts. Thomas Sydenham, lukewarm in 1666, a decade later called it \"the only specific\". In 1692 Jesuit missionaries in Beijing offered a pound of bark to the Kangxi Emperor, whose court tested it on fever patients before he took it himself.",
+      "In 1820 the French chemists Pierre Joseph Pelletier and Joseph Caventou isolated quinine, making measured doses possible. Quinine then became a tool of empire. In West Africa, by one historian's estimate, half of newly arrived Europeans died within a year, and the Royal Navy came to issue bark, then quinine, as a preventive. After 1890 most quinine came from bark grown on Java rather than in South America. It remains in use today, as a second-line drug for ordinary malaria and an alternative for severe cases."
+    ],
+    "myth": {
+      "tradition": "The Countess of Chinchón, cured of fever in Peru, introduced the bark to Europe in 1638, and the tree is named after her.",
+      "record": "Linnaeus did name the tree *Cinchona* after her in 1742, but the cure story is legend. The documented trail begins with Spanish use in Peru around 1630 and Jesuit exports to Europe."
+    },
+    "links": [
+      {
+        "to": "insect-vectors",
+        "kind": "see-also",
+        "note": "The cause of the fevers that quinine treated was found in the 1890s."
+      },
+      {
+        "to": "artemisinin",
+        "kind": "see-also",
+        "note": "Another plant-derived antimalarial, from China."
+      },
+      {
+        "to": "aztec-medicine",
+        "kind": "see-also",
+        "note": "Another channel by which American plant knowledge reached Europe."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Evaluating Cinchona bark and quinine for treating and preventing malaria",
+        "author": "Gabriel Gachelin, Paul Garner, Eliana Ferroni, Ulrich Tröhler, Iain Chalmers",
+        "publisher": "James Lind Library",
+        "year": 2016,
+        "url": "https://www.jameslindlibrary.org/articles/evaluating-cinchona-bark-and-quinine-for-treating-and-preventing-malaria/",
+        "type": "scholarly",
+        "supports": "First documented Spanish use c. 1630; facts and legends compiled 1663; not in the Inca pharmacopeia but Andean use against shivering; Jesuit's powder; fakes; botanists c. 1730; Protestant suspicion; Sydenham; quinine purified 1820; Royal Navy prophylaxis and West African mortality (half of arrivals dead within a year, one historian's estimate).",
+        "quote": "From its first documented use by the Spanish in Peru around 1630, the history of Cinchona bark is a mixture of facts and legends, first compiled by Baldi as early as 1663"
+      },
+      {
+        "title": "Quinine, an old anti-malarial drug in a modern world: role in the treatment of malaria",
+        "author": "Jane Achan et al.",
+        "publisher": "Malaria Journal (full text via Europe PMC, PMC3121651)",
+        "year": 2011,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3121651/",
+        "type": "scholarly",
+        "supports": "The Countess of Chinchón legend, 1638 and Linnaeus's naming in 1742; Pelletier and Caventou 1820; shift to Javan bark after 1890; quinine's continued use as a second-line and severe-malaria drug.",
+        "quote": "The legend of quinine's discovery accepted in Europe differs though, and involves the Spanish Countess of Chinchon who, while in Peru, contracted a fever that was cured by the bark of a tree."
+      },
+      {
+        "title": "Testing the effects of Jesuit's bark in the Chinese Emperor's court",
+        "author": "Harold J. Cook",
+        "publisher": "James Lind Library",
+        "year": 2010,
+        "url": "https://www.jameslindlibrary.org/articles/testing-the-effects-of-jesuits-bark-in-the-chinese-emperors-court/",
+        "type": "scholarly",
+        "supports": "Jesuits offered a pound of bark to the Kangxi Emperor at the end of 1692; it was tried on fever patients first and the Emperor then took it.",
+        "quote": "An early record of a successful clinical trial is due to the initiative of the Kangxi Emperor of China (ruled 1662-1722)."
+      }
+    ],
+    "further": [],
+    "image": {
+      "commons": "File:Cinchona calisaya - Köhler–s Medizinal-Pflanzen-179.jpg",
+      "alt": "Botanical illustration of a flowering cinchona branch, with enlarged details of the flower, fruit and seed.",
+      "caption": "Cinchona calisaya, one of the fever-bark trees, from Köhler's *Medizinal-Pflanzen*, a German atlas of medicinal plants published in 1897."
+    }
+  },
+  {
+    "id": "onesimus",
+    "title": "Onesimus and the Boston inoculations",
+    "stream": "africa",
+    "tier": 2,
+    "date": {
+      "year": 1721,
+      "display": "1721"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "The 1721 Boston epidemic and Boylston's inoculations are well documented, and his figures were published in 1726. What is known of Onesimus comes almost entirely from Cotton Mather, his enslaver."
+    },
+    "place": "Boston, Massachusetts",
+    "people": [
+      "Onesimus, enslaved African man in Cotton Mather's household",
+      "Cotton Mather, Boston minister and Onesimus's enslaver",
+      "Zabdiel Boylston, Boston physician"
+    ],
+    "themes": [
+      "public-health",
+      "practice"
+    ],
+    "summary": "An enslaved African man told a Boston minister about inoculation against smallpox, and Boston's 1721 numbers bore the method out.",
+    "body": [
+      "When smallpox struck Boston in 1721, the minister Cotton Mather already knew a way to blunt it, and he had learned it from Onesimus, an enslaved African man in his household. Onesimus described inoculation: deliberately giving a mild case of smallpox to protect against a severe one. By 1700 the practice had spread through Africa, India and the Ottoman Empire, and Mather had also read reports from Constantinople in the Royal Society's *Philosophical Transactions*.",
+      "With Mather's backing, the physician Zabdiel Boylston began inoculating, amid a furious public debate. He kept count. Of the 247 people he inoculated in 1721 and 1722, six died, about 2.4 percent. Of the 5,759 Bostonians who caught smallpox naturally, 844 died, roughly one in seven. Boylston published his figures in London in 1726. Among the earliest uses of numbers to judge a treatment, they helped inoculation win acceptance in England and its American colonies."
+    ],
+    "links": [
+      {
+        "to": "montagu-variolation",
+        "kind": "see-also",
+        "note": "Inoculation reached London in the same year by another route."
+      },
+      {
+        "to": "bengal-inoculation",
+        "kind": "see-also",
+        "note": "The same practice recorded in India."
+      },
+      {
+        "to": "jenner",
+        "kind": "led-to",
+        "note": "Inoculation paved the way for safer vaccination with cowpox."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Smallpox: A Great and Terrible Scourge. Variolation",
+        "publisher": "U.S. National Library of Medicine",
+        "url": "https://www.nlm.nih.gov/exhibition/smallpox/sp_variolation.html",
+        "type": "institutional",
+        "supports": "Variolation in Africa, India and the Ottoman Empire by 1700; Mather learned it from Onesimus; first tried in Boston in 1721.",
+        "quote": "In Massachusetts, Cotton Mather learned about the practice from his slave, Onesimus."
+      },
+      {
+        "title": "Quantitative evidence for judgments on the efficacy of inoculation for the prevention of smallpox: England and New England in the 1700s",
+        "author": "Edward J. Huth",
+        "publisher": "James Lind Library",
+        "year": 2005,
+        "url": "https://www.jameslindlibrary.org/articles/quantitative-evidence-for-judgments-on-the-efficacy-of-inoculation-for-the-prevention-of-smallpox-england-and-new-england-in-the-1700s/",
+        "type": "scholarly",
+        "supports": "Mather's two sources (his enslaved servant and the Philosophical Transactions); Timonius's report from Constantinople; Boylston's 247 inoculations with 6 deaths (2.4%).",
+        "quote": "Mather had heard of inoculation from his African slave-servant and through his being a corresponding Fellow of the Royal Society had read of inoculation in the Philosophical Transactions."
+      },
+      {
+        "title": "Zabdiel Boylston's evaluation of inoculation against smallpox",
+        "author": "Arthur W. Boylston, Anne E. Williams",
+        "publisher": "James Lind Library",
+        "year": 2008,
+        "url": "https://www.jameslindlibrary.org/articles/zabdiel-boylstons-evaluation-of-inoculation-against-smallpox/",
+        "type": "scholarly",
+        "supports": "Furious debate; Boston natural smallpox 844 died and 4,915 survived; Boylston's 1726 book; early mathematical evidence influenced adoption in England and the colonies.",
+        "quote": "This very early use of mathematical evidence in favour of inoculated smallpox over the natural disease influenced the adoption of variolation both in England and in the colonies."
+      }
+    ],
+    "further": [],
+    "image": {
+      "commons": "File:Boylston - An Historical Account of the Small-pox Inoculated in New England (title).png",
+      "alt": "Printed title page of an 18th-century book on smallpox inoculation in New England.",
+      "caption": "Title page of the 1730 edition of Zabdiel Boylston's account of the Boston inoculations, first published in London in 1726, \"upon all sorts of persons, whites, blacks.\""
+    }
+  }
+]

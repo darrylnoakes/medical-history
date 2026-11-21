@@ -1,0 +1,544 @@
+[
+  {
+    "id": "kaitai-shinsho",
+    "title": "Kaitai Shinsho: Dutch anatomy in Japan",
+    "stream": "east-asia",
+    "tier": 3,
+    "date": {
+      "year": 1774,
+      "earliest": 1771,
+      "latest": 1774,
+      "display": "1771–1774"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "The printed book is dated 1774 and survives in library collections; the 1771 dissection and the struggle to translate are known chiefly from Sugita Genpaku's memoir, written decades later in 1815, so its vivid details are one participant's recollection."
+    },
+    "place": "Edo (modern Tokyo), Japan",
+    "people": [
+      "Sugita Genpaku (1733–1817), physician and co-translator",
+      "Maeno Ryōtaku (1723–1803), physician and, with Sugita, one of the two core translators",
+      "Nakagawa Jun'an (1739–1786), physician and co-translator",
+      "Johann Adam Kulmus (1689–1745), German author of the original anatomy"
+    ],
+    "themes": [
+      "texts",
+      "theory"
+    ],
+    "summary": "Japanese doctors took a Dutch anatomy book to a dissection, marveled at its accuracy, and spent three and a half years translating it, shaking the authority of Chinese anatomy.",
+    "body": [
+      "In 1771 the Edo physicians Sugita Genpaku, Maeno Ryōtaku and Nakagawa Jun'an watched the dissection of an executed convict at the Kozukappara execution ground, carrying a Dutch book, *Ontleedkundige Tafelen* (1734), itself a translation of Johann Adam Kulmus's German anatomy tables. They were amazed at how accurately it matched the body. With little Dutch between them, they spent three and a half years and eleven revisions translating it. *Kaitai Shinsho* (\"New Book of Anatomy\") appeared in 1774, written in *kanbun*, a style using only classical Chinese characters, and it called into question the Chinese anatomical theory taught in Japan's *kanpō* medicine."
+    ],
+    "links": [
+      {
+        "to": "vesalius",
+        "kind": "built-on",
+        "note": "Kulmus's plates were imitations of a lineage of illustration patterned on Vesalius."
+      },
+      {
+        "to": "hanaoka-seishu",
+        "kind": "see-also",
+        "note": "A generation later, Hanaoka joined Chinese medicine to Dutch-style surgery."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Historical Anatomies on the Web: Kulmus, Kaitai shinsho",
+        "publisher": "U.S. National Library of Medicine",
+        "url": "https://www.nlm.nih.gov/exhibition/historicalanatomies/kulmus_bio.html",
+        "type": "institutional",
+        "supports": "The Dutch edition of 1734, the dissection, the decision to translate, publication in 1774 and the challenge to kanpō anatomy.",
+        "quote": "Taking the book with them to the dissection of an executed criminal's corpse, they were enthralled by the accuracy of the Dutch work and decided to translate it into Japanese."
+      },
+      {
+        "title": "1774 SUGITA Genpaku \"Kaitai Shinsho (New Book of Anatomy)\"",
+        "publisher": "Nagoya University Graduate School of Medicine, Medical Library",
+        "url": "https://www.med.nagoya-u.ac.jp/medlib/history_en/archive/print/1774kaitai.html",
+        "type": "institutional",
+        "supports": "The 1771 dissection at Kozukappara, the three translators and their life dates.",
+        "quote": "SUGITA Genpaku (1733-1817), MAENO Ryotaku (1723-1803) and NAKAGAWA Jun'an (1739-1786) went to view autopsies of the bodies that had been executed at Kozukappara in Edo"
+      },
+      {
+        "title": "Kaitai shinsho (New Book of Anatomy)",
+        "publisher": "Japan Search (National Diet Library, Japan)",
+        "url": "https://jpsearch.go.jp/en/gallery/ndl-0w6YVq3m00U6qp",
+        "type": "institutional",
+        "supports": "Three and a half years of work, eleven revisions, and the use of kanbun.",
+        "quote": "after three and a half years of hard work and 11 revisions. The translation is written in kanbun , a style of Japanese using only classical Chinese characters"
+      },
+      {
+        "title": "Kaitai shinsho (Regular image 042-001)",
+        "publisher": "National Diet Library, Japan-Netherlands Exchange in the Edo Period",
+        "url": "https://www.ndl.go.jp/nichiran/e/data/R/042/042-001r.html",
+        "type": "institutional",
+        "supports": "Publication in 1774 and the 1771–1774 span of the translation.",
+        "quote": "The Japanese translation took from 1771 to 1774, and the difficulty of the translation is described in Genpaku's Rangaku kotohajime"
+      },
+      {
+        "title": "Part 2: View by Topics, 2. Activities of Dutch Studies (Rangaku kotohajime)",
+        "publisher": "National Diet Library, Japan-Netherlands Exchange in the Edo Period",
+        "url": "https://www.ndl.go.jp/nichiran/e/s2/s2_2.html",
+        "type": "institutional",
+        "supports": "Sugita Genpaku's memoir of the translation, completed in 1815.",
+        "quote": "This is a memoir by Sugita Genpaku about the pioneering days of Dutch studies including the difficulties of translating and publishing Kaitai Shinsho. He completed it in 1815."
+      }
+    ],
+    "further": [],
+    "image": {
+      "commons": "File:First Japanese treatise on Western anatomy.jpg",
+      "alt": "An open Japanese woodblock-printed book showing an anatomical drawing beside columns of text.",
+      "caption": "*Kaitai Shinsho*, printed in Edo in 1774, displayed at the National Science Museum, Tokyo."
+    }
+  },
+  {
+    "id": "hanaoka-seishu",
+    "title": "Hanaoka Seishū operates under general anesthesia",
+    "stream": "east-asia",
+    "tier": 2,
+    "date": {
+      "year": 1804,
+      "earliest": 1804,
+      "latest": 1804,
+      "display": "13 October 1804"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "agreed",
+      "note": "The operation is recorded by Hanaoka's own school and later Japanese histories, and surgical historians accept it as the earliest well-documented general anesthesia; accounts differ on whether it was a lumpectomy or a partial mastectomy. Japanese sources give the day as 13 October of Bunka 1 (1804); because Japan then used a lunisolar calendar, a conversion to the Western calendar could shift it, and none of the accounts consulted says whether that was done. Older Chinese stories of surgical anesthetics, such as Hua Tuo's, are tradition rather than record."
+    },
+    "place": "Wakayama (Kii province), Japan",
+    "people": [
+      "Hanaoka Seishū (1760–1835), surgeon who devised the anesthetic *mafutsusan*",
+      "Kamada Gendai, his pupil, who published a textbook on the method c. 1840"
+    ],
+    "themes": [
+      "surgery",
+      "drugs"
+    ],
+    "summary": "In 1804 a Japanese surgeon put a woman to sleep with an herbal brew and removed her breast tumor, four decades before ether; why the world never heard of it is still argued.",
+    "body": [
+      "On 13 October 1804, in Wakayama, Japan, the surgeon Hanaoka Seishū gave a 60-year-old woman with breast cancer an herbal drink of his own devising, *mafutsusan*, and removed her tumor while she lay unconscious. It is the earliest well-documented operation under general anesthesia, nearly four decades before Crawford Long used ether in Georgia in 1842. Today it is often called *tsūsensan*, but Hanaoka and his pupils wrote *mafutsusan*; the other name appears in Edo-period documents only on his epitaph.",
+      "Hanaoka (1760–1835) had studied Chinese medicine in Kyoto alongside Dutch surgical techniques, and knew of Hua Tuo's legendary anesthetic. His mixture was built on datura, whose alkaloids scopolamine and atropine sedate and blur memory, together with aconite. He worked on it for years, trying it on dogs and then on his wife and mother, and went on to remove more than 150 breast cancers.",
+      "Why did it not spread abroad? The drug was toxic and hard to dose, and Japan was nearly closed to outsiders. Popular accounts add that Hanaoka kept the formula secret, but historians of Japanese anesthesia dispute that: he taught openly, and his pupil Kamada Gendai published a textbook around 1840. Disciples were, however, sternly asked not to leak the recipe, which one printed in 1862."
+    ],
+    "links": [
+      {
+        "to": "hua-tuo",
+        "kind": "built-on",
+        "note": "Hanaoka set out to recreate the anesthetic attributed to Hua Tuo."
+      },
+      {
+        "to": "ether-anaesthesia",
+        "kind": "see-also",
+        "note": "The Western route to surgical anesthesia, four decades later."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Dr. Seishu Hanaoka (1760-1835): surgeon, pharmacist, and anesthesiologist",
+        "author": "Drew L. Kotler, Hitoshi Hirose, Charles J. Yeo, Scott W. Cowan",
+        "publisher": "Thomas Jefferson University, Gibbon Society Historical Profiles (published in The American Surgeon)",
+        "year": 2014,
+        "url": "https://jdc.jefferson.edu/gibbonsocietyprofiles/21/",
+        "type": "scholarly",
+        "supports": "The 1804 operation in Wakayama as the first documented use of general anesthesia in surgery, and contemporaries' unawareness of it.",
+        "quote": "The successful application of general anesthesia in surgery was first documented in 1804 by Dr. Seishu Hanaoka"
+      },
+      {
+        "title": "History of anesthesia begins with ancient herbal mixtures",
+        "publisher": "Bulletin of the American College of Surgeons",
+        "year": 2025,
+        "url": "https://www.facs.org/for-medical-professionals/news-publications/news-and-articles/bulletin/2025/march-2025-volume-110-issue-3/history-of-anesthesia-begins-with-ancient-herbal-mixtures/",
+        "type": "institutional",
+        "supports": "The date, the patient's age, partial mastectomy, the name mafutsusan, trials on his wife and mother, knowledge of Hua Tuo's tradition, aconite and datura, and Kamada's 1840 textbook.",
+        "quote": "On October 13, 1804, Dr. Hanaoka performed a partial mastectomy on a 60-year-old woman under a state of general anesthesia produced by a cocktail he called Mafutsusan."
+      },
+      {
+        "title": "Hanaoka Seishū, inventor of an early general anesthetic",
+        "author": "Kingston Bridges",
+        "publisher": "Hektoen International: A Journal of Medical Humanities",
+        "year": 2023,
+        "url": "https://hekint.org/2023/08/23/hanaoka-seishu-inventor-of-an-early-general-anesthetic/",
+        "type": "reference",
+        "supports": "Hanaoka's life dates and training in Kyoto, the datura and aconite ingredients with scopolamine and atropine, animal testing, over 150 breast operations, Long's 1842 ether, and the toxicity and isolation that kept the method in Japan.",
+        "quote": "This led Hanaoka, in his further teachings in Japan, to insist that his students kept his formula strictly confidential."
+      },
+      {
+        "title": "Seishu Hanaoka and his success in breast cancer surgery under general anesthesia two hundred years ago (abstract)",
+        "publisher": "Breast Cancer (peer-reviewed journal; abstract record via Europe PMC, PMID 15604985)",
+        "year": 2004,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15604985/",
+        "type": "scholarly",
+        "supports": "The 13 October 1804 operation, its priority over Long's 1842 ether, nearly twenty years of development and 156 breast cancer operations.",
+        "quote": "Finally, he succeeded in using it clinically for breast cancer surgery, on October 13, 1804."
+      },
+      {
+        "title": "Seishu Hanaoka Did Not Describe His Anesthetic as Tsusensan: A Misunderstanding of the Terms Mafutsusan and Tsusensan (abstract)",
+        "publisher": "Masui (Japanese Journal of Anesthesiology; abstract record via Europe PMC, PMID 26742420)",
+        "year": 2015,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26742420/",
+        "type": "scholarly",
+        "supports": "That Hanaoka called his anesthetic mafutsusan, and that tsusensan appears in Edo-period documents only on his epitaph.",
+        "quote": "The description of Tsusensan has not been found in the documents written in the Edo period, and this name is detected only in the epitaph of Hanaoka."
+      },
+      {
+        "title": "The History of Japanese Anesthesiology (abstract)",
+        "publisher": "Journal of Anesthesia History (abstract record via Europe PMC, PMID 28842149)",
+        "year": 2017,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/28842149/",
+        "type": "scholarly",
+        "supports": "That Hanaoka was not secretive despite popular belief, and the importance of Kamada Gendai's texts.",
+        "quote": "Despite common belief, Hanaoka was not secretive about his technique using Mafutsusan, and he spawned a generation of Japanese anesthetists"
+      },
+      {
+        "title": "Ryoan Imamura and his Iji Keigen (1862): Public Disclosure of the Prescription of Mafutsusan (abstract)",
+        "publisher": "Masui (Japanese Journal of Anesthesiology; abstract record via Europe PMC, PMID 30380289)",
+        "year": 2017,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/30380289/",
+        "type": "scholarly",
+        "supports": "That disciples were asked not to leak the prescription and that one of them published it in 1862.",
+        "quote": "In 1862, Imamura published a book titled Iji Keigen, wherein he disclosed the prescription of"
+      }
+    ],
+    "further": [],
+    "image": {
+      "commons": "File:Image from \"Surgical Casebook\" by Hanaoka Seishu.jpg",
+      "alt": "A Japanese painted illustration of a surgical operation, with a patient and the surgeon's hands at work.",
+      "caption": "An illustration from a surgical casebook of Hanaoka Seishū's school, digitized by the US National Library of Medicine."
+    }
+  },
+  {
+    "id": "tcm-standardised",
+    "title": "'Traditional Chinese Medicine' is assembled",
+    "stream": "east-asia",
+    "tier": 3,
+    "date": {
+      "year": 1955,
+      "earliest": 1950,
+      "latest": 1962,
+      "end": 1962,
+      "display": "1950s"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "agreed",
+      "note": "The policy turns, the Academy of 1955 and the training courses are documented, and a peer-reviewed health-policy review says Mao authorized a systematized medicine in the 1950s. How far the result was new rather than a continuation is a matter of emphasis: Republican-era reformers had already begun to modernize Chinese medicine, and the sharpest 'Mao invented it' framing comes from critics rather than all historians."
+    },
+    "place": "Beijing, China",
+    "people": [
+      "Mao Zedong (1893–1976), Communist Party chairman"
+    ],
+    "themes": [
+      "institutions",
+      "theory"
+    ],
+    "summary": "The textbook 'traditional Chinese medicine' was built in the 1950s, when the Communist state turned varied older practices into one teachable system of colleges, courses and standard theory.",
+    "body": [
+      "By 1955 China had about 70,000 Western-trained doctors and 360,000 Chinese-medicine practitioners, working from highly varied lineages and texts. Mao Zedong's government set out to make a system of them: first pressing practitioners to 'scientize', then in 1954 telling Western-trained doctors to study Chinese medicine instead. An Academy of Traditional Chinese Medicine was founded in 1955, Ministry of Health courses of about two and a half years taught Western-trained scientists such as Tu Youyou Chinese medicine from the late 1950s, and theory, herbal prescribing and acupuncture points were standardized."
+    ],
+    "myth": {
+      "tradition": "Traditional Chinese Medicine is a single system handed down unchanged for thousands of years.",
+      "record": "Its standard theory, textbooks and institutions were assembled under the state in the 1950s, building on Republican-era reform efforts and drawing selectively on much older and more varied traditions."
+    },
+    "links": [
+      {
+        "to": "barefoot-doctors",
+        "kind": "see-also",
+        "note": "The rural health drive that put herbal and Western medicine in the same hands."
+      },
+      {
+        "to": "artemisinin",
+        "kind": "see-also",
+        "note": "Tu Youyou took one of these state courses in Chinese medicine, 1959–62, before her antimalarial work."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Between Party, People, and Profession: The Many Faces of the 'Doctor' during the Cultural Revolution",
+        "author": "Miriam Gross",
+        "publisher": "Medical History",
+        "year": 2018,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6113761/",
+        "type": "scholarly",
+        "supports": "Mao's early-1950s decision to promote Chinese medicine, scientific reorganization, and the Republican-era antecedents; the 1955 head counts of Western doctors and Chinese practitioners.",
+        "quote": "Mao felt that once Chinese medicine was re-organised and tested according to scientific methods, it would not only enrich the field of medicine"
+      },
+      {
+        "title": "Between Party, People, and Profession (Republican-era reforms)",
+        "author": "Miriam Gross",
+        "publisher": "Medical History",
+        "year": 2018,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6113761/",
+        "type": "scholarly",
+        "supports": "Republican-era modernizing efforts that preceded the Maoist remaking.",
+        "quote": "Early efforts at modernising Chinese medicine resulted in new Chinese medicine schools and research institutes during the Republican Era"
+      },
+      {
+        "title": "Traditional Chinese medicine in the Chinese health care system",
+        "author": "Jing Xu, Yang Yang",
+        "publisher": "Health Policy",
+        "year": 2009,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7114631/",
+        "type": "scholarly",
+        "supports": "That in the 1950s Mao authorized an attempt to create a systematized medicine, and that herbal medicine and syndrome differentiation were standardized.",
+        "quote": "In the 1950s, Chairman Mao Zedong authorized an attempt to create an academic/formal/systematized medicine."
+      },
+      {
+        "title": "Discovering an Antimalarial Drug in Mao's China",
+        "author": "Wendi Yan",
+        "publisher": "Asimov Press",
+        "year": 2024,
+        "url": "https://press.asimov.com/articles/antimalarial-drug",
+        "type": "news",
+        "supports": "The early 'scientize Chinese medicine' policy and Mao's 1954 reversal.",
+        "quote": "which designated Chinese doctors to study Western biomedicine, Mao Zedong reversed course in 1954, setting a new priority of"
+      },
+      {
+        "title": "Tu Youyou – Biographical",
+        "author": "Tu Youyou",
+        "publisher": "NobelPrize.org",
+        "year": 2015,
+        "url": "https://www.nobelprize.org/prizes/medicine/2015/tu/biographical/",
+        "type": "primary",
+        "supports": "The Academy of Traditional Chinese Medicine newly established by 1955, and the 1959–1962 training of Western-trained professionals in Chinese medicine (about two and a half years in her case).",
+        "quote": "a full-time training program on Chinese medical theory and practice organized by the Ministry of Health for professionals with a Western (modern) medical background between 1959 and 1962"
+      }
+    ],
+    "further": [
+      "unschuld-1985"
+    ]
+  },
+  {
+    "id": "barefoot-doctors",
+    "title": "The barefoot doctors",
+    "stream": "east-asia",
+    "tier": 2,
+    "date": {
+      "year": 1968,
+      "earliest": 1965,
+      "latest": 1968,
+      "end": 1985,
+      "display": "1965–1985"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "agreed",
+      "note": "Mao's 1965 criticism, the official title in 1968 and the 1985 renaming are well documented; village health workers had precursors in the 1950s and in commune health stations from 1958, so the start date is a convention. Its achievements are harder to judge: many claims of success were not backed by data, and falls in infectious disease cannot be credited to barefoot doctors alone."
+    },
+    "place": "Rural China",
+    "people": [
+      "Mao Zedong (1893–1976), Communist Party chairman"
+    ],
+    "themes": [
+      "public-health",
+      "institutions",
+      "practice"
+    ],
+    "summary": "Peasants with a few months' training brought vaccines, first aid and acupuncture to China's villages, and the program was studied abroad as a model for rural primary care.",
+    "body": [
+      "In 1965 Mao Zedong complained that health care served the cities, home to about 15 percent of the population, while the peasant majority had almost no access to doctors or medicine. \"In health and medical work,\" he ordered, \"put the stress on rural areas.\" Urban medical teams went to the villages, and young peasants, mostly in their twenties with some schooling, received three to six months of training in anatomy, diagnosis, acupuncture, herbal and Western drugs, birth control and maternal care. They kept farming, gave vaccinations and first aid, taught hygiene and referred harder cases to commune health centers. Grassroots health workers had been trained in some places since the 1950s, and the name 'barefoot doctors' became official in 1968.",
+      "Abroad they became a legend: In the 1970s WHO and several developing countries studied it as a cheap alternative to Western-style care, and one review says it greatly influenced the 1978 Alma-Ata Declaration. At home the record is mixed. Claims of success were often unsupported by data, some barefoot doctors treated complicated illnesses beyond their training, and the cities lost doctors, yet China did cut infectious diseases such as schistosomiasis sharply. In the 1980s state support shrank and farmers paid for care; in 1985 the title gave way to 'rural doctor'."
+    ],
+    "links": [
+      {
+        "to": "alma-ata",
+        "kind": "led-to",
+        "note": "WHO looked to China's program as a model while primary health care was being defined."
+      },
+      {
+        "to": "tcm-standardised",
+        "kind": "see-also",
+        "note": "The state-built Chinese medicine that barefoot doctors practiced alongside Western drugs."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Barefoot doctors",
+        "publisher": "Chineseposters.net (Stefan R. Landsberger Collection, International Institute of Social History)",
+        "url": "https://chineseposters.net/themes/barefoot-doctors",
+        "type": "reference",
+        "supports": "Mao's 1965 criticism and the 15 percent figure, the official title in 1968, the cities deprived of doctors, and the 1985 renaming; commune health stations from 1958.",
+        "quote": "As they wore no shoes most of the time, they became known as barefoot doctors (赤脚医生, chijiao yisheng), a title that was made official in 1968."
+      },
+      {
+        "title": "Health for the Masses: China's 'Barefoot Doctors'",
+        "author": "Vikki Valentine",
+        "publisher": "NPR",
+        "year": 2005,
+        "url": "https://www.npr.org/templates/story/story.php?storyId=4990242",
+        "type": "news",
+        "supports": "Mao's instruction, the training and duties of barefoot doctors, WHO interest in the 1970s, unsupported claims, the program's decline in the 1980s, and reductions in schistosomiasis and other infections.",
+        "quote": "In the 1970s, the World Health Organization and leaders in some developing countries -- even the Soviet Union -- began to consider China's program as an alternate model to Western-style health care."
+      },
+      {
+        "title": "Declaration of Alma-Ata",
+        "publisher": "World Health Organization",
+        "year": 1978,
+        "url": "https://cdn.who.int/media/docs/default-source/documents/almaata-declaration-en.pdf?sfvrsn=7b3c2167_2",
+        "type": "primary",
+        "supports": "That the 1978 declaration lists community workers and traditional practitioners among primary care staff.",
+        "quote": "relies, at local and referral levels, on health workers, including physicians, nurses, midwives, auxiliaries and community workers as applicable, as well as traditional practitioners as needed"
+      },
+      {
+        "title": "Between Party, People, and Profession: The Many Faces of the 'Doctor' during the Cultural Revolution",
+        "author": "Miriam Gross",
+        "publisher": "Medical History",
+        "year": 2018,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6113761/",
+        "type": "scholarly",
+        "supports": "Grassroots health workers trained in the 1950s and later folded into the barefoot doctor program.",
+        "quote": "Throughout the 1950s, grassroots health workers were trained in some areas in China, particularly those with more educated youth such as Shanghai."
+      },
+      {
+        "title": "Between Party, People, and Profession (limits of training)",
+        "author": "Miriam Gross",
+        "publisher": "Medical History",
+        "year": 2018,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6113761/",
+        "type": "scholarly",
+        "supports": "That some barefoot doctors treated complicated diseases rather than referring them.",
+        "quote": "began treating complicated diseases, rather than referring them up the medical ladder to more experienced professionals."
+      },
+      {
+        "title": "The Turning Point of China's Rural Public Health during the Cultural Revolution Period: Barefoot Doctors: A Narrative Review",
+        "author": "Youngsub Lee, Hyoungsup Kim",
+        "publisher": "Iranian Journal of Public Health",
+        "year": 2018,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6124148/",
+        "type": "scholarly",
+        "supports": "The claimed influence of the barefoot doctor system on the Alma-Ata Declaration, and the 1985 reorganization into country doctors.",
+        "quote": "It also greatly influenced the 'Alma-Ata Declaration' that primary health care would be the best way to secure all humans' health"
+      }
+    ],
+    "further": [],
+    "image": {
+      "commons": "File:1966-01 1966年湖南省巡逻医疗队在湘西农村.jpg",
+      "alt": "Members of a Chinese medical team with villagers in a rural setting.",
+      "caption": "A Hunan provincial mobile medical team in a village in western Hunan, January 1966, photographed for *China Pictorial*, as city health workers were sent to the countryside."
+    }
+  },
+  {
+    "id": "artemisinin",
+    "title": "Artemisinin: an old text and a new drug",
+    "stream": "east-asia",
+    "tier": 1,
+    "date": {
+      "year": 1972,
+      "earliest": 1971,
+      "latest": 1972,
+      "display": "1971–1972"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "The laboratory dates come from Tu Youyou's own detailed 2015 account and the Nobel Committee's review, and are not seriously contested. What is contested is credit: Project 523 was a large, secret, collective program, and historians working from newly published Chinese records argue that crediting one person oversimplifies it."
+    },
+    "place": "Beijing and Hainan, China",
+    "people": [
+      "Tu Youyou (b. 1930), pharmacologist who led the Project 523 group at the Institute of Chinese Materia Medica",
+      "Ge Hong (284–363), physician and author of the *Handbook of Prescriptions for Emergencies*"
+    ],
+    "themes": [
+      "drugs",
+      "texts",
+      "public-health"
+    ],
+    "summary": "A secret wartime project, a fourth-century recipe and a cold-extraction trick produced artemisinin, now the backbone of malaria treatment worldwide.",
+    "body": [
+      "In January 1969 Tu Youyou, a pharmacologist at Beijing's Institute of Chinese Materia Medica, was made head of a research group in Project 523, a secret military program named for a secret meeting that opened in Beijing on 23 May 1967. The need was urgent. Malaria was crippling soldiers on both sides of the Vietnam War, drug-resistant parasites had spread, and several thousand compounds screened in China since 1967 had failed. Tu's group was told to search among Chinese remedies, in the middle of the Cultural Revolution, when most research had stopped.",
+      "Her team gathered some 2,000 recipes, condensed them into 640 prescriptions and tested extracts of more than a hundred herbs on infected rodents. Qinghao, sweet wormwood (*Artemisia annua*), looked promising but gave erratic results. Tu then noticed a line in Ge Hong's *Handbook of Prescriptions for Emergencies*, written around 340 CE: \"A handful of qinghao immersed in two liters of water, wring out the juice and drink it all.\" Soaked, not boiled. Suspecting that heat was destroying the active ingredient, she switched to low-temperature extraction with ether. On 4 October 1971 sample no. 191 inhibited the parasites in rodents completely. In July 1972 Tu and two colleagues swallowed the extract to test its safety; that autumn it cured all 21 patients treated on Hainan Island; and in November 1972 the team isolated the active crystals, later named *qinghaosu*, artemisinin.",
+      "The molecule contained no nitrogen and belonged to a new class of antimalarials, chemically unlike quinine, that kills the parasite fast. Adoption abroad was slow. Chinese scientists presented their work to a WHO meeting in Beijing in 1981, but WHO's endorsement of artemisinin-based combination therapy came much later (one history dates it to 2005), after resistance to older drugs had become widespread. Combinations are used partly to slow resistance, which has now emerged in some parts of the world.",
+      "Tu shared the 2015 Nobel Prize in Physiology or Medicine. The single name sits uneasily on a collective effort: after she reported her results at a project meeting in March 1972, research teams across China took up qinghao, and the molecule's structure was worked out with chemists at the Shanghai Institute of Organic Chemistry and the Institute of Biophysics. Nor is artemisinin simply an ancient remedy rediscovered. Ge Hong supplied a clue; solvents, chromatography and clinical trials made the drug."
+    ],
+    "myth": {
+      "tradition": "Artemisinin is a traditional Chinese herbal cure, rediscovered single-handedly by Tu Youyou.",
+      "record": "Ge Hong's fourth-century recipe gave a vital hint about cold extraction, but the drug is a purified compound isolated with modern chemistry in 1971–72, inside a large state program in which many teams took part."
+    },
+    "links": [
+      {
+        "to": "ge-hong",
+        "kind": "built-on",
+        "note": "Ge Hong's soaking recipe for qinghao suggested extracting without heat."
+      },
+      {
+        "to": "cinchona",
+        "kind": "see-also",
+        "note": "The other great plant-derived antimalarial, quinine from cinchona bark."
+      },
+      {
+        "to": "tcm-standardised",
+        "kind": "see-also",
+        "note": "Tu took a state course in Chinese medicine for Western-trained scientists, 1959–62, before her antimalarial work."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Tu Youyou – Biographical",
+        "author": "Tu Youyou",
+        "publisher": "NobelPrize.org",
+        "year": 2015,
+        "url": "https://www.nobelprize.org/prizes/medicine/2015/tu/biographical/",
+        "type": "primary",
+        "supports": "The 1967–69 screening, the 1969 appointment, 640 prescriptions, the Ge Hong recipe, sample 191 on 4 October 1971, the self-test, the Hainan trial, the March 1972 report and the structure work.",
+        "quote": "On October 4, 1971, we observed that sample number 191 of the Qinghao ethyl ether extract showed 100% effectiveness in inhibiting malaria parasites in rodent malaria."
+      },
+      {
+        "title": "Tu Youyou – Biographical (isolation of artemisinin)",
+        "author": "Tu Youyou",
+        "publisher": "NobelPrize.org",
+        "year": 2015,
+        "url": "https://www.nobelprize.org/prizes/medicine/2015/tu/biographical/",
+        "type": "primary",
+        "supports": "Isolation of the crystalline compound in November 1972.",
+        "quote": "The team finally isolated several crystals using silica gel column chromatography in November 1972, of which one showed effectiveness against malaria."
+      },
+      {
+        "title": "Scientific Background: Avermectin and Artemisinin – Revolutionary Therapies against Parasitic Diseases",
+        "publisher": "The Nobel Assembly at Karolinska Institutet",
+        "year": 2015,
+        "url": "https://www.nobelprize.org/uploads/2018/07/advanced-medicineprize2015.pdf",
+        "type": "institutional",
+        "supports": "Inconsistent early results, Ge Hong's recipe dated 340 AD, cold ether extraction, chloroquine resistance, combination therapy and emerging artemisinin resistance.",
+        "quote": "So again Tu turned to ancient literature and studied recipes by Ge Hong 340 AD. There she found a description detailing an approach to obtain"
+      },
+      {
+        "title": "Press release: The Nobel Prize in Physiology or Medicine 2015",
+        "publisher": "The Nobel Assembly at Karolinska Institutet",
+        "year": 2015,
+        "url": "https://www.nobelprize.org/prizes/medicine/2015/press-release/",
+        "type": "institutional",
+        "supports": "The 2015 Nobel Prize and artemisinin as a new class of fast-acting antimalarial.",
+        "quote": "Artemisinin represents a new class of antimalarial agents that rapidly kill the Malaria parasites at an early stage of their development"
+      },
+      {
+        "title": "From branch to bedside: Youyou Tu is awarded the 2011 Lasker~DeBakey Clinical Medical Research Award for discovering artemisinin as a treatment for malaria",
+        "author": "Ushma S. Neill",
+        "publisher": "Journal of Clinical Investigation",
+        "year": 2011,
+        "url": "https://www.jci.org/articles/view/60887",
+        "type": "scholarly",
+        "supports": "Ge Hong's dates, malaria losses in the Vietnam War, and the team's self-experimentation.",
+        "quote": "Tu and her colleagues bravely acted as the first group of volunteers and took the new extract themselves"
+      },
+      {
+        "title": "Discovering an Antimalarial Drug in Mao's China",
+        "author": "Wendi Yan",
+        "publisher": "Asimov Press",
+        "year": 2024,
+        "url": "https://press.asimov.com/articles/antimalarial-drug",
+        "type": "news",
+        "supports": "The 23 May 1967 meeting, Tu joining in January 1969, the 1981 WHO meeting, WHO's 2005 recommendation, and the debate over individual credit.",
+        "quote": "The existing literature written in English on this story tends to attribute Tu Youyou’s achievements to a solo discovery"
+      }
+    ],
+    "further": [
+      "snowden-2019"
+    ],
+    "image": {
+      "commons": "File:Artemisia annua.jpeg",
+      "alt": "A tall green plant with finely divided, feathery leaves growing outdoors.",
+      "caption": "Sweet wormwood, *Artemisia annua* (qinghao), the plant from which artemisinin is extracted, photographed in the Elbe valley in 2007."
+    }
+  }
+]

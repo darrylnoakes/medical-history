@@ -1,0 +1,481 @@
+[
+  {
+    "id": "ct-scanner",
+    "title": "The CT scanner",
+    "stream": "bio-surgery",
+    "tier": 2,
+    "date": {
+      "year": 1971,
+      "display": "1 October 1971",
+      "earliest": 1971,
+      "latest": 1971
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "firm",
+      "note": "The year and the sequence are secure and the 1979 Nobel citation fixes the surrounding chronology; the exact day, 1 October 1971, comes from the participants' later accounts as retold in a 2021 history. The Beatles story is a popular simplification that a 2012 funding analysis contradicts."
+    },
+    "place": "Atkinson Morley's Hospital, Wimbledon, London",
+    "people": [
+      "Godfrey Hounsfield (1919–2004), EMI engineer who designed and built the scanner",
+      "James Ambrose, radiologist who ran the first clinical scans",
+      "Allan Cormack (1924–1998), Tufts physicist who worked out the reconstruction mathematics"
+    ],
+    "themes": [
+      "technology",
+      "practice"
+    ],
+    "summary": "An engineer at a record company found a way to see inside the living skull. The first patient's scan took two days to compute.",
+    "body": [
+      "On 1 October 1971, at Atkinson Morley's Hospital in Wimbledon, a middle-aged woman with a suspected tumor in her left frontal lobe became the first living patient examined by a scanner built by Godfrey Hounsfield, an engineer at the British firm EMI. The data had to be processed on an off-site mainframe computer, and the radiologist James Ambrose waited two days to see the pictures. They showed a cystic tumor, which surgeons then removed.",
+      "Hounsfield had the idea in 1967. Ordinary X-ray film flattens the body into overlapping shadows; his machine swept a beam through one slice from many directions and let a computer calculate the density of each small square. The prototype was built on a shoestring, about £69,000 in the three years before the first patient scan, with seed money from the British Department of Health and Social Security. Unknown to him, the physicist Allan Cormack at Tufts University had worked out the underlying mathematics in papers of 1963 and 1964. By the end of 1973 five more scanners had been installed beyond Atkinson Morley's, in Manchester, Glasgow, London and at the Mayo Clinic and one other US site, and in 1979 Hounsfield and Cormack shared the Nobel Prize."
+    ],
+    "myth": {
+      "tradition": "The CT scanner was paid for by EMI's profits from Beatles records.",
+      "record": "A 2012 analysis put the government health department's spending on CT development at about £606,000, against roughly £100,000 from EMI (not counting salaries). EMI's music wealth may help explain why it could employ a free-thinking inventor, but the project was funded mostly by public money."
+    },
+    "links": [
+      {
+        "to": "xrays",
+        "kind": "built-on",
+        "note": "CT reassembles ordinary X-ray measurements into cross-sections."
+      },
+      {
+        "to": "mri",
+        "kind": "led-to",
+        "note": "MRI borrowed CT's idea of reconstructing slices by computer."
+      },
+      {
+        "to": "ultrasound",
+        "kind": "see-also",
+        "note": "Another postwar way of seeing inside the body."
+      }
+    ],
+    "sources": [
+      {
+        "title": "How CT happened: the early development of medical computed tomography",
+        "publisher": "Journal of Medical Imaging",
+        "year": 2021,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8555965/",
+        "type": "scholarly",
+        "supports": "First live-patient scan 1 October 1971 at Atkinson Morley Hospital under Ambrose; two-day delay; patient with left frontal cystic astrocytoma; £69,000 total funding with DHSS seed grant; scanners in Manchester, Queen Square, Glasgow and Mayo by 1973.",
+        "quote": "The first CT scan of a live patient took place on October 1, 1971, under the supervision of Dr. Ambrose, but two days passed before Dr. Ambrose would see the images"
+      },
+      {
+        "title": "Press release: The Nobel Prize in Physiology or Medicine 1979",
+        "publisher": "NobelPrize.org",
+        "year": 1979,
+        "url": "https://www.nobelprize.org/prizes/medicine/1979/press-release/",
+        "type": "institutional",
+        "supports": "1979 Nobel Prize to Cormack and Hounsfield; Cormack's 1963 and 1964 papers; Hounsfield unaware of Cormack's work.",
+        "quote": "He published his analysis of the problem in two scientific publications in 1963 and 1964."
+      },
+      {
+        "title": "Godfrey N. Hounsfield – Biographical",
+        "author": "Godfrey N. Hounsfield",
+        "publisher": "NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/medicine/1979/hounsfield/biographical/",
+        "type": "primary",
+        "supports": "Hounsfield conceived the idea in 1967 while working on pattern recognition at EMI.",
+        "quote": "in 1967, that the idea occurred to me which was eventually to become the EMI-Scanner and the technique of computed tomography"
+      },
+      {
+        "title": "An evolution of low-field strength MRI",
+        "publisher": "Magnetic Resonance Materials in Physics, Biology and Medicine",
+        "year": 2023,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10386941/",
+        "type": "scholarly",
+        "supports": "The Beatles-funding story is not accurate; the CT project was mostly funded by a DHSS grant.",
+        "quote": "This is not exactly true, the CT project was mostly funded through a grant from British Department of Health and Social Security (DHSS)"
+      },
+      {
+        "title": "Harmonizing Innovation: The Beatles, EMI, and the Birth of Computed Tomography Imaging",
+        "publisher": "HCA Healthcare Journal of Medicine",
+        "year": 2025,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11892408/",
+        "type": "scholarly",
+        "supports": "The popular version of the story: EMI's music success financed Hounsfield's work.",
+        "quote": "EMI’s success in the music industry provided the financial stability for Hounsfield's research endeavors."
+      },
+      {
+        "title": "Do We Really Need to Thank the Beatles for the Financing of the Development of the Computed Tomography Scanner?",
+        "author": "Zeev V. Maizlin, Patrick M. Vos",
+        "publisher": "Journal of Computer Assisted Tomography",
+        "year": 2012,
+        "url": "https://doi.org/10.1097/RCT.0b013e318249416f",
+        "type": "scholarly",
+        "supports": "Government (DHSS) spending of about £606,000 on CT development versus roughly £100,000 from EMI, excluding salaries; the Beatles-funding story is doubtful.",
+        "quote": "The British DHSS’s expenses were £606,000."
+      }
+    ],
+    "further": [],
+    "image": {
+      "commons": "File:Emi1010.jpg",
+      "alt": "A box-shaped EMI head scanner with a round opening for the patient's head and a patient couch in front.",
+      "caption": "An early EMI head scanner of the kind installed in hospitals after Hounsfield's 1971 prototype at Atkinson Morley's Hospital; the Commons file is titled Emi1010."
+    }
+  },
+  {
+    "id": "dsm-rosenhan",
+    "title": "Psychiatry redraws its map",
+    "stream": "bio-mind",
+    "tier": 3,
+    "date": {
+      "year": 1973,
+      "end": 1980,
+      "display": "1973–1980"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "The 1973 trustee decision, the member vote and DSM-III's 1980 publication are documented. How far Rosenhan's study shaped DSM-III is argued from interviews (Cahalan reports Spitzer's colleagues crediting it, Spitzer never said so), and the study itself is now widely doubted."
+    },
+    "place": "United States",
+    "people": [
+      "David Rosenhan, psychologist, author of 'On Being Sane in Insane Places'",
+      "Robert Spitzer, psychiatrist who chaired the DSM-III task force"
+    ],
+    "themes": [
+      "mind",
+      "theory",
+      "institutions"
+    ],
+    "summary": "In 1973 a famous experiment mocked psychiatric diagnosis and the American Psychiatric Association's leaders dropped homosexuality as an illness. A new rulebook followed.",
+    "body": [
+      "In 1973 *Science* published David Rosenhan's 'On Being Sane in Insane Places', claiming that healthy volunteers who reported hearing voices were admitted to psychiatric hospitals and labeled schizophrenic. That December, after gay activists had disrupted the 1970 and 1971 meetings of the American Psychiatric Association, its trustees removed homosexuality from the diagnostic manual, though a milder diagnosis, sexual orientation disturbance, took its place. A 58% majority of some 10,000 voting members then upheld the decision. Robert Spitzer then chaired the task force for DSM-III (1980), which built diagnoses on explicit criteria rather than theory. Rosenhan's study has since been seriously questioned."
+    ],
+    "myth": {
+      "tradition": "Rosenhan's experiment proved that psychiatrists cannot tell the sane from the insane.",
+      "record": "Psychiatrists attacked its design from the start, and a 2019 investigation, *The Great Pretender*, argued it was exaggerated and possibly dishonest, though outright fraud cannot be proven."
+    },
+    "links": [
+      {
+        "to": "kraepelin",
+        "kind": "built-on",
+        "note": "DSM-III revived Kraepelin's descriptive approach to diagnosis."
+      },
+      {
+        "to": "chlorpromazine",
+        "kind": "see-also",
+        "note": "Drugs and deinstitutionalization formed the backdrop to the 1970s crisis."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Out of DSM: Depathologizing Homosexuality",
+        "author": "Jack Drescher",
+        "publisher": "Behavioral Sciences",
+        "year": 2015,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4695779/",
+        "type": "scholarly",
+        "supports": "Activists disrupted the 1970 and 1971 APA meetings; Board of Trustees vote in December 1973; referendum upheld by 58% of 10,000 voting members.",
+        "quote": "As a result, in December 1973, APA’s Board of Trustees (BOT) voted to remove homosexuality from the DSM."
+      },
+      {
+        "title": "\"On Being Sane in Insane Places\" … it is a work half done.",
+        "author": "Atul Agarwal",
+        "publisher": "Indian Journal of Psychiatry",
+        "year": 2023,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10309267/",
+        "type": "scholarly",
+        "supports": "Rosenhan's 1973 Science paper, pseudopatients diagnosed with schizophrenia; Spitzer chaired the DSM-III task force from 1974; Cahalan's and others' doubts about the study.",
+        "quote": "Rosenhan’s paper, as exaggerated, and even dishonest, as it was, touched on truth as it danced around it"
+      },
+      {
+        "title": "The Evolution of the Classification of Psychiatric Disorders",
+        "publisher": "Behavioral Sciences",
+        "year": 2016,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4810039/",
+        "type": "scholarly",
+        "supports": "DSM-III published 1980 and based on explicit, atheoretical diagnostic criteria.",
+        "quote": "For the first time, DSM-III emphasized empirically-based, atheoretical and agnostic diagnostic criteria."
+      }
+    ],
+    "further": [
+      "scull-2015",
+      "harrington-2019"
+    ]
+  },
+  {
+    "id": "mri",
+    "title": "Magnetic resonance imaging",
+    "stream": "bio-surgery",
+    "tier": 2,
+    "date": {
+      "year": 1973,
+      "display": "1973"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "Lauterbur's paper is dated 16 March 1973 and the later milestones are published papers. Who deserves credit for inventing MRI is genuinely contested, as the 2003 Nobel dispute showed."
+    },
+    "place": "United States and Nottingham, England",
+    "people": [
+      "Paul Lauterbur (1929–2007), chemist who made the first magnetic resonance images",
+      "Peter Mansfield (1933–2017), Nottingham physicist who developed fast imaging",
+      "Raymond Damadian, physician who proposed NMR for detecting tumors"
+    ],
+    "themes": [
+      "technology",
+      "practice"
+    ],
+    "summary": "Two tubes of water in a magnet gave one of the earliest magnetic resonance images. Who invented MRI is still argued over.",
+    "body": [
+      "Hydrogen nuclei in a strong magnetic field absorb and re-emit radio waves at a frequency set by the field's strength. In a short *Nature* paper of March 1973, the chemist Paul Lauterbur showed that by adding gradients, so that the field varied across a sample, he could tell where each signal came from and build a picture. His first image distinguished tubes of ordinary water from heavy water. In Nottingham the physicist Peter Mansfield worked out how to analyze such signals quickly and showed that very fast imaging was possible.",
+      "Others soon carried the method toward the body. In 1971 Raymond Damadian had reported in *Science* that tumors and normal tissue give different magnetic signals, and in 1977 he published an image of a human thorax; the same year another group imaged a living wrist. First commercial scanners appeared in 1980. When the 2003 Nobel Prize went to Lauterbur and Mansfield alone, Damadian protested loudly and divided the field. The rivalry was old: Lauterbur's paper did not cite Damadian's 1971 paper, and Damadian's thorax paper did not cite Lauterbur's."
+    ],
+    "myth": {
+      "tradition": "Raymond Damadian single-handedly invented MRI and was simply cheated of a Nobel Prize.",
+      "record": "Damadian first saw NMR's promise for detecting cancer and made an early human scan, but modern imaging rests on Lauterbur's gradients and Mansfield's methods. Credit was shared among several groups and remains disputed."
+    },
+    "links": [
+      {
+        "to": "ct-scanner",
+        "kind": "built-on",
+        "note": "Both reconstruct cross-sections by computer."
+      },
+      {
+        "to": "xrays",
+        "kind": "see-also",
+        "note": "MRI images the body without ionizing radiation."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Press release: The Nobel Prize in Physiology or Medicine 2003",
+        "publisher": "NobelPrize.org",
+        "year": 2003,
+        "url": "https://www.nobelprize.org/prizes/medicine/2003/press-release/",
+        "type": "institutional",
+        "supports": "Nobel to Lauterbur and Mansfield; Lauterbur's 1973 gradient method imaging ordinary and heavy water; Mansfield's analysis and fast imaging; physics of resonance.",
+        "quote": "In 1973, he described how addition of gradient magnets to the main magnet made it possible to visualize a cross section of tubes with ordinary water surrounded by heavy water."
+      },
+      {
+        "title": "Image Formation by Induced Local Interactions: Examples Employing Nuclear Magnetic Resonance",
+        "author": "P. C. Lauterbur",
+        "publisher": "Nature",
+        "year": 1973,
+        "url": "https://www.nature.com/articles/242190a0",
+        "type": "primary",
+        "supports": "Lauterbur's paper, published 16 March 1973.",
+        "quote": "AN image of an object may be defined as a graphical representation of the spatial distribution of one or more of its properties."
+      },
+      {
+        "title": "Magnetic Resonance Imaging: The Nuclear Option",
+        "publisher": "Digestive Diseases and Sciences",
+        "year": 2018,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5988242/",
+        "type": "scholarly",
+        "supports": "Damadian's 1971 paper on relaxation times in normal and malignant tissue; his exclusion from the 2003 prize and protests.",
+        "quote": "Damadian launched strident protests that at the time divided the scientific community"
+      },
+      {
+        "title": "An evolution of low-field strength MRI",
+        "publisher": "Magnetic Resonance Materials in Physics, Biology and Medicine",
+        "year": 2023,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10386941/",
+        "type": "scholarly",
+        "supports": "1977 human wrist image (Hinshaw's group) and Damadian's 1977 thorax image; the Lauterbur–Damadian feud and mutual non-citation; first commercial scanners in 1980.",
+        "quote": "In the same year Damadian published his first image of a human thorax"
+      }
+    ],
+    "further": [],
+    "image": {
+      "commons": "File:MRI Scanner Mark One.jpg",
+      "alt": "A large early MRI scanner with a pair of big circular coils, on display in a hospital gallery.",
+      "caption": "The Mark One scanner built by John Mallard's group in Aberdeen, whose clinical evaluations of patients helped pave the way to commercial MRI; displayed at Aberdeen Royal Infirmary since 2016."
+    }
+  },
+  {
+    "id": "recombinant-dna",
+    "title": "Recombinant DNA",
+    "stream": "bio-lab",
+    "tier": 2,
+    "date": {
+      "year": 1973,
+      "display": "1973"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "The 1973 paper, the Asilomar meeting, the patent and the 1982 insulin approval are all documented. Historians debate whose contributions have been underplayed, not whether the events happened."
+    },
+    "place": "Stanford and San Francisco, California",
+    "people": [
+      "Stanley Cohen, Stanford geneticist",
+      "Herbert Boyer, UCSF biochemist and Genentech co-founder",
+      "Annie Chang and Robert Helling, co-authors of the 1973 paper",
+      "John Morrow, Berg's graduate student who cloned frog DNA with Cohen and Boyer",
+      "Janet Mertz, Berg's graduate student whose plan to clone SV40 in bacteria raised the biohazard alarm",
+      "Paul Berg (1926–2023), Stanford biochemist and Asilomar organizer"
+    ],
+    "themes": [
+      "technology",
+      "drugs",
+      "ethics"
+    ],
+    "summary": "Two Californian scientists learned to cut and paste genes into bacteria. Within a decade, bacteria were making human insulin.",
+    "body": [
+      "In 1973 Stanley Cohen of Stanford and Herbert Boyer of the University of California, San Francisco, with Annie Chang and Robert Helling, cut bacterial plasmids (small rings of DNA) with a restriction enzyme, joined fragments from different plasmids and put the result into *E. coli*. The new plasmids worked and were copied. Paul Berg's Stanford laboratory had already joined DNA from two unrelated sources in 1971 (David Jackson's work) but, amid biohazard worries first raised by Janet Mertz's plan, held back from putting it into bacteria. By October 1973 Berg's student John Morrow, working with Cohen and Boyer, had shown that frog DNA could replicate in bacteria, regarded as the first cloning of an animal gene.",
+      "The power alarmed biologists. After a voluntary pause, they met at Asilomar in California in February 1975 and agreed to go on under containment rules matched to risk, which became the NIH guidelines. Commerce moved faster than regulation: Stanford filed a patent in November 1974, Boyer founded Genentech with the investor Robert Swanson in 1976, and in 1978 Genentech scientists cloned a synthetic human insulin gene and signed with Eli Lilly. In 1982 recombinant human insulin became the first therapeutic protein made this way to be approved by the US Food and Drug Administration."
+    ],
+    "links": [
+      {
+        "to": "dna-double-helix",
+        "kind": "built-on",
+        "note": "Gene splicing depended on understanding DNA's structure."
+      },
+      {
+        "to": "insulin",
+        "kind": "led-to",
+        "note": "Bacterial human insulin replaced insulin extracted from animal pancreases."
+      },
+      {
+        "to": "hepatitis-b-vaccine",
+        "kind": "led-to",
+        "note": "Later hepatitis B vaccines were made by recombinant DNA."
+      },
+      {
+        "to": "gene-therapy",
+        "kind": "led-to",
+        "note": "Gene therapy uses the same cut-and-paste tools."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Construction of Biologically Functional Bacterial Plasmids In Vitro",
+        "author": "Stanley N. Cohen, Annie C. Y. Chang, Herbert W. Boyer, Robert B. Helling",
+        "publisher": "Proceedings of the National Academy of Sciences",
+        "year": 1973,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC427208/",
+        "type": "primary",
+        "supports": "The 1973 experiment, its authors and institutions, and what it achieved.",
+        "quote": "The construction of new plasmid DNA species by in vitro joining of restriction endonuclease-generated fragments of separate plasmids is described."
+      },
+      {
+        "title": "Asilomar, Gene Cloning's Origins, and Its Commercial Fate",
+        "publisher": "Journal of the History of Biology",
+        "year": 2025,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12098428/",
+        "type": "scholarly",
+        "supports": "Berg lab's 1971 SV40-lambda recombinant and decision not to clone it; Cohen and Boyer's 1973 success; Stanford patent filed November 1974; Genentech founded 1976; 1978 synthetic insulin gene and Eli Lilly contract. Janet Mertz's SV40 plan and the resulting biohazard concerns; Berg's lab not cloning SV40 in E. coli; John Morrow's frog-DNA cloning with Cohen and Boyer by October 1973 (regarded as first cloning of an animal gene); Boyer and Swanson founding Genentech.",
+        "quote": "Stanford University filed a patent on basic techniques for recombinant DNA work, and Boyer subsequently pursued their commercialization, leading to the founding of Genentech in 1976"
+      },
+      {
+        "title": "Two golden anniversaries in the biological sciences",
+        "author": "Michael J. Imperiale, Arturo Casadevall",
+        "publisher": "mSphere",
+        "year": 2025,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12188734/",
+        "type": "scholarly",
+        "supports": "Asilomar meeting 24–27 February 1975, the preceding moratorium and the resulting NIH Guidelines.",
+        "quote": "The community enacted a moratorium and convened a conference to discuss the issues."
+      },
+      {
+        "title": "A Century of Progress in Diabetes Care with Insulin: A History of Innovations and Foundation for the Future",
+        "publisher": "Diabetes & Metabolism Journal",
+        "year": 2021,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8497924/",
+        "type": "scholarly",
+        "supports": "Recombinant human insulin was the first therapeutic protein made by recombinant DNA and approved by the FDA, in 1982.",
+        "quote": "Insulin was the first therapeutic protein to be produced by recombinant deoxyribonucleic acid (DNA) technology and approved for use in humans by the U.S. Food and Drug Administration (FDA) in 1982."
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "monoclonal-antibodies",
+    "title": "Monoclonal antibodies",
+    "stream": "bio-drugs",
+    "tier": 3,
+    "date": {
+      "year": 1975,
+      "display": "1975"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "The Nature paper (1 August 1975), the 1984 Nobel Prize and the 1986 approval of OKT3 are documented in primary and institutional sources. The patenting refusal rests on a 1976 letter quoted in a later review."
+    },
+    "place": "Medical Research Council laboratory, Cambridge, England",
+    "people": [
+      "Georges Köhler (1946–1995), German immunologist",
+      "César Milstein (1927–2002), Argentine-born biochemist"
+    ],
+    "themes": [
+      "drugs",
+      "technology"
+    ],
+    "summary": "Fusing a cancer cell with an antibody-making cell produced an immortal factory for a single antibody. The method went unpatented.",
+    "body": [
+      "In August 1975 Georges Köhler and César Milstein reported fusing antibody-making mouse spleen cells with cancerous myeloma cells. The hybrids, called hybridomas, grew indefinitely and each secreted one predefined antibody. Britain's patenting body, asked in 1976, saw no obvious commercial use. The first therapeutic monoclonal antibody, muromonab-CD3 (OKT3), was approved in 1986 to fight kidney-transplant rejection; by 2026 more than 200 antibody therapeutics were in late-stage clinical development. Köhler and Milstein shared the 1984 Nobel Prize."
+    ],
+    "links": [
+      {
+        "to": "antitoxin",
+        "kind": "built-on",
+        "note": "Antibody serum therapy began with diphtheria antitoxin."
+      },
+      {
+        "to": "cancer-immunotherapy",
+        "kind": "led-to",
+        "note": "Checkpoint inhibitors are monoclonal antibodies."
+      },
+      {
+        "to": "alzheimers-antibodies",
+        "kind": "led-to",
+        "note": "Antibodies against amyloid are a recent use."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Continuous cultures of fused cells secreting antibody of predefined specificity",
+        "author": "G. Köhler, C. Milstein",
+        "publisher": "Nature",
+        "year": 1975,
+        "url": "https://www.nature.com/articles/256495a0",
+        "type": "primary",
+        "supports": "The 1975 hybridoma method, published 1 August 1975.",
+        "quote": "The cell lines are made by fusion of a mouse myeloma and mouse spleen cells from an immunised donor."
+      },
+      {
+        "title": "Press release: The Nobel Prize in Physiology or Medicine 1984",
+        "publisher": "NobelPrize.org",
+        "year": 1984,
+        "url": "https://www.nobelprize.org/prizes/medicine/1984/press-release/",
+        "type": "institutional",
+        "supports": "1984 Nobel to Köhler and Milstein (with Jerne); hybridomas survive indefinitely and make a single preselected antibody.",
+        "quote": "This dream materialized when Georges J.F. Köhler and César Milstein in 1975 introduced the so-called hybridoma technology for production of monclonal antibodies."
+      },
+      {
+        "title": "A fascinating story of the discovery & development of biologicals for use in clinical medicine",
+        "publisher": "Indian Journal of Medical Research",
+        "year": 2018,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6251261/",
+        "type": "scholarly",
+        "supports": "The National Research Development Corporation declined to patent the discovery in 1976.",
+        "quote": "It is certainly difficult for us to identify any immediate practical application which could be pursued as a commercial venture"
+      },
+      {
+        "title": "Antibodies to watch in 2026",
+        "publisher": "mAbs",
+        "year": 2026,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12826703/",
+        "type": "scholarly",
+        "supports": "OKT3 first monoclonal antibody approved, 1986; late-stage pipeline now over 200 antibody therapeutics.",
+        "quote": "In 1986 the murine antibody muromonab-CD3 (Orthoclone OKT3) became the first monoclonal antibody granted a marketing approval in any country."
+      },
+      {
+        "title": "Monoclonal Antibodies: Historical Perspective and Current Trends in Biological Drug Development",
+        "publisher": "International Journal of Molecular Sciences",
+        "year": 2025,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12469596/",
+        "type": "scholarly",
+        "supports": "OKT3 (muromonab-CD3) first approved for acute kidney transplant rejection.",
+        "quote": "Muromonab was initially approved for the treatment of acute kidney transplant rejection."
+      }
+    ],
+    "further": []
+  }
+]

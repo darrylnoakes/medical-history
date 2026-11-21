@@ -1,0 +1,597 @@
+[
+  {
+    "id": "shanidar-care",
+    "title": "Care for the injured at Shanidar",
+    "stream": "prehistory",
+    "tier": 3,
+    "date": {
+      "year": -46000,
+      "earliest": -48000,
+      "latest": -44000,
+      "display": "c. 50,000–46,000 years ago"
+    },
+    "confidence": {
+      "date": "uncertain",
+      "claim": "agreed",
+      "note": "The injuries and the man's survival are plain in the bones; his date rests on 1950s radiocarbon dates (46,000–50,000 years ago) from nearby charcoal, which later researchers say should be treated cautiously although more recent redating broadly supports them. That he needed and received help is an inference, and how much care such injuries demand is debated."
+    },
+    "place": "Shanidar Cave, Iraqi Kurdistan",
+    "people": [
+      "Ralph Solecki, archaeologist who excavated Shanidar 1 in 1957",
+      "Erik Trinkaus, paleoanthropologist who studied the skeleton"
+    ],
+    "themes": [
+      "practice",
+      "ethics"
+    ],
+    "summary": "A Neanderthal with a crushed eye socket, a withered arm, a limp and probable deafness lived into his forties. Did his group keep him alive?",
+    "body": [
+      "Roughly 50,000 years ago an older Neanderthal man died in Shanidar Cave, in what is now Iraqi Kurdistan. His skeleton, Shanidar 1, found by Ralph Solecki in 1957, records a hard life: a crushed left eye socket, a withered right arm probably amputated above the elbow, an injured right leg that left him limping, and bony growths in his ear canals that would have impaired his hearing. Yet he reached 40 to 50. Erik Trinkaus argues he must have relied on his group to survive. That is a reasonable inference, not an observation, and some researchers question how much support such injuries really require."
+    ],
+    "links": [
+      {
+        "to": "borneo-amputation",
+        "kind": "see-also",
+        "note": "Another Ice Age skeleton that survived the loss of a limb."
+      }
+    ],
+    "sources": [
+      {
+        "title": "External auditory exostoses and hearing loss in the Shanidar 1 Neandertal",
+        "author": "Erik Trinkaus and Sébastien Villotte",
+        "publisher": "PLOS ONE",
+        "year": 2017,
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0186684",
+        "type": "scholarly",
+        "supports": "The catalogue of injuries (eye socket, arm, gait, hearing loss), age 40–50, the probable amputation, the social-support argument and the primate-based doubts about it.",
+        "quote": "He is best known for his withered right shoulder and arm, that was little more than a weakened stump extending to just proximal of the elbow; it was most likely amputated above the elbow"
+      },
+      {
+        "title": "Older Neandertal survived with a little help from his friends",
+        "publisher": "Washington University in St. Louis, The Source",
+        "year": 2017,
+        "url": "https://source.washu.edu/2017/10/shanidar/",
+        "type": "institutional",
+        "supports": "Discovery by Ralph Solecki in 1957, location, and Trinkaus's interpretation that he depended on his group.",
+        "quote": "Known as Shanidar 1, the Neandertal remains were discovered in 1957 during excavations at Shanidar Cave in Iraqi Kurdistan by Ralph Solecki"
+      },
+      {
+        "title": "Newly-discovered Neanderthal remains from Shanidar Cave, Iraqi Kurdistan, and their attribution to Shanidar 5",
+        "author": "Emma Pomeroy et al.",
+        "publisher": "Journal of Human Evolution (author manuscript, Liverpool John Moores University repository)",
+        "year": 2017,
+        "url": "https://researchonline.ljmu.ac.uk/id/eprint/6750/3/Pomeroy%20et%20al%20Shanidar%205%20JHE%20manuscript%20final.pdf",
+        "type": "scholarly",
+        "supports": "The date of Shanidar 1 (radiocarbon, c. 46,000–50,000 years ago) and the caution attached to it; the role of Shanidar in debates about care.",
+        "quote": "Shanidar 1, 3 and 5 were assigned to around 46–50 ka based on radiocarbon dates from charcoal associated with Shanidar 1"
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "borneo-amputation",
+    "title": "The earliest known amputation",
+    "stream": "prehistory",
+    "tier": 2,
+    "date": {
+      "year": -29000,
+      "earliest": -30000,
+      "latest": -28400,
+      "display": "at least 31,000 years ago"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "disputed",
+      "note": "The burial is dated by radiocarbon on charcoal in and around it (about 31,100–30,400 years ago); a uranium-series/electron-spin-resonance date on a tooth (25.4 ± 4.3 thousand years, 1σ) falls within error of that, and the combined model gives about 31,200–30,700. That the missing foot was removed deliberately rather than lost to injury is the excavators' diagnosis; a group of orthopaedic trauma surgeons has argued that ordinary trauma could explain it, and the authors have rejected that."
+    },
+    "place": "Liang Tebo cave, East Kalimantan, Indonesian Borneo",
+    "people": [
+      "Tim Maloney, archaeologist who co-led the excavation",
+      "Melandri Vlok, bioarchaeologist who recognized the healed stump"
+    ],
+    "themes": [
+      "surgery",
+      "practice"
+    ],
+    "summary": "A child in Borneo lost the lower third of a leg at least 31,000 years ago and lived for years afterward. Was it Ice Age surgery?",
+    "body": [
+      "At least 31,000 years ago, in the limestone hills of eastern Borneo, a young person lost the lower third of their left leg, probably as a child, and survived. The skeleton, carefully buried in Liang Tebo cave and uncovered by an Indonesian–Australian team in March 2020, shows a clean, well-healed stump with no sign of infection. Bone remodeling shows the person lived at least six to nine years more, dying at about 19 or 20. In *Nature* in 2022 the team argued that the injury was a deliberate surgical amputation rather than an accident.",
+      "If they are right, it is the earliest known surgical amputation by some 24,000 years, older than a Neolithic farmer from Buthiers-Boulancourt, France, whose forearm was removed about 7,000 years ago. It also undercuts the idea that complex surgery began with farming: these were foragers, who, the authors argue, must have known enough anatomy to get through veins, arteries and nerves and keep the wound clean. In 2023 a group of orthopaedic trauma surgeons replied that a common growth-plate fracture and its aftermath could explain the bones; the original team strongly disagreed."
+    ],
+    "links": [
+      {
+        "to": "shanidar-care",
+        "kind": "see-also",
+        "note": "An even older skeleton that survived losing part of an arm."
+      },
+      {
+        "to": "trepanation",
+        "kind": "see-also",
+        "note": "The other great test of prehistoric surgical skill."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Surgical amputation of a limb 31,000 years ago in Borneo",
+        "author": "Tim Ryan Maloney, India Ella Dilkes-Hall, Melandri Vlok et al.",
+        "publisher": "Nature 609, 547–551",
+        "year": 2022,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9477728/",
+        "type": "scholarly",
+        "supports": "Date (radiocarbon, with US-ESR consistent within error), the amputation of the distal third of the left lower leg probably in childhood, survival of at least 6–9 years, age at death 19–20, burial at Liang Tebo, and the earlier French Neolithic case of about 7,000 years ago.",
+        "quote": "we report the discovery of skeletal remains of a young individual from Borneo who had the distal third of their left lower leg surgically amputated, probably as a child, at least 31,000 years ago"
+      },
+      {
+        "title": "Stone age surgery: earliest evidence of amputation found",
+        "publisher": "University of Sydney",
+        "year": 2022,
+        "url": "https://www.sydney.edu.au/news-opinion/news/2022/09/08/stone-age-surgery-earliest-evidence-of-amputation-found-archaeology.html",
+        "type": "institutional",
+        "supports": "The clean, uninfected, healed cut; the excavation team and its timing in 2020; the anatomical skill implied.",
+        "quote": "She unwrapped the part of the leg that contained the stump and noticed the cut was clean, well healed and had no evidence of any infection"
+      },
+      {
+        "title": "Common orthopaedic trauma may explain 31,000-year-old remains",
+        "author": "Nicholas J. Murphy, Joshua S. Davis, Seth M. Tarrant and Zsolt J. Balogh",
+        "publisher": "Nature 615, E13–E14",
+        "year": 2023,
+        "url": "https://www.nature.com/articles/s41586-023-05756-8",
+        "type": "scholarly",
+        "supports": "The 2023 challenge by orthopaedic trauma surgeons: a common open tibia/fibula fracture with growth-plate involvement as an alternative to surgery.",
+        "quote": "From the perspective of orthopaedic trauma surgeons practicing in this field, the exclusion of blunt trauma as a potential mechanism of injury is a rather reductionist approach"
+      },
+      {
+        "title": "Reply to: Common orthopaedic trauma may explain 31,000-year-old remains",
+        "author": "Melandri Vlok, Tim Maloney, India Ella Dilkes-Hall et al.",
+        "publisher": "Nature",
+        "year": 2023,
+        "url": "https://www.nature.com/articles/s41586-023-05757-7",
+        "type": "scholarly",
+        "supports": "The authors' rejection of the 2023 challenge (Murphy et al.).",
+        "quote": "we strongly disagree with their conclusion that a reductionist approach was taken in the diagnosis of surgical amputation in a 31,000-year-old individual"
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "mehrgarh-dentistry",
+    "title": "Drilled teeth at Mehrgarh",
+    "stream": "prehistory",
+    "tier": 3,
+    "date": {
+      "year": -6500,
+      "earliest": -7050,
+      "latest": -5550,
+      "display": "c. 7000–5500 BCE (9,000–7,500 years ago)"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "agreed",
+      "note": "The drilled teeth come from a dated Neolithic graveyard, and smoothed hole edges show the drilling was done on living people. Whether it was treatment for decay is the excavators' reasonable reading, not a certainty: fewer than half the teeth show decay, no filling survives, and one outside specialist called the holes enigmatic and awaited further analysis."
+    },
+    "place": "Mehrgarh, western Pakistan",
+    "people": [],
+    "themes": [
+      "practice",
+      "technology"
+    ],
+    "summary": "Nine thousand years ago, farmers in Pakistan drilled holes in living people's back teeth with flint. Was it the earliest dentistry?",
+    "body": [
+      "Between about 9,000 and 7,500 years ago, someone at Mehrgarh, an early farming village in what is now Pakistan, was drilling holes in living people's molars. A team reporting in *Nature* in 2006 found 11 drilled teeth from nine adults in the site's Neolithic graveyard. Smoothed edges show the patients kept chewing on them, and four teeth had decay beside the hole. The villagers already drilled beads with flint points, and in experiments a flint-tipped bow drill bored a similar hole in under a minute. Yet most drilled teeth were not decayed, no filling has been found, and drilling is absent from a later cemetery there."
+    ],
+    "links": [
+      {
+        "to": "first-named-physicians",
+        "kind": "see-also",
+        "note": "Egypt's Hesy-Re, later called a chief of dentists."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Early Neolithic tradition of dentistry",
+        "author": "A. Coppa, L. Bondioli, A. Cucina, D. W. Frayer et al.",
+        "publisher": "Nature 440, 755–756",
+        "year": 2006,
+        "url": "https://www.nature.com/articles/440755a",
+        "type": "scholarly",
+        "supports": "Eleven drilled molar crowns from nine adults, the date range and the reading as proto-dentistry.",
+        "quote": "Here we describe eleven drilled molar crowns from nine adults discovered in a Neolithic graveyard in Pakistan that dates from 7,500–9,000 years ago."
+      },
+      {
+        "title": "Mystery Drilling: Ancient teeth endured dental procedures",
+        "author": "Bruce Bower",
+        "publisher": "Science News",
+        "year": 2006,
+        "url": "https://www.sciencenews.org/article/mystery-drilling-ancient-teeth-endured-dental-procedures",
+        "type": "news",
+        "supports": "Decay in four teeth, drilling on living people, bead-drilling technology, the one-minute experiment, Frayer's remark that fewer than half were decayed, and the absence of drilling in the later 6,500-year-old cemetery.",
+        "quote": "Intriguingly, no instance of drilling has been found in teeth from a 6,500-year-old cemetery at the same site."
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "trepanation",
+    "title": "Holes in the skull: Neolithic trepanation",
+    "stream": "prehistory",
+    "tier": 2,
+    "date": {
+      "year": -5100,
+      "earliest": -7000,
+      "latest": -4900,
+      "display": "c. 5100 BCE (Ensisheim); earlier in Mesolithic Ukraine"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "agreed",
+      "note": "Healed openings cut into skulls are well documented from Mesolithic and Neolithic Europe, and the Ensisheim burial is dated by grave goods and a radiocarbon sample to about 5100–4900 BCE. Individual diagnoses are hard, though: the Ensisheim case itself has been re-read as possibly not trepanation, and motives cannot be recovered from bone. The range reaches back to cover the Mesolithic cases, whose exact dates the cited sources do not give."
+    },
+    "place": "Ensisheim, Alsace, France, and Vasilyevka II, Ukraine",
+    "people": [
+      "Kurt W. Alt, anthropologist who described the Ensisheim skull in 1997",
+      "Malcolm Lillie, archaeologist who pointed to earlier Mesolithic cases in Ukraine",
+      "Marina Escolà, who re-examined the Ensisheim skull in 2022"
+    ],
+    "themes": [
+      "surgery",
+      "practice"
+    ],
+    "summary": "Stone Age people cut holes in living skulls, and many patients survived. Nobody knows why, and even the most famous case is now in doubt.",
+    "body": [
+      "Around 5100 BCE a man of about 50 was buried at Ensisheim, in Alsace, with an arrowhead and an adze. His skull bore two large openings, one toward the front that had healed completely and a much larger one that had only partly healed. In 1997 Kurt Alt and colleagues hailed them as the earliest unequivocal healed trepanations, in which a piece of the skull vault is deliberately scraped, drilled or cut away. The title did not last long. In 1998 Malcolm Lillie pointed to skulls from Mesolithic cemeteries in Ukraine, such as Vasilyevka II, with healed openings made earlier still.",
+      "Healed edges show that most trepanned people in Neolithic Alsace survived the operation, one of them for several years. Why it was done is guesswork. Some skulls show fractures that surgery may have treated; others, like Ensisheim, show no visible trauma or disease. Even that famous case is now uncertain: in 2022 Marina Escolà concluded that the Ensisheim marks may not be healed trepanations at all and called for further study."
+    ],
+    "myth": {
+      "tradition": "Prehistoric people bored holes in skulls to let out evil spirits.",
+      "record": "Bones cannot reveal motives. The spirit explanation is an analogy with recent societies, such as the Kisii of Kenya, who have trepanned both to relieve skull fractures and for magical-spiritual cures; some prehistoric cases look like treatment of injuries."
+    },
+    "links": [
+      {
+        "to": "andean-trepanation",
+        "kind": "see-also",
+        "note": "The best-studied tradition of skull surgery, in the Andes."
+      },
+      {
+        "to": "borneo-amputation",
+        "kind": "see-also",
+        "note": "Another sign of surgical skill long before writing."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Neolithic Surgery",
+        "publisher": "Archaeology (Archaeological Institute of America)",
+        "year": 1997,
+        "url": "https://archive.archaeology.org/9709/newsbriefs/trepanation.html",
+        "type": "news",
+        "supports": "The Ensisheim burial, the man's age, grave goods and date, the two openings and their healing, the methods of trepanation, and the Kisii analogy for motives.",
+        "quote": "Why the Ensisheim individual was operated on is unknown, but in African communities that practice trepanation today, including the Kissii of western Kenya, there are two traditional motives"
+      },
+      {
+        "title": "Cranial surgery dates back to Mesolithic",
+        "author": "Malcolm C. Lillie",
+        "publisher": "Nature 391, 854",
+        "year": 1998,
+        "url": "https://www.nature.com/articles/36023",
+        "type": "scholarly",
+        "supports": "Alt et al.'s 1997 claim and the earlier Mesolithic Ukrainian cases, including Vasilyevka II.",
+        "quote": "However, there is compelling evidence that such intra vitem surgery was carried out at an earlier date in eastern Europe, during the preceding Mesolithic period."
+      },
+      {
+        "title": "La chirurgie crânienne du Néolithique alsacien : état de la question",
+        "author": "Marina Escolà",
+        "publisher": "Bulletin de la Société préhistorique française 119 (2)",
+        "year": 2022,
+        "url": "https://www.prehistoire.org/offres/doc_inline_src/515/0-BSPF_2022_2_article_ESCOLA.pdf",
+        "type": "scholarly",
+        "supports": "Early trepanations in Europe used to treat trauma or other conditions, most Alsace patients surviving (one for several years), Vasilyevka II as a Mesolithic precedent, and the 2022 doubt about the Ensisheim diagnosis.",
+        "quote": "The case from Ensisheim may have been a surgical act, but in this specific case, the marks do not seem to be due to healed trepanations and an additional study is needed."
+      }
+    ],
+    "further": [
+      "porter-1997"
+    ],
+    "image": {
+      "commons": "File:Trephined skull, Neolithic period. Wellcome M0014688.jpg",
+      "alt": "A human skull with a large rounded opening in the top whose edges have smoothed over.",
+      "caption": "A trepanned Neolithic skull from the Prunières collection, Muséum d'Histoire Naturelle, Paris; the remodeled bone around the hole shows that the patient survived the operation for a long time."
+    }
+  },
+  {
+    "id": "otzi",
+    "title": "Ötzi the Iceman's medicine",
+    "stream": "prehistory",
+    "tier": 3,
+    "date": {
+      "year": -3300,
+      "earliest": -3500,
+      "latest": -3100,
+      "display": "c. 3300 BCE"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "uncertain",
+      "note": "The body, its tattoos, its diseases and the fungus are directly observed, and his death over 5,300 years ago is well established. That the tattoos and fungus were treatments is an attractive hypothesis that cannot be tested, and the fungus theory in particular is contested."
+    },
+    "place": "Tisenjoch, Ötztal Alps, South Tyrol, Italy",
+    "people": [],
+    "themes": [
+      "practice",
+      "drugs"
+    ],
+    "summary": "The 5,300-year-old Iceman had worn joints, gut worms and 61 tattoos, and carried a medicinal fungus. Was he treating himself?",
+    "body": [
+      "Ötzi, the Copper Age man found in an Alpine glacier in 1991, died over 5,300 years ago, aged about 46, with worn hips, knees, shoulders and spine, whipworm eggs in his gut and the oldest known trace of Lyme disease. His skin bears 61 tattoos, lines and crosses made by rubbing charcoal into fine cuts, on the lower back, wrist, knee, calves and ankles. He also carried two pieces of birch polypore fungus on hide strips. Both are often read as therapy, the tattoos as pain treatment and the fungus as antibiotic or laxative. These are plausible guesses, and the fungus idea has critics."
+    ],
+    "links": [
+      {
+        "to": "trepanation",
+        "kind": "see-also",
+        "note": "Other bodily traces of prehistoric treatment."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Body",
+        "publisher": "South Tyrol Museum of Archaeology",
+        "url": "https://www.iceman.it/en/oetzi/the-body",
+        "type": "institutional",
+        "supports": "Age about 46, worn joints, whipworm, Lyme disease, the 61 charcoal tattoos and their likely therapeutic reading.",
+        "quote": "61 tattoos were found on Ötzi’s body, all in the form of lines or crosses. Unlike modern tattoos, they were not made with a needle"
+      },
+      {
+        "title": "Equipment",
+        "publisher": "South Tyrol Museum of Archaeology",
+        "url": "https://www.iceman.it/en/oetzi/equipment",
+        "type": "institutional",
+        "supports": "The two pieces of birch polypore on hide strips and their assumed medicinal purpose.",
+        "quote": "part of Ötzi’s equipment were two pieces of birch polypore (birch fungus), which were threaded onto hide strips"
+      },
+      {
+        "title": "The musculoskeletal abnormalities of the Similaun Iceman (\"ÖTZI\"): clues to chronic pain and possible treatments",
+        "author": "Walter F. Kean et al.",
+        "publisher": "Inflammopharmacology (full text via Europe PMC)",
+        "year": 2013,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3560943/",
+        "type": "scholarly",
+        "supports": "The hypothesis that the tattoos marked sites of chronic pain and acupuncture-like treatment.",
+        "quote": "These have been presumed to possibly be “medicinal” tattoos administered for therapeutic reasons and may have been used in acupuncture-like treatment of pain."
+      },
+      {
+        "title": "Fomitopsis betulina (formerly Piptoporus betulinus): the Iceman's polypore fungus with modern biotechnological potential",
+        "author": "Małgorzata Pleszczyńska et al.",
+        "publisher": "World Journal of Microbiology and Biotechnology (full text via Europe PMC)",
+        "year": 2017,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5380686/",
+        "type": "scholarly",
+        "supports": "The 1991 discovery, the medicinal reading of the fungus (laxative and antibiotic proposals) and the controversy over it.",
+        "quote": "although the idea arouses some controversy (Pöder 2005), the long tradition of the use of F. betulina in folk medicine is a fact"
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "sumerian-pharmacopoeia",
+    "title": "The oldest known prescriptions",
+    "stream": "mesopotamia",
+    "tier": 2,
+    "date": {
+      "year": -2100,
+      "earliest": -2250,
+      "latest": -2000,
+      "display": "late 3rd millennium BCE (c. 2100 BCE)"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "agreed",
+      "note": "Its translators, Samuel Noah Kramer and Martin Levey, dated the tablet to the end of the third millennium BCE (Levey: the 22nd century). Much of the technical vocabulary was only partly intelligible in their 1954 reading, and 'oldest medical text' describes what was known when Kramer wrote; the absence of magic is real on this tablet but not typical of Mesopotamian healing."
+    },
+    "place": "Nippur, southern Iraq",
+    "people": [
+      "Samuel Noah Kramer, Sumerologist who translated the tablet",
+      "Martin Levey, chemist and historian of science who co-translated it",
+      "Leon Legrain, curator who first attempted a translation in 1940"
+    ],
+    "themes": [
+      "drugs",
+      "texts"
+    ],
+    "summary": "A clay tablet from Nippur, written around 2100 BCE, lists more than a dozen remedies made from salt, snakeskin, thyme and beer, with not one god or demon in sight.",
+    "body": [
+      "Toward the end of the third millennium BCE, an unnamed healer at Nippur wrote more than a dozen of his favorite remedies in Sumerian cuneiform on a clay tablet a little over six inches long. Excavated by an American expedition and kept at the University Museum in Philadelphia, it was partly translated by the curator Leon Legrain in 1940 under the title \"Nippur Old Drugstore,\" then more fully by the Sumerologist Samuel Noah Kramer and the chemist Martin Levey, who announced it in 1954.",
+      "The remedies draw on salt and saltpeter, milk, snakeskin and turtle shell, and plants and trees such as thyme, myrtle, willow and fir. Ingredients were ground into salves with wine and oil, boiled into washes, or dissolved in beer to drink. One combination of plant alkali and fat amounts to a crude soap. Just as striking is what the tablet leaves out: it names no diseases, gives no quantities or doses, and invokes no god or demon.",
+      "Kramer hailed it as \"man's first pharmacopoeia,\" free of magic. Yet he also noted dozens of Sumerian incantation tablets against disease-causing demons, and later Mesopotamian medical texts routinely mix recipes with spells."
+    ],
+    "myth": {
+      "tradition": "The oldest prescriptions show that Sumerian medicine was rational and free of magic.",
+      "record": "This one tablet contains no spells, but the same culture produced many incantations against disease demons, and later Mesopotamian therapeutic texts combine recipes with incantations."
+    },
+    "links": [
+      {
+        "to": "hammurabi-physicians",
+        "kind": "see-also",
+        "note": "Babylonian law set the fees of physicians a few centuries later."
+      },
+      {
+        "to": "asu-ashipu",
+        "kind": "see-also",
+        "note": "Drug-based healing versus incantation in Mesopotamia."
+      },
+      {
+        "to": "ebers-papyrus",
+        "kind": "see-also",
+        "note": "Egypt's great collection of remedies."
+      }
+    ],
+    "sources": [
+      {
+        "title": "History Begins at Sumer (chapter 10, 'Medicine: The First Pharmacopoeia')",
+        "author": "Samuel Noah Kramer",
+        "publisher": "University of Pennsylvania Press, 3rd revised edition 1981 (scan at Internet Archive)",
+        "year": 1956,
+        "url": "https://archive.org/stream/Kramer1956HistoryBeginsAtSumer/Kramer_1956_History_Begins_at_Sumer_djvu.txt",
+        "type": "primary",
+        "supports": "The translator's account: date, size, Nippur findspot, Legrain's 1940 attempt, the 1954 report with Levey, the ingredients and preparations, the soap, the absence of diseases, doses and spells, and the existence of Sumerian incantation tablets.",
+        "quote": "An anonymous Sumerian physician, who lived toward the end of the third millennium B.C., decided to collect and record, for his colleagues and students, his more valuable medical prescriptions."
+      },
+      {
+        "title": "Early Arabic Pharmacology: An Introduction Based on Ancient and Medieval Sources",
+        "author": "Martin Levey",
+        "publisher": "E. J. Brill (scan at Internet Archive)",
+        "year": 1973,
+        "url": "https://archive.org/stream/early-arabic-pharmacology-an-introduction-based-on-ancient-and-medieval-sources/Early%20Arabic%20Pharmacology%20An%20Introduction%20Based%20on%20Ancient%20and%20Medieval%20Sources_djvu.txt",
+        "type": "scholarly",
+        "supports": "Dating to the 22nd century BCE, translated prescriptions, and the lack of dosage, quantities and named diseases.",
+        "quote": "The oldest medical tablet known is of the 22nd century B.C. and is in Sumerian."
+      },
+      {
+        "title": "Inferential schema in Akkadian diagnosis: the case of Ahhazu",
+        "author": "Cristina Barés Gómez",
+        "publisher": "History and Philosophy of the Life Sciences (full text via Europe PMC)",
+        "year": 2025,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12162719/",
+        "type": "scholarly",
+        "supports": "Later Mesopotamian medical texts mix recipes, materia medica and incantations; magic cannot be separated from them.",
+        "quote": "Although magic is so deeply ingrained in these medical texts that it cannot be decoupled from them"
+      }
+    ],
+    "further": [
+      "geller-2010"
+    ]
+  },
+  {
+    "id": "hammurabi-physicians",
+    "title": "Hammurabi's laws for surgeons",
+    "stream": "mesopotamia",
+    "tier": 2,
+    "date": {
+      "year": -1760,
+      "earliest": -1792,
+      "latest": -1750,
+      "display": "reign of Hammurabi, 1792–1750 BCE"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "firm",
+      "note": "The text survives on the stele itself, which the Louvre dates to Hammurabi's reign; the exact year of composition within the reign is not recorded there. What the clauses say is certain, though how often such penalties were actually imposed is not shown by the stele."
+    },
+    "place": "Babylon; the stele was found at Susa, Iran",
+    "people": [
+      "Hammurabi, king of Babylon (reigned 1792–1750 BCE)",
+      "Jacques de Morgan, whose mission excavated the stele at Susa in 1901–1902"
+    ],
+    "themes": [
+      "institutions",
+      "surgery",
+      "ethics"
+    ],
+    "summary": "Ten shekels for saving an eye; the surgeon's hands cut off if the patient died or lost one. Babylon's most famous law code scaled surgeons' fees and penalties by the patient's rank.",
+    "body": [
+      "Carved on a basalt stele now in the Louvre, the laws of Hammurabi of Babylon include a run of clauses on what a physician could earn and what he risked. In L. W. King's translation, a physician who made a large incision with an operating knife and cured the patient, or opened a growth over the eye and saved the eye, received ten shekels of silver, five if the patient was a freed man, and two from a slave's owner. If the operation killed the patient or destroyed the eye, his hands were to be cut off; if the dead patient was a freedman's slave, he replaced the slave. Setting a broken bone earned five shekels. Even veterinary surgeons appear, paid a sixth of a shekel for a successful operation on an ox or ass.",
+      "The clauses show that by the eighteenth century BCE surgery was a recognized, fee-earning trade, with fees and penalties scaled to the social rank of the patient. The stele itself was found not in Babylon but at Susa, in Iran, by a French mission led by Jacques de Morgan in 1901–1902."
+    ],
+    "links": [
+      {
+        "to": "asu-ashipu",
+        "kind": "see-also",
+        "note": "Who Mesopotamia's physicians were."
+      },
+      {
+        "to": "sumerian-pharmacopoeia",
+        "kind": "see-also",
+        "note": "An earlier Sumerian healer's recipe tablet."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Code of Hammurabi, translated by L. W. King",
+        "publisher": "The Avalon Project, Yale Law School",
+        "url": "https://avalon.law.yale.edu/ancient/hamcode.asp",
+        "type": "primary",
+        "supports": "The text of the physician clauses (215–223) and the veterinary clauses (224–225): fees, penalties and their scaling by rank.",
+        "quote": "If a physician make a large incision with the operating knife, and kill him, or open a tumor with the operating knife, and cut out the eye, his hands shall be cut off."
+      },
+      {
+        "title": "Code de Hammurabi (SB 8)",
+        "publisher": "Musée du Louvre, collections",
+        "url": "https://collections.louvre.fr/en/ark:/53355/cl010174436",
+        "type": "institutional",
+        "supports": "Date of the stele to Hammurabi's reign (1792–1750 BCE), material, discovery at Susa in 1901–1902 by Jacques de Morgan's mission.",
+        "quote": "-1792 / -1750 (1ère dynastie de Babylone : Hammurabi)"
+      }
+    ],
+    "further": [
+      "geller-2010"
+    ],
+    "image": {
+      "commons": "File:Code of Hammurabi-Sb 8-IMG 7753-gradient.jpg",
+      "alt": "A tall black basalt stele covered in cuneiform script, with a carved relief at the top of a seated god facing a standing king.",
+      "caption": "The stele of Hammurabi's laws, made during his reign (1792–1750 BCE) and found at Susa in 1901–1902. At the top the sun god Shamash faces the king. Musée du Louvre, Paris."
+    }
+  },
+  {
+    "id": "asu-ashipu",
+    "title": "Two kinds of healer: asû and āšipu",
+    "stream": "mesopotamia",
+    "tier": 3,
+    "date": {
+      "year": -1000,
+      "earliest": -1800,
+      "latest": -600,
+      "display": "2nd–1st millennium BCE"
+    },
+    "confidence": {
+      "date": "uncertain",
+      "claim": "disputed",
+      "note": "Both titles are well attested in Akkadian texts of the second and first millennia BCE, so the date is a broad span rather than an event. How sharply their roles differed is an open question among Assyriologists, and the division looks blurrier the more texts are studied."
+    },
+    "place": "Babylonia and Assyria (modern Iraq)",
+    "people": [
+      "Edith K. Ritter, Assyriologist who framed the two roles as complementary (1965)"
+    ],
+    "themes": [
+      "practice",
+      "theory"
+    ],
+    "summary": "Mesopotamia had a 'physician' and an 'exorcist'. Historians long cast them as science versus magic, but the line between them keeps fading.",
+    "body": [
+      "Akkadian texts name two main kinds of healer. The *asû*, usually translated \"physician,\" is linked with the therapeutic texts of recipes and treatments; the *āšipu*, usually called an \"exorcist,\" with the diagnostic texts that read signs and give a prognosis. In 1965 Edith Ritter described them as two complementary professions, and Assyriologists have typically cast the *āšipu* as the exorcist and the *asû* as the \"real physician.\" Opinions differ, and a recent study finds no clear boundary: therapeutic texts mix recipes with incantations, and the roles of physicians, exorcists, apothecaries and diviners overlapped."
+    ],
+    "links": [
+      {
+        "to": "sakikku",
+        "kind": "see-also",
+        "note": "The diagnostic handbook used by the āšipu."
+      },
+      {
+        "to": "hammurabi-physicians",
+        "kind": "see-also",
+        "note": "The physician's fees in Babylonian law."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Inferential schema in Akkadian diagnosis: the case of Ahhazu",
+        "author": "Cristina Barés Gómez",
+        "publisher": "History and Philosophy of the Life Sciences (full text via Europe PMC)",
+        "year": 2025,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12162719/",
+        "type": "scholarly",
+        "supports": "The usual assignment of the āšipu to diagnostic texts and the asû to therapeutic texts, the differences of opinion over it, and the lack of a clear boundary between healers.",
+        "quote": "In fact, there was no clear distinction between physicians, exorcists, apothecaries, and diviners."
+      },
+      {
+        "title": "Studies in Honor of Benno Landsberger on His Seventy-Fifth Birthday (Assyriological Studies 16)",
+        "publisher": "Institute for the Study of Ancient Cultures, University of Chicago",
+        "year": 1965,
+        "url": "https://isac.uchicago.edu/publications/studies-honor-benno-landsberger-his-birthday",
+        "type": "institutional",
+        "supports": "Edith K. Ritter's 1965 article framing the āšipu and asû as complementary professions.",
+        "quote": "Magical Expert (=Asipu) and Physician (=Asu): Notes on Two Complementary Professions in Babylonian Medicine."
+      }
+    ],
+    "further": [
+      "geller-2010"
+    ]
+  }
+]

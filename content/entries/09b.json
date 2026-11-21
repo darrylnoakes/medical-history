@@ -1,0 +1,705 @@
+[
+  {
+    "id": "lister",
+    "title": "Lister's antiseptic surgery",
+    "stream": "bio-surgery",
+    "tier": 1,
+    "date": {
+      "year": 1867,
+      "earliest": 1865,
+      "latest": 1867,
+      "display": "1865–1867"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "Lister's own 1867 papers fix the dates, from the first carbolic dressing in August 1865 to publication in 1867. That antisepsis cut wound infection is accepted; how quickly and why it spread is debated, and historians now stress that his critics had serious reasons for doubt."
+    },
+    "place": "Glasgow Royal Infirmary, Scotland",
+    "people": [
+      "Joseph Lister (1827–1912), professor of surgery at Glasgow",
+      "James Greenlees, boy whose compound fracture was the first case in Lister's 1867 series",
+      "Thomas Anderson (1819–1874), Glasgow chemist who pointed Lister to Pasteur's work"
+    ],
+    "themes": [
+      "surgery",
+      "practice",
+      "theory"
+    ],
+    "summary": "A Glasgow surgeon read Pasteur, reasoned that germs rot wounds, and dressed a boy's open fracture in carbolic acid. Making the idea stick took decades.",
+    "body": [
+      "On 12 August 1865 an eleven-year-old boy, James Greenlees, was admitted to the Glasgow Royal Infirmary with a compound fracture: the broken bone had pierced the skin, so that infection was likely and healing imperfect. Such wounds often ended in amputation. Joseph Lister dressed the wound with a pad soaked in carbolic acid. It did not suppurate.",
+      "Lister was acting on a borrowed idea. The Glasgow chemist Thomas Anderson had introduced him to Louis Pasteur's work showing that fermentation and putrefaction were caused by living organisms carried in the air, not by oxygen itself. If so, Lister reasoned, wounds need not be sealed from the air; it was enough to kill the \"floating particles\" with a chemical dressing.",
+      "He published in *The Lancet* in the spring of 1867, in four weekly articles describing eleven compound fractures, failures included, followed by a fifth on abscesses. Later that year he told the British Medical Association in Dublin that his two wards, once among the unhealthiest in the infirmary, had gone nine months without a single case of pyemia, hospital gangrene or erysipelas.",
+      "Acceptance was slow. A leading Leeds surgeon, Thomas Nunneley, reported that his colleagues had tried the method and given it up. Lister kept changing his materials, carbolic acid itself irritated tissue, and the germ theory behind it was not yet proven. Historians now argue that every part of the system was contested for good reasons, not out of ignorance.",
+      "The next step came from Germany. Robert Koch's laboratory found carbolic acid a weak germicide and Lister's spray useless, and surgeons turned to steam sterilization and keeping germs out of the wound altogether. In 1890 Ernst von Bergmann announced that his clinic had replaced antisepsis with asepsis, the principle of the modern operating room."
+    ],
+    "myth": {
+      "tradition": "Lister's critics were hidebound reactionaries who refused to believe in germs, and his method was obviously right from the start.",
+      "record": "His contemporaries had real grounds for doubt: results varied, the technique kept changing and the bacteriology was unsettled. Much of his system, including the carbolic spray, was later dropped in favor of asepsis."
+    },
+    "links": [
+      {
+        "to": "pasteur-germ-theory",
+        "kind": "built-on",
+        "note": "Lister applied Pasteur's account of putrefaction to wounds."
+      },
+      {
+        "to": "semmelweis",
+        "kind": "see-also",
+        "note": "An earlier, unheeded attack on infection by cleanliness."
+      },
+      {
+        "to": "koch",
+        "kind": "led-to",
+        "note": "Koch's lab tests of disinfectants helped turn antisepsis into asepsis."
+      },
+      {
+        "to": "halsted",
+        "kind": "led-to",
+        "note": "Aseptic surgery in America, down to rubber gloves."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Antiseptic Principle of the Practice of Surgery, 1867",
+        "author": "Joseph Lister; ed. Paul Halsall",
+        "publisher": "Internet Modern History Sourcebook, Fordham University",
+        "url": "https://sourcebooks.fordham.edu/mod/1867lister.asp",
+        "type": "primary",
+        "supports": "Lister's reasoning from Pasteur's work to a chemical dressing; his claim that his wards went nine months without pyemia, hospital gangrene or erysipelas.",
+        "quote": "so that during the last nine months not a single instance of pyaemia, hospital gangrene, or erysipelas has occurred in them"
+      },
+      {
+        "title": "Joseph Lister and the performance of antiseptic surgery",
+        "author": "Michael Worboys",
+        "publisher": "Notes and Records of the Royal Society",
+        "year": 2013,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3744349/",
+        "type": "scholarly",
+        "supports": "Lancet series of spring 1867 (four weekly articles, eleven cases, fifth on abscesses); Greenlees admitted 12 August 1865; Nunneley's objection; contemporaries contested every aspect for good reasons.",
+        "quote": "starting with Greenlees's admission to Glasgow Royal Infirmary on 12 August 1865"
+      },
+      {
+        "title": "Joseph Lister (1827-1912): A Pioneer of Antiseptic Surgery",
+        "author": "Spyros N. Michaleas, Konstantinos Laios, Alexandros Charalabopoulos, George Samonis, Marianna Karamanou",
+        "publisher": "Cureus",
+        "year": 2022,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9854334/",
+        "type": "scholarly",
+        "supports": "The patient was an 11-year-old boy; Lister learned of Pasteur through Thomas Anderson; the Dublin address to the British Medical Association in 1867.",
+        "quote": "He was intrigued by Louis Pasteur’s work, which he learned about from Thomas Anderson (1819-1874), a professor of chemistry in Glasgow."
+      },
+      {
+        "title": "Asepsis and bacteriology: a realignment of surgery and laboratory science",
+        "author": "Thomas Schlich",
+        "publisher": "Medical History",
+        "year": 2012,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3426977/",
+        "type": "scholarly",
+        "supports": "Koch's tests showing carbolic acid and the spray ineffective; heat sterilization; Bergmann's 1890 claim to have replaced antisepsis with asepsis.",
+        "quote": "In the form of a spray, as used by Lister, for example, it had no effect whatsoever in the laboratory tests."
+      }
+    ],
+    "further": [
+      "fitzharris-2017",
+      "bynum-1994",
+      "porter-1997"
+    ],
+    "image": {
+      "commons": "File:Use of the Lister carbolic spray, Antiseptic surgery, 1882. Wellcome M0003436.jpg",
+      "alt": "Engraving of surgeons operating while an assistant works a carbolic acid spray over the wound.",
+      "caption": "The carbolic spray in use during an operation, from an 1882 illustration of antiseptic surgery in the Wellcome Collection; the spray was later abandoned."
+    }
+  },
+  {
+    "id": "clinical-thermometer",
+    "title": "The thermometer and the fever chart",
+    "stream": "bio-surgery",
+    "tier": 3,
+    "date": {
+      "year": 1868,
+      "display": "1868"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "Wunderlich's treatise appeared in Leipzig in 1868 and in English in 1871. The figure of about 25,000 cases comes from later summaries of his work, and whether his 37 °C was too high, or body temperature has since fallen, is still argued."
+    },
+    "place": "Leipzig, Germany, and Leeds, England",
+    "people": [
+      "Carl Reinhold August Wunderlich (1815–1877), Leipzig physician",
+      "Thomas Clifford Allbutt (1836–1925), Leeds physician who devised a short clinical thermometer"
+    ],
+    "themes": [
+      "technology",
+      "practice"
+    ],
+    "summary": "A Leipzig doctor charted the temperatures of some 25,000 patients and turned fever from a feeling into a number, with 37 °C as the healthy norm.",
+    "body": [
+      "In 1868 Carl Wunderlich of Leipzig published a treatise on temperature in disease, drawn from about 15 years of readings, some patients measured four to six times a day. Plotted on charts, he argued, fevers followed characteristic courses, while healthy temperature held steady near 37 °C. His thermometers were large and slow, sometimes needing 20 minutes; in Leeds, Clifford Allbutt's 15-centimeter clinical thermometer, made from 1867, gave a reading in about five. Modern studies put average healthy temperature somewhat lower."
+    ],
+    "myth": {
+      "tradition": "Normal body temperature is exactly 37 °C, or 98.6 °F.",
+      "record": "Wunderlich gave a normal range of about 36.2–37.5 °C, and a recent British study of more than 35,000 patients found a mean oral temperature of 36.6 °C."
+    },
+    "links": [
+      {
+        "to": "santorio",
+        "kind": "built-on",
+        "note": "Santorio had measured body heat with an early thermoscope."
+      }
+    ],
+    "sources": [
+      {
+        "title": "History of the Thermometer",
+        "author": "Ewa Grodzinsky, Märta Sund Levander",
+        "publisher": "In: Understanding Fever and Body Temperature (Springer, 2019)",
+        "year": 2019,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7120475/",
+        "type": "scholarly",
+        "supports": "Wunderlich's 1868 Leipzig treatise, 15 years of measurements, four to six readings a day, about 25,000 cases; slow early thermometers; Allbutt's 15 cm thermometer made from 1867 and reading in 5 minutes.",
+        "quote": "A local company, Harvey and Reynolds, first manufactured this special thermometer in 1867, followed by Thackeray in London."
+      },
+      {
+        "title": "Decreasing human body temperature in the United States since the industrial revolution",
+        "author": "Myroslava Protsiv, Catherine Ley, Joanna Lankester, Trevor Hastie, Julie Parsonnet",
+        "publisher": "eLife",
+        "year": 2020,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6946399/",
+        "type": "scholarly",
+        "supports": "Wunderlich's 37 °C standard and range; modern average lower (36.6 °C in a study of 35,000 British patients); debate over true change versus measurement bias.",
+        "quote": "found mean oral temperature to be 36.6°C, confirming this lower value"
+      },
+      {
+        "title": "Fever and Fever of Unknown Origin: Review, Recent Advances, and Lingering Dogma",
+        "publisher": "Open Forum Infectious Diseases",
+        "year": 2020,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7237822/",
+        "type": "scholarly",
+        "supports": "Wunderlich's life dates (1815–1877) and 1868 treatise.",
+        "quote": "In 1868, the German physician Carl Reinhold August Wunderlich (1815–1877) published the magnum opus"
+      }
+    ],
+    "further": [
+      "bynum-1994"
+    ]
+  },
+  {
+    "id": "koch",
+    "title": "Robert Koch hunts the microbes",
+    "stream": "bio-lab",
+    "tier": 1,
+    "date": {
+      "year": 1882,
+      "display": "24 March 1882"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "Koch's papers and the record of his 1882 lecture fix the key dates, and his identification of the anthrax, tuberculosis and cholera bacteria is not in doubt. What is often blurred is how much was his alone: earlier observers had seen the anthrax and cholera organisms, and the postulates were codified by his assistant."
+    },
+    "place": "Wollstein (now Wolsztyn, Poland) and Berlin, Germany",
+    "people": [
+      "Robert Koch (1843–1910), German physician and bacteriologist",
+      "Friedrich Loeffler, Koch's assistant, who set out the postulates in 1883",
+      "Walther and Fanny Hesse, assistants who suggested agar as a culture medium",
+      "Rudolf Virchow, pathologist, early skeptic and critic of tuberculin"
+    ],
+    "themes": [
+      "theory",
+      "technology"
+    ],
+    "summary": "A country doctor with a microscope from his wife proved that particular bacteria cause particular diseases, found the killer behind tuberculosis, then overreached with a cure.",
+    "body": [
+      "On 24 March 1882 Robert Koch told the Physiological Society in Berlin that he had found the cause of tuberculosis, a disease many then believed to be hereditary. Using new staining methods he had shown rod-shaped bacteria in tubercular tissue and grown them in pure culture. Some listeners, Rudolf Virchow among them, were at first unconvinced.",
+      "Koch had begun as a district medical officer in the small town of Wollstein, working in his four-room flat with a microscope his wife had given him. Others had already seen the anthrax bacillus; Koch grew it in pure culture for generation after generation, away from any animal, and showed it still caused anthrax. Published in 1876, the work made him famous and took him to Berlin.",
+      "There his group made bacteriology a routine technique. Assistants Walther and Fanny Hesse suggested agar as a solid medium in 1881, and the flat dish of his colleague Petri followed. The test now called Koch's postulates, set out in classic form by his assistant Friedrich Loeffler in 1883, asked that a microbe be found in every case, grown in pure culture, and reproduce the disease when inoculated. In 1883–84 Koch led a cholera commission to Egypt and India, growing the comma-shaped vibrio in pure culture in Calcutta on 7 January 1884. The Italian Filippo Pacini had described it in 1854, and because healthy people can carry it, cholera never fitted the postulates neatly.",
+      "Then came overreach. In 1890 Koch announced that tuberculin, an extract of tubercle bacilli, could arrest tuberculosis. Excitement ran ahead of the evidence: the cure was greatly exaggerated, and in January 1891 Virchow reported autopsies of 21 patients who had died soon after treatment. Koch's reputation suffered, though tuberculin survived as a diagnostic skin test. He received the Nobel Prize in 1905."
+    ],
+    "myth": {
+      "tradition": "Koch discovered the bacteria of anthrax and cholera and laid down his famous postulates, which his work perfectly satisfied.",
+      "record": "Both organisms had been seen before him; his achievement was proving cause through pure culture and inoculation. The postulates were formalized by Loeffler, and cholera, carried by healthy people, broke the rule that the microbe must be absent from the well."
+    },
+    "links": [
+      {
+        "to": "pasteur-germ-theory",
+        "kind": "built-on",
+        "note": "Pasteur's rival program made germs a cause of disease."
+      },
+      {
+        "to": "antitoxin",
+        "kind": "led-to",
+        "note": "Behring and Kitasato worked in Koch's institute."
+      },
+      {
+        "to": "bcg",
+        "kind": "see-also",
+        "note": "A later, more durable weapon against tuberculosis."
+      },
+      {
+        "to": "snow-cholera",
+        "kind": "see-also",
+        "note": "Snow traced cholera to water three decades before Koch found the vibrio."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Robert Koch – Biographical",
+        "publisher": "NobelPrize.org (from Nobel Lectures, Physiology or Medicine 1901–1921)",
+        "url": "https://www.nobelprize.org/prizes/medicine/1905/koch/biographical/",
+        "type": "institutional",
+        "supports": "Wollstein work in a four-room flat with a microscope from his wife; earlier observers of the anthrax bacillus; pure-culture proof published by Cohn in 1876; postulates; cholera commission of 1883; tuberculin's exaggerated claims and later diagnostic value; Nobel Prize 1905.",
+        "quote": "His laboratory was the 4-roomed flat that was his home, and his equipment, apart from the microscope given to him by his wife, he provided for himself."
+      },
+      {
+        "title": "Robert Koch: From Anthrax to Tuberculosis - A Journey in Medical Science",
+        "publisher": "Cureus",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11617125/",
+        "type": "scholarly",
+        "supports": "Lecture of 24 March 1882 and Virchow's skepticism; agar suggested by the Hesses in 1881; Loeffler's 1883 postulates; cholera in Egypt and Calcutta, pure culture on 7 January 1884; Pacini's 1854 description; healthy carriers.",
+        "quote": "Koch presented his discovery to the German Physiological Society on March 24, 1882, noting that staining techniques revealed rod-shaped bacteria in tubercular tissue"
+      },
+      {
+        "title": "Latent tuberculosis testing through the ages: the search for a sleeping killer",
+        "publisher": "American Journal of Physiology – Lung Cellular and Molecular Physiology",
+        "year": 2022,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8934672/",
+        "type": "scholarly",
+        "supports": "Tuberculin claimed as a cure in 1890; Virchow's report of 21 autopsies on 7 January 1891.",
+        "quote": "Rudolf Virchow, a German physician and pathologist, shared autopsy findings of 21 patients who died shortly after receiving Koch’s remedy"
+      }
+    ],
+    "further": [
+      "bynum-1994",
+      "porter-1997"
+    ],
+    "image": {
+      "commons": "File:Robert Koch's original paper in which he Wellcome M0012584.jpg",
+      "alt": "Printed page of Robert Koch's original paper on the tubercle bacillus.",
+      "caption": "Koch's 1882 paper announcing the cause of tuberculosis, from the Wellcome Collection."
+    }
+  },
+  {
+    "id": "pasteur-vaccines",
+    "title": "Pasteur's laboratory vaccines",
+    "stream": "bio-drugs",
+    "tier": 2,
+    "date": {
+      "year": 1885,
+      "earliest": 1880,
+      "latest": 1885,
+      "display": "1880–1885"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "The dates of Pouilly-le-Fort and of Joseph Meister's treatment are well documented. Pasteur's 152 laboratory notebooks, studied by Gerald Geison and others, show that his public accounts concealed how the anthrax vaccine was made and how little testing preceded the rabies treatment; how harshly to judge this is still debated."
+    },
+    "place": "Paris and Pouilly-le-Fort, France",
+    "people": [
+      "Louis Pasteur (1822–1895), chemist and microbiologist",
+      "Henri Toussaint (1847–1890), veterinarian who made an earlier anthrax vaccine",
+      "Joseph Meister (1876–1940), nine-year-old bitten by a rabid dog",
+      "Joseph Grancher, physician who gave the rabies injections"
+    ],
+    "themes": [
+      "drugs",
+      "public-health"
+    ],
+    "summary": "Pasteur turned germs into vaccines against chicken cholera, anthrax and rabies. His private notebooks tell a messier story than his public triumphs.",
+    "body": [
+      "In 1880 Louis Pasteur reported a vaccine against chicken cholera, made from a germ the veterinarian Henri Toussaint had sent him. A year later he staked his reputation on a public trial at Pouilly-le-Fort: sheep were vaccinated against anthrax on 5 May 1881, all the animals were injected with virulent anthrax on 31 May, and on 2 June the vaccinated sheep were thriving while the unvaccinated were dead or dying. Pasteur implied the germs had been weakened by exposure to air; in fact his team had used potassium dichromate, a chemical method close to Toussaint's.",
+      "On 6 July 1885 nine-year-old Joseph Meister, badly bitten by a rabid dog, was brought from Alsace. He received a course of injections of dried spinal cord from rabid rabbits, each more virulent than the last, and survived. He was not the first person treated: a man in May and a girl, who died, in June preceded him, and the dried-cord method had been tried on only some 40 dogs in the weeks before."
+    ],
+    "myth": {
+      "tradition": "Pasteur discovered attenuation by chance when an old chicken-cholera culture, forgotten over a summer holiday, failed to kill hens.",
+      "record": "His notebooks have no entries for the supposed months and show him still asking in January 1880 when to take the microbe so it could vaccinate."
+    },
+    "links": [
+      {
+        "to": "jenner",
+        "kind": "built-on",
+        "note": "Pasteur generalized Jenner's word 'vaccination' to every such preventive."
+      },
+      {
+        "to": "pasteur-germ-theory",
+        "kind": "built-on",
+        "note": "The germ work that made attenuated vaccines thinkable."
+      },
+      {
+        "to": "koch",
+        "kind": "see-also",
+        "note": "Pasteur's great rival in the race to tie microbes to diseases."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Louis Pasteur: Between Myth and Reality",
+        "author": "Jean-Marc Cavaillon et al.",
+        "publisher": "Biomolecules",
+        "year": 2022,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9027159/",
+        "type": "scholarly",
+        "supports": "Chicken cholera vaccine reported 1880 from Toussaint's germ; notebook evidence against the vacation story; Pouilly-le-Fort dates; dichromate method; Meister on 6 July 1885 aged 9; earlier patients Girard and Poughon; Grancher gave the injections; 152 notebooks and Geison.",
+        "quote": "The best-known inoculation took place on 6 July 1885 on young Joseph Meister (1876–1940), aged 9, who came with his mother from Alsace."
+      },
+      {
+        "title": "Louis Pasteur, the father of immunology?",
+        "author": "Kendall A. Smith",
+        "publisher": "Frontiers in Immunology",
+        "year": 2012,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3342039/",
+        "type": "scholarly",
+        "supports": "Geison's notebook evidence on the anthrax vaccine; Chamberland's potassium bichromate vaccine; the 2 June 1881 result at Pouilly-le-Fort.",
+        "quote": "All of the vaccinated sheep were alive, while most of the unvaccinated sheep were already dead, with the remaining obviously very ill."
+      }
+    ],
+    "further": [
+      "porter-1997",
+      "bynum-1994"
+    ]
+  },
+  {
+    "id": "bismarck-insurance",
+    "title": "Bismarck's health insurance",
+    "stream": "bio-public",
+    "tier": 2,
+    "date": {
+      "year": 1883,
+      "display": "1883"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "The 1881 imperial message and the 1883 Sickness Insurance Act are matters of public record, as are the membership figures. Calling it the first national social insurance scheme is standard; it built on sickness funds that already existed."
+    },
+    "place": "Berlin, German Empire",
+    "people": [
+      "Otto von Bismarck, German chancellor from 1871",
+      "Wilhelm I, German emperor in whose name the program was announced"
+    ],
+    "themes": [
+      "public-health",
+      "institutions"
+    ],
+    "summary": "To draw workers away from socialism, Germany required them to join sickness funds in 1883, creating the employment-based model of health insurance that Germany and other countries still use.",
+    "body": [
+      "When Otto von Bismarck became Germany's chancellor in 1871, hundreds of sickness insurance funds already existed. Alarmed by the workers' movement, he pushed to extend them to workers in low-wage occupations, and in 1883 the Sickness Insurance Act obliged covered workers to join, the first social insurance program organized on a national level. The motive was openly political. An imperial message read by Bismarck to the Reichstag on 17 November 1881 said social ills must be cured not only by repressing the Social Democrats, already banned under the Anti-Socialist Law of 1878, but by promoting workers' welfare.",
+      "The funds grew fast: about 4.3 million members at the end of 1885, more than 9 million by 1900. Financed by contributions and run without profit, the scheme became the template for the \"Bismarck model\" of health care. Because cover came through work, it did not reach everyone."
+    ],
+    "myth": {
+      "tradition": "Bismarck invented health insurance.",
+      "record": "Mutual sickness funds were already common; his law made membership compulsory for many workers and organized the system nationally."
+    },
+    "links": [
+      {
+        "to": "nhs",
+        "kind": "see-also",
+        "note": "Britain later chose the other model: tax-funded care for all."
+      },
+      {
+        "to": "chadwick",
+        "kind": "see-also",
+        "note": "An earlier, sanitary approach to the health of the poor."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Kaiser Wilhelm I's Royal Proclamation on Social Policy (November 17, 1881)",
+        "publisher": "German History in Documents and Images, German Historical Institute Washington",
+        "url": "https://germanhistorydocs.org/en/forging-an-empire-bismarckian-germany-1866-1890/kaiser-wilhelm-i-s-royal-proclamation-on-social-policy-november-17-1881",
+        "type": "primary",
+        "supports": "The 17 November 1881 message read by Bismarck; aim of curing social defects beyond repressing Social Democrats; Anti-Socialist Law of 1878; announced health insurance bill.",
+        "quote": "curing social defects will have to be pursued not only through the repression of Social Democratic excesses but also through the consistent and positive promotion of workers’ welfare"
+      },
+      {
+        "title": "Statistics on Health Insurance (1885–1914)",
+        "publisher": "German History in Documents and Images, German Historical Institute Washington",
+        "url": "https://germanhistorydocs.org/en/wilhelmine-germany-and-the-first-world-war-1890-1918/statistics-on-health-insurance-1885-1914",
+        "type": "primary",
+        "supports": "Membership of 4,294,173 at the end of 1885 and 9,116,332 in 1900.",
+        "quote": "These statistics on health care illustrate the growing public welfare and health care services available in Wilhelmine Germany."
+      },
+      {
+        "title": "Comparisons of health care systems in the United States, Germany and Canada",
+        "author": "Goran Ridic, Suzanne Gleason, Ognjen Ridic",
+        "publisher": "Materia Socio-Medica",
+        "year": 2012,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3633404/",
+        "type": "scholarly",
+        "supports": "Hundreds of sickness funds existed by 1871; Bismarck's political motive; 1883 Act as first national social insurance program.",
+        "quote": "In 1883, the Sickness Insurance Act was passed, representing the first social insurance program organized on a national level."
+      },
+      {
+        "title": "Learning from the past in the COVID-19 era",
+        "publisher": "Postgraduate Medical Journal",
+        "year": 2020,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7439156/",
+        "type": "scholarly",
+        "supports": "The Bismarck model: non-profit sickness funds financed by payroll deduction, not universal because tied to employment.",
+        "quote": "The Bismarck Model does not provide with universal health coverage, since it requires employment for health insurance",
+        "author": "Pier Paolo Bassareo et al."
+      },
+      {
+        "title": "Lessons From Unified Germany and Their Implications for Healthcare in the Unification of the Korean Peninsula",
+        "author": "Gun-Chun Ryu",
+        "publisher": "Journal of Preventive Medicine and Public Health",
+        "year": 2013,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3677065/",
+        "type": "scholarly",
+        "supports": "The 1881 edict and 1883 sickness insurance law; coverage compulsory under conditions set by law.",
+        "quote": "all economically active people were obliged to obtain coverage by statutory sickness insurance based on conditions defined by law"
+      }
+    ],
+    "further": [
+      "porter-1997"
+    ]
+  },
+  {
+    "id": "halsted",
+    "title": "Halsted: gloves, residency and radical surgery",
+    "stream": "bio-surgery",
+    "tier": 3,
+    "date": {
+      "year": 1890,
+      "earliest": 1889,
+      "latest": 1894,
+      "display": "c. 1890"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "agreed",
+      "note": "The glove story rests on later accounts and is usually dated to 1890; the residency system took shape at Johns Hopkins in the 1890s; the mastectomy results were published in 1894."
+    },
+    "place": "Johns Hopkins Hospital, Baltimore",
+    "people": [
+      "William Stewart Halsted (1852–1922), surgeon",
+      "Caroline Hampton, scrub nurse, later his wife"
+    ],
+    "themes": [
+      "surgery",
+      "institutions"
+    ],
+    "summary": "The surgeon behind rubber gloves, the surgical residency and the radical mastectomy did much of it while battling an addiction that began with his cocaine experiments.",
+    "body": [
+      "Around 1890 William Halsted had Goodyear make thin rubber gloves for his scrub nurse, Caroline Hampton, whose hands were inflamed by mercuric chloride; only later did surgeons notice that gloves cut infections. At Johns Hopkins he built a pyramidal residency of graduated responsibility and research, and in 1894 reported his radical mastectomy, long the standard operation. Earlier experiments with cocaine in New York had left him addicted."
+    ],
+    "links": [
+      {
+        "to": "lister",
+        "kind": "built-on",
+        "note": "Gloves arrived as antisepsis gave way to asepsis."
+      },
+      {
+        "to": "coca",
+        "kind": "see-also",
+        "note": "The local anesthetic whose study cost Halsted his health."
+      },
+      {
+        "to": "flexner-report",
+        "kind": "led-to",
+        "note": "Johns Hopkins became the template for American medical training."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Intriguing History of Gloves and Their Application to Surgery",
+        "publisher": "ANZ Journal of Surgery",
+        "year": 2026,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13602439/",
+        "type": "scholarly",
+        "supports": "Gloves made by Goodyear around 1890 for Caroline Hampton's dermatitis from mercuric chloride; later recognition of lower infection rates.",
+        "quote": "This nurse, Caroline Hampton, had suffered such severe dermatitis from contact with mercuric chloride that her attendance at operations was being compromised"
+      },
+      {
+        "title": "The History of Surgical Education in the United States: Past, Present, and Future",
+        "publisher": "Annals of Surgery Open",
+        "year": 2022,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10013151/",
+        "type": "scholarly",
+        "supports": "Cocaine research in New York leading to addiction; residency model of graduated responsibility at Johns Hopkins.",
+        "quote": "His experiments unfortunately resulted in addiction, leading to a slow health decline."
+      },
+      {
+        "title": "William Halsted's Radical Mastectomy Patients: A Historical Analysis Through Patient Narratives",
+        "publisher": "Annals of Surgery Open",
+        "year": 2026,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13016173/",
+        "type": "scholarly",
+        "supports": "Halsted's 1894 report on the radical mastectomy and its later abandonment as standard treatment.",
+        "quote": "Halsted first presented an article on the results of his operation for carcinoma of the breast to the Clinical Society of Maryland in 1894."
+      }
+    ],
+    "further": [
+      "mukherjee-2010"
+    ]
+  },
+  {
+    "id": "antitoxin",
+    "title": "Diphtheria antitoxin",
+    "stream": "bio-drugs",
+    "tier": 2,
+    "date": {
+      "year": 1890,
+      "display": "1890"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "Behring and Kitasato's 1890 paper, the 1901 Nobel award and the 1902 US law are well documented. The early clinical evidence was not randomized, so the size of the benefit in the 1890s rests on comparisons with earlier years."
+    },
+    "place": "Berlin, Germany",
+    "people": [
+      "Emil von Behring (1854–1917), German bacteriologist",
+      "Kitasato Shibasaburō (1853–1931), Japanese bacteriologist",
+      "Émile Roux, Pasteur Institute scientist who tested serum on children"
+    ],
+    "themes": [
+      "drugs",
+      "public-health"
+    ],
+    "summary": "Blood from immunized horses saved children from diphtheria, won the first Nobel Prize in medicine, and, after a contaminated batch killed 13 children, gave the US its first biologics law.",
+    "body": [
+      "In 1890 Emil Behring and Kitasato Shibasaburō, working in Robert Koch's Berlin institute, reported that animals given graduated doses of sterilized diphtheria or tetanus cultures made substances in their blood that neutralized the bacterial poison. These antitoxins could protect a second animal and even cure one already sick. Horses were soon immunized to make serum in bulk. In Paris in 1894 Émile Roux and colleagues gave it to 300 children with diphtheria; 26 percent died, against about 50 percent in earlier years at the same hospital, though without a randomized comparison.",
+      "In 1901 Behring alone received the first Nobel Prize in Physiology or Medicine, though Kitasato's part was widely acknowledged. The same year in St. Louis, serum drawn from a retired milk-wagon horse named Jim, which had tetanus, killed 13 children, by the FDA's count. Congress responded with the Biologics Control Act of 1 July 1902, the first federal control over how such products were made."
+    ],
+    "links": [
+      {
+        "to": "koch",
+        "kind": "built-on",
+        "note": "The work came out of Koch's institute."
+      },
+      {
+        "to": "patent-medicines",
+        "kind": "led-to",
+        "note": "The 1902 law preceded broader US drug regulation in 1906."
+      },
+      {
+        "to": "pasteur-vaccines",
+        "kind": "see-also",
+        "note": "Active immunization, where antitoxin gave borrowed immunity."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Emil von Behring – Biographical",
+        "publisher": "NobelPrize.org (from Nobel Lectures, Physiology or Medicine 1901–1921)",
+        "url": "https://www.nobelprize.org/prizes/medicine/1901/behring/biographical/",
+        "type": "institutional",
+        "supports": "The 1890 Behring–Kitasato publication on diphtheria and tetanus antitoxins, protection and cure of animals.",
+        "quote": "In 1890 Behring and S. Kitasato published their discovery that graduated doses of sterilised brothcultures of diphtheria or of tetanus bacilli caused the animals to produce"
+      },
+      {
+        "title": "Diphtheria antitoxin treatment: from pioneer to neglected",
+        "publisher": "Memórias do Instituto Oswaldo Cruz",
+        "year": 2025,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11752783/",
+        "type": "scholarly",
+        "supports": "First Nobel Prize to Behring in 1901; horse serum; Roux's 1894 series of 300 children with 26% versus 50% mortality; not randomized.",
+        "quote": "The mortality was 26%, compared with 50% during the past years in the same hospital."
+      },
+      {
+        "title": "Shibasaburo Kitasato (1853-1931): Pioneer of Japanese Medicine and Global Immunology Innovator",
+        "author": "Nobuo Okui",
+        "publisher": "Cureus",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11365020/",
+        "type": "scholarly",
+        "supports": "Kitasato's role and its acknowledgment when Behring alone received the 1901 Nobel Prize.",
+        "quote": "it led to the awarding of the first Nobel Prize in Physiology or Medicine to von Behring in 1901, with Kitasato's crucial role widely acknowledged in the scientific community"
+      },
+      {
+        "title": "Science and the Regulation of Biological Products",
+        "publisher": "US Food and Drug Administration",
+        "url": "https://www.fda.gov/about-fda/histories-product-regulation/science-and-regulation-biological-products",
+        "type": "institutional",
+        "supports": "St. Louis 1901: tetanus-infected horse Jim, 13 children dead; Biologics Control Act 1902.",
+        "quote": "the blood of a tetanus-infected retired milk wagon horse named Jim was used for that purpose"
+      },
+      {
+        "title": "Vaccines in the United States: a systematic review on history of evolution, regulations, licensing, and future challenges",
+        "publisher": "Clinical and Experimental Vaccine Research",
+        "year": 2020,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7445324/",
+        "type": "scholarly",
+        "supports": "Biologics Control Act passed 1 July 1902.",
+        "quote": "the US Congress passed the Biologics Control Act on July 1st, 1902"
+      }
+    ],
+    "further": [
+      "porter-1997"
+    ]
+  },
+  {
+    "id": "asylum-era",
+    "title": "The age of the asylum",
+    "stream": "bio-mind",
+    "tier": 3,
+    "date": {
+      "year": 1845,
+      "earliest": 1840,
+      "latest": 1850,
+      "end": 1889,
+      "display": "1840s–1880s"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "agreed",
+      "note": "The 1845 Acts and Dix's 1843 report are firmly dated; the 'age of the asylum' is a historians' label for a long process, and its rise and decline varied by country."
+    },
+    "place": "England and Wales; United States",
+    "people": [
+      "Dorothea Dix, American reformer who campaigned for state asylums"
+    ],
+    "themes": [
+      "mind",
+      "institutions"
+    ],
+    "summary": "Reformers built asylums to cure madness with kindness. Within decades they had become crowded warehouses for chronic patients.",
+    "body": [
+      "In 1845 the Lunacy Act and County Asylums Act compelled every county in England and Wales to provide an asylum for pauper lunatics, moved out of workhouses, under a national inspecting commission. In the United States, Dorothea Dix's 1843 report to the Massachusetts legislature, urging enlargement of the Worcester asylum, began a campaign that helped found state hospitals across the country. Built for curative \"moral treatment,\" they filled faster than they emptied: Utica admitted 300–500 people a year from 1846 but discharged about 200 recovered or improved, and overcrowding and restraint followed."
+    ],
+    "links": [
+      {
+        "to": "pinel-moral-treatment",
+        "kind": "built-on",
+        "note": "The humane regime the asylums were meant to deliver."
+      },
+      {
+        "to": "kraepelin",
+        "kind": "see-also",
+        "note": "Asylum case records fed the new classifications."
+      },
+      {
+        "to": "chlorpromazine",
+        "kind": "led-to",
+        "note": "Drugs and policy later emptied the asylums."
+      }
+    ],
+    "sources": [
+      {
+        "title": "How did mental health become so biomedical? The progressive erosion of social determinants in historical psychiatric admission registers",
+        "publisher": "History of Psychiatry",
+        "year": 2021,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7820572/",
+        "type": "scholarly",
+        "supports": "Lunacy Act and County Asylums Act of 1845; every county compelled to provide an asylum; paupers moved from workhouses; Commission in Lunacy.",
+        "quote": "The County Asylum Act compelled each county to provide an asylum for ‘pauper lunatics’, who were moved from workhouses into the new institutions."
+      },
+      {
+        "title": "Utica State Hospital: Psychiatric Reform, Institutionalization, and Patient Justice in 19th Century America and Today",
+        "publisher": "Yale Journal of Biology and Medicine",
+        "year": 2025,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12466279/",
+        "type": "scholarly",
+        "supports": "Dix's 1843 report and the state hospitals; moral treatment; Utica admissions of 300–500 a year against about 200 discharges; overcrowding and restraint.",
+        "quote": "In 1843, Dix submitted to the Massachusetts legislature a report for the enlargement of the Worcester Insane Asylum"
+      }
+    ],
+    "further": [
+      "scull-2015"
+    ]
+  }
+]

@@ -1,0 +1,715 @@
+[
+  {
+    "id": "ebola-1976",
+    "title": "Ebola emerges",
+    "stream": "bio-public",
+    "tier": 3,
+    "date": {
+      "year": 1976,
+      "display": "1976"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "Both 1976 outbreaks were investigated on the spot by international teams, whose case counts are still cited. The Sudan figures cover the whole outbreak, not Nzara alone, and the cotton factory is a suspected rather than proven source. The two epidemics were caused by related but distinct viruses, a point not clear at the time."
+    },
+    "place": "Nzara, Sudan (now South Sudan), and Yambuku, Zaire (now Democratic Republic of the Congo)",
+    "people": [
+      "Jean-Jacques Muyembe Tamfum, Congolese virologist who took early samples at Yambuku",
+      "Peter Piot, Belgian microbiologist whose Antwerp laboratory isolated the virus"
+    ],
+    "themes": [
+      "public-health"
+    ],
+    "summary": "In 1976 a new hemorrhagic fever struck southern Sudan and a Congolese mission hospital, where five syringes a day spread it from patient to patient.",
+    "body": [
+      "In 1976 a deadly new hemorrhagic fever appeared twice, in two places. In southern Sudan an outbreak spread through four towns and was traced to Nzara, where a cotton factory is suspected as the source; 151 of 284 recorded patients died. In Yambuku, in northern Zaire, a mission hospital issued only five syringes a day; reused needles carried the virus to outpatients, and 280 of 318 cases died. The Congolese doctor Jean-Jacques Muyembe took early blood samples bare-handed, and Peter Piot's Antwerp laboratory isolated the virus from a nun's blood. The disease was named for a nearby river. The two outbreaks involved related but distinct viruses."
+    ],
+    "links": [
+      {
+        "to": "ebola-west-africa",
+        "kind": "led-to",
+        "note": "The same virus returned on a vastly larger scale in 2014."
+      },
+      {
+        "to": "hiv-aids",
+        "kind": "see-also",
+        "note": "Another virus out of central Africa that reshaped global health."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Ebola disease (fact sheet)",
+        "publisher": "World Health Organization",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/ebola-virus-disease",
+        "type": "institutional",
+        "supports": "Two simultaneous 1976 outbreaks in Nzara and Yambuku; name from the Ebola River.",
+        "quote": "Ebola disease first occurred in 1976 in two simultaneous outbreaks: one outbreak was of Sudan virus disease in Nzara in what is now South Sudan"
+      },
+      {
+        "title": "Potential for large outbreaks of Ebola virus disease",
+        "author": "Camacho A, Kucharski AJ, Funk S, Breman J, Piot P, et al.",
+        "publisher": "Epidemics",
+        "year": 2014,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4255970/",
+        "type": "scholarly",
+        "supports": "318 cases and 280 deaths at Yambuku; five syringes a day and transmission by contaminated needles.",
+        "quote": "With only five syringes issued each day, exposure to contaminated syringes and needles during routine outpatient visits was a common route of transmission"
+      },
+      {
+        "title": "Filovirus Disease Outbreaks: A Chronological Overview",
+        "author": "Languon S, Quaye O",
+        "publisher": "Virology: Research and Treatment",
+        "year": 2019,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6589952/",
+        "type": "scholarly",
+        "supports": "Sudan outbreak across four towns with Nzara reported as source (cotton factory suspected); Sudan case and death counts (284, 151); the two outbreaks' viruses were related but distinct.",
+        "quote": "The Sudan outbreak occurred in four towns—Nzara, Maridi, Tembura, and Juba—with Nzara reported as the source of the outbreak"
+      },
+      {
+        "title": "Jean-Jacques Muyembe Tamfum: a life's work on Ebola",
+        "author": "Fiona Fleck (interview)",
+        "publisher": "Bulletin of the World Health Organization",
+        "year": 2018,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6249701/",
+        "type": "primary",
+        "supports": "Muyembe's investigation at Yambuku without protection; Piot's isolation of the virus from the nun's blood.",
+        "quote": "It was from the blood of this nun that Piot first isolated the Ebola virus."
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "smallpox-eradication",
+    "title": "Smallpox is eradicated",
+    "stream": "bio-public",
+    "tier": 1,
+    "date": {
+      "year": 1980,
+      "earliest": 1967,
+      "display": "1967–1980"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "WHO records date the intensified campaign (1967), the last natural case (Somalia, October 1977), certification (9 December 1979) and the formal declaration (May 1980). How much credit belongs to surveillance-containment rather than continued mass vaccination is a matter of emphasis, not of fact."
+    },
+    "place": "Worldwide; last natural case at Merca, Somalia",
+    "people": [
+      "William Foege, former CDC epidemiologist working as a missionary, who used surveillance and containment in eastern Nigeria",
+      "Rahima Banu, of Bangladesh, the last known case of *Variola major* (1975)",
+      "Ali Maow Maalin, of Merca, Somalia, the last naturally transmitted case (1977)",
+      "Janet Parker (d. 1978), medical photographer in Birmingham, the last known person to contract smallpox, in a laboratory-linked outbreak"
+    ],
+    "themes": [
+      "public-health",
+      "institutions"
+    ],
+    "summary": "A disease that killed some 300 million people in the 20th century alone was hunted to extinction village by village. It remains the only human disease ever eradicated.",
+    "body": [
+      "Smallpox killed an estimated 300 million people in the 20th century alone. In 1967 the World Health Organization launched an intensified eradication campaign, and thirteen years later its member states declared the disease gone. It remains the only human disease ever eradicated.",
+      "The original plan was to vaccinate at least 80 percent of populations and rely on herd immunity. Vaccine shortages changed the strategy. In eastern Nigeria in 1967–1968, during the Biafran war, William Foege, a former CDC epidemiologist then working as a missionary, vaccinated the families and close contacts of each patient, and watched outbreaks melt away. This approach, called surveillance and containment and later ring vaccination, became the backbone of the campaign: find every case, vaccinate everyone around it. In India alone more than 150,000 field workers searched for cases.",
+      "The disease retreated to the Horn of Africa. The last natural case of the deadlier *Variola major* was Rahima Banu, in Bangladesh, in 1975; the last naturally transmitted case of all was Ali Maow Maalin, in Merca, Somalia, on 26 October 1977. A Global Commission certified eradication on 9 December 1979, and in May 1980 the World Health Assembly declared that the world and all its peoples had won freedom from smallpox.",
+      "One more death came from a laboratory. In 1978 Janet Parker, a medical photographer in Birmingham, England, caught smallpox while working a floor above a laboratory that handled the virus, and died; she is regarded as the last person to contract the disease. How she was infected remains a matter of conjecture. Samples of the virus survive at two designated laboratories, one in the United States and one in Russia, which is why eradication did not end the debate about smallpox."
+    ],
+    "myth": {
+      "tradition": "Ring vaccination was a brand-new idea invented for the eradication campaign, and it replaced mass vaccination.",
+      "record": "Isolating cases had precedents, from the Leicester method of 1877 (notification, isolation and quarantine) to an expanding-ring vaccination of contacts in Libya in 1946. In the campaign itself mass vaccination continued; what changed was that resources shifted toward finding cases and containing them."
+    },
+    "links": [
+      {
+        "to": "jenner",
+        "kind": "built-on",
+        "note": "Jenner's cowpox vaccine, refined over 170 years, was the tool."
+      },
+      {
+        "to": "polio-endgame",
+        "kind": "led-to",
+        "note": "The success inspired the next eradication attempt."
+      },
+      {
+        "to": "alma-ata",
+        "kind": "see-also",
+        "note": "Health for All was declared as the smallpox campaign ended."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Smallpox (health topic)",
+        "publisher": "World Health Organization",
+        "url": "https://www.who.int/health-topics/smallpox",
+        "type": "institutional",
+        "supports": "Intensified plan launched in 1967; last natural case in Somalia 1977; declared eradicated 1980; two designated secure laboratories (US and Russia) retain virus.",
+        "quote": "The World Health Organization launched an intensified plan to eradicate smallpox in 1967."
+      },
+      {
+        "title": "WHO commemorates the 40th anniversary of smallpox eradication",
+        "publisher": "World Health Organization",
+        "year": 2019,
+        "url": "https://www.who.int/news/item/13-12-2019-who-commemorates-the-40th-anniversary-of-smallpox-eradication",
+        "type": "institutional",
+        "supports": "Certification on 9 December 1979; World Health Assembly declaration in May 1980; 300 million deaths in the 20th century; only human disease eradicated.",
+        "quote": "Five months later, in May 1980, the 33rd World Health Assembly issued its official declaration that ‘the world and all its peoples have won freedom from smallpox’."
+      },
+      {
+        "title": "Smallpox Eradication: African Origin, African Solutions, and Relevance for COVID-19",
+        "author": "Breman JG",
+        "publisher": "American Journal of Tropical Medicine and Hygiene",
+        "year": 2021,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7866312/",
+        "type": "scholarly",
+        "supports": "80 percent target; Foege's contact vaccination in eastern Nigeria 1967–1968; 150,000 workers in India; last cases Rahima Banu 1975 and Ali Maow Maalin in Merca on 26 October 1977; mass vaccination continued.",
+        "quote": "The last patients with naturally transmitted smallpox were Rahima Banu in Bangladesh, 1975, who had Variola major , and Ali Maaow Maalin, Somalia, 1977 with V . minor"
+      },
+      {
+        "title": "Etymologia: Ring Vaccination",
+        "author": "Sharma V, Sharma R, Singh BB",
+        "publisher": "Emerging Infectious Diseases",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10826778/",
+        "type": "scholarly",
+        "supports": "Precedents for ring vaccination (Leicester method 1877, Dixon in Tripolitania 1946) and Foege's 1967 use of surveillance and containment.",
+        "quote": "In 1967, Foege and colleagues introduced this concept as surveillance and containment in the smallpox eradication campaign in Nigeria."
+      },
+      {
+        "title": "High-risk human-caused pathogen exposure events from 1975-2016",
+        "author": "Manheim D, Lewis G",
+        "publisher": "F1000Research",
+        "year": 2021,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9274012/",
+        "type": "scholarly",
+        "supports": "Janet Parker's infection and death in 1978 (a medical photographer working a floor above a smallpox laboratory) and the unresolved route of infection.",
+        "quote": "Janet Parker, the last person to contract Smallpox, died in 1978 due to an escaped pathogen."
+      }
+    ],
+    "further": [
+      "snowden-2019"
+    ],
+    "image": {
+      "commons": "File:Rahima Banu.jpg",
+      "alt": "A small child with smallpox pustules concentrated on her face and arms.",
+      "caption": "Rahima Banu, aged two, on Bhola Island, Bangladesh, in 1975: the last known natural case of *Variola major*. An eight-year-old girl reported her case to the eradication team and received the reward. Photograph from the US CDC Public Health Image Library."
+    }
+  },
+  {
+    "id": "ivf",
+    "title": "The first IVF baby",
+    "stream": "bio-surgery",
+    "tier": 1,
+    "date": {
+      "year": 1978,
+      "display": "25 July 1978"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "Louise Brown's birth and the Edwards–Steptoe method are fully documented, including in their own 1978 report. Jean Purdy's share was long underplayed and has been reassessed from the laboratory notebooks; the Calcutta birth of Durga is now widely credited in India but rests on Subhas Mukhopadhyay's own reports, reviewed only in 1997."
+    },
+    "place": "Oldham, near Manchester, England (where the IVF treatment was carried out)",
+    "people": [
+      "Robert Edwards, born 1925, Cambridge physiologist, Nobel Prize 2010",
+      "Patrick Steptoe (d. 1988), Oldham gynecologist and laparoscopy pioneer",
+      "Jean Purdy (d. 1985), Edwards's laboratory and clinical partner, who kept most of the records",
+      "Louise Brown (b. 1978), the first baby born after IVF",
+      "Subhas Mukhopadhyay (1931–1981), Calcutta physiologist who reported India's first IVF birth"
+    ],
+    "themes": [
+      "surgery",
+      "technology",
+      "ethics"
+    ],
+    "summary": "After a decade of failures, funding refusals and public alarm, a baby conceived in a laboratory dish was born in Oldham in July 1978. Millions have followed.",
+    "body": [
+      "On 25 July 1978 a healthy girl, Louise Brown, was delivered by Caesarean section after IVF treatment carried out at Oldham, in northern England. Her parents, Lesley and John Brown, had tried for nine years to have a child. She had been conceived in a laboratory dish, not a test tube, and returned to her mother's womb as an eight-cell embryo.",
+      "The work behind her began in the 1950s, when the Cambridge physiologist Robert Edwards set out to learn how human eggs mature and when they can be fertilized. In 1969 he achieved fertilization of a human egg outside the body, but the embryos would not develop. He teamed up with Patrick Steptoe, an Oldham gynecologist who could collect ripe eggs with the laparoscope, then a new and controversial instrument. The Medical Research Council declined to fund the project, a private donation kept it alive, and religious leaders, ethicists and scientists demanded that it stop.",
+      "A third partner was long left out of the story. Jean Purdy kept most of the records, helped care for patients and probably spent more time in Oldham than Edwards did. In 1980–81 Edwards argued with hospital administrators that a commemorative plaque should name her. Purdy died of cancer in 1985 and Steptoe in 1988, so when the Nobel Prize came in 2010, Edwards was the only one of the three still alive to receive it.",
+      "There may also have been a near-rival. On 3 October 1978 a Calcutta team led by Subhas Mukhopadhyay announced the birth of a girl, Durga, by IVF. A West Bengal government committee with no expertise in IVF dismissed his work as bogus; he was transferred, kept from research, and took his own life in 1981. His work was recognized only after T. C. Anand Kumar re-examined it in 1997.",
+      "By 2010 about four million people had been born after IVF, including children of Louise Brown herself."
+    ],
+    "myth": {
+      "tradition": "Louise Brown was a \"test-tube baby\", conceived in a test tube.",
+      "record": "Fertilization took place in a shallow culture dish, as the Nobel committee itself notes, and the Oldham work was a three-person effort: Jean Purdy's role, the laboratory notebooks show, was substantial."
+    },
+    "links": [
+      {
+        "to": "keyhole-surgery",
+        "kind": "see-also",
+        "note": "Steptoe's laparoscope was the key to collecting eggs."
+      },
+      {
+        "to": "stem-cells",
+        "kind": "led-to",
+        "note": "Human embryonic stem cells came from IVF embryos."
+      },
+      {
+        "to": "the-pill",
+        "kind": "see-also",
+        "note": "Hormonal control of reproduction, from the other direction."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Nobel Prize in Physiology or Medicine 2010: Press release",
+        "publisher": "NobelPrize.org (Nobel Assembly at Karolinska Institutet)",
+        "year": 2010,
+        "url": "https://www.nobelprize.org/prizes/medicine/2010/press-release/",
+        "type": "institutional",
+        "supports": "Birth on 25 July 1978; the Browns' nine years of trying; 1969 fertilization; Steptoe and laparoscopy; MRC refusal and private donation; ethical debate; Steptoe's death in 1988; four million births.",
+        "quote": "A healthy baby, Louise Brown, was born through Caesarian section after a full-term pregnancy, on 25 July, 1978."
+      },
+      {
+        "title": "The Oldham Notebooks: an analysis of the development of IVF 1969–1978. V. The role of Jean Purdy reassessed",
+        "author": "Johnson MH, Elder K",
+        "publisher": "Reproductive Biomedicine & Society Online",
+        "year": 2015,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5341260/",
+        "type": "scholarly",
+        "supports": "Purdy's record-keeping and time in Oldham; the plaque dispute of 1980–81; her death in 1985.",
+        "quote": "Overall, we conclude that Purdy’s role was a highly significant and under-appreciated element in the achievement of IVF in Oldham."
+      },
+      {
+        "title": "Dr. Subhas Mukhopadhyay (1931-1981): A Pioneer in the Field of Reproductive Medicine",
+        "author": "Cherukuri AMK, Pendurthi G, Chanda CR",
+        "publisher": "Cureus",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11452318/",
+        "type": "scholarly",
+        "supports": "Durga's birth announced 3 October 1978; inquiry, transfer and suicide in 1981; T. C. Anand Kumar's 1997 review.",
+        "quote": "reported the birth of “Durga” on October 3, 1978, through a comparable IVF procedure"
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "alma-ata",
+    "title": "Health for All: the Alma-Ata Declaration",
+    "stream": "bio-public",
+    "tier": 3,
+    "date": {
+      "year": 1978,
+      "display": "6–12 September 1978"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "The declaration text and conference report are WHO documents. Its long-term influence is debated; the selective primary health care counter-proposal of 1979 is well documented."
+    },
+    "place": "Alma-Ata, Kazakh SSR, USSR (now Almaty, Kazakhstan)",
+    "people": [
+      "Halfdan Mahler, WHO Director-General",
+      "James Grant, UNICEF executive director"
+    ],
+    "themes": [
+      "public-health",
+      "institutions"
+    ],
+    "summary": "In 1978 the world's governments promised health for all by the year 2000 through community primary care. Within a year major donors were proposing a narrower, more cost-effective plan.",
+    "body": [
+      "In September 1978 delegates met in Alma-Ata, in Soviet Kazakhstan, and declared health a fundamental human right. Primary health care, close to where people live and work, was to bring an acceptable level of health to all the people of the world by the year 2000. The backlash came fast. At Bellagio in 1979, UNICEF's James Grant joined the World Bank, USAID and the Rockefeller Foundation in promoting selective primary health care: a few targeted interventions, later known as GOBI (growth monitoring, oral rehydration, breastfeeding, immunization), which shifted emphasis away from community health worker programs."
+    ],
+    "links": [
+      {
+        "to": "who-founded",
+        "kind": "built-on",
+        "note": "Echoes WHO's 1948 definition of health."
+      },
+      {
+        "to": "barefoot-doctors",
+        "kind": "see-also",
+        "note": "Community health workers were a model for primary care."
+      },
+      {
+        "to": "ors",
+        "kind": "see-also",
+        "note": "Oral rehydration became the O in GOBI."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Declaration of Alma-Ata",
+        "publisher": "World Health Organization",
+        "url": "https://www.who.int/teams/social-determinants-of-health/declaration-of-alma-ata",
+        "type": "primary",
+        "supports": "Health as a fundamental human right; primary care close to where people live and work; health for all by 2000.",
+        "quote": "An acceptable level of health for all the people of the world by the year 2000 can be attained through a fuller and better use of the world's resources"
+      },
+      {
+        "title": "Visualising Primary Health Care: World Health Organization Representations of Community Health Workers, 1970-89",
+        "author": "Medcalf A, Nunes J",
+        "publisher": "Medical History",
+        "year": 2018,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6158641/",
+        "type": "scholarly",
+        "supports": "Conference dates; GOBI interventions; shift away from community emphasis.",
+        "quote": "These interventions included growth-monitoring, oral rehydration therapy, breastfeeding and immunisation"
+      },
+      {
+        "title": "Disease in a Debt Crisis: Financing Global Health, Development and AIDS between WHO and World Bank, 1978–87",
+        "author": "Kanazawa R",
+        "publisher": "Medical History",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7540255/",
+        "type": "scholarly",
+        "supports": "Bellagio Conference of 1979 and the selective primary health care counter-proposal by UNICEF's Grant with the World Bank, USAID and Rockefeller; UNICEF's argument that cost-effective interventions were more realistic; Mahler's Health for All.",
+        "quote": "at the Bellagio Conference in 1979 to counter-propose with the approach of Selective Primary Health Care"
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "hiv-aids",
+    "title": "AIDS",
+    "stream": "bio-public",
+    "tier": 1,
+    "date": {
+      "year": 1981,
+      "display": "5 June 1981"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "The first report (5 June 1981) and the 1983 virus discovery are documented in print. The virus's origin in Kinshasa around 1920 is a statistical estimate from viral genetics, with a range of roughly 1909–1930; priority for the discovery was bitterly disputed between Paris and the US National Cancer Institute."
+    },
+    "place": "Los Angeles and New York, USA; Paris, France; origins in Kinshasa, Democratic Republic of the Congo",
+    "people": [
+      "Françoise Barré-Sinoussi (b. 1947), Pasteur Institute virologist, Nobel Prize 2008",
+      "Luc Montagnier (1932–2022), Pasteur Institute virologist, Nobel Prize 2008",
+      "Robert Gallo (b. 1937), US National Cancer Institute, rival claimant to the discovery"
+    ],
+    "themes": [
+      "public-health",
+      "ethics"
+    ],
+    "summary": "Five cases of a rare pneumonia in Los Angeles in 1981 were the first sign of a pandemic that had begun in central Africa decades earlier and has killed over 44 million people.",
+    "body": [
+      "On 5 June 1981 the US Centers for Disease Control's weekly bulletin reported five unexplained cases of *Pneumocystis* pneumonia in previously healthy gay men at three Los Angeles hospitals. Reports of a rare cancer, Kaposi's sarcoma, followed from New York. Within a year the CDC had 355 cases of such illnesses in previously healthy people.",
+      "The early link to gay men shaped everything. Newspapers wrote of a \"gay cancer\" and doctors of \"gay-related immune deficiency\", tying the disease to stigmatized behavior. Soon it was also found in hemophiliacs, blood-transfusion recipients, drug users and infants.",
+      "In 1983 Françoise Barré-Sinoussi and Luc Montagnier at the Pasteur Institute in Paris isolated a new retrovirus from a patient's swollen lymph node. In April 1984 the US government announced that Robert Gallo's laboratory had isolated a candidate virus, HTLV-III, opening a scientific and legal battle over credit. The 2008 Nobel Prize went to the Paris pair.",
+      "The virus was far older than the disease. Genetic analysis places the common ancestor of the pandemic strain around 1920, in Kinshasa, and blood samples from Kinshasa in 1959–1960 already contain it. By one estimate it reached Haiti in the mid-1960s and the United States around 1969, a dozen years before anyone noticed.",
+      "Activists, among them ACT UP, founded in New York in 1987, turned people facing a lethal, stigmatized disease and an unresponsive government into caregivers, advocates and \"citizen scientists\". The World Health Organization now estimates that HIV has claimed 44.2 million lives, and that 41 million people were living with it at the end of 2025."
+    ],
+    "myth": {
+      "tradition": "AIDS began in the United States around 1981.",
+      "record": "1981 is when doctors first recognized the syndrome. The virus had been spreading from Kinshasa since about the 1920s and had probably been in the United States since the late 1960s."
+    },
+    "links": [
+      {
+        "to": "azt-to-haart",
+        "kind": "led-to",
+        "note": "From the first antiviral drug to combination therapy."
+      },
+      {
+        "to": "pcr",
+        "kind": "see-also",
+        "note": "PCR became a standard way to detect the virus."
+      },
+      {
+        "to": "ebola-1976",
+        "kind": "see-also",
+        "note": "Another virus out of central Africa."
+      }
+    ],
+    "sources": [
+      {
+        "title": "1985: Forty years ago, the world opened its eyes to AIDS. History of the early years of the HIV epidemic",
+        "author": "Orsini D, Martini M",
+        "publisher": "Journal of Preventive Medicine and Hygiene",
+        "year": 2025,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12643078/",
+        "type": "scholarly",
+        "supports": "MMWR report of 5 June 1981 and its five cases; 355 cases by May 1982; 'gay cancer' and GRID; 1983 isolation; April 1984 Gallo announcement and dispute; Haiti and US arrival dates (citing Worobey).",
+        "quote": "Thus began a scientific and legal battle between the two prestigious research institutes, both of which claimed credit for the discovery."
+      },
+      {
+        "title": "The Nobel Prize in Physiology or Medicine 2008: Press release",
+        "publisher": "NobelPrize.org (Nobel Assembly at Karolinska Institutet)",
+        "year": 2008,
+        "url": "https://www.nobelprize.org/prizes/medicine/2008/press-release/",
+        "type": "institutional",
+        "supports": "Barré-Sinoussi and Montagnier isolated the virus from lymph node cells of patients; 2008 Nobel Prize.",
+        "quote": "Françoise Barré-Sinoussi and Luc Montagnier isolated and cultured lymph node cells from patients that had swollen lymph nodes characteristic of the early stage of acquired immune deficiency."
+      },
+      {
+        "title": "The early spread and epidemic ignition of HIV-1 in human populations",
+        "author": "Faria NR, Rambaut A, Suchard MA, et al.",
+        "publisher": "Science",
+        "year": 2014,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4254776/",
+        "type": "scholarly",
+        "supports": "Kinshasa as the origin of the pandemic; common ancestor around 1920 (1909–1930); 1959–1960 Kinshasa samples.",
+        "quote": "we estimated the time of the most recent common ancestor (TMRCA) of group M to be around 1920"
+      },
+      {
+        "title": "Trauma and Growth: Impact of AIDS Activism",
+        "author": "Rabkin JG, McElhiney MC, Harrington M, Horn T",
+        "publisher": "AIDS Research and Treatment",
+        "year": 2018,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5994318/",
+        "type": "scholarly",
+        "supports": "ACT UP founded in New York in 1987; AIDS activists in the early epidemic as caregivers, advocates and 'citizen scientists'.",
+        "quote": "ACT UP was founded in 1987 in New York City as a radical protest organization"
+      },
+      {
+        "title": "HIV and AIDS (fact sheet)",
+        "publisher": "World Health Organization",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/hiv-aids",
+        "type": "institutional",
+        "supports": "Cumulative toll of 44.2 million deaths to date; 41.0 million living with HIV at end of 2025.",
+        "quote": "HIV remains a major global public health issue, having claimed an estimated 44.2 million lives to date."
+      }
+    ],
+    "further": [
+      "shilts-1987",
+      "snowden-2019"
+    ],
+    "image": {
+      "commons": "File:HIV-budding-Color.jpg",
+      "alt": "Scanning electron micrograph of a lymphocyte with small round virus particles, colored green, budding from its surface.",
+      "caption": "HIV-1 particles (colored green) budding from a cultured lymphocyte, seen in a scanning electron micrograph from the US CDC; each round bump is a site where new virions assemble."
+    }
+  },
+  {
+    "id": "hepatitis-b-vaccine",
+    "title": "A vaccine against a cancer",
+    "stream": "bio-drugs",
+    "tier": 3,
+    "date": {
+      "year": 1981,
+      "display": "1981"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "The 1981 US licensing and the 1986 recombinant vaccines are well documented. The link between vaccination and Taiwan's later fall in liver cancer rests on population registry data rather than a trial, and the cited analysis says the decrease 'may be attributed' to the program, so the cancer claim is rated agreed rather than firm."
+    },
+    "place": "Philadelphia, USA; Taiwan",
+    "people": [
+      "Baruch Blumberg, American geneticist, Nobel Prize 1976",
+      "Irving Millman, Blumberg's co-inventor of the vaccine"
+    ],
+    "themes": [
+      "drugs",
+      "public-health"
+    ],
+    "summary": "A puzzling blood protein called Australia antigen led to the hepatitis B vaccine, and in Taiwan to a later fall in liver cancer that researchers attribute to vaccination.",
+    "body": [
+      "Baruch Blumberg was studying inherited blood-protein variation when an unknown protein turned up in tests of a transfused hemophilia patient's serum against blood from an Aboriginal Australian. Between 1966 and 1968 he showed that this \"Australia antigen\" went with hepatitis B; it proved to be the virus's outer coat. Healthy carriers' blood was full of these non-infectious particles, and Blumberg and Irving Millman made a vaccine from them. The US approved a plasma-derived version in 1981; genetically engineered vaccines followed in 1986. Taiwan began vaccinating infants of infected mothers in 1984 and all infants in 1986, and liver cancer later fell, a decline attributed in part to the program."
+    ],
+    "links": [
+      {
+        "to": "recombinant-dna",
+        "kind": "built-on",
+        "note": "Gene-spliced yeast replaced human plasma as the vaccine source."
+      },
+      {
+        "to": "hpv-vaccine",
+        "kind": "led-to",
+        "note": "The second vaccine aimed at a virus-caused cancer."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Nobel Prize in Physiology or Medicine 1976: Press release",
+        "publisher": "NobelPrize.org (Karolinska Institutet)",
+        "year": 1976,
+        "url": "https://www.nobelprize.org/prizes/medicine/1976/press-release/",
+        "type": "institutional",
+        "supports": "Australia antigen found in serum tested against an Aboriginal Australian's serum; link to hepatitis B 1966–68; vaccine from carriers' serum.",
+        "quote": "The production of this vaccine is not based on virus produced in the laboratory but instead on the purification of virus products derived from serum of patients"
+      },
+      {
+        "title": "Vaccination Campaign against Hepatitis B Virus in Italy: A History of Successful Achievements",
+        "author": "Stroffolini T, Stroffolini G",
+        "publisher": "Vaccines",
+        "year": 2023,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10610604/",
+        "type": "scholarly",
+        "supports": "Blumberg and Millman's first vaccine; FDA approval of plasma-derived vaccine in 1981; genetically engineered vaccines from 1986.",
+        "quote": "Subsequently, in 1981, the FDA granted approval for an enhanced plasma-derived hepatitis B vaccine designed for human use."
+      },
+      {
+        "title": "Secular trend in universal hepatocellular carcinoma prevention: Taiwan, Poland, and Belgium experience",
+        "author": "Huang ZZ, Żmudka K, Ruggiano V, et al.",
+        "publisher": "World Journal of Gastrointestinal Oncology",
+        "year": 2025,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12635645/",
+        "type": "scholarly",
+        "supports": "Taiwan's program from 1984 (infants of infected mothers) and 1986 (all infants); the later decrease in liver cancer attributed to it.",
+        "quote": "The decrease may be attributed to the HBV vaccination policy starting in 1984 for infants of HBV-infected mothers, which expanded to all infants in 1986."
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "h-pylori",
+    "title": "Ulcers are an infection",
+    "stream": "bio-lab",
+    "tier": 2,
+    "date": {
+      "year": 1984,
+      "earliest": 1979,
+      "latest": 1984,
+      "display": "1979–1984"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "firm",
+      "note": "Warren's first sighting (1979), the joint study and culture (1982) and the Lancet papers (1983–84) are documented; the self-experiment's timing rests on Marshall's own account. That the bacterium causes most peptic ulcers is now settled."
+    },
+    "place": "Royal Perth Hospital and Fremantle Hospital, Western Australia",
+    "people": [
+      "J. Robin Warren, born 1937, Perth pathologist",
+      "Barry Marshall, born 1951, Perth physician"
+    ],
+    "themes": [
+      "theory",
+      "practice"
+    ],
+    "summary": "Two Perth doctors argued that stomach ulcers were caused by a bacterium, not stress. One infected himself to prove the point; official acceptance took a decade.",
+    "body": [
+      "In 1979, on his 42nd birthday, the Perth pathologist Robin Warren noticed curved bacteria on a stomach biopsy, always alongside inflammation. In 1981 the young physician Barry Marshall joined him, and in 1982 they cultured the organism, now called *Helicobacter pylori*, finding it in almost all patients with gastritis or ulcers. At the time ulcers were blamed on stress and lifestyle, and treated by suppressing acid; they often came back.",
+      "Their papers met disbelief. In 1984, unable to infect animals, Marshall deliberately infected himself; his own biopsies showed colonization and the typical damage to the stomach lining. Others soon replicated the findings, and treatment trials showed that ulcers stayed healed once the bacteria were eradicated. Formal acceptance came only in 1994, when a US National Institutes of Health consensus meeting endorsed detecting and eradicating the infection. Warren and Marshall shared the 2005 Nobel Prize."
+    ],
+    "myth": {
+      "tradition": "A lone maverick swallowed bacteria and overturned medical dogma overnight.",
+      "record": "Warren saw the bacteria first, other groups confirmed the findings from 1983, and Marshall himself called reports that he was alone exaggerated. Acceptance took about ten years and rested on treatment trials."
+    },
+    "links": [
+      {
+        "to": "koch",
+        "kind": "built-on",
+        "note": "Marshall's self-infection was an attempt to satisfy Koch's postulates."
+      },
+      {
+        "to": "microbiome",
+        "kind": "see-also",
+        "note": "The stomach turned out not to be sterile."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Nobel Prize in Physiology or Medicine 2005: Press release",
+        "publisher": "NobelPrize.org (Nobel Assembly at Karolinska Institutet)",
+        "year": 2005,
+        "url": "https://www.nobelprize.org/prizes/medicine/2005/press-release/",
+        "type": "institutional",
+        "supports": "Warren's observation and Marshall's culture; discovery in 1982; stress and lifestyle as the prevailing explanation; cure by eradication.",
+        "quote": "In 1982, when this bacterium was discovered by Marshall and Warren, stress and lifestyle were considered the major causes of peptic ulcer disease."
+      },
+      {
+        "title": "Barry J. Marshall: Biographical",
+        "author": "Barry J. Marshall",
+        "publisher": "NobelPrize.org",
+        "year": 2005,
+        "url": "https://www.nobelprize.org/prizes/medicine/2005/marshall/biographical/",
+        "type": "primary",
+        "supports": "Hostile reception in 1984; the self-experiment; others replicating; NIH consensus of February 1994.",
+        "quote": "Becoming increasingly frustrated with the negative response to my work I realized I had to have an animal model and decided to use myself."
+      },
+      {
+        "title": "J. Robin Warren: Biographical",
+        "author": "J. Robin Warren",
+        "publisher": "NobelPrize.org",
+        "year": 2005,
+        "url": "https://www.nobelprize.org/prizes/medicine/2005/warren/biographical/",
+        "type": "primary",
+        "supports": "First observation of the bacteria in 1979; meeting Marshall in 1981; papers of 1983 and 1984.",
+        "quote": "Then, in 1979, on my 42nd birthday, I noticed bacteria growing on the surface of a gastric biopsy."
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "pcr",
+    "title": "PCR",
+    "stream": "bio-lab",
+    "tier": 2,
+    "date": {
+      "year": 1983,
+      "earliest": 1983,
+      "latest": 1985,
+      "display": "1983–1985"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "agreed",
+      "note": "The 1983 conception rests on Mullis's own recollection; the first publication (1985) and the Taq method (1988) are firm. Credit is contested: Kleppe proposed the principle in 1971, and Cetus colleagues made the method work."
+    },
+    "place": "Cetus Corporation, California, USA",
+    "people": [
+      "Kary Mullis, Cetus chemist, Nobel Prize in Chemistry 1993",
+      "Kjell Kleppe, Norwegian biochemist who proposed the principle in 1971",
+      "Thomas D. Brock, microbiologist who found *Thermus aquaticus*"
+    ],
+    "themes": [
+      "technology"
+    ],
+    "summary": "A chemist's idea on a night drive became a way to copy a single stretch of DNA millions of times in a few hours, transforming diagnosis, forensics and genetics.",
+    "body": [
+      "One night in 1983, driving from Berkeley to his cabin in Mendocino, the Cetus chemist Kary Mullis saw how two short primers flanking a stretch of DNA could let a polymerase copy it, and the copies be copied again, doubling the amount each cycle. Repeated cycle after cycle, the process yields millions of copies in a few hours.",
+      "The idea was not wholly new: in 1971 Kjell Kleppe had proposed amplifying DNA between two primers, but the idea was not realized. It took numerous adjustments by Mullis's colleagues at Cetus to make the method work; it was published in 1985. Its breakthrough came with a heat-tolerant polymerase from *Thermus aquaticus*, a bacterium Thomas Brock had found in Yellowstone's hot springs in 1969, which survived the heating step (1988). PCR made it possible to detect HIV and inherited mutations, analyze traces of DNA from crime scenes and sequence the human genome. Mullis won the 1993 Nobel Prize in Chemistry."
+    ],
+    "myth": {
+      "tradition": "Kary Mullis invented PCR single-handedly in a flash of inspiration.",
+      "record": "The principle had been described in 1971, and the working method, including the switch to heat-stable Taq polymerase, came from a team at Cetus."
+    },
+    "links": [
+      {
+        "to": "dna-double-helix",
+        "kind": "built-on",
+        "note": "Base pairing between complementary strands is what PCR exploits."
+      },
+      {
+        "to": "human-genome-project",
+        "kind": "led-to",
+        "note": "Sequencing the genome depended on amplification."
+      },
+      {
+        "to": "hiv-aids",
+        "kind": "see-also",
+        "note": "PCR became a standard test for HIV."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Nobel Prize in Chemistry 1993: Press release",
+        "publisher": "NobelPrize.org (Royal Swedish Academy of Sciences)",
+        "year": 1993,
+        "url": "https://www.nobelprize.org/prizes/chemistry/1993/press-release/",
+        "type": "institutional",
+        "supports": "First presented in 1985; doubling per cycle; uses in HIV and hereditary disease diagnosis, forensics, genome project; Nobel 1993.",
+        "quote": "The PCR technique was first presented as recently as 1985 but is nevertheless already one of the most widespread methods of analysing DNA."
+      },
+      {
+        "title": "Kary B. Mullis: Nobel Lecture, The Polymerase Chain Reaction",
+        "author": "Kary B. Mullis",
+        "publisher": "NobelPrize.org",
+        "year": 1993,
+        "url": "https://www.nobelprize.org/prizes/chemistry/1993/mullis/lecture/",
+        "type": "primary",
+        "supports": "The night drive to Mendocino; working at Cetus; first experiment in September.",
+        "quote": "One Friday night I was driving, as was my custom, from Berkeley up to Mendocino where I had a cabin far away from everything off in the woods."
+      },
+      {
+        "title": "From discovery to innovation in physiological research",
+        "author": "Zacho M",
+        "publisher": "Experimental Physiology",
+        "year": 2025,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11868022/",
+        "type": "scholarly",
+        "supports": "Kleppe 1971 principle; colleagues' adjustments and Taq polymerase (Saiki 1988); Brock's 1969 Yellowstone discovery.",
+        "quote": "However, the method proved effective only after numerous adjustments by his colleagues and the application of Taq polymerase isolated from the bacterium Thermus aquaticus"
+      },
+      {
+        "title": "The History and Future of Basic and Translational Cell-Free DNA Research at a Glance",
+        "author": "Gahan PB, Schwarzenbach H, Anker P",
+        "publisher": "Diagnostics",
+        "year": 2022,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9139999/",
+        "type": "scholarly",
+        "supports": "Kleppe's early-1970s proposal; Mullis's 1983 development; Saiki et al. 1985 first published use.",
+        "quote": "In the early seventies, the Norwegian postdoc Kjell Kleppe suggested the amplification of DNA using two flanking primers, but the idea was not realized and fell out of use."
+      }
+    ],
+    "further": []
+  }
+]

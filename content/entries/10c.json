@@ -1,0 +1,686 @@
+[
+  {
+    "id": "tuskegee",
+    "title": "The Tuskegee syphilis study",
+    "stream": "bio-public",
+    "tier": 2,
+    "date": {
+      "year": 1932,
+      "end": 1972,
+      "display": "1932–1972"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "The study's own publications, Public Health Service files now in the National Archives, the 1972 press reports and the congressional hearings document it thoroughly. Estimates of how many men died of syphilis vary, from at least 28 to perhaps 100 by 1969."
+    },
+    "place": "Macon County, Alabama, USA",
+    "people": [
+      "Peter Buxtun, Public Health Service interviewer who exposed the study",
+      "Eunice Rivers, nurse who worked alongside the study's doctors in Macon County",
+      "Susan Reverby, historian who uncovered the Guatemala experiments"
+    ],
+    "themes": [
+      "ethics",
+      "public-health"
+    ],
+    "summary": "For forty years US government doctors watched hundreds of Black men live with syphilis, deceiving them and keeping them from penicillin, until a whistleblower went to the press.",
+    "body": [
+      "In 1932 the US Public Health Service began following 600 Black men in Macon County, Alabama, a poor rural county still tied to its plantation past: 399 who already had syphilis and 201 without it as controls. With the cooperation of the Tuskegee Institute, government doctors told the men they had \"bad blood,\" passed off diagnostic spinal taps as free treatment, and promised burial expenses to secure autopsies.",
+      "By 1944 penicillin was the therapy of choice for syphilis, yet there was no discussion of treating the men; local doctors were told \"He's under study and not to be treated.\" By 1969 at least 28 and perhaps 100 had died of the disease. Peter Buxtun, a Public Health Service interviewer, protested internally from 1966 and finally went to a journalist. The story broke on 25 July 1972, and that October a federal panel advised ending the study.",
+      "Senate hearings led to the National Research Act of 1974, institutional review boards and the Belmont Report of 1979. President Clinton apologized in 1997. In 2010 the historian Susan Reverby revealed that Public Health Service researchers had deliberately infected hundreds of Guatemalans with syphilis and gonorrhea in 1946–48."
+    ],
+    "myth": {
+      "tradition": "Government doctors injected the Alabama men with syphilis.",
+      "record": "The 399 men in the syphilis group already had the disease when they were enrolled; the wrong done to them was deception and the withholding of treatment. Deliberate infection did happen, in the Public Health Service's experiments in Guatemala in 1946–48."
+    },
+    "links": [
+      {
+        "to": "penicillin",
+        "kind": "see-also",
+        "note": "The cure that existed from the 1940s and was kept from the men."
+      },
+      {
+        "to": "nuremberg-code",
+        "kind": "see-also",
+        "note": "The 1947 code on consent; there is no evidence the study was ever discussed in its light."
+      },
+      {
+        "to": "henrietta-lacks",
+        "kind": "see-also",
+        "note": "Another case often cited in Black Americans' distrust of medicine."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Fiftieth Anniversary of Uncovering the Tuskegee Syphilis Study: The Story and Timeless Lessons",
+        "author": "Martin J. Tobin",
+        "publisher": "American Journal of Respiratory and Critical Care Medicine",
+        "year": 2022,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9872801/",
+        "type": "scholarly",
+        "supports": "600 men (399 with syphilis, 201 controls); Macon County; Tuskegee Institute; spinal taps as 'spinal shots'; burial benefits and autopsies; penicillin the therapy of choice from 1944 and 'no discussion of treating the men'; 'not to be treated'; 28 to 100 deaths by 1969; Buxtun hired December 1965 and protesting within a year; story broke 25 July 1972; October 1972 panel; Kennedy hearings and National Research Act; Clinton 1997 apology; Reverby and the Guatemala experiments 1946–48; no evidence the study was discussed in light of the Nuremberg Code.",
+        "quote": "The study population consisted of 600 Black men: 399 with syphilis and 201 free of the disease who served as control subjects"
+      },
+      {
+        "title": "The Syphilis Pandemic Prior to Penicillin: Origin, Health Issues, Cultural Representation and Ethical Challenges",
+        "author": "Lisa Ekselius, Bengt Gerdin, Anders Vahlquist",
+        "publisher": "Acta Dermato-Venereologica",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10926575/",
+        "type": "scholarly",
+        "supports": "The men were told they had 'bad blood'; the 399 had latent syphilis; study ran 1932–1972.",
+        "quote": "The subjects were not informed that they had syphilis, but that they had"
+      },
+      {
+        "title": "Contextualizing Contemporary Research Ethics Policies and Practices in Significant Historical Events",
+        "author": "Mead Jasperse SC, Kelly MP",
+        "publisher": "Behavior Analysis in Practice",
+        "year": 2025,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12508402/",
+        "type": "scholarly",
+        "supports": "Dates of the National Research Act (1974) and the Belmont Report (1979).",
+        "quote": "National Research Act (1974) and the Belmont Report (1979)"
+      }
+    ],
+    "further": [
+      "washington-2006"
+    ],
+    "image": {
+      "commons": "File:Tuskegee syphilis experiment venipuncture.jpg",
+      "alt": "A Black man in a white shirt has blood drawn from his arm by a person in medical clothing during the Tuskegee study.",
+      "caption": "A participant in the Tuskegee study of untreated syphilis having blood drawn, in an undated photograph released by the Centers for Disease Control and Prevention."
+    }
+  },
+  {
+    "id": "sulfa",
+    "title": "Sulfa drugs",
+    "stream": "bio-drugs",
+    "tier": 2,
+    "date": {
+      "year": 1935,
+      "display": "1932–1938",
+      "end": 1938
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "Domagk's laboratory work, his 1935 paper, the Pasteur Institute's 1935 report and the FDA's investigation of the 1937 poisonings are all contemporary. The story of his daughter's cure comes from later biographical accounts such as the Nobel Foundation's; he left it out of his own report."
+    },
+    "place": "Wuppertal, Germany; Paris; Bristol, Tennessee, USA",
+    "people": [
+      "Gerhard Domagk (1895–1964), IG Farben pathologist who found Prontosil's effect",
+      "Jacques Tréfouël, Federico Nitti and Daniel Bovet, Pasteur Institute researchers who reported sulfanilamide's effect in 1935",
+      "Harold Cole Watkins, Massengill chemist who made Elixir Sulfanilamide"
+    ],
+    "themes": [
+      "drugs",
+      "public-health"
+    ],
+    "summary": "A red dye cured streptococcal infections, a Paris lab found the simple molecule inside it, and a poisonous 'elixir' version pushed Congress to give the FDA new powers over drugs.",
+    "body": [
+      "On 20 December 1932, at an IG Farben laboratory in Wuppertal, Gerhard Domagk found that a red dye, Prontosil, protected mice from lethal streptococcal infection. According to the Nobel Foundation's biography, when his own daughter, aged six, fell gravely ill with a streptococcal infection he gave her the drug and she recovered; he left that out of his report and published only in 1935, once clinicians had results. That year Bovet's group at the Pasteur Institute in Paris found that plain sulfanilamide, first made in 1908, worked as well as the dye. Sulfa drugs became a turning point against childbed fever, pneumonia, meningitis and gonorrhea. Domagk won the 1939 Nobel Prize, but German authorities made him decline it; he received it in 1947.",
+      "In 1937 the S.E. Massengill Company of Bristol, Tennessee, dissolved sulfanilamide in diethylene glycol, a chemical normally used as antifreeze and a deadly poison, and shipped \"Elixir Sulfanilamide\" without toxicity testing, which the law did not require. More than 100 people in 15 states died, many of them children treated for sore throats. The company's chemist killed himself. The scandal hastened the 1938 Federal Food, Drug, and Cosmetic Act, which increased the FDA's authority to regulate drugs."
+    ],
+    "links": [
+      {
+        "to": "salvarsan",
+        "kind": "built-on",
+        "note": "Domagk's dye screening followed Ehrlich's 'magic bullet' idea."
+      },
+      {
+        "to": "patent-medicines",
+        "kind": "overturned",
+        "note": "The 1938 act replaced the 1906 drug law the elixir exposed as obsolete."
+      },
+      {
+        "to": "penicillin",
+        "kind": "see-also",
+        "note": "The antibiotic that soon overtook the sulfa drugs."
+      },
+      {
+        "to": "thalidomide",
+        "kind": "see-also",
+        "note": "The next drug disaster to tighten the law."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Gerhard Domagk – Biographical",
+        "publisher": "NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/medicine/1939/domagk/biographical/",
+        "type": "institutional",
+        "supports": "Discovery at IG Farben, Wuppertal, in 1932; red dye Prontosil protected mice; sulfanilamide synthesized 1908; daughter treated; publication delayed to 1935.",
+        "quote": "Domagk omitted mentioning the recovery of his daughter from the report on the effect of the drug, waiting until 1935 when results were available from clinicians"
+      },
+      {
+        "title": "Drugs That Changed Society: History and Current Status of the Early Antibiotics: Salvarsan, Sulfonamides, and β-Lactams",
+        "author": "S. B. Christensen",
+        "publisher": "Molecules",
+        "year": 2021,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8512414/",
+        "type": "scholarly",
+        "supports": "Date of 20 December 1932; daughter aged six; Bovet's group tested sulfanilamide in 1935 and found it as effective as Prontosil; the 1935 paper by Trefouel, Nitti and Bovet is in the reference list; diseases treated; Nobel prize received only in 1947.",
+        "quote": "The introduction of the sulfa drugs was a turning point in treatment of streptococcal diseases such as childbed fever and septicemia, pneumonia, meningitis, dysentery, gonorrhea"
+      },
+      {
+        "title": "Gerhard Domagk – Facts",
+        "publisher": "NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/medicine/1939/domagk/facts/",
+        "type": "institutional",
+        "supports": "1939 Nobel Prize; authorities of his country made him decline it, later receiving diploma and medal; life dates.",
+        "quote": "Gerhard Domagk was caused by the authorities of his country to decline the award but he later received the diploma and the medal"
+      },
+      {
+        "title": "Daniel Bovet – Biographical",
+        "publisher": "NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/medicine/1957/bovet/biographical/",
+        "type": "institutional",
+        "supports": "Bovet worked at the Pasteur Institute in Paris in the 1930s.",
+        "quote": "From 1929 until 1947 he worked at the Pasteur Institute in Paris"
+      },
+      {
+        "title": "Sulfanilamide Disaster (Taste of Raspberries, Taste of Death: The 1937 Elixir Sulfanilamide Incident)",
+        "author": "Carol Ballentine",
+        "publisher": "FDA Consumer / U.S. Food and Drug Administration",
+        "year": 1981,
+        "url": "https://www.fda.gov/files/about%20fda/published/The-Sulfanilamide-Disaster.pdf",
+        "type": "institutional",
+        "supports": "Massengill of Bristol, Tennessee; diethylene glycol; no toxicity testing required; more than 100 deaths in 15 states, many children with sore throats; Watkins's suicide; 1938 Act.",
+        "quote": "The drug and the deaths led to the passage of the 1938 Food, Drug, and Cosmetic Act, which increased FDA's authority to regulate drugs"
+      }
+    ],
+    "further": [],
+    "image": {
+      "commons": "File:Elixir Sulfanilamide, 1937.jpg",
+      "alt": "Close-up of a glass bottle labeled Physician's Sample, Elixir Sulfanilamide, with the word Poison handwritten across the label.",
+      "caption": "A physician's sample bottle of Elixir Sulfanilamide, the 1937 Massengill preparation made with diethylene glycol, with a warning of poison written on the label. Photograph from the U.S. Food and Drug Administration."
+    }
+  },
+  {
+    "id": "lobotomy",
+    "title": "Lobotomy",
+    "stream": "bio-mind",
+    "tier": 2,
+    "date": {
+      "year": 1935,
+      "display": "November 1935"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "Moniz's 1936 reports, Freeman and Watts's publications and the 1949 Nobel citation document the history. The US total of 40,000–50,000 operations is a historians' estimate, not an exact count."
+    },
+    "place": "Lisbon, Portugal; Washington, DC, USA",
+    "people": [
+      "Egas Moniz (1874–1955), Portuguese neurologist",
+      "Almeida Lima, neurosurgeon who performed Moniz's operations",
+      "Walter Freeman, American neurologist and promoter of the transorbital lobotomy",
+      "James Watts, American neurosurgeon"
+    ],
+    "themes": [
+      "mind",
+      "surgery",
+      "ethics"
+    ],
+    "summary": "A Nobel-winning brain operation spread to tens of thousands of psychiatric patients, many cut through the eye socket outside any operating room, before drugs made it obsolete.",
+    "body": [
+      "In November 1935 the Lisbon neurologist Egas Moniz, with the neurosurgeon Almeida Lima operating, began destroying white matter in the frontal lobes of psychiatric patients, at first by injecting alcohol. Earlier that year in London he had heard Jacobsen and Fulton describe chimpanzees that stopped reacting aggressively to their mistakes after frontal-lobe surgery, a report many have seen as the spur to his \"bold step.\" In 1936 he reported improvement in 14 of his first 20 patients. Asylums were overcrowded and conventional treatments were few.",
+      "In the United States the neurologist Walter Freeman and neurosurgeon James Watts adopted and enlarged the operation. In 1946 Freeman turned to a transorbital method from the Italian psychiatrist Amarro Fiamberti, driving an ice-pick-like instrument through the eye socket; it needed no anesthetist, no surgeon and not even proper sterile technique, and Watts ended their partnership. An estimated 40,000–50,000 lobotomies were performed in the US between 1936 and 1959, 3,500–4,000 of them by Freeman.",
+      "Moniz shared the 1949 Nobel Prize in Physiology or Medicine. Chlorpromazine, introduced in 1952, offered a drug alternative, and the operation dwindled to a rarity."
+    ],
+    "links": [
+      {
+        "to": "asylum-era",
+        "kind": "built-on",
+        "note": "Overcrowded asylums made a quick operation attractive."
+      },
+      {
+        "to": "ect",
+        "kind": "see-also",
+        "note": "Another 1930s physical treatment for mental illness."
+      },
+      {
+        "to": "chlorpromazine",
+        "kind": "see-also",
+        "note": "The drug that made lobotomy largely obsolete."
+      },
+      {
+        "to": "deep-brain-stimulation",
+        "kind": "see-also",
+        "note": "Modern, far more targeted neurosurgery for mental illness works under standards that psychosurgery's history helped shape."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Egas Moniz – Facts",
+        "publisher": "NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/medicine/1949/moniz/facts/",
+        "type": "institutional",
+        "supports": "1949 Nobel Prize citation; Moniz's life dates.",
+        "quote": "for his discovery of the therapeutic value of leucotomy in certain psychoses"
+      },
+      {
+        "title": "Controversial Psychosurgery Resulted in a Nobel Prize",
+        "author": "Bengt Jansson",
+        "publisher": "NobelPrize.org",
+        "year": 1998,
+        "url": "https://www.nobelprize.org/prizes/medicine/1949/moniz/article/",
+        "type": "institutional",
+        "supports": "Jacobsen and Fulton's 1935 London report; Moniz's first operation in November 1935 and first report in 1936; chlorpromazine introduced 1952 and the decline of lobotomy.",
+        "quote": "in November 1935. In 1936 Moniz published his first report on prefrontal leukotomy"
+      },
+      {
+        "title": "Neurosurgery for mental conditions and pain: An historical perspective on the limits of biological determinism",
+        "author": "Robert J. Coffey, Stanley N. Caroff",
+        "publisher": "Surgical Neurology International",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11705162/",
+        "type": "scholarly",
+        "supports": "US totals of 40,000–50,000 operations, 3,500–4,000 by Freeman; Watts ended the partnership when Freeman began transorbital practice in 1946.",
+        "quote": "Approximately 40,000–50,000 lobotomy or leukotomy operations were performed in the US between 1936 and 1959, including 3500–4000 by Freeman alone"
+      },
+      {
+        "title": "Evolution in the Treatment of Psychiatric Disorders: From Psychosurgery to Psychopharmacology to Neuromodulation",
+        "author": "Staudt MD, Herring EZ, Gao K, Miller JP, Sweet JA",
+        "publisher": "Frontiers in Neuroscience",
+        "year": 2019,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6384258/",
+        "type": "scholarly",
+        "supports": "Moniz and Lima; Freeman and Watts; Fiamberti's transorbital technique with an ice-pick-like instrument, so that Freeman needed no anesthetist, surgeon or proper sterile technique; asylum overcrowding and lack of conventional treatments; chlorpromazine turned the tide.",
+        "quote": "co-opted a transorbital technique developed by the Italian psychiatrist Amarro Fiamberti"
+      },
+      {
+        "title": "The Evolution of Modern Ablative Surgery for the Treatment of Obsessive-Compulsive and Major Depression Disorders",
+        "author": "Mustroph ML, Cosgrove GR, Williams ZM",
+        "publisher": "Frontiers in Integrative Neuroscience",
+        "year": 2022,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9026193/",
+        "type": "scholarly",
+        "supports": "Moniz's first series of 20 patients, alcohol injections, 14 improved.",
+        "quote": "resulting in substantial symptom improvement in 14 of 20 patients"
+      }
+    ],
+    "further": [
+      "scull-2015",
+      "harrington-2019"
+    ],
+    "image": {
+      "commons": "File:Watts-Freeman lobotomy instruments. Wellcome L0026980.jpg",
+      "alt": "A set of lobotomy instruments in an open wooden box.",
+      "caption": "A set of Watts-Freeman lobotomy instruments in a box inscribed by Walter Freeman, from the Wellcome Collection."
+    }
+  },
+  {
+    "id": "ect",
+    "title": "Electroconvulsive therapy",
+    "stream": "bio-mind",
+    "tier": 3,
+    "date": {
+      "year": 1938,
+      "display": "April 1938"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "The first treatments in April 1938 were reported promptly and documented by the press at the time; the first stimulation on 11 April did not itself produce a seizure, so 'first treatment' and 'first seizure' differ by nine days. Evidence that ECT works for severe depression comes from randomized trials between the 1960s and 1980s."
+    },
+    "place": "Rome, Italy",
+    "people": [
+      "Ugo Cerletti (1877–1963), Italian neuropsychiatrist",
+      "Lucio Bini, his assistant"
+    ],
+    "themes": [
+      "mind",
+      "practice"
+    ],
+    "summary": "Two Rome psychiatrists swapped risky seizure-inducing drugs for an electric current, creating a treatment that was misused, caricatured in film and later shown to work.",
+    "body": [
+      "Psychiatrists in the 1930s induced seizures with camphor or cardiazol, but chemical seizures were unpredictable and the wait for the fit stressful. At the university clinic in Rome, Ugo Cerletti and his assistant Lucio Bini, after animal studies that included watching pigs at the Testaccio slaughterhouse, first applied current to a psychotic patient on 11 April 1938; a full seizure came on 20 April, and he recovered after further treatments. Anesthesia and muscle relaxation followed by the early 1950s. Trials since the 1960s support ECT mainly for severe depression, though misuse and films like *One Flew Over the Cuckoo's Nest* darkened its image."
+    ],
+    "links": [
+      {
+        "to": "lobotomy",
+        "kind": "see-also",
+        "note": "The other physical treatment of 1930s psychiatry."
+      },
+      {
+        "to": "asylum-era",
+        "kind": "built-on",
+        "note": "Born in the age of asylums desperate for treatments."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Electroconvulsive therapy: 80 years old and still going strong",
+        "author": "Gábor Gazdag, Gabor S. Ungvari",
+        "publisher": "World Journal of Psychiatry",
+        "year": 2019,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6323557/",
+        "type": "scholarly",
+        "supports": "Meduna's camphor and cardiazol; unpredictability and stress of chemical seizures; first electrical stimulation 11 April 1938, first full seizure 20 April, patient's recovery after further treatments; anesthesia and relaxation by early 1950s; RCTs from the 1960s and depression as first indication; Cuckoo's Nest and misuse.",
+        "quote": "Although the initial stimulation did not result in an epileptic seizure, stimulation at a higher voltage induced an eighty seconds tonic-clonic seizure on April 20"
+      },
+      {
+        "title": "Ugo Cerletti, Pathologica and electroconvulsive therapy",
+        "author": "Patriarca C, Clerici CA, Zannella S, Fraticelli C",
+        "publisher": "Pathologica",
+        "year": 2021,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8720400/",
+        "type": "scholarly",
+        "supports": "Cerletti and Bini in Rome, April 1938; observations of pigs at the Testaccio slaughterhouse.",
+        "quote": "This led to his tests on humans in April 1938, which were documented by the press at the time"
+      }
+    ],
+    "further": [
+      "scull-2015"
+    ]
+  },
+  {
+    "id": "pap-smear",
+    "title": "The Pap smear",
+    "stream": "bio-public",
+    "tier": 3,
+    "date": {
+      "year": 1943,
+      "display": "1928–1943",
+      "end": 1943
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "Papanicolaou's 1928 talk and his 1941 paper and 1943 monograph with Traut are on record. Babeș is said to have presented similar findings at the same time, so the test's single name hides a shared discovery. Screening programs are credited with a dramatic fall in cervical cancer mortality, but the size of the effect owes much to organized screening and not only to the test, and the sources give no figures."
+    },
+    "place": "New York, USA; Bucharest, Romania",
+    "people": [
+      "George Papanicolaou (1883–1962), Greek-born anatomist at Cornell",
+      "Herbert Traut, gynecologic pathologist and collaborator",
+      "Aurel Babeș, Romanian pathologist"
+    ],
+    "themes": [
+      "public-health",
+      "technology"
+    ],
+    "summary": "In 1928 a Cornell scientist reported that cancer cells could be spotted in a simple smear; skeptics doubted him, but the test became a cornerstone of cervical cancer screening.",
+    "body": [
+      "George Papanicolaou, a Greek-born researcher at Cornell, found while studying vaginal cells that cancer cells could be detected in a simple smear, and presented the technique in 1928 at a conference in Battle Creek, Michigan. Pathologists, who relied on tissue, doubted that shed cells could diagnose cancer, and he neglected the finding for several years. The Romanian pathologist Aurel Babeș presented similar findings at about the same time, sampling the cervix. With the pathologist Herbert Traut he published convincing results in 1941 and a monograph in 1943, and screening programs built on the test contributed to a steep fall in cervical cancer deaths."
+    ],
+    "links": [
+      {
+        "to": "hpv-vaccine",
+        "kind": "led-to",
+        "note": "Prevention moved from finding abnormal cells to stopping the virus behind them."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Dr. George Papanicolaou: Inventor of the Pap Smear and Father of Modern Cytology",
+        "author": "Dugas A, Persaud NA, Ganti L",
+        "publisher": "Cureus",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11698546/",
+        "type": "scholarly",
+        "supports": "Papanicolaou at Cornell; 1928 presentation at Battle Creek; initial skepticism; collaboration with Traut.",
+        "quote": "He presented this technique for the very first time in 1928 at the Third Race Betterment Conference in Battle Creek, Michigan"
+      },
+      {
+        "title": "Evolution of Pathological Techniques for the Screening of Cervical Cancer: A Comprehensive Review",
+        "author": "Chatterjee PB, Hingway SR, Hiwale KM",
+        "publisher": "Cureus",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11188840/",
+        "type": "scholarly",
+        "supports": "Pathologists' objection to diagnosis from shed cells; Babeș's independent smear work; 1941 paper with Traut.",
+        "quote": "Simultaneously, Romanian pathologist, Dr. Aurel A. Babes had also presented similar findings in an article titled"
+      },
+      {
+        "title": "George N. Papanicolaou (1883-1962): The Pioneer of Cytology and Early Cancer Detection",
+        "author": "Avdulla CS, Tachirai N",
+        "publisher": "Cureus",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11463255/",
+        "type": "scholarly",
+        "supports": "1943 monograph with Traut; screening programs and the decline in cervical cancer mortality; life dates.",
+        "quote": "Their joint 1943 publication, Diagnosis of Uterine Cancer by the Vaginal Smear, provided compelling evidence for the Pap test's efficacy"
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "chemotherapy-origins",
+    "title": "Chemotherapy from a war gas",
+    "stream": "bio-drugs",
+    "tier": 2,
+    "date": {
+      "year": 1942,
+      "display": "27 August 1942"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "The patient's hospital chart, rediscovered at Yale and written up in 2011, fixes the first dose to 27 August 1942. The work was secret and the results were published only between 1946 and 1948, and some scholarly accounts still link the birth of chemotherapy to the 1943 Bari disaster. Calling it the first chemotherapy depends on defining the term as a synthetic drug given against a cancer."
+    },
+    "place": "New Haven, Connecticut, USA",
+    "people": [
+      "Alfred Gilman, Yale pharmacologist",
+      "Louis Goodman, Yale physician and pharmacologist",
+      "Gustaf Lindskog, Yale surgeon who treated the first patient",
+      "Thomas Dougherty, Yale anatomist who collaborated on the mouse experiments",
+      "Sidney Farber, Boston pathologist"
+    ],
+    "themes": [
+      "drugs",
+      "technology"
+    ],
+    "summary": "In secret wartime work at Yale, a chemical weapon's cousin became the earliest documented drug to shrink a human cancer, opening the era of chemotherapy.",
+    "body": [
+      "Poison gas, mustard gas prominent among it, caused over a million casualties in the First World War, and in 1919 a physician treating gassed soldiers reported that mustard gas sharply cut their white blood cell counts. During the Second, a US government research agency funded Yale pharmacologists Alfred Gilman and Louis Goodman to study its chemical cousin, nitrogen mustard. In rabbits it depleted white blood cells; in mice with transplanted lymphomas it shrank tumors. On 27 August 1942 the surgeon Gustaf Lindskog gave it to a patient known as JD, a Polish-born factory worker dying of lymphosarcoma. His tumors regressed, then came back; he died on 1 December 1942, his bone marrow wiped out.",
+      "The work was secret, and results were published only between 1946 and 1948. At Bari in December 1943 a ship carrying mustard bombs was hit and almost a thousand exposed people later died of bone-marrow failure. In 1948 Sidney Farber in Boston used aminopterin, a folate antagonist, against childhood leukemia, introducing the first antimetabolite. Early drugs usually gave only transient responses, but the principle was established: chemicals could attack cancer."
+    ],
+    "myth": {
+      "tradition": "Chemotherapy was born when doctors noticed what the 1943 Bari gas disaster did to survivors' blood.",
+      "record": "Yale's first treatment of a cancer patient with nitrogen mustard took place in August 1942, more than a year before the Bari raid."
+    },
+    "links": [
+      {
+        "to": "salvarsan",
+        "kind": "see-also",
+        "note": "An earlier chemical attack on disease, in the same hope of selective drugs."
+      },
+      {
+        "to": "imatinib",
+        "kind": "led-to",
+        "note": "Targeted drugs grew from the chemotherapy tradition."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The birth of chemotherapy at Yale",
+        "author": "Panos Christakis",
+        "publisher": "Yale Journal of Biology and Medicine",
+        "year": 2011,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3117414/",
+        "type": "scholarly",
+        "supports": "OSRD contract; Gilman and Goodman; rabbit and mouse findings; Lindskog; patient JD, Polish-born factory worker with lymphosarcoma; first dose 27 August 1942; tumor regression, resistance, death 1 December 1942 with marrow aplasia; secrecy. Krumbhaar's 1919 report on mustard gas and white cells; more than a million WWI poison-gas casualties; Thomas Dougherty collaborating on the mouse work.",
+        "quote": "At 10 a.m. on August 27, 1942, JD received his first dose of chemotherapy recorded as 0.1 mg/kg of synthetic lymphocidal chemical"
+      },
+      {
+        "title": "Evolution of Cancer Pharmacological Treatments at the Turn of the Third Millennium",
+        "author": "Falzone L, Salomone S, Libra M",
+        "publisher": "Frontiers in Pharmacology",
+        "year": 2018,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6243123/",
+        "type": "scholarly",
+        "supports": "Bari ship disaster in December 1943 and its bone-marrow deaths, which this source presents as part of the discovery story; clinical results published 1946–48.",
+        "quote": "Between 1946 and 1948, the first results of the clinical studies on the therapeutic efficacy of nitrogen mustards were published"
+      },
+      {
+        "title": "Drug Combination in Cancer Treatment—From Cocktails to Conjugated Combinations",
+        "author": "Gilad Y, Gellerman G, Lonard DM, O'Malley BW",
+        "publisher": "Cancers",
+        "year": 2021,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7915944/",
+        "type": "scholarly",
+        "supports": "Transient responses to mustard-gas derivatives; Farber's aminopterin for childhood leukemia in 1948, the first antimetabolite.",
+        "quote": "The first antimetabolite was introduced in 1948 by Sidney Farber and coworkers, who used the folate antagonist aminopterin for the treatment of childhood acute lymphoblastic leukemia"
+      }
+    ],
+    "further": [
+      "mukherjee-2010"
+    ]
+  },
+  {
+    "id": "dialysis",
+    "title": "Kolff's artificial kidney",
+    "stream": "bio-surgery",
+    "tier": 3,
+    "date": {
+      "year": 1943,
+      "display": "1943–1945",
+      "end": 1945
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "Kolff's patient records, published and recently retold from his archive, date the first treatments to 1943 and the first survivor to September 1945. He built on earlier attempts, including a human dialysis by Georg Haas in 1924."
+    },
+    "place": "Kampen, the Netherlands",
+    "people": [
+      "Willem Kolff (1911–2009), Dutch physician",
+      "Sofia Schafstadt, the first survivor",
+      "Belding Scribner, Seattle nephrologist",
+      "Wayne Quinton, Seattle engineer"
+    ],
+    "themes": [
+      "technology",
+      "ethics"
+    ],
+    "summary": "In occupied Holland a young doctor washed blood through sausage casing; sixteen patients died before the seventeenth woke from a uremic coma.",
+    "body": [
+      "In the German-occupied Netherlands, Willem Kolff built a rotating-drum artificial kidney at the small hospital in Kampen, using cellophane sausage casing as the filter and scavenged parts, among them aluminum from a downed plane. He began treating patients in 1943; 16 died before the 17th, Sofia Schafstadt, came out of a uremic coma and recovered on 18 September 1945. Dialysis for permanent kidney failure began in Seattle in 1960, when Belding Scribner and Wayne Quinton devised a reusable shunt, and a lay committee chose who got the scarce treatment."
+    ],
+    "myth": {
+      "tradition": "Kolff invented dialysis.",
+      "record": "John Abel's team dialyzed animals from 1913 and Georg Haas dialyzed a human in 1924. Kolff's team produced what Wieringa and colleagues call the first patient anywhere to survive uremic coma from acute kidney failure thanks to dialysis."
+    },
+    "links": [
+      {
+        "to": "kidney-transplant",
+        "kind": "see-also",
+        "note": "The other answer to kidney failure, a decade later."
+      },
+      {
+        "to": "intensive-care",
+        "kind": "see-also",
+        "note": "Machines that stand in for failing organs."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Father of Artificial Organs - The story of medical pioneer Willem J. Kolff (1911-2009)",
+        "author": "Wieringa FP, Søndergaard H, Ash S",
+        "publisher": "Artificial Organs",
+        "year": 2021,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8518394/",
+        "type": "scholarly",
+        "supports": "Kampen treatments from March 1943; cellophane sausage skin and scavenged parts; 16 deaths before patient 17, Sofia Schafstadt, recovered on 18 September 1945; Scribner and Quinton's 1960 shunt. Source calls patient 17 the first patient anywhere in the world to survive acute uremic coma through Kolff's dialysis.",
+        "quote": "Patient 17, Mrs Sofia Schafstadt recovered on September 18, 1945"
+      },
+      {
+        "title": "Dr. Willem Kolff: The Father of the Artificial Kidney",
+        "author": "Sharma N, Khav E, Elahmadi A, Ong J, Parag S",
+        "publisher": "Cureus",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11466315/",
+        "type": "scholarly",
+        "supports": "Kolff moved to Kampen during the occupation; cellophane sausage casing; aluminum from a downed German plane; Abel 1913 and Haas 1924.",
+        "quote": "Kolff started his first experiments on blood washing through the wall of inexpensive cellophane"
+      },
+      {
+        "title": "Harveian Oration 2025: Nephrology 1950-2000: An exciting journey from birth to maturity",
+        "author": "John Feehally",
+        "publisher": "Clinical Medicine",
+        "year": 2026,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12830101/",
+        "type": "scholarly",
+        "supports": "Scribner first treated end-stage kidney failure with dialysis in Seattle in 1960; Seattle's lay selection committee.",
+        "quote": "Seattle had an unsatisfactory experiment in which a lay committee decided which of the many desperate patients were given dialysis"
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "blalock-taussig-thomas",
+    "title": "The blue baby operation",
+    "stream": "bio-surgery",
+    "tier": 3,
+    "date": {
+      "year": 1944,
+      "display": "29 November 1944"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "The operation was reported by Blalock and Taussig in JAMA about six months later and is well documented at Johns Hopkins; most accounts give 29 November 1944, though one recent article says 9 November. Thomas's central role is described in recent histories but went unacknowledged in the operation's name for decades."
+    },
+    "place": "Johns Hopkins Hospital, Baltimore, USA",
+    "people": [
+      "Helen Taussig (1898–1986), pediatric cardiologist who proposed the operation",
+      "Alfred Blalock (1899–1964), surgeon",
+      "Vivien Thomas (born 1910), surgical technician who developed it in dogs",
+      "Eileen Saxon, the first patient"
+    ],
+    "themes": [
+      "surgery"
+    ],
+    "summary": "A cardiologist's idea, a Black technician's laboratory work and a surgeon's hands produced the first effective treatment for cyanotic 'blue babies'.",
+    "body": [
+      "Children born with tetralogy of Fallot turn blue because too little blood reaches their lungs. The cardiologist Helen Taussig proposed rerouting an artery to fix that, and at Johns Hopkins Vivien Thomas, a Black technician paid as a janitor, spent a year working out the operation on almost 200 dogs. On 29 November 1944 Alfred Blalock joined the subclavian artery of 15-month-old Eileen Saxon to her pulmonary artery, with Thomas beside him guiding the procedure. Her color improved, but after two months the cyanosis returned. Thomas's name was first proposed for the shunt only in 2003."
+    ],
+    "links": [
+      {
+        "to": "heart-lung-machine",
+        "kind": "led-to",
+        "note": "Palliation came first; open repair needed the heart-lung machine."
+      },
+      {
+        "to": "cardiac-catheter",
+        "kind": "see-also",
+        "note": "Catheter studies soon refined diagnosis of the same defects."
+      }
+    ],
+    "sources": [
+      {
+        "title": "PDA Stenting for Ductal-Dependent Cyanotic Congenital Heart Disease: History and View From 10,000 Feet",
+        "author": "John W. Moore",
+        "publisher": "Pediatric Cardiology",
+        "year": 2026,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13498521/",
+        "type": "scholarly",
+        "supports": "Date 29 November 1944; Thomas paid as a janitor; almost 200 dogs; Thomas guided Blalock; patient aged 15 months, cyanosis returned after two months; eponym change proposed by Brogan in 2003; Thomas born 1910; Taussig, Blalock and Thomas developed the first effective treatment.",
+        "quote": "The first human procedure was performed by Blalock and his surgical team on November 29, 1944"
+      },
+      {
+        "title": "Helen B. Taussig (1898-1986)",
+        "author": "J. Van Robays",
+        "publisher": "Facts, Views & Vision in ObGyn",
+        "year": 2016,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5172576/",
+        "type": "scholarly",
+        "supports": "Tetralogy of Fallot and the narrow pulmonary artery; subclavian-to-pulmonary shunt tested in dogs with Thomas; the patient's name, Eileen Saxon (this article dates the operation to 9 November).",
+        "quote": "At the age of 15 months, little Eileen Saxon weighed only 5 kg"
+      },
+      {
+        "title": "The Heart Club: How Cyanotic Heart Disease Was Reframed",
+        "author": "Tom Treasure",
+        "publisher": "Diseases",
+        "year": 2017,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5750533/",
+        "type": "scholarly",
+        "supports": "Division of credit: Taussig's idea, Thomas's laboratory work, Blalock's clinical operation.",
+        "quote": "This was the brain child of Helen Taussig, worked out in the laboratory by Vivien Thomas, and brought into clinical practice by Alfred Blalock"
+      }
+    ],
+    "further": []
+  }
+]

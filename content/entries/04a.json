@@ -1,0 +1,526 @@
+[
+  {
+    "id": "oracle-bone-medicine",
+    "title": "Illness on the oracle bones",
+    "stream": "east-asia",
+    "tier": 3,
+    "date": {
+      "year": -1200,
+      "earliest": -1254,
+      "latest": -1050,
+      "display": "c. 1250–1050 BCE"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "agreed",
+      "note": "The inscriptions belong to the Late Shang court at Anyang, conventionally dated c. 1250–1050 BCE; the toothache series falls in King Wu Ding's reign, whose exact years are themselves estimates. Readings of some body-part characters are debated, and an inscription cannot be diagnosed: the skeletal evidence only shows what might have caused a toothache."
+    },
+    "place": "Anyang (Yinxu), Henan, China",
+    "people": ["Wu Ding (reigned c. 1254–1197 BCE), Shang king whose ailments were divined"],
+    "themes": ["theory", "practice"],
+    "summary": "Some of China's oldest writing is about a king's toothache: Shang diviners cracked bones to learn which dead ancestor was causing it.",
+    "body": [
+      "Some of the oldest Chinese writing is about being ill. On turtle shells and animal shoulder blades, diviners at the Late Shang court (c. 1250–1050 BCE) put questions to the royal ancestors about \"affliction\" in the bodies of the king and his family: head, eyes, ears, teeth, abdomen and more. When King Wu Ding had a sick tooth, a series of divinations tried to identify which dead relative was causing it, so that the right one could be appeased with sacrifice. The bones record exorcism and offerings, not drugs. Skeletons from Anyang show why teeth mattered: cavities, abscesses and gum disease were widespread."
+    ],
+    "links": [
+      { "to": "mawangdui-manuscripts", "kind": "see-also", "note": "A thousand years later, recipes and cautery appear beside spells." }
+    ],
+    "sources": [
+      {
+        "title": "From Oracle to Human Bones: Documenting Health in Late Shang, China",
+        "publisher": "Institute for the Study of the Ancient World, New York University (ISAW Newsletter 23)",
+        "year": 2019,
+        "url": "https://isaw.nyu.edu/publications/newsletters/023/late-shang-health",
+        "type": "institutional",
+        "supports": "Late Shang dates (c. 1250–1050 BCE); divinations to find which ancestor caused Wu Ding's sick tooth; skeletal evidence of caries, abscesses and periodontal disease at Yinxu.",
+        "quote": "These inscriptions include health-related issues, such as a series of divinations seeking to identify which ancestor was causing King Wu Ding's sick tooth in order to provide a conciliatory sacrificial offering"
+      },
+      {
+        "title": "Medicine and Healing in Ancient East Asia (Elements in Ancient East Asia)",
+        "author": "Constance A. Cook",
+        "publisher": "Cambridge University Press",
+        "year": 2023,
+        "url": "https://www.cambridge.org/core/product/63BDA5E61EEE44FE0AC23712789C9321/core-reader",
+        "type": "scholarly",
+        "supports": "Oracle bone inscriptions record 'affliction' in body parts including teeth; ancestors seen as source of affliction; only exorcism and sacrifice documented.",
+        "quote": "unlike Qin and Han bamboo and silk texts, OBI only document exorcism and sacrifice rituals to counter the effect of external influences, natural and man-made, on the king's social and personal body"
+      },
+      {
+        "title": "Shang Religion (History G380 class text readings)",
+        "author": "Robert Eno",
+        "publisher": "Indiana University",
+        "year": 2010,
+        "url": "https://scholarworks.iu.edu/iuswrrest/api/core/bitstreams/70153325-0848-44d5-9b08-9f1b71055d72/content",
+        "type": "scholarly",
+        "supports": "Translated inscriptions on the king's toothache and stomach ailment attributed to ancestors; Wu Ding assumed supernatural, ancestral cause.",
+        "quote": "it did not seem to have occurred to the superstitious king Wu-ding that his toothache could have come from natural causes"
+      }
+    ],
+    "further": ["unschuld-1985"],
+    "image": {
+      "commons": "File:Shang dynasty inscribed scapula.jpg",
+      "alt": "A flat, pale animal shoulder blade covered in columns of incised archaic Chinese characters.",
+      "caption": "Oracle bone of the kind used for the divinations described here: a shoulder blade inscribed with divinations by the diviner Zheng, from the reign of King Wu Ding, Late Shang dynasty, c. 1200 BCE."
+    }
+  },
+  {
+    "id": "mawangdui-manuscripts",
+    "title": "The Mawangdui medical manuscripts",
+    "stream": "east-asia",
+    "tier": 2,
+    "date": {
+      "year": -168,
+      "display": "168 BCE (burial)"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "The burial date of 168 BCE is firm, but it is only the latest possible date for the texts: their script suggests many were copied in the Qin dynasty (221–206 BCE), and some works may be older still. Counts of texts and recipes vary slightly with how fragments are grouped."
+    },
+    "place": "Mawangdui, Changsha, Hunan, China",
+    "people": ["Li Xi (d. 168 BCE), nobleman, probably the occupant of tomb 3"],
+    "themes": ["texts", "theory", "practice"],
+    "summary": "A lacquer box buried in 168 BCE held medicine before acupuncture: eleven body vessels, burning moxa, and hundreds of recipes mixed with spells.",
+    "body": [
+      "In 168 BCE a nobleman in his early thirties, probably Li Xi, son of Li Cang, a local ruler of the Changsha kingdom, was buried at Mawangdui in what is now Changsha, Hunan, with a lacquer box of about thirty manuscripts on silk and bamboo. When tomb 3 was opened in the early 1970s, sixteen of them turned out to be medical. Along with texts from a slightly earlier tomb at Zhangjiashan (sealed 186 BCE), they transformed what historians knew about early Chinese medicine.",
+      "The manuscripts describe eleven \"vessels\" running through the body, each tied to its own ailments, and treat them by cauterizing with burning moxa. There are no acupuncture points and no needling, and not yet the twelve channels of the later *Inner Classic*. The longest silk text, *Recipes for Fifty-Two Ailments*, holds some 283 formulas for 103 diseases, with incantations in which the healer threatens harmful spirits with a beating; the manuscripts also mention lancing swellings, but only cautery for the vessels. Drugs, cautery and magic sat side by side."
+    ],
+    "links": [
+      { "to": "huangdi-neijing", "kind": "led-to", "note": "Its eleven vessels grew into the twelve channels of the Inner Classic." },
+      { "to": "oracle-bone-medicine", "kind": "see-also", "note": "Ancestors and exorcism, a millennium earlier." }
+    ],
+    "sources": [
+      {
+        "title": "Medicine and Healing in Ancient East Asia (Elements in Ancient East Asia)",
+        "author": "Constance A. Cook",
+        "publisher": "Cambridge University Press",
+        "year": 2023,
+        "url": "https://www.cambridge.org/core/product/63BDA5E61EEE44FE0AC23712789C9321/core-reader",
+        "type": "scholarly",
+        "supports": "Tomb 3 of Li Cang's family; occupant d. 168 BCE; about thirty manuscripts, sixteen medical; eleven vessels, not twelve; no acumoxa, only cautery and lancing; spells in the Recipes; discovery in the early 1970s; Zhangjiashan parallel.",
+        "quote": "only numbering eleven vessels and not the twelve recorded in the HDNJ ). There is no evidence of acumoxa"
+      },
+      {
+        "title": "Moxibustion in Early Chinese Medicine and Its Relation to the Origin of Meridians: A Study on the Unearthed Literatures",
+        "author": "Huang Chang, Liang Jiankang, Han Li, Liu Juntian, Yu Mengyun, Zhao Baixiao",
+        "publisher": "Evidence-Based Complementary and Alternative Medicine (via Europe PMC)",
+        "year": 2017,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5337347/",
+        "type": "scholarly",
+        "supports": "Burial dated 168 BC; the Recipes for Fifty-Two Ailments contains 103 diseases and 283 formulas; the eleven vessels have no acupoints.",
+        "quote": "It contains about 14,700 words (maximum number of words in all silk books from Mawangdui tomb), 103 diseases, 283 formulas, and eight moxibustion prescriptions"
+      },
+      {
+        "title": "Introducing the *Wu ze you xing tu Manuscript from Mawangdui",
+        "publisher": "Early China (Cambridge University Press)",
+        "url": "https://www.cambridge.org/core/journals/early-china/article/introducing-the-wu-ze-you-xing-tu-manuscript-from-mawangdui/8B31FB01F5E501DACE140F8ABEACF8AB/share/62fdb2249a2c5f859385f713d686eb3c72914d16",
+        "type": "scholarly",
+        "supports": "Occupant probably Li Xi (d. 168 BCE), in his early thirties; 168 BCE is the terminus ante quem; many silk texts copied in the Qin dynasty.",
+        "quote": "Many of the Mawangdui silk texts were evidently copied during the Qin dynasty (221–206 b.c.e.) judging by their script style"
+      }
+    ],
+    "further": ["unschuld-1985"],
+    "image": {
+      "commons": "File:Daoyin tu - chart for leading and guiding people in exercise Wellcome L0036007.jpg",
+      "alt": "Rows of small painted human figures in different exercise postures, some with arms raised or bending.",
+      "caption": "A modern reconstruction of the *Daoyin tu* (Guiding and Pulling Chart), a silk painting of exercise postures found with the medical manuscripts in Mawangdui tomb 3, sealed 168 BCE. The damaged original is in the Hunan Provincial Museum, Changsha."
+    }
+  },
+  {
+    "id": "huangdi-neijing",
+    "title": "The Yellow Emperor's Inner Classic",
+    "stream": "east-asia",
+    "tier": 1,
+    "date": {
+      "year": -100,
+      "earliest": -300,
+      "latest": 220,
+      "display": "c. 3rd century BCE – 2nd century CE (core); reshaped to the 11th century",
+      "traditional": {
+        "year": -2700,
+        "display": "c. 2700 BCE",
+        "note": "Popular accounts date the book to the age of the Yellow Emperor, around 2700 BCE; the figure is legend, not a date for any text."
+      }
+    },
+    "confidence": {
+      "date": "disputed",
+      "claim": "agreed",
+      "note": "A Chinese national nomination to UNESCO dates the core to the Warring States period; Unschuld places its origins in short essays of the final centuries BCE; others argue the received text is largely Tang material edited in the Song. All agree it is anonymous, composite and heavily re-edited, and that its attribution to the Yellow Emperor is legend."
+    },
+    "place": "China",
+    "people": ["Huangdi, the Yellow Emperor, legendary sage-ruler to whom it is attributed", "Paul U. Unschuld, modern historian and translator of the Suwen and Lingshu"],
+    "themes": ["texts", "theory"],
+    "summary": "The founding classic of Chinese medicine is credited to a legendary emperor. In fact it was written by many hands and reworked for a thousand years.",
+    "body": [
+      "The *Huangdi neijing*, the *Inner Classic of the Yellow Emperor*, is treated as the founding text of Chinese medicine. It survives as two books: the *Suwen* (*Plain Questions*), mostly on cosmological theory, and the *Lingshu* (*Divine Pivot*), mostly on needling. Knowledge passes in question and answer, with the Yellow Emperor as the ruler who asks and sage advisers such as Qi Bo as the experts who explain.",
+      "Its body is a web of correspondences. Health depends on the proper flow of *qi* along channels linked to the organs, in step with yin and yang, the five phases, the seasons and the hours. Illness comes when \"perverse *qi*\" such as wind, heat or cold invades. Treatment works on twelve channels with needles and moxa, alongside advice on diet and on living in harmony with the surroundings.",
+      "When was it written? Tradition credits the Yellow Emperor himself. China's nomination of a 1339 printed edition to UNESCO's Memory of the World Register dates the core to the Warring States period (475–221 BCE), with Qin and Han additions. Paul Unschuld traces the *Suwen* to many short essays written in the final centuries BCE to explain health through the newly developed vessel theory. Manuscripts buried at Mawangdui in 168 BCE know only eleven vessels and no needling, which suggests the system was still being assembled. A *Huangdi neijing* is listed in the Han imperial library catalogue, but the texts read today were rearranged and expanded for a millennium; the *Suwen* as it is known today emerged in the 11th century, and one recent survey reports scholars suggesting that it is mostly Tang material edited by Song scholars.",
+      "Its prestige ran ahead of its use. Unschuld argues that needling and the yin-yang and five-phase doctrines behind it remained a minority interest, kept alive by a few of the elite, until the 11th and 12th centuries, while drug remedies were the mainstay of everyday practice. That prestige gives the question of its age real weight."
+    ],
+    "myth": {
+      "tradition": "The Inner Classic preserves the teachings of the Yellow Emperor, a sage-ruler of remote antiquity, and is the oldest Chinese medical book.",
+      "record": "Huangdi is a legendary figure to whom Han-era writers attached many kinds of texts to lend them authority. The work is anonymous and composite, and medical manuscripts from tombs sealed in 186 and 168 BCE are older than any surviving copy of it."
+    },
+    "links": [
+      { "to": "mawangdui-manuscripts", "kind": "built-on", "note": "Earlier vessel texts with eleven channels and no needles." },
+      { "to": "shennong-bencao", "kind": "see-also", "note": "The drug tradition, credited to another legendary sage." },
+      { "to": "bronze-acupuncture-man", "kind": "led-to", "note": "Song efforts to standardize its needling points." },
+      { "to": "tcm-standardised", "kind": "led-to", "note": "Made the founding text of modern TCM." }
+    ],
+    "sources": [
+      {
+        "title": "Memory of the World Register nomination: Huang Di Nei Jing (Yellow Emperor's Inner Canon), Ref N° 2010-15",
+        "publisher": "UNESCO (nominated by the National Library of China)",
+        "url": "https://media.unesco.org/sites/default/files/webform/mow001/china_huan_di_nei.pdf",
+        "type": "institutional",
+        "supports": "Two parts, Suwen and Lingshu; Warring States dating with Qin and Han additions (one side of the dating debate); yin-yang, qi and five phases; title listed in Han bibliographies; the 1339 printed edition.",
+        "quote": "The edition nominated for inscription in the Memory of the World Register was carved and printed in 1339 by Hu's Gulin Sanctum using the woodblock printing technique"
+      },
+      {
+        "title": "Huang Di Nei Jing Su Wen: Nature, Knowledge, Imagery in an Ancient Chinese Medical Text (book description)",
+        "author": "Paul U. Unschuld",
+        "publisher": "University of California Press",
+        "year": 2003,
+        "url": "https://www.ucpress.edu/books/huang-di-nei-jing-su-wen-2/pdf",
+        "type": "scholarly",
+        "supports": "Origins of the Suwen in short essays of the final centuries BCE based on new vessel theory; text as known today emerged in the 11th century.",
+        "quote": "Unschuld traces the history of the Su wen to its origins in the final centuries B.C.E., when numerous authors wrote short medical essays"
+      },
+      {
+        "title": "Medicine and Healing in Ancient East Asia (Elements in Ancient East Asia)",
+        "author": "Constance A. Cook",
+        "publisher": "Cambridge University Press",
+        "year": 2023,
+        "url": "https://www.cambridge.org/core/product/63BDA5E61EEE44FE0AC23712789C9321/core-reader",
+        "type": "scholarly",
+        "supports": "Suwen and Lingshu; traditional attribution to a prehistoric sage versus the view that it is mostly Tang material edited in the Song; question-and-answer format with Huangdi and Qi Bo; perverse qi (wind, heat, cold); Han tendency to attach texts to legendary sages; Zhangjiashan tomb of 186 BCE.",
+        "quote": "scholars now suggest it was mostly Tang (618–907 ce ) material edited by Song period literati (960–1279 ce ) and may or may not preserve textual threads traceable back to the early imperial era"
+      },
+      {
+        "title": "Ben Cao Gang Mu, Volume VI: Prolegomena (excerpt)",
+        "author": "Paul U. Unschuld",
+        "publisher": "University of California Press",
+        "url": "https://content.ucpress.edu/title/9780520395176/bencaogangmuvolumeviexcerpt.pdf",
+        "type": "scholarly",
+        "supports": "Needling therapy and the Yellow Thearch classics remained a minority, elite tradition until the 11th/12th century; drug therapy was the mainstay of practice.",
+        "quote": "Needling therapy, or so-called acupuncture, remained an isolated facet of Chinese medical culture until the 11th/12th century"
+      },
+      {
+        "title": "Moxibustion in Early Chinese Medicine and Its Relation to the Origin of Meridians: A Study on the Unearthed Literatures",
+        "author": "Huang Chang et al.",
+        "publisher": "Evidence-Based Complementary and Alternative Medicine (via Europe PMC)",
+        "year": 2017,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5337347/",
+        "type": "scholarly",
+        "supports": "Eleven vessels in the Mawangdui texts versus twelve meridians in the Inner Classic.",
+        "quote": "eleven vessels were presented in detail, but contemporary meridian theory that came out from Yellow Emperor's Classic of Internal Medicine has twelve meridians"
+      },
+      {
+        "title": "Dentistry and dental care in antiquity: part 1 - prehistory, Mesopotamia, Israel, Etruria and the Far East",
+        "author": "R. Forshaw",
+        "publisher": "British Dental Journal",
+        "year": 2025,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12716987/",
+        "type": "scholarly",
+        "supports": "Popular dating of the Inner Classic to c. 2700 BCE and its attribution to the legendary Yellow Emperor (the traditional date shown on the map).",
+        "quote": "conventionally dated to circa 2700 BC and variously attributed either to Huang-Ti, the legendary Yellow Emperor, or to later compilers"
+      }
+    ],
+    "further": ["unschuld-1985", "porter-1997"],
+    "image": {
+      "commons": "File:The Yellow Emperor transmits medical books to Lei Gong Wellcome L0039956.jpg",
+      "alt": "A Ming woodcut of a seated emperor under a canopy and pine tree, officials standing at his side, with a kneeling man before him.",
+      "caption": "The Yellow Emperor presenting medical books to his minister Lei Gong, a scene taken from a *Suwen* passage; woodcut from a 1591 Ming edition of *Buyi Lei Gong paozhi bianlan*. It is a Ming artist's picture of a legendary ruler, not a likeness."
+    }
+  },
+  {
+    "id": "shennong-bencao",
+    "title": "The Divine Farmer's Materia Medica",
+    "stream": "east-asia",
+    "tier": 2,
+    "date": {
+      "year": 100,
+      "earliest": -100,
+      "latest": 220,
+      "display": "c. 1st century BCE – 2nd century CE",
+      "traditional": {
+        "year": -2737,
+        "display": "c. 2737 BCE",
+        "note": "Tradition places the legendary Divine Farmer in remote antiquity; some modern accounts give the date 2737 BCE for his reign and for the origin of the book."
+      }
+    },
+    "confidence": {
+      "date": "uncertain",
+      "claim": "agreed",
+      "note": "No dated copy survives: Unschuld places its writing between the 1st century BCE and the 1st century CE, while a Chinese Medicine survey says Eastern Han (25–220 CE). The original is lost, so its contents are known only through Tao Hongjing's later edition and modern reconstructions. The 2737 BCE traditional date is a modern gloss on legend."
+    },
+    "place": "China",
+    "people": ["Shennong, the Divine Farmer, legendary culture hero to whom it is attributed", "Tao Hongjing (452/456–536), Daoist scholar who edited and expanded it"],
+    "themes": ["drugs", "texts"],
+    "summary": "China's earliest known book of drugs sorted 365 substances into rulers, officials and helpers. It was named for a legendary sage said to have tasted every plant.",
+    "body": [
+      "Legend says Shennong, the Divine Farmer, pitied human suffering and tasted every kind of plant, meeting a hundred poisons a day. The book that bears his name is far younger and anonymous. Paul Unschuld says historians agree it was written between the 1st century BCE and the 1st century CE; others place it in the Eastern Han (25–220 CE). It is the earliest known Chinese *bencao*, or materia medica, a book that describes drugs one by one instead of listing mixed recipes.",
+      "It covers 365 substances, the number of days in a year, for reasons no one has explained. Most are plants. They are sorted into three ranks that mirror the imperial court. Upper-rank \"rulers\" were nonpoisonous and helped prolong life; lower-rank \"helpers\" and \"agents\" carried poison and drove out disease; middle-rank \"officials\" sat between. Whether a drug \"has poison\" became a basic question in Chinese pharmacy.",
+      "The original is lost. Around 500 CE the Daoist scholar Tao Hongjing kept its three-part structure, added 365 further drugs, and launched the main line of Chinese drug books. The versions read today are reconstructions made by Chinese and Japanese scholars since the 17th century."
+    ],
+    "myth": {
+      "tradition": "The sage-emperor Shennong tasted hundreds of plants in remote antiquity and set down what he learned in this book.",
+      "record": "Shennong is a legendary culture hero. The text is anonymous and was compiled in the Han period; tradition attached his name to give it authority."
+    },
+    "links": [
+      { "to": "huangdi-neijing", "kind": "see-also", "note": "The needling tradition, credited to the Yellow Emperor." },
+      { "to": "tang-pharmacopoeia", "kind": "led-to", "note": "Later state-sponsored revision of the tradition Tao Hongjing expanded." },
+      { "to": "bencao-gangmu", "kind": "led-to", "note": "Li Shizhen's compendium crowned the tradition it began." }
+    ],
+    "sources": [
+      {
+        "title": "Ben Cao Gang Mu, Volume VI: Prolegomena (excerpt)",
+        "author": "Paul U. Unschuld",
+        "publisher": "University of California Press",
+        "url": "https://content.ucpress.edu/title/9780520395176/bencaogangmuvolumeviexcerpt.pdf",
+        "type": "scholarly",
+        "supports": "Earliest known materia medica; written between the 1st century BCE and 1st century CE; anonymous authors and legendary attribution; Shennong tasting herbs; three ranks and poison; 365 substances, mostly herbal; Tao Hongjing added 365; modern reconstructions since the 17th century.",
+        "quote": "The earliest of these works known is the Shen nong ben cao, Shen nong's materia medica. Historians agree that it was written at some time between the 1st century BCE and the 1st century CE"
+      },
+      {
+        "title": "A concise classification of bencao (materia medica)",
+        "author": "Zhao Zhongzhen, Guo Ping, Eric Brand",
+        "publisher": "Chinese Medicine (BMC), via Europe PMC",
+        "year": 2018,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5894148/",
+        "type": "scholarly",
+        "supports": "Eastern Han dating; 365 medicinals in three grades by effect and toxicity; Tao Hongjing added 365 more (730 in all).",
+        "quote": "This text records 365 medicinals and summarizes medicinal experiences up to the Han Dynasty. Medicinals are classified into three categories (high-grade, medium-grade and low-grade) based on their medicinal effects and toxicity"
+      },
+      {
+        "title": "Medicine and Healing in Ancient East Asia (Elements in Ancient East Asia)",
+        "author": "Constance A. Cook",
+        "publisher": "Cambridge University Press",
+        "year": 2023,
+        "url": "https://www.cambridge.org/core/product/63BDA5E61EEE44FE0AC23712789C9321/core-reader",
+        "type": "scholarly",
+        "supports": "Shennong as a Han-era sage linked to herbal medicine; the tradition led Tao Hongjing to formalize materia medica; 3rd-century account of Shennong tasting plants.",
+        "quote": "the Shennong tradition inspired collections of pharmaceutical recipes and led the occult alchemist Tao Hongjing"
+      },
+      {
+        "title": "Cannabis sativa: origin and history, glandular trichome development, and cannabinoid biosynthesis",
+        "author": "Xie Z, Mi Y, Kong L et al.",
+        "publisher": "Horticulture Research",
+        "year": 2023,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10485653/",
+        "type": "scholarly",
+        "supports": "Only for the traditional date: the book is said to originate from the legendary emperor (given as 2737 BCE). The article's own claim that the book was assembled by 221 BCE is not adopted, because Unschuld and others date it later.",
+        "quote": "said to have originated from the emperor Chen Nung (2737 BCE)"
+      }
+    ],
+    "further": ["unschuld-1985"],
+    "image": {
+      "commons": "File:Chinese woodcut, Famous medical figures; Shen Nong Wellcome L0039313.jpg",
+      "alt": "A woodcut portrait of the legendary Divine Farmer, Shen Nong.",
+      "caption": "Shen Nong, the Divine Farmer, in a woodcut from a Wanli-era (1573–1620) Ming edition of *Bencao mengquan*. It is a later artist's picture of a legendary figure, not a likeness."
+    }
+  },
+  {
+    "id": "zhang-zhongjing",
+    "title": "Zhang Zhongjing's Treatise on Cold Damage",
+    "stream": "east-asia",
+    "tier": 2,
+    "date": {
+      "year": 205,
+      "earliest": 180,
+      "latest": 220,
+      "display": "c. 200 CE"
+    },
+    "confidence": {
+      "date": "uncertain",
+      "claim": "agreed",
+      "note": "The date is an anchor inside Zhang's approximate lifetime (c. 142–220, with a question mark in the scholarship), not a dated event; no manuscript of his own survives. That he wrote a treatise later rebuilt by Wang Shuhe is accepted, but how closely the transmitted Shanghan lun matches his original is uncertain, since it passed through 3rd-century reconstruction and 11th-century editing."
+    },
+    "place": "China (Eastern Han)",
+    "people": ["Zhang Ji, known as Zhang Zhongjing (c. 142–220?), physician and author", "Wang Shuhe (210–285), physician who reconstructed the text", "Lin Yi (fl. 1057–1068), Song-dynasty editor"],
+    "themes": ["texts", "practice", "drugs"],
+    "summary": "A Han physician's book on fevers was lost, rebuilt, and edited again, yet made its author one of the most revered names in Chinese medicine.",
+    "body": [
+      "Around the turn of the 3rd century CE (his own dates, c. 142–220, carry a question mark) a physician named Zhang Ji, better known as Zhang Zhongjing, wrote the *Shanghan zabing lun*, a treatise on \"cold damage\" and miscellaneous disorders. Cold damage belonged to a newer way of thinking about illness: disease caused by harmful external *qi*, such as wind, heat or cold, entering the body. Tomb manuscripts show that treating ailments with recipes was already an old practice in his day.",
+      "His book did not survive intact. In the 3rd century the physician Wang Shuhe rebuilt it from what remained as two works: the *Shanghan lun* (*Treatise on Cold Damage*) and the *Jingui yaolüe* (*Essential Prescriptions of the Golden Cabinet*). The versions read today owe much to the 11th-century Song editor Lin Yi, and some later formularies credited to Zhang were Song reinventions. Even so, Zhang is revered as one of the great physicians of the Chinese tradition, sometimes called the Hippocrates of China, and his book is described as profoundly influential."
+    ],
+    "links": [
+      { "to": "huangdi-neijing", "kind": "see-also", "note": "The theoretical classic beside Zhang's practical one." },
+      { "to": "hua-tuo", "kind": "see-also", "note": "His famous contemporary, remembered for surgery." }
+    ],
+    "sources": [
+      {
+        "title": "Medicine and Healing in Ancient East Asia (Elements in Ancient East Asia)",
+        "author": "Constance A. Cook",
+        "publisher": "Cambridge University Press",
+        "year": 2023,
+        "url": "https://www.cambridge.org/core/product/63BDA5E61EEE44FE0AC23712789C9321/core-reader",
+        "type": "scholarly",
+        "supports": "Zhang Ji's dates; the original was lost and reconstructed by Wang Shuhe into two texts; perverse qi such as wind, heat and cold; recipe traditions behind his work; Song reinventions attributed to Zhang.",
+        "quote": "The Shanghan zabing lun written by Zhang Ji (142–220?; also known as Zhang Zhongjing) had been lost but was later reconstructed by Wang Shuhe (210–85; also known as Wang Xi"
+      },
+      {
+        "title": "Chinese Traditional Medicine: Emperors and Physicians",
+        "publisher": "U.S. National Library of Medicine",
+        "url": "https://www.nlm.nih.gov/hmd/topics/chinese-traditional/index.html",
+        "type": "institutional",
+        "supports": "Zhang Zhongjing's reputation as the 'Hippocrates of China' and the influence of the Shang han lun.",
+        "quote": "known as the Hippocrates of China, made profound influences on Chinese medicine, in particularly his writing of"
+      },
+      {
+        "title": "Catalogue entry for a Dunhuang medical manuscript (Discourse on Febrile Diseases)",
+        "publisher": "International Dunhuang Project, British Library",
+        "url": "https://data.idp.bl.uk//mediaLib/t/7/9/s0agj728spu9h4leehx6e2_/catalogue_2431_3.html",
+        "type": "institutional",
+        "supports": "The Shang han lun as transmitted was edited by Lin Yi (fl. 1057–68) from the Shang han za bing lun.",
+        "quote": "two additional medical texts edited by Lin Yi (fl. 1057-68), based on the 'Shang han za bing lun'"
+      }
+    ],
+    "further": ["unschuld-1985"],
+    "image": {
+      "commons": "File:Chinese woodcut, Famous medical figures; Zhang Zhongjing Wellcome L0039319.jpg",
+      "alt": "A woodcut portrait of the physician Zhang Zhongjing.",
+      "caption": "Zhang Zhongjing in a woodcut from a Wanli-era (1573–1620) Ming edition of *Bencao mengquan*. It is a later artist's portrait of a physician who lived some 1,400 years earlier, not a likeness."
+    }
+  },
+  {
+    "id": "hua-tuo",
+    "title": "Hua Tuo and the legend of mafeisan",
+    "stream": "east-asia",
+    "tier": 2,
+    "date": {
+      "year": 200,
+      "earliest": 160,
+      "latest": 208,
+      "display": "late 2nd – early 3rd century CE"
+    },
+    "confidence": {
+      "date": "uncertain",
+      "claim": "disputed",
+      "note": "Hua Tuo is usually dated c. 140–208 CE, but everything known about his surgery comes from histories written decades to two centuries after his death. The formula of mafeisan is lost, and whether it could have produced true surgical anesthesia is debated."
+    },
+    "place": "Eastern China (late Eastern Han)",
+    "people": ["Hua Tuo (c. 140–208), physician and surgeon"],
+    "themes": ["surgery", "drugs"],
+    "summary": "Two Chinese histories say a 2nd-century surgeon numbed patients with a drug powder before operating. The recipe is lost, and the story cannot be checked.",
+    "body": [
+      "Hua Tuo, who died in 208 CE, is the ancient Chinese healer best remembered for surgery. Two histories, the *Records of the Three Kingdoms* (3rd century) and the *Book of the Later Han* (5th century), say he gave patients an anesthetic called *mafeisan* and then operated on them; tradition adds that he cut into the internal organs. If so, he was performing surgery under anesthesia some 1,600 years before ether.",
+      "How much of this is history is hard to say. The accounts were written long after his death, he is said to have burned his own papers, and the recipe is lost. The name probably means \"boiled hemp powder\", and it was presumably taken dissolved in wine; modern attempts to reconstruct it from medieval texts suggest aconite, a potent poison, but its real contents and effect are unknown. A work of his that the 4th-century writer Ge Hong reportedly preserved was later lost too.",
+      "The legend outlived the drug. In Japan, Hanaoka Seishū set out to recreate mafeisan and on 13 October 1804 performed a partial mastectomy on a 60-year-old woman under general anesthesia with his own herbal mixture."
+    ],
+    "myth": {
+      "tradition": "Hua Tuo carried out abdominal surgery under full general anesthesia with mafeisan around 200 CE.",
+      "record": "The story rests on histories written after his death; his writings and the formula are lost. He may well have used a numbing drug, but its composition and power cannot be verified."
+    },
+    "links": [
+      { "to": "hanaoka-seishu", "kind": "led-to", "note": "Hanaoka set out to recreate Hua Tuo's anesthetic." },
+      { "to": "ether-anaesthesia", "kind": "see-also", "note": "The anesthesia that did spread worldwide, in 1846." },
+      { "to": "zhang-zhongjing", "kind": "see-also", "note": "A physician of the same era, remembered for his prescriptions." }
+    ],
+    "sources": [
+      {
+        "title": "The Chinese surgeon who was already operating with anesthesia more than 600 years ago",
+        "publisher": "Ara (English edition)",
+        "url": "https://en.ara.cat/science-technology/the-chinese-surgeon-who-was-already-operating-with-anesthesia-more-than-600-years-ago_1_5836041.html",
+        "type": "news",
+        "supports": "The two histories and their centuries; Hua Tuo's dates; mafeisan presumably dissolved in wine; meaning 'boiled hemp powder'; composition unknown; he burned his papers; ether in 1846. A newspaper account of a recent study, so used with care and backed where possible by the ACS Bulletin and Cook.",
+        "quote": "According to some documents from the 3rd and 5th centuries, such as the Records of the Three Kingdoms and the Book of the Later Han, the physician Hua Tuo, who lived between 140 and 208 AD, performed surgery with an anesthetic called mafeisan"
+      },
+      {
+        "title": "History of anesthesia begins with ancient herbal mixtures",
+        "publisher": "Bulletin of the American College of Surgeons",
+        "year": 2025,
+        "url": "https://www.facs.org/for-medical-professionals/news-publications/news-and-articles/bulletin/2025/march-2025-volume-110-issue-3/history-of-anesthesia-begins-with-ancient-herbal-mixtures/",
+        "type": "institutional",
+        "supports": "Tradition of visceral surgery under mafeisan; reconstructions suggesting aconite; Hanaoka's knowledge of mafeisan and his operation of 13 October 1804 on a 60-year-old woman.",
+        "quote": "Tradition holds that between 140 and 208 CE, corresponding to the time of Galen, Hua Tuo, a surgeon practicing in eastern China, performed visceral surgery under anesthesia using an herbal preparation he called Mafeisan"
+      },
+      {
+        "title": "Medicine and Healing in Ancient East Asia (Elements in Ancient East Asia)",
+        "author": "Constance A. Cook",
+        "publisher": "Cambridge University Press",
+        "year": 2023,
+        "url": "https://www.cambridge.org/core/product/63BDA5E61EEE44FE0AC23712789C9321/core-reader",
+        "type": "scholarly",
+        "supports": "Hua Tuo's death in 208 and reputation for surgery; Ge Hong credited with preserving a lost work by him.",
+        "quote": "Ge Hong is also credited with preserving a work by Hua Tuo called the Golden Chest and the Green-Blue Satchel"
+      }
+    ],
+    "further": [],
+    "image": {
+      "commons": "File:Chinese woodcut, Famous medical figures; Portrait of Hua Tuo Wellcome L0039320.jpg",
+      "alt": "A woodcut portrait of the physician Hua Tuo.",
+      "caption": "Hua Tuo in a woodcut from a Wanli-era (1573–1620) Ming edition of *Bencao mengquan*. It is a later artist's portrait of a physician who died in 208 CE, not a likeness."
+    }
+  },
+  {
+    "id": "ge-hong",
+    "title": "Ge Hong's handbook for emergencies",
+    "stream": "east-asia",
+    "tier": 3,
+    "date": {
+      "year": 330,
+      "earliest": 300,
+      "latest": 343,
+      "display": "4th century CE"
+    },
+    "confidence": {
+      "date": "uncertain",
+      "claim": "agreed",
+      "note": "Ge Hong's life (283–343, or 281–341 in some accounts) bounds the date, but the handbook is only attributed to him and survives only in Tao Hongjing's later edited version, so which passages are Ge Hong's own cannot always be told."
+    },
+    "place": "Southern China (Eastern Jin)",
+    "people": ["Ge Hong (283–343), Daoist scholar and alchemist", "Tao Hongjing (452/456–536), later editor", "Tu Youyou, pharmacologist and 2015 Nobel laureate who drew on the handbook"],
+    "themes": ["texts", "drugs"],
+    "summary": "A Daoist alchemist's pocket book of emergency cures held an early account of smallpox, and a line about wormwood that led to a Nobel Prize.",
+    "body": [
+      "Ge Hong (283–343), a Daoist scholar best known for the *Baopuzi*, a work on alchemy and immortality, is credited with a handbook of remedies for emergencies, *Recipes from Behind the Elbow*, a title sometimes translated \"in the Sleeve\". It survives only as edited by Tao Hongjing. It contains what may be China's earliest mention of smallpox, recognized as contagious. One line, steep a handful of *qinghao* in water, wring out the juice and drink it, led Tu Youyou in 1971 to extract the plant at a low temperature, a key step toward artemisinin."
+    ],
+    "links": [
+      { "to": "artemisinin", "kind": "led-to", "note": "Tu Youyou's cold-extraction idea came from this text." },
+      { "to": "chinese-variolation", "kind": "led-to", "note": "Early recognition that smallpox spreads from person to person." }
+    ],
+    "sources": [
+      {
+        "title": "Artemisinin: A Gift from Traditional Chinese Medicine to the World (Nobel Lecture)",
+        "author": "Tu Youyou",
+        "publisher": "The Nobel Foundation",
+        "year": 2015,
+        "url": "https://www.nobelprize.org/uploads/2018/06/tu-lecture.pdf",
+        "type": "primary",
+        "supports": "Ge Hong's handbook records qinghao for periodic fevers; the soaking instruction; Tu's 1971 decision to avoid heat in extraction.",
+        "quote": "A handful of Qinghao immersed in two liters of water, wring out the juice and drink it all"
+      },
+      {
+        "title": "Medicine and Healing in Ancient East Asia (Elements in Ancient East Asia)",
+        "author": "Constance A. Cook",
+        "publisher": "Cambridge University Press",
+        "year": 2023,
+        "url": "https://www.cambridge.org/core/product/63BDA5E61EEE44FE0AC23712789C9321/core-reader",
+        "type": "scholarly",
+        "supports": "Title 'Recipes from Behind the Elbow (in the Sleeve)'; survives only in Tao Hongjing's edition; earliest mention of smallpox; alternative dates 281–341.",
+        "quote": "Quotes of earlier lost texts are preserved in it as well as curious facts such as the earliest mention of smallpox"
+      },
+      {
+        "title": "Variolation Techniques, Medical Explanations, and Dissemination in Late Imperial China (Table 2)",
+        "author": "Linyu Guan, Shenjia Gu, Yunhai Pan, Lance E. Rodewald, Chuanxi Fu",
+        "publisher": "Emerging Infectious Diseases (CDC)",
+        "year": 2026,
+        "url": "https://wwwnc.cdc.gov/eid/article/32/10/26-0729-t2",
+        "type": "scholarly",
+        "supports": "Ge Hong's handbook recognized the contagiousness of smallpox.",
+        "quote": "Ge Hong's handbook of prescriptions for emergencies (Zhouhou Beiji Fang) ( 21 ) Recognized the contagiousness of smallpox"
+      },
+      {
+        "title": "Ge Hong",
+        "author": "T. H. Barrett",
+        "publisher": "Encyclopedia of Religion (Gale), via Encyclopedia.com",
+        "url": "https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/ge-hong",
+        "type": "reference",
+        "supports": "Ge Hong's dates (283–343) and his writing on alchemy and immortality.",
+        "quote": "GE HONG (283 – 343) was a Chinese writer on alchemy and Daoism"
+      }
+    ],
+    "further": ["unschuld-1985"]
+  }
+]

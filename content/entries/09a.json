@@ -1,0 +1,796 @@
+[
+  {
+    "id": "ether-anaesthesia",
+    "title": "Surgery without pain",
+    "stream": "bio-surgery",
+    "tier": 1,
+    "date": {
+      "year": 1846,
+      "display": "16 October 1846"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "The Boston operation is documented in hospital records and in Henry Bigelow's report of November 1846, and ether's rapid spread is well recorded. Who deserves credit was bitterly contested at the time and still is, and some of the most famous details, such as Warren's 'no humbug' remark, appear only in later, self-serving accounts."
+    },
+    "place": "Massachusetts General Hospital, Boston, USA",
+    "people": [
+      "William T. G. Morton, Boston dentist who gave the ether",
+      "John Collins Warren, surgeon who operated",
+      "Edward Gilbert Abbott (b. 1825), the patient",
+      "Crawford Williamson Long, Georgia physician who used ether from 1842",
+      "Horace Wells (1815–1848), dentist who tried nitrous oxide",
+      "James Young Simpson (1811–1870), Edinburgh obstetrician who introduced chloroform"
+    ],
+    "themes": [
+      "surgery",
+      "drugs",
+      "practice"
+    ],
+    "summary": "A Boston dentist held a globe of ether vapor to a young man's face while a surgeon cut into his neck, and within a year ether was in use in many countries.",
+    "body": [
+      "On 16 October 1846, in the operating theater of Massachusetts General Hospital, a Boston dentist named William T. G. Morton held a glass globe of sulfuric ether vapor to the face of Edward Gilbert Abbott, a 21-year-old with a congenital mass under his jaw. The surgeon John Collins Warren then cut into his neck. Abbott did not cry out, though he moved and muttered, and afterwards said the pain had been \"considerable, though mitigated,\" as if his skin had been scratched with a hoe. Until then, operations had been done with little or no effective pain relief.",
+      "What made the day matter was publicity. Henry Bigelow reported four operations under ether on 18 November; on 3 December a steamer carried the news to Britain, and by the end of the month ether was being used there and in France. Within a year it had reached many countries, though adoption was uneven, even in Boston, perhaps partly because the first users documented its dangers.",
+      "Morton was not the first. Crawford Long, a Georgia physician, had used ether in operations from 1842 but did not publish. Horace Wells, Morton's former partner, had his own tooth pulled under nitrous oxide in December 1844, but his demonstration in Boston was jeered as a \"humbug affair\" when the patient cried out. The Harvard chemist Charles Jackson had advised Morton on ether. Morton patented the method in November 1846 and, after the patent was ruled unenforceable, campaigned to be named sole discoverer; in 1870 the American Medical Association gave the honor to Wells instead.",
+      "A rival agent came quickly. In Edinburgh on 4 November 1847, James Young Simpson and two assistants tried chloroform on themselves, and within 11 days he had published about 50 cases. It needed no special apparatus, only a cloth, but it could kill: a 15-year-old, Hannah Greener, died under it in January 1848 during removal of a toenail. When John Snow gave chloroform to Queen Victoria at the births of Prince Leopold in 1853 and Princess Beatrice in 1857, it helped make pain relief in childbirth respectable, though doctors may already have been coming round."
+    ],
+    "myth": {
+      "tradition": "The operation was a flawless triumph, and Warren turned to the audience and declared, \"Gentlemen, this is no humbug.\"",
+      "record": "Abbott's hospital notes do not even mention ether, and the anesthesia was incomplete. The famous line first appears in an authorized biography of Morton, written to promote his claim and published in 1859, three years after Warren's death."
+    },
+    "links": [
+      {
+        "to": "hanaoka-seishu",
+        "kind": "see-also",
+        "note": "A Japanese surgeon had operated under a herbal general anesthetic forty years earlier, unknown in the West."
+      },
+      {
+        "to": "snow-cholera",
+        "kind": "see-also",
+        "note": "John Snow, the leading anesthetist in London, also tracked cholera to a water pump."
+      },
+      {
+        "to": "lister",
+        "kind": "led-to",
+        "note": "Longer, slower operations became possible, and wound infection loomed larger as the next problem."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Ether Day Revisited: The Surgical Records of Edward Gilbert Abbott",
+        "author": "Paul G. Firth",
+        "publisher": "Annals of Surgery Open",
+        "year": 2022,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10431558/",
+        "type": "scholarly",
+        "supports": "Date, Morton, Warren, Abbott's age and lesion, incomplete anesthesia and Abbott's 'hoe' description, Bigelow's report of 18 November, spread by December, Morton's patent and campaign, Long from 1842, Wells, Jackson, and the late origin of the 'no humbug' story.",
+        "quote": "This book also contained the first account that Warren exclaimed “Gentlemen! This is no humbug.” to the audience after the operation."
+      },
+      {
+        "title": "Horace Wells: A Pioneer in Modern Anesthesia and Pain-Free Medical Practices",
+        "author": "Mistry LN et al.",
+        "publisher": "Cureus",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11566315/",
+        "type": "scholarly",
+        "supports": "Wells's own tooth extraction under nitrous oxide on 11 December 1844, the failed Boston demonstration called a 'humbug affair', and the AMA's 1870 recognition of Wells.",
+        "quote": "The American Medical Association in May 1870 at its yearly session in Washington DC agreed “that the honor of the discovery of practical anesthesia is due to the late Horace Wells of Connecticut”"
+      },
+      {
+        "title": "Anaesthetic practice and mortality in Scotland compared to England from 1847 to 1914",
+        "author": "Alistair G. McKenzie",
+        "publisher": "Anaesthesia and Intensive Care",
+        "year": 2025,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12405647/",
+        "type": "scholarly",
+        "supports": "Simpson's self-experiment on 4 November 1847, publication 11 days later with about 50 cases, and Hannah Greener's death in January 1848.",
+        "quote": "Just 11 days later, on 15 November, Simpson published his account of its use in surgery and midwifery, stating that he had exhibited it successfully in about 50 cases."
+      },
+      {
+        "title": "Memorials to John Snow – Pioneer in anaesthesia and epidemiology",
+        "author": "Nicholas G. Snowise",
+        "publisher": "Journal of Medical Biography",
+        "year": 2023,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9925902/",
+        "type": "scholarly",
+        "supports": "Snow's chloroform for Queen Victoria at the births of Leopold (1853) and Beatrice (1857), and the caution that the royal example may not fully explain acceptance.",
+        "quote": "This may actually be too simplistic a view since it is possible that Snow's medical colleagues were already changing their views on the use of chloroform"
+      }
+    ],
+    "further": [
+      "fitzharris-2017",
+      "porter-1997"
+    ],
+    "image": {
+      "commons": "File:Ether inhaler, c. 1846, developed by William T. G. Morton - National Museum of American History - DSC06167.JPG",
+      "alt": "A glass globe with two necks and a mouthpiece, an early ether inhaler, in a museum case.",
+      "caption": "Ether inhaler of the type developed by William T. G. Morton, c. 1846. National Museum of American History, Washington, DC."
+    }
+  },
+  {
+    "id": "semmelweis",
+    "title": "Semmelweis and the washing of hands",
+    "stream": "bio-lab",
+    "tier": 1,
+    "date": {
+      "year": 1847,
+      "earliest": 1847,
+      "latest": 1847,
+      "display": "May 1847"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "The Vienna clinic's yearly mortality figures were published by Semmelweis himself and are not in doubt; the chlorine washing began around mid-May 1847. Why his colleagues resisted, and how he died, are argued over, and the popular picture of a lone genius ignored by fools is a simplification."
+    },
+    "place": "Vienna General Hospital (Allgemeines Krankenhaus), Austria",
+    "people": [
+      "Ignaz Philipp Semmelweis (1818–1865), Hungarian obstetrician",
+      "Jakob Kolletschka, pathologist whose death gave Semmelweis the clue",
+      "Ferdinand von Hebra, dermatologist who first published the findings",
+      "Oliver Wendell Holmes (1809–1894), Boston physician who warned of contagion in 1843"
+    ],
+    "themes": [
+      "practice",
+      "public-health"
+    ],
+    "summary": "In a Vienna maternity clinic, women attended by doctors died at four times the rate of those attended by midwives. A basin of chlorine water closed the gap.",
+    "body": [
+      "The Vienna General Hospital had two maternity clinics. Doctors and medical students worked in the first; midwives were trained in the second. When Ignaz Semmelweis was put in charge of the first clinic in July 1846, he found a grim difference: that year 459 of 4,010 women there died, mostly of childbed (puerperal) fever, against 105 of 3,754 in the midwives' clinic. Semmelweis tested and ruled out explanations one by one, from birthing positions to a priest's bell that frightened patients.",
+      "The clue came in 1847, when his colleague Jakob Kolletschka died of a fever like the mothers' after a finger wound received during an autopsy. Doctors and students went straight from dissecting corpses to examining women in labor; midwives did not. Semmelweis concluded that the doctors' hands were carrying what he called \"cadaverous\" infection from the corpses to the women. Around mid-May 1847 he ordered everyone to wash in chlorinated lime before touching a patient. In 1848, the first full year of washing, deaths in the first clinic fell to 45 of 3,556, about 1.3 percent, the same as the midwives'.",
+      "He was not alone in seeing the danger. Alexander Gordon in Aberdeen had described epidemics of the fever from 1789 and advocated disinfection and handwashing, and in 1843 Oliver Wendell Holmes warned American doctors that they could carry it between patients. What Semmelweis added was numbers. But he let others publish for him, first his friend Ferdinand von Hebra in December 1847, and his own book appeared only in 1861. Germ theory did not yet exist to explain why washing worked; many obstetricians blamed miasma or other causes, and the idea that physicians were killing their patients was unwelcome.",
+      "His own temper did not help: in print he called his opponents murderers. In 1865 he was taken to a newly built asylum in Vienna and died two weeks later of sepsis. Only after his death did people begin calling him the \"savior of mothers.\""
+    ],
+    "myth": {
+      "tradition": "Semmelweis, a lone genius, was ignored purely out of prejudice, then died of childbed fever from a scalpel cut, killed by the very disease he had fought.",
+      "record": "Others had made similar arguments before him, he delayed publishing for years, and his insults alienated potential allies. Accounts of his death differ, but recent scholars attribute the fatal sepsis to wounds from rough treatment in the asylum rather than to a dissection cut."
+    },
+    "links": [
+      {
+        "to": "pasteur-germ-theory",
+        "kind": "led-to",
+        "note": "Germ theory later explained why chlorine washing worked."
+      },
+      {
+        "to": "lister",
+        "kind": "led-to",
+        "note": "Lister later brought antisepsis into surgery."
+      },
+      {
+        "to": "morgagni",
+        "kind": "see-also",
+        "note": "Vienna's routine autopsies, a legacy of pathological anatomy, put corpses and maternity wards in the same hands."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Ignaz Philipp Semmelweis (1818–1865) – a public health visionary and champion of hand hygiene",
+        "author": "Vanessa Ravel, Chandini Pandiyan, Krupa Chandran",
+        "publisher": "GMS Hygiene and Infection Control",
+        "year": 2025,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12720402/",
+        "type": "scholarly",
+        "supports": "Two clinics; 1846 and 1848 mortality figures; ruled-out hypotheses; Kolletschka; chlorine washing from mid-May 1847; Hebra's December 1847 report; 1861 book; death in an asylum in 1865.",
+        "quote": "In 1846, out of 4,010 patients in the first clinic, 459 patients died (11.4%) and in the second clinic out of 3,754 patients, 105 patients (2.7%) died"
+      },
+      {
+        "title": "Ignaz Semmelweis: a victim of harassment?",
+        "author": "Sonja Schreiner",
+        "publisher": "Wiener Medizinische Wochenschrift",
+        "year": 2020,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7476981/",
+        "type": "scholarly",
+        "supports": "His insults to colleagues; delayed publication; death from sepsis from wounds after confinement in a Vienna asylum in 1865; Holmes in 1843.",
+        "quote": "Badly abused, he died from sepsis caused by open wounds and a dirty straightjacket 2 weeks later."
+      },
+      {
+        "title": "The little-known history of cleanliness and the forgotten pioneers of handwashing",
+        "author": "Péter Poczai, László Z. Karvalics",
+        "publisher": "Frontiers in Public Health",
+        "year": 2022,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9632745/",
+        "type": "scholarly",
+        "supports": "Holmes's 1843 warning, Alexander Gordon's earlier work in Aberdeen, and Semmelweis's failure to publish.",
+        "quote": "In 1843 Holmes proclaimed insistently that “ doctors were agents of death” unless they washed their hands and clothing to avoid transmission of puerperal fever"
+      },
+      {
+        "title": "Louis Pasteur, Ignaz Semmelweis, Joseph Lister and the Link Between Their Works Toward the Development of Antisepsis",
+        "author": "Lepenos T et al.",
+        "publisher": "Cureus",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11254094/",
+        "type": "scholarly",
+        "supports": "The cause of his death is disputed; the scalpel-cut story versus trauma in the asylum.",
+        "quote": "In reality, his sepsis did not derive from his own hands, but from multiple, untreated traumas that occurred during his stay at an insane asylum."
+      }
+    ],
+    "further": [
+      "porter-1997",
+      "bynum-1994"
+    ],
+    "image": {
+      "commons": "File:Ignaz Semmelweis 1860.jpg",
+      "alt": "Portrait of Ignaz Semmelweis, a balding man with a mustache, in a dark coat.",
+      "caption": "Ignaz Semmelweis in 1860, after an engraving by Jenő Doby."
+    }
+  },
+  {
+    "id": "snow-cholera",
+    "title": "John Snow and the Broad Street pump",
+    "stream": "bio-public",
+    "tier": 1,
+    "date": {
+      "year": 1854,
+      "display": "August–September 1854"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "Snow's own 1855 book documents the Soho outbreak, the pump and the water-company comparison. What is disputed is the drama: the outbreak was already subsiding when the handle came off, and Snow's waterborne theory was not generally accepted until after his death."
+    },
+    "place": "Soho, London, England",
+    "people": [
+      "John Snow (1813–1858), physician and anesthetist",
+      "Henry Whitehead, local clergyman who investigated the outbreak",
+      "Filippo Pacini, Florentine anatomist who described the cholera vibrio"
+    ],
+    "themes": [
+      "public-health",
+      "theory"
+    ],
+    "summary": "Over 500 people near one Soho street died of cholera in ten days. A doctor who thought the disease was swallowed, not breathed, pointed at the neighborhood pump.",
+    "body": [
+      "In the night of 31 August 1854, cholera erupted around Broad Street, Golden Square, in Soho. In Snow's words, \"there were upwards of five hundred fatal attacks of cholera in ten days\" within 250 yards of one corner. Most doctors then blamed miasma, foul air rising from filth. John Snow, a London physician better known as an expert anesthetist, had argued since the epidemic of 1848–49 that cholera was caused by something swallowed, and spread by sewage-tainted water.",
+      "He mapped the deaths and found they clustered around the public pump in Broad Street. The exceptions fit too. A nearby workhouse with its own well lost only five of 535 inmates, and none of the 70-odd workmen at the Broad Street brewery fell ill; the men, Snow noted, drank no water at all, and the brewery had its own deep well. Snow put his case to the parish Board of Guardians, and the pump handle was removed the next day. A local clergyman, Henry Whitehead, investigated too, and identified a five-month-old girl as the probable first case.",
+      "Snow's stronger evidence came from south London, where two water companies supplied neighboring houses. Over seven weeks in 1854, houses served by the Southwark and Vauxhall Company, which drew water from a sewage-laden stretch of the Thames, suffered 315 cholera deaths per 10,000 houses; houses supplied by the Lambeth Company, which had moved its intake upstream, suffered 37. Snow published both studies in *On the Mode of Communication of Cholera* in 1855.",
+      "The same year, in Florence, Filippo Pacini saw millions of bacteria in the intestines of cholera victims and named them *Vibrio cholerae*. Neither man was widely believed. Pacini's discovery was not recognized in his lifetime, and the name *Vibrio cholerae* Pacini 1854 was adopted as correct only in 1965; Robert Koch isolated the bacillus in pure culture in January 1884. Snow's two investigations were cited as conclusive only after he died in 1858."
+    ],
+    "myth": {
+      "tradition": "Snow removed the pump handle himself and thereby stopped the epidemic in its tracks, converting the authorities to his theory.",
+      "record": "The parish authorities removed the handle at Snow's urging, by which time the outbreak was already subsiding. His waterborne theory was not generally accepted in his lifetime; his investigations were cited as conclusive only after his death."
+    },
+    "links": [
+      {
+        "to": "chadwick",
+        "kind": "see-also",
+        "note": "Sanitary reformers who blamed foul air were Snow's main opponents."
+      },
+      {
+        "to": "ether-anaesthesia",
+        "kind": "see-also",
+        "note": "Snow's other career was as London's leading anesthetist."
+      },
+      {
+        "to": "koch",
+        "kind": "led-to",
+        "note": "Koch's cholera bacillus of 1884 vindicated the waterborne theory."
+      }
+    ],
+    "sources": [
+      {
+        "title": "John Snow, Cholera, the Broad Street Pump; Waterborne Diseases Then and Now",
+        "author": "Theodore H. Tulchinsky",
+        "publisher": "Case Studies in Public Health (Elsevier)",
+        "year": 2018,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7150208/",
+        "type": "scholarly",
+        "supports": "Start of the outbreak on 31 August–1 September, Snow's quotations on the workhouse and brewery, removal of the handle the following day, the already declining epidemic, and the Southwark and Vauxhall versus Lambeth table.",
+        "quote": "He persuaded the doubtful civic authorities to remove the handle from the Broad Street pump, and the already subsiding epidemic disappeared within a few days."
+      },
+      {
+        "title": "The Ghost Map [book review]",
+        "author": "Ralph R. Frerichs",
+        "publisher": "Emerging Infectious Diseases (CDC)",
+        "year": 2007,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2878249/",
+        "type": "scholarly",
+        "supports": "Snow's description of 'upwards of five hundred fatal attacks of cholera in ten days' within 250 yards; the 'grand experiment'; Henry Whitehead's role.",
+        "quote": "Within two hundred and fifty yards of the spot where Cambridge Street joins Broad Street, there were upwards of five hundred fatal attacks of cholera in ten days."
+      },
+      {
+        "title": "Ending Epidemics: A History of Escape from Contagion [book review]",
+        "author": "Clyde Partin",
+        "publisher": "Emerging Infectious Diseases (CDC)",
+        "year": 2025,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11845135/",
+        "type": "scholarly",
+        "supports": "Whitehead identified the first case, a five-month-old girl; Pacini named the vibrio in 1854.",
+        "quote": "having recognized the ground zero cholera case in a 5-month-old girl"
+      },
+      {
+        "title": "About John Snow",
+        "publisher": "The John Snow Archive and Research Companion, Michigan State University",
+        "url": "https://johnsnow.matrix.msu.edu/aboutjohn.php",
+        "type": "institutional",
+        "supports": "Snow's ingestion theory from 1848–49; the two 1854 investigations, cited as conclusive only after his death in 1858.",
+        "quote": "he conducted two investigations that others would cite after his death as conclusively supporting his theory that cholera could be spread by sewage–contaminated water"
+      },
+      {
+        "title": "Milestones in Vibrio Science and their Contributions to Microbiology and Global Health",
+        "author": "Doni L et al.",
+        "publisher": "Annals of Global Health",
+        "year": 2025,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12082447/",
+        "type": "scholarly",
+        "supports": "Pacini's 1854 observations in Florence, his naming of Vibrio cholerae, its neglect, and Koch's 1884 isolation.",
+        "quote": "Pacini observed a close association between the rupture of the intestinal lining and millions of bacteria, which he named Vibrio cholerae"
+      }
+    ],
+    "further": [
+      "johnson-2006",
+      "snowden-2019"
+    ],
+    "image": {
+      "commons": "File:Snow-cholera-map-1.jpg",
+      "alt": "Street map of Soho with black bars stacked along streets marking cholera deaths, clustered around Broad Street.",
+      "caption": "John Snow's map of cholera deaths around the Broad Street pump, 1854. Each black bar is a death."
+    }
+  },
+  {
+    "id": "nightingale",
+    "title": "Florence Nightingale's statistics",
+    "stream": "bio-public",
+    "tier": 1,
+    "date": {
+      "year": 1858,
+      "display": "1858"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "Her reports and diagrams were printed in 1858 and survive, as do the army's mortality figures. The National Army Museum credits the Sanitary Commission's work 'alongside' her nurses for the fall in deaths at Scutari, and she herself first misjudged the cause; her reputation has been shaped by legend in both directions."
+    },
+    "place": "Scutari (Üsküdar, Istanbul) and London",
+    "people": [
+      "Florence Nightingale (1820–1910), nurse, statistician and reformer",
+      "William Farr, statistician at the General Register Office who advised her",
+      "John Sutherland and Robert Rawlinson, members of the Sanitary Commission",
+      "Mary Seacole, Jamaican-born nurse and businesswoman in the Crimea"
+    ],
+    "themes": [
+      "public-health",
+      "institutions",
+      "practice"
+    ],
+    "summary": "The 'Lady with the Lamp' did her most lasting work after the war: tables and colored wedges showing the British Army its soldiers were dying of dirt and crowding.",
+    "body": [
+      "Florence Nightingale reached Constantinople with her party of nurses on 3 November 1854 to run the nursing in the army hospital at Scutari. It was dirty, overcrowded and short of everything, and most of its patients were suffering from disease rather than wounds. Her nurses cleaned, cooked and washed linen. Yet by February 1855 the hospital's death rate had risen to 42 percent. Nightingale blamed poor nutrition; in fact the building sat on a broken sewer. In March 1855 a government Sanitary Commission led by Dr John Sutherland, with the engineer Robert Rawlinson, arrived, repaired drains and improved ventilation, and within weeks the death rate had fallen by half.",
+      "Back in England in August 1856, Nightingale drew her own lesson from the figures. With William Farr of the General Register Office she analyzed army mortality for a Royal Commission and in 1858 printed the results, including in *Notes on Matters Affecting the Health, Efficiency and Hospital Administration of the British Army*. She showed that most of the army's deaths in the war came from sickness, that sanitation had reduced them, and that even soldiers stationed at home died at higher rates than ordinary civilian men. She also exposed the army's slack record-keeping, estimating that Crimean hospital returns might have shown only a seventh of the real deaths.",
+      "Her famous wedge diagrams, which are polar area charts rather than true pie charts, were not the first statistical graphics: William Playfair had published a pie chart in 1801. The historian of statistics Hugh Small argues that what set her apart was using diagrams to show cause and effect, here the Sanitary Commission's effect on the death rate, in order to persuade the government. She became the first female fellow of the Royal Statistical Society.",
+      "The public knew her as 'the Lady with the Lamp,' and in 1860 donations to the Nightingale Fund paid for a training school for nurses at St Thomas's Hospital in London. Another nurse of the war, the Jamaican-born Mary Seacole, was rejected by the War Office and by Nightingale, paid her own way to the Crimea and treated soldiers near the front line."
+    ],
+    "myth": {
+      "tradition": "Nightingale's nursing at Scutari slashed the death rate, and she invented the pie chart to prove it.",
+      "record": "Deaths at Scutari rose after her arrival and fell only after the Sanitary Commission repaired the sewers and ventilation, a cause she herself had at first misjudged. Her diagrams were polar area charts, and statistical graphics, including the pie chart (Playfair, 1801), existed before her."
+    },
+    "links": [
+      {
+        "to": "graunt",
+        "kind": "built-on",
+        "note": "Counting the dead to find causes went back to Graunt's bills of mortality."
+      },
+      {
+        "to": "chadwick",
+        "kind": "built-on",
+        "note": "She shared the sanitarians' belief that filth and bad air caused disease."
+      },
+      {
+        "to": "snow-cholera",
+        "kind": "see-also",
+        "note": "In the same years Snow used death counts to trace cholera to water."
+      },
+      {
+        "to": "red-cross-geneva",
+        "kind": "see-also",
+        "note": "Both grew out of the neglect of wounded soldiers in the wars of the 1850s."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Florence Nightingale: The Lady with the Lamp",
+        "publisher": "National Army Museum",
+        "url": "https://www.nam.ac.uk/explore/florence-nightingale-lady-lamp",
+        "type": "institutional",
+        "supports": "Arrival 3 November 1854; conditions at Scutari; 42 per cent death rate in February 1855; her mistaken blame on nutrition; sewer; return in August 1856; nursing school at St Thomas's on 9 July 1860; the Lady with the Lamp.",
+        "quote": "by February 1855, the death rate at the hospital had risen to 42 per cent. Florence mistakenly blamed the high number of deaths on inadequate nutrition, not on poor sanitation."
+      },
+      {
+        "title": "Crimean War",
+        "publisher": "National Army Museum",
+        "url": "https://www.nam.ac.uk/explore/crimean-war",
+        "type": "institutional",
+        "supports": "The Sanitary Commission of Sutherland and Rawlinson, arriving March 1855, halved the Scutari death rate within weeks; Mary Seacole's background and rejection by the War Office and Nightingale.",
+        "quote": "They reached Constantinople in March 1855 and their work, alongside that of Florence Nightingale’s nurses, helped reduce the death rate in the hospital at Scutari by half within a matter of weeks."
+      },
+      {
+        "title": "Florence Nightingale (1820–1910): An Unexpected Master of Data",
+        "author": "Nathalie A. Bradshaw",
+        "publisher": "Patterns",
+        "year": 2020,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7660360/",
+        "type": "scholarly",
+        "supports": "Higher mortality among soldiers at home than civilian men; record-keeping failures and the one-seventh estimate; the 1858 Notes; first female fellow of the Royal Statistical Society.",
+        "quote": "she estimated that hospital records in the Crimea may have only shown one-seventh of the true number of deaths"
+      },
+      {
+        "title": "Florence Nightingale's Statistical Diagrams",
+        "author": "Hugh Small",
+        "publisher": "University of York, Department of Mathematics (paper to Florence Nightingale Museum conference, 1998)",
+        "year": 1998,
+        "url": "https://www.york.ac.uk/depts/maths/histstat/small.htm",
+        "type": "scholarly",
+        "supports": "Farr's help; the 1858 Royal Commission appendix and Mortality of the British Army; the diagrams showing sickness and the Sanitary Commission's effect; Playfair's 1801 pie chart; she was not the first to use diagrams.",
+        "quote": "It has been said that Florence Nightingale was the first to use diagrams for presenting statistical data. This is not true, of course"
+      }
+    ],
+    "further": [
+      "porter-1997",
+      "bynum-1994"
+    ],
+    "image": {
+      "commons": "File:Nightingale-mortality.jpg",
+      "alt": "Two circular diagrams divided into twelve monthly wedges each, in blue, red and black, showing deaths from disease, wounds and other causes.",
+      "caption": "Nightingale's 'Diagram of the causes of mortality in the army in the East,' 1858. Blue wedges, deaths from preventable disease, dwarf those from wounds."
+    }
+  },
+  {
+    "id": "virchow",
+    "title": "Virchow's cellular pathology",
+    "stream": "bio-lab",
+    "tier": 2,
+    "date": {
+      "year": 1858,
+      "display": "1858"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "*Die Cellularpathologie*, based on lectures Virchow gave at the Charité in Berlin, was published in 1858. His principle was shared with Robert Remak, who is usually named alongside him; and the 'social science' aphorism is associated with his 1848 Silesia report and reform writing rather than with this book."
+    },
+    "place": "Berlin, Prussia (Germany)",
+    "people": [
+      "Rudolf Virchow (1821–1902), pathologist and politician",
+      "Robert Remak, embryologist who argued the same principle",
+      "Theodor Schwann (1810–1882) and Matthias Schleiden (1804–1881), founders of cell theory"
+    ],
+    "themes": [
+      "theory",
+      "public-health"
+    ],
+    "summary": "A Berlin pathologist told his students to 'think microscopically': disease lives in cells. Ten years earlier he had blamed a typhus epidemic on poverty and politics.",
+    "body": [
+      "In 1858 Rudolf Virchow, a pathologist at Berlin's Charité hospital, published lectures he had given as *Die Cellularpathologie*. Schleiden and Schwann had argued in 1838–39 that plants and animals are built of cells. Virchow carried the idea into medicine: disease, he said, is a disturbance of cells, and can be diagnosed by looking at them under a microscope. His slogan *omnis cellula e cellula*, every cell comes from a cell, which he and Robert Remak pressed from 1855 against the older view that cells condense out of a structureless fluid, became a third principle of cell theory. Looking for disease in the cells of tissue became the basis of histopathology.",
+      "Virchow was also a radical. Sent by the Prussian government to investigate typhus in Upper Silesia in 1847–48, he wrote a 190-page report blaming poverty and social conditions, and prescribed \"full and unlimited democracy\" and education rather than drugs. He joined the Berlin revolution of 1848, co-founded the weekly *Medical Reform*, and lost his post in 1849. Later a member of parliament and an opponent of Bismarck, he is quoted as saying that \"medicine is a social science, and politics is nothing else but medicine on a large scale.\""
+    ],
+    "links": [
+      {
+        "to": "cell-theory",
+        "kind": "built-on",
+        "note": "Virchow applied Schleiden and Schwann's cell theory to disease."
+      },
+      {
+        "to": "morgagni",
+        "kind": "built-on",
+        "note": "Morgagni located disease in organs; Virchow took it down to cells."
+      },
+      {
+        "to": "koch",
+        "kind": "see-also",
+        "note": "Virchow long doubted that germs alone explained disease."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Rudolf Virchow and the discovery of the Müller cell",
+        "author": "Helmut Kettenmann",
+        "publisher": "Graefe's Archive for Clinical and Experimental Ophthalmology",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11584505/",
+        "type": "scholarly",
+        "supports": "Cellularpathologie first published 1858; cell theory of Schleiden and Schwann in 1838–39; diagnosis by analyzing cells.",
+        "quote": "Virchow’s fame is linked to his seminal book Cellularpathologie published in its first edition in 1858."
+      },
+      {
+        "title": "Neuroglia at the crossroads of homoeostasis, metabolism and signalling: evolution of the concept",
+        "author": "Vladimir Parpura, Alexei Verkhratsky",
+        "publisher": "ASN Neuro",
+        "year": 2012,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3342593/",
+        "type": "scholarly",
+        "supports": "The book's content was delivered as lectures at the Charité in 1858.",
+        "quote": "delivering a lecture to medical students of Charite Hospital in Berlin on 3 April 1858"
+      },
+      {
+        "title": "Stanislaus Josef Mathias von Prowazek, Edler von Lanow, Rudolph Virchow, and the Upper Silesia Report",
+        "author": "Consolato M. Sergi",
+        "publisher": "Archives of Medical Science",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10895968/",
+        "type": "scholarly",
+        "supports": "Typhus investigation 1847–48, 190-page report, the 1848 revolution, founding of Medical Reform, opposition to Bismarck.",
+        "quote": "his extensive 190-page report on the Typhus outbreak in Upper Silesia in 1848 proved pivotal in German public health"
+      },
+      {
+        "title": "Rudolf Virchow: Integrating Medicine and Social Reform for Public Health",
+        "author": "Tawde PP et al.",
+        "publisher": "Cureus",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11439470/",
+        "type": "scholarly",
+        "supports": "'Full and unlimited democracy' and education as the cure; suspension in 1849; Remak and Schwann behind his cell doctrine.",
+        "quote": "Later, he was suspended from his official position in 1849, thus discontinuing the publication"
+      },
+      {
+        "title": "A prize for global health in the name of Rudolf Virchow",
+        "author": "Oni T et al.",
+        "publisher": "Journal of Public Health in Africa",
+        "year": 2023,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10615153/",
+        "type": "scholarly",
+        "supports": "The 'medicine is a social science' quotation and his parliamentary career.",
+        "quote": "famously stating that ‘Medicine is a social science, and politics is nothing else but medicine on a large scale.’"
+      },
+      {
+        "title": "Rudolf Virchow: 200th birth anniversary",
+        "author": "de Gouveia RH et al.",
+        "publisher": "Virchows Archiv",
+        "year": 2021,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8671055/",
+        "type": "scholarly",
+        "supports": "'Think microscopically' and omnis cellula e cellula.",
+        "quote": "Virchow encouraged the students to “think microscopically.”"
+      },
+      {
+        "title": "Wilhelm von Waldeyer-Hartz-A Great Forefather: His Contributions to Anatomy with Particular Attention to \"His\" Fascia",
+        "author": "Scheuerlein H, Henschke F, Köckerling F",
+        "publisher": "Frontiers in Surgery",
+        "year": 2017,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5723023/",
+        "type": "scholarly",
+        "supports": "Remak and Virchow's joint 1855 dogma of omnis cellula e cellula, replacing Schwann and Schleiden's belief that cells form de novo from a structureless substance.",
+        "quote": "Remak und especially Virchow eliminated this perception with their dogma of"
+      }
+    ],
+    "further": [
+      "porter-1997",
+      "bynum-1994"
+    ],
+    "image": {
+      "commons": "File:Rudolf Ludwig Karl Virchow. Photograph by J. C. Schaarwächte Wellcome L0002331.jpg",
+      "alt": "Photograph of an elderly Rudolf Virchow with spectacles and a white beard.",
+      "caption": "Rudolf Virchow, photographed by J. C. Schaarwächter in 1891, more than 30 years after *Die Cellularpathologie*. Wellcome Collection."
+    }
+  },
+  {
+    "id": "pasteur-germ-theory",
+    "title": "Pasteur and the germ theory",
+    "stream": "bio-lab",
+    "tier": 1,
+    "date": {
+      "year": 1857,
+      "end": 1865,
+      "display": "1857–1865"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "Pasteur's papers to the French Academy of Sciences fix the dates of his fermentation work (from 1857), the swan-necked flask experiments (published 1861) and his wine patent (1865). How much of the credit is his is contested: many predecessors and rivals made overlapping claims, and historians reading his notebooks have found him quick to claim priority."
+    },
+    "place": "Lille and Paris, France",
+    "people": [
+      "Louis Pasteur (1822–1895), chemist and microbiologist",
+      "Antoine-Jérôme Balard (1802–1876), chemist and mentor who devised the swan-necked flask experiment",
+      "Félix-Archimède Pouchet (1800–1872), naturalist who defended spontaneous generation",
+      "Antoine Béchamp (1816–1908), chemist and rival"
+    ],
+    "themes": [
+      "theory",
+      "technology"
+    ],
+    "summary": "A chemist asked to fix spoiled beet alcohol ended up showing that invisible living things ferment, spoil and rot, and that they come from other microbes, not from nowhere.",
+    "body": [
+      "Louis Pasteur came to microbes through industry. As dean of the science faculty at Lille in the mid-1850s he was approached by makers of beet alcohol whose fermentations kept going wrong. Beginning in 1857 with a report on lactic fermentation, he argued before the French Academy of Sciences that fermentation is the work of living microorganisms, not a purely chemical breakdown. He was not the first to suspect this: Schwann, Cagniard de Latour and others had tied yeast to fermentation in the 1830s, and Antoine Béchamp reached similar conclusions shortly before him. But Pasteur pressed the case relentlessly.",
+      "If microbes caused fermentation, where did they come from? Many respected naturalists held that they could arise spontaneously, and in 1858 Félix Pouchet published experiments claiming to prove it. Pasteur's answer, compiled in a prize-winning memoir of 1861, used flasks with long, curving necks, an idea of his mentor Antoine-Jérôme Balard. Broth boiled in them and kept from the outside air stayed lifeless for months; once dust from the air reached it, microbes appeared within two or three days. The air, he concluded, carries germs. Pouchet was not instantly silenced, and the argument rumbled on for years.",
+      "The practical results came fast. In 1865 Pasteur patented a way to keep wine from spoiling by heating it to 64 °C for 30 minutes, later called pasteurization (the idea of heating wine went back to Nicolas Appert, and it was first applied to milk by Franz von Soxhlet). He then spent years on the diseases of silkworms, at first wrongly denying that a parasite was to blame.",
+      "His work led the surgeon Joseph Lister to see wound infection as analogous to fermentation. But proving that a particular microbe causes a particular human or animal disease came later, and from Germany: Robert Koch's work on anthrax in 1876."
+    ],
+    "myth": {
+      "tradition": "Pasteur alone discovered that germs cause fermentation and disease, and a single elegant flask experiment instantly killed the idea of spontaneous generation.",
+      "record": "Others had linked microbes to fermentation before him, the flask design came from Balard, and the dispute over spontaneous generation continued into the 1870s. The first proof that a microbe causes a specific disease is usually credited to Koch in 1876."
+    },
+    "links": [
+      {
+        "to": "microscope",
+        "kind": "built-on",
+        "note": "Microscopes had made microbes visible long before Pasteur linked them to fermentation."
+      },
+      {
+        "to": "semmelweis",
+        "kind": "see-also",
+        "note": "Germ theory explained why Semmelweis's chlorine washing had worked."
+      },
+      {
+        "to": "lister",
+        "kind": "led-to",
+        "note": "Lister read Pasteur and turned germ theory into antiseptic surgery."
+      },
+      {
+        "to": "koch",
+        "kind": "led-to",
+        "note": "Koch proved that specific microbes cause specific diseases."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Louis Pasteur: Between Myth and Reality",
+        "author": "Jean-Marc Cavaillon, Sandra Legout",
+        "publisher": "Biomolecules",
+        "year": 2022,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9027159/",
+        "type": "scholarly",
+        "supports": "Lille beet-alcohol producers; precursors on fermentation including Schwann, Cagniard de Latour and Béchamp; Balard's swan-neck flasks; Pouchet; 1865 wine patent at 64 °C for 30 min; Appert and Soxhlet; silkworm disease; spontaneous generation dispute 1861–1879.",
+        "quote": "Pasteur was helped by Balard, who conceived the experiments with the swan neck flasks, which were decisive in demonstrating that there are germs in the air"
+      },
+      {
+        "title": "Louis Pasteur, the father of immunology?",
+        "author": "Kendall A. Smith",
+        "publisher": "Frontiers in Immunology",
+        "year": 2012,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3342039/",
+        "type": "scholarly",
+        "supports": "Presentations beginning 1857 on lactic fermentation; Pouchet's 1858 paper; the 1861 prize-winning memoir; swan-necked flask results (months versus 2–3 days); Lister; Koch's 1876 proof.",
+        "quote": "Pouchet had published an influential paper in 1858 that claimed to offer experimental proof of spontaneous generation."
+      },
+      {
+        "title": "Louis Pasteur, Ignaz Semmelweis, Joseph Lister and the Link Between Their Works Toward the Development of Antisepsis",
+        "author": "Lepenos T et al.",
+        "publisher": "Cureus",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11254094/",
+        "type": "scholarly",
+        "supports": "Pasteur's fermentation and putrefaction work led Lister to antisepsis.",
+        "quote": "Lister, studying the works of Pasteur, realized that inflammation and effusion were phenomena analogous to that of fermentation"
+      }
+    ],
+    "further": [
+      "porter-1997",
+      "bynum-1994"
+    ],
+    "image": {
+      "commons": "File:Louis Pasteur by Nadar.jpg",
+      "alt": "Portrait photograph of Louis Pasteur, bearded, in a dark coat.",
+      "caption": "Louis Pasteur photographed by the Nadar studio in Paris; date unknown."
+    }
+  },
+  {
+    "id": "red-cross-geneva",
+    "title": "The Red Cross and the Geneva Convention",
+    "stream": "bio-public",
+    "tier": 3,
+    "date": {
+      "year": 1864,
+      "display": "22 August 1864"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "The founding meetings of 1863 and the signing of the Geneva Convention on 22 August 1864 are documented by the ICRC and by Dunant's Nobel biography."
+    },
+    "place": "Solferino, Italy, and Geneva, Switzerland",
+    "people": [
+      "Henry Dunant (1828–1910), Swiss businessman and founder of the Red Cross"
+    ],
+    "themes": [
+      "institutions",
+      "ethics"
+    ],
+    "summary": "A Swiss businessman stumbled onto a battlefield strewn with untended wounded, wrote a book about it, and within five years a dozen states had signed a treaty to protect medics.",
+    "body": [
+      "On 24 June 1859 Henry Dunant, a Swiss businessman, reached Solferino in northern Italy after one of the century's bloodiest battles and helped tend the wounded in nearby Castiglione. His book *A Memory of Solferino* (1862) proposed volunteer relief societies in every nation. In February 1863 a Geneva committee of five, the future International Committee of the Red Cross, adopted it, and on 22 August 1864 twelve nations signed the first Geneva Convention, protecting medical staff under a red cross on white. Dunant went bankrupt in 1867 but shared the first Nobel Peace Prize in 1901."
+    ],
+    "links": [
+      {
+        "to": "nightingale",
+        "kind": "see-also",
+        "note": "The Crimean War had already exposed the neglect of wounded soldiers."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Henry Dunant – Biographical",
+        "publisher": "NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/peace/1901/dunant/biographical/",
+        "type": "institutional",
+        "supports": "Water-rights mission to Napoleon III, Solferino, Castiglione, the 1862 book, the committee of five (7 February 1863), the 1863 conference, twelve nations signing on 22 August 1864, bankruptcy in 1867.",
+        "quote": "On August 22, 1864, twelve nations signed an international treaty, commonly known as the Geneva Convention, agreeing to guarantee neutrality to sanitary personnel"
+      },
+      {
+        "title": "Founding and early years of the ICRC (1863-1914)",
+        "publisher": "International Committee of the Red Cross",
+        "url": "https://www.icrc.org/en/document/founding-and-early-years-icrc-1863-1914",
+        "type": "institutional",
+        "supports": "The Geneva working group of February 1863 as the embryo ICRC, the red cross emblem, the 1864 Convention, and the 1901 Nobel Prize shared with Passy.",
+        "quote": "In August 1864, delegates from a dozen countries adopted the first Geneva Convention"
+      },
+      {
+        "title": "Swiss flag or Red Cross emblem: why the confusion?",
+        "author": "Philip F. Stahel",
+        "publisher": "Patient Safety in Surgery",
+        "year": 2013,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3663670/",
+        "type": "scholarly",
+        "supports": "Date of the Battle of Solferino, 24 June 1859.",
+        "quote": "He accidentally witnessed the aftermath of the Battle of Solferino, a small town south to the Lake of Garda, in the evening of June 24, 1859"
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "mendel",
+    "title": "Mendel's peas",
+    "stream": "bio-lab",
+    "tier": 3,
+    "date": {
+      "year": 1866,
+      "display": "1865–1866"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "Mendel's lectures (1865) and paper (1866) survive in print. That his numbers fit his predicted ratios suspiciously well was argued by R. A. Fisher in 1936 and is still debated; the laws themselves are not in doubt."
+    },
+    "place": "Brünn (Brno), Moravia, Austrian Empire",
+    "people": [
+      "Gregor Mendel (1822–1884), Augustinian friar and later abbot",
+      "Carl Nägeli, Swiss botanist who corresponded with him",
+      "Ronald A. Fisher, statistician who questioned the fit of his data in 1936"
+    ],
+    "themes": [
+      "theory"
+    ],
+    "summary": "A friar crossing garden peas found that traits pass down as separate units in predictable ratios. Almost nobody noticed for 34 years.",
+    "body": [
+      "In February and March 1865 the friar Gregor Mendel read two lectures on his crosses of garden peas to the Natural History Society of Brünn (now Brno), which printed them in 1866. Following seven traits, each in two forms, he showed that they were inherited as separate units in predictable ratios. The botanist Carl Nägeli was unimpressed, Mendel became abbot in 1868, and the paper was little read until 1900, when Hugo De Vries, Carl Correns and Erich Tschermak each came across it. In 1936 the statistician R. A. Fisher concluded that the data had been \"falsified so as to agree closely with Mendel's expectations\"; pea geneticists have since disagreed."
+    ],
+    "links": [
+      {
+        "to": "dna-double-helix",
+        "kind": "led-to",
+        "note": "The units Mendel inferred turned out to be stretches of DNA."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Gregor Johann Mendel and the development of modern evolutionary biology",
+        "author": "Stenseth NC, Andersson L, Hoekstra HE",
+        "publisher": "Proceedings of the National Academy of Sciences",
+        "year": 2022,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9335310/",
+        "type": "scholarly",
+        "supports": "Lectures in February and March 1865; publication in 1866; abbot in 1868; rediscovery in 1900.",
+        "quote": "Elected abbot in the Saint Augustine monastery in Brno"
+      },
+      {
+        "title": "Mendel and Darwin",
+        "author": "Andrew Berry, Janet Browne",
+        "publisher": "Proceedings of the National Academy of Sciences",
+        "year": 2022,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9335214/",
+        "type": "scholarly",
+        "supports": "Nägeli's indifference, and De Vries, Correns and Tschermak encountering Mendel's paper in 1900.",
+        "quote": "It is clear from correspondence from 1866 to 1873 that Nägeli was unimpressed by Mendel’s experiments"
+      },
+      {
+        "title": "Mendel: From genes to genome",
+        "author": "Sussmilch FC, Ross JJ, Reid JB",
+        "publisher": "Plant Physiology",
+        "year": 2022,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9706470/",
+        "type": "scholarly",
+        "supports": "Seven two-form characters; Fisher's 1936 claim of falsification and the continuing debate.",
+        "quote": "Fisher (1936) concluded that “the data of most, if not all, of the experiments have been falsified so as to agree closely with Mendel’s expectations.”"
+      }
+    ],
+    "further": []
+  }
+]

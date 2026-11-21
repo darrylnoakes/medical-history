@@ -1,0 +1,732 @@
+[
+  {
+    "id": "influenza-1918",
+    "title": "The 1918 influenza pandemic",
+    "stream": "bio-public",
+    "tier": 1,
+    "date": {
+      "year": 1918,
+      "end": 1919,
+      "display": "1918–1919"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "The pandemic's waves are well documented in contemporary mortality records. Two things remain contested: where it began (Kansas, a British army base in France and China have all been proposed, and the evidence cannot settle it) and how many it killed, with serious estimates running from about 17 million to 100 million."
+    },
+    "place": "Worldwide; first well described in the United States, March 1918",
+    "people": [
+      "John M. Barry, historian who argues for an origin in Haskell County, Kansas",
+      "Jeffery Taubenberger, pathologist whose team sequenced the virus from preserved tissue"
+    ],
+    "themes": [
+      "public-health"
+    ],
+    "summary": "A new flu virus circled the world in three waves, killing young adults in their prime. Nobody knows where it began, or exactly how many it killed.",
+    "body": [
+      "In the spring of 1918 a new influenza virus began moving through army camps and cities. Within about a year it had swept across Europe, Asia and North America in three distinct waves, the first best described in the United States in March 1918. The second wave, in the autumn of 1918, was far deadlier than the first and accounted for most of the deaths. An estimated 500 million people were infected, roughly a third of the world's population, and more than 2.5% of those who fell ill died, against less than 0.1% in other influenza pandemics.",
+      "What made it uniquely frightening was who died. Influenza normally kills the very young and the very old; in 1918 the death curve gained a third peak among adults of about 20 to 40. Many victims died of bacterial pneumonia that followed the viral infection, in an age with no antibiotics and no flu vaccine.",
+      "The name \"Spanish flu\" is an accident of war. Spain was neutral, so its newspapers reported the epidemic freely while the warring nations censored theirs, and the disease seemed to come from there. Its true birthplace is unknown. The historian John Barry argues for Haskell County, Kansas, in January 1918; the virologist John Oxford pointed to a British army base in France in 1916; others suggested China. Two leading researchers concluded that the historical and genetic evidence cannot identify the origin.",
+      "The death toll is just as uncertain. The figure most often quoted is about 50 million, and some estimates run to 100 million; a 2018 reanalysis of national mortality data arrived at 17.4 million.",
+      "The virus itself was recovered decades later. Fragments of its genetic material survived in preserved tissue from people who died in 1918, and in 2005 researchers announced that they had used them to rebuild the complete virus. Almost all influenza A infections since 1918 have been caused by its descendants."
+    ],
+    "myth": {
+      "tradition": "The \"Spanish flu\" started in Spain.",
+      "record": "Spain was simply the country whose uncensored wartime press reported it most openly. Where the virus first emerged is unknown; Kansas, France and China have all been proposed."
+    },
+    "links": [
+      {
+        "to": "viruses-discovered",
+        "kind": "see-also",
+        "note": "In 1918 nobody could yet see or culture the virus responsible."
+      },
+      {
+        "to": "covid-19",
+        "kind": "see-also",
+        "note": "The pandemic most often compared with 1918."
+      },
+      {
+        "to": "penicillin",
+        "kind": "see-also",
+        "note": "Antibiotics later tamed the bacterial pneumonias that killed many flu victims."
+      }
+    ],
+    "sources": [
+      {
+        "title": "1918 Influenza: the Mother of All Pandemics",
+        "author": "Jeffery K. Taubenberger and David M. Morens",
+        "publisher": "Emerging Infectious Diseases",
+        "year": 2006,
+        "url": "https://wwwnc.cdc.gov/eid/article/12/1/05-0979_article",
+        "type": "scholarly",
+        "supports": "Three waves, first described in the US in March 1918; case-fatality above 2.5% against below 0.1%; about 50 and up to 100 million deaths; W-shaped age curve peaking at 20–40; origin unknown; later influenza A descended from the 1918 virus.",
+        "quote": "Historical and epidemiologic data are inadequate to identify the geographic origin of the virus"
+      },
+      {
+        "title": "A year of terror and a century of reflection: perspectives on the great influenza pandemic of 1918–1919",
+        "author": "Shanna Shanks et al.",
+        "publisher": "BMC Infectious Diseases",
+        "year": 2019,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6364422/",
+        "type": "scholarly",
+        "supports": "Spain's neutral press and the name; 500 million infections, about a third of the world; deadliest second wave; secondary bacterial infection in fatal cases; reconstruction announced in 2005.",
+        "quote": "as Spain was a neutral party in the War, newspapers were able to report on the devastating effects that the 1918 pandemic virus was exhibiting in Spain"
+      },
+      {
+        "title": "The site of origin of the 1918 influenza pandemic and its public health implications",
+        "author": "John M. Barry",
+        "publisher": "Journal of Translational Medicine",
+        "year": 2004,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC340389/",
+        "type": "scholarly",
+        "supports": "The Haskell County hypothesis, and the rival French (Oxford, 1916) and Chinese hypotheses.",
+        "quote": "the most likely site of origin was Haskell County, Kansas, an isolated and sparsely populated county in the southwest corner of the state, in January 1918"
+      },
+      {
+        "title": "Reassessing the Global Mortality Burden of the 1918 Influenza Pandemic",
+        "author": "Peter Spreeuwenberg, Madelon Kroneman and John Paget",
+        "publisher": "American Journal of Epidemiology",
+        "year": 2018,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7314216/",
+        "type": "scholarly",
+        "supports": "Prior estimates of 50–100 million and the lower reanalysis of 17.4 million deaths.",
+        "quote": "the global death impact of the 1918 pandemic was important but not as severe as most frequently cited estimates",
+        "manualCheck": "PubMed Central was turning away automated readers when this site was built, so the script could not re-fetch the page; the passage was confirmed in the copy of the article downloaded during research."
+      },
+      {
+        "title": "Reconstruction of the 1918 Influenza Virus: Unexpected Rewards from the Past",
+        "author": "Jeffery K. Taubenberger et al.",
+        "publisher": "mBio",
+        "year": 2012,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3448162/",
+        "type": "scholarly",
+        "supports": "Viral RNA recovered from preserved tissue of 1918 victims and used to reconstruct the complete virus.",
+        "quote": "these viral RNA sequences permitted eventual reconstruction of the complete 1918 virus"
+      }
+    ],
+    "further": [
+      "barry-2004",
+      "snowden-2019"
+    ],
+    "image": {
+      "commons": "File:Emergency hospital during Influenza epidemic, Camp Funston, Kansas - NCP 1603.jpg",
+      "alt": "Long rows of beds with patients in a large hall serving as an emergency hospital.",
+      "caption": "Emergency hospital for influenza patients at Camp Funston, Kansas, about 1918. Funston was an army training camp in Kansas hit by the epidemic. National Museum of Health and Medicine."
+    }
+  },
+  {
+    "id": "insulin",
+    "title": "Insulin",
+    "stream": "bio-drugs",
+    "tier": 1,
+    "date": {
+      "year": 1922,
+      "display": "1921–1922; first successful injection 23 January 1922"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "Laboratory notebooks, letters and hospital records in Toronto document the work day by day. What is argued over is credit: the Nobel committee honored two of the four Toronto researchers, and earlier extracts made elsewhere, notably Paulescu's in Bucharest, have their champions."
+    },
+    "place": "University of Toronto and Toronto General Hospital, Canada",
+    "people": [
+      "Frederick Banting (1891–1941), surgeon who proposed the research",
+      "Charles Best (1899–1978), recent physiology graduate and Banting's assistant",
+      "James Bertram Collip, biochemist who purified the extract",
+      "J. J. R. Macleod, professor of physiology who directed the laboratory",
+      "Leonard Thompson, the first patient treated",
+      "Nicolae Paulescu (1869–1931), Romanian physiologist with a rival claim"
+    ],
+    "themes": [
+      "drugs",
+      "practice"
+    ],
+    "summary": "In a Toronto winter a starving diabetic boy got a pancreas extract that worked. Four men made it happen, two got the Nobel, and the credit fight never quite ended.",
+    "body": [
+      "Before insulin, a child with what is now called type 1 diabetes faced a slow death that doctors could only delay by near-starvation. When Leonard Thompson was admitted to Toronto General Hospital in December 1921 he weighed only 65 pounds and was being fed 450 calories a day.",
+      "The idea behind his rescue came from Frederick Banting, a surgeon and part-time demonstrator in London, Ontario, who persuaded J. J. R. Macleod, a leading expert on carbohydrate metabolism at the University of Toronto, to give him space, dogs and an assistant, Charles Best, a recent physiology graduate. In December 1921 James Collip, a biochemist on sabbatical from the University of Alberta, joined them to help purify the extracts they were making from the pancreas.",
+      "On 11 January 1922 Thompson received Banting and Best's extract. Nothing improved, and an abscess formed where it went in. Collip, in a burst of work between 12 December and 19 January, found how to trap the hormone in a purer form using alcohol, and on 23 January his extract brought Thompson's blood sugar down dramatically. Production was soon handed to the Connaught Laboratories and Eli Lilly, and the patent was sold to the University of Toronto for a token $1.",
+      "The 1923 Nobel Prize went to Banting and Macleod. Banting, furious at sharing it with Macleod, announced that he would split his money with Best; Macleod then split his with Collip. Historians, following Michael Bliss's 1982 account, now credit all four.",
+      "Toronto was not alone. Macleod reckoned there had been about 400 earlier attempts at a pancreatic treatment, and Nicolae Paulescu in Bucharest had published results with a pancreatic extract he called pancreina in 1921. Toronto's achievement was an extract safe and reliable enough to keep people alive. Paulescu's claim has been complicated by his role in founding far-right, antisemitic political organizations; a tribute to his scientific work planned for Paris in 2003 was cancelled after the Simon Wiesenthal Center accused him of antisemitism."
+    ],
+    "myth": {
+      "tradition": "Banting and Best discovered insulin.",
+      "record": "It was a four-person effort: Collip's purification turned the extract into a usable drug and Macleod directed the work. Several researchers abroad, including Paulescu, had earlier made extracts that lowered blood sugar in animals."
+    },
+    "links": [
+      {
+        "to": "hormones",
+        "kind": "built-on",
+        "note": "Insulin was one of the first hormones to be turned into a treatment."
+      },
+      {
+        "to": "glp1-drugs",
+        "kind": "led-to",
+        "note": "A century later, another gut and pancreas hormone became a blockbuster drug."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Rethinking the \"discovery\" of insulin",
+        "author": "Alison Li",
+        "publisher": "CMAJ",
+        "year": 2021,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8562980/",
+        "type": "scholarly",
+        "supports": "Collip's 42 days of work; the failed 11 January and successful 23 January injections; Bliss's four-person account; Macleod's estimate of about 400 earlier attempts including Paulescu's.",
+        "quote": "This was the feat that Collip managed to accomplish in a flurry of activity over a remarkable 42 days from Dec. 12, 1921, to Jan. 19, 1922."
+      },
+      {
+        "title": "Biography: Banting — The Discovery and Early Development of Insulin",
+        "publisher": "University of Toronto Libraries",
+        "url": "https://collections.library.utoronto.ca/explore/insulin/about/banting",
+        "type": "institutional",
+        "supports": "Banting's London, Ontario background; Macleod as a leading specialist on carbohydrate metabolism who provided laboratory space, dogs and Best as assistant.",
+        "quote": "Miller referred Banting to one of the leading specialists on carbohydrate metabolism: Prof. J.J.R. Macleod, then at the University of Toronto."
+      },
+      {
+        "title": "Biography: Collip — The Discovery and Early Development of Insulin",
+        "publisher": "University of Toronto Libraries",
+        "url": "https://collections.library.utoronto.ca/explore/insulin/about/collip",
+        "type": "institutional",
+        "supports": "Collip's extract was the one given successfully to Thompson on 23 January 1922; Collip joined in December 1921.",
+        "quote": "It was his extract that was injected the second, successful, time into Leonard Thompson on 23 January 1922."
+      },
+      {
+        "title": "From a Patient's Point of View — The Discovery and Early Development of Insulin",
+        "publisher": "University of Toronto Libraries",
+        "url": "https://collections.library.utoronto.ca/explore/insulin/about/patients",
+        "type": "institutional",
+        "supports": "Thompson's weight and starvation diet on admission in December 1921.",
+        "quote": "Leonard Thompson weighed only 65 pounds at the age of 14 when he was admitted to the Toronto General Hospital in December 1921"
+      },
+      {
+        "title": "Frederick Banting, Charles Best, James Collip, and John Macleod",
+        "publisher": "Science History Institute",
+        "url": "https://www.sciencehistory.org/education/scientific-biographies/frederick-banting-charles-best-james-collip-and-john-macleod/",
+        "type": "institutional",
+        "supports": "The 1923 Nobel Prize to Banting and Macleod and the splitting of the prize money with Best and Collip.",
+        "quote": "Banting, outraged that Macleod was chosen to share the prize with him, immediately announced that he would split his winnings with Best."
+      },
+      {
+        "title": "Following in Banting's footsteps or straying from the path? Observations from contemporary diabetes innovation",
+        "publisher": "Frontiers in Endocrinology",
+        "year": 2023,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10686253/",
+        "type": "scholarly",
+        "supports": "The insulin patent sold to the University of Toronto for $1.",
+        "quote": "leading to the insulin patent being sold to the University of Toronto for a mere $1"
+      },
+      {
+        "title": "On the occasion of the centennial of the Nobel Prize in Physiology or Medicine, 1923: Nicolae C. Paulescu — between scientific merits and antisemitism",
+        "author": "Alberto de Leiva-Hidalgo et al.",
+        "publisher": "Acta Diabetologica",
+        "year": 2023,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10520201/",
+        "type": "scholarly",
+        "supports": "Paulescu's extract 'pancreina' and his priority claim; his antisemitic political activity and the cancelled 2003 Paris tribute.",
+        "quote": "Paulescu participated in the creation of political organizations of the most radical extreme right that played a fundamental role in the spread of antisemitism"
+      },
+      {
+        "title": "Biography: Best — The Discovery and Early Development of Insulin",
+        "publisher": "University of Toronto Libraries",
+        "url": "https://collections.library.utoronto.ca/explore/insulin/about/best",
+        "type": "institutional",
+        "supports": "Best graduated in physiology and biochemistry in spring 1921 and worked as Macleod's research assistant (not a medical student).",
+        "quote": "In the spring of 1921, Best and Noble graduated from the Physiology and Biochemistry course."
+      }
+    ],
+    "further": [
+      "bliss-1982"
+    ],
+    "image": {
+      "commons": "File:C. H. Best and F. G. Banting ca. 1924.png",
+      "alt": "Two men in suits, Charles Best and Frederick Banting, photographed together.",
+      "caption": "Charles Best and Frederick Banting, about 1924, from Banting's scrapbook in the University of Toronto's Thomas Fisher Rare Book Library."
+    }
+  },
+  {
+    "id": "bcg",
+    "title": "BCG vaccine",
+    "stream": "bio-drugs",
+    "tier": 3,
+    "date": {
+      "year": 1921,
+      "display": "July 1921"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "The first vaccination in July 1921 and the 1930 Lübeck disaster are both well documented; a detailed official investigation of Lübeck was published at the time."
+    },
+    "place": "Pasteur Institute, Paris; Lübeck, Germany",
+    "people": [
+      "Albert Calmette, bacteriologist at the Pasteur Institute",
+      "Camille Guérin, his collaborator"
+    ],
+    "themes": [
+      "drugs",
+      "public-health"
+    ],
+    "summary": "Two Pasteur Institute scientists tamed a cattle germ over 13 years to make a tuberculosis vaccine. A deadly mix-up in Lübeck nearly sank it.",
+    "body": [
+      "At the Pasteur Institute, Albert Calmette and Camille Guérin spent 13 years passing a strain of *Mycobacterium bovis*, the agent of cattle tuberculosis, through more than 200 subcultures containing bile until it no longer caused disease. In July 1921 the first newborn was vaccinated: a baby whose mother had died of tuberculosis and who faced being raised by an infected grandmother. In 1930 in Lübeck, 251 babies were given vaccine accidentally contaminated with virulent human tuberculosis bacilli cultured in the vaccine laboratory; 72 died of it. Investigators showed the fault was the contamination, not BCG."
+    ],
+    "links": [
+      {
+        "to": "koch",
+        "kind": "built-on",
+        "note": "Koch had identified the tuberculosis bacillus in 1882."
+      },
+      {
+        "to": "pasteur-vaccines",
+        "kind": "built-on",
+        "note": "Weakening a germ in the laboratory was Pasteur's method."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Que reste-t-il du BCG 100 ans après ? (BCG: 100 years later)",
+        "publisher": "Médecine et Maladies Infectieuses Formation",
+        "year": 2022,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9181895/",
+        "type": "scholarly",
+        "supports": "About 230 passages; first newborn vaccinated in July 1921, whose mother had died of tuberculosis and grandmother was consumptive.",
+        "quote": "Il faudra attendre juillet 1921 pour qu'un premier nouveau-né soit vacciné"
+      },
+      {
+        "title": "One hundred years of BCG: the journey of tuberculosis vaccination in Brazil",
+        "publisher": "Frontiers in Immunology",
+        "year": 2025,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12518289/",
+        "type": "scholarly",
+        "supports": "Calmette and Guérin at the Pasteur Institute attenuated M. bovis over 13 years of serial passage in bile; first given to humans in 1921.",
+        "quote": "Over the course of 13 years, they subjected the bacterium to 231 serial passages in subcultures containing bile"
+      },
+      {
+        "title": "Tuberculosis in Newborns: The Lessons of the \"Lübeck Disaster\" (1929–1933)",
+        "author": "Gregory P. Fox, Marcel A. Behr et al.",
+        "publisher": "PLoS Pathogens",
+        "year": 2016,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4721647/",
+        "type": "scholarly",
+        "supports": "251 newborns given contaminated vaccine in 1930; 72 deaths from TB; contamination with a laboratory strain, not reversion of BCG.",
+        "quote": "A total of 173 infants developed clinical or radiological signs of TB but survived the infection, while 72 died from TB."
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "eeg",
+    "title": "Berger records the brain's rhythms",
+    "stream": "bio-mind",
+    "tier": 3,
+    "date": {
+      "year": 1924,
+      "display": "6 July 1924; published 1929"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "Berger's 1929 paper fixes the publication date, and a modern biographical account gives 6 July 1924 for his first recorded current, so the 1924 date rests on later retelling of his lab records. Electrical activity had been recorded from animal brains since Caton in 1875."
+    },
+    "place": "Jena, Germany",
+    "people": [
+      "Hans Berger (1873–1941), psychiatrist at the University of Jena",
+      "Richard Caton, Liverpool physiologist who recorded animal brain currents in 1875"
+    ],
+    "themes": [
+      "technology",
+      "mind"
+    ],
+    "summary": "A Jena psychiatrist chasing the physics of telepathy picked up faint electrical waves from the human head, then worked in near-isolation for five years before publishing.",
+    "body": [
+      "Hans Berger, a psychiatrist in Jena who had long hoped to find a physical basis for what he called telepathy, detected a feeble current from electrodes around a scar on a patient's scalp on 6 July 1924. Working alone in the evenings, he refined the method for five years before publishing in 1929. He described the alpha rhythm and its blocking when the eyes open. Animal brain currents had been recorded since Richard Caton in 1875, but Berger's human traces gained little acknowledgment until 1934, when Edgar Adrian and Brian Matthews, who had set out to show they were artifacts, reproduced them."
+    ],
+    "links": [
+      {
+        "to": "ecg",
+        "kind": "see-also",
+        "note": "The same string-galvanometer technology had already recorded the heart."
+      }
+    ],
+    "sources": [
+      {
+        "title": "An appraisal to Hans Berger by the time of his 150th birthday: the human EEG and tales of blood flow, heat and brain waves",
+        "publisher": "Arquivos de Neuro-Psiquiatria",
+        "year": 2023,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10756801/",
+        "type": "scholarly",
+        "supports": "Telepathy motive; first current on 6 July 1924 around a scalp scar; evening work and 1929 publication; alpha rhythm and blocking; Adrian and Matthews's confirmation.",
+        "quote": "Berger worked in the evening between 5:00 and 8:00 p.m. in almost complete isolation and perfected his method for five years before publishing his first report on human EEG in 1929"
+      },
+      {
+        "title": "Adolf Beck: A pioneer in electroencephalography in between Richard Caton and Hans Berger",
+        "author": "Anton M. L. Coenen, Edward Fine and Oksana Zayachkivska",
+        "publisher": "Advances in Cognitive Psychology",
+        "year": 2014,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3902832/",
+        "type": "scholarly",
+        "supports": "Caton's 1875 recording from animal brains as the first description of the EEG.",
+        "quote": "it is now generally accepted that his short note from 1875 contains the first description of the electroencephalogram"
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "eugenics",
+    "title": "Eugenics and forced sterilization",
+    "stream": "bio-public",
+    "tier": 2,
+    "date": {
+      "year": 1927,
+      "display": "1907–1970s; Buck v. Bell, 2 May 1927"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "The laws, the Supreme Court opinion and the Nazi programs are documented in official records. National totals of sterilizations and killings are reconstructions from incomplete records, so figures are rounded."
+    },
+    "place": "United States, Germany and Scandinavia",
+    "people": [
+      "Francis Galton, English scientist and Darwin's cousin, credited with the word eugenics",
+      "Carrie Buck, the first person sterilized under Virginia's law",
+      "Oliver Wendell Holmes Jr., Supreme Court justice who wrote the Buck v. Bell opinion"
+    ],
+    "themes": [
+      "ethics",
+      "public-health"
+    ],
+    "summary": "Mainstream science once held that the 'unfit' should be stopped from having children. Courts agreed, states sterilized, and Nazi Germany went on to murder.",
+    "body": [
+      "The word \"eugenics\" is credited to Francis Galton, Darwin's cousin, and by the early twentieth century the movement had spread across Europe and North America as respectable science. Indiana passed the first compulsory sterilization law in 1907; by 1937 thirty-two American states had them. In *Buck v. Bell*, decided on 2 May 1927, the US Supreme Court upheld Virginia's law by eight votes to one, Justice Oliver Wendell Holmes writing that \"three generations of imbeciles are enough.\" Carrie Buck was sterilized. The historian Paul Lombardo later found she had done adequately at school and had become pregnant after being raped by her foster mother's nephew.",
+      "Germany's sterilization law of 14 July 1933 was followed by the sterilization of some 400,000 people before the Second World War. From 1939 the regime moved to killing: under Aktion T4, almost 70,000 disabled people had been murdered by the time the program was officially halted in August 1941, and the killing continued unofficially until the end of the war. Denmark, Finland, Iceland, Norway and Sweden also passed sterilization laws in the 1930s; compensation has since been paid to victims."
+    ],
+    "myth": {
+      "tradition": "Carrie Buck was feeble-minded, the daughter of a feeble-minded mother and the mother of a feeble-minded child, as the Supreme Court said.",
+      "record": "Her school records were adequate, her daughter later made the honor roll, and her pregnancy resulted from rape. The case was built to test the law, not to establish facts about her."
+    },
+    "links": [
+      {
+        "to": "mendel",
+        "kind": "built-on",
+        "note": "Eugenicists claimed the authority of the new science of heredity."
+      },
+      {
+        "to": "tuskegee",
+        "kind": "see-also",
+        "note": "Another state-backed abuse of people deemed expendable."
+      },
+      {
+        "to": "nuremberg-code",
+        "kind": "led-to",
+        "note": "The Nazi doctors' trial, which grew out of the regime's medical crimes, produced the Code."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Buck v. Bell, 274 U.S. 200 (1927)",
+        "author": "Oliver Wendell Holmes Jr.",
+        "publisher": "Legal Information Institute, Cornell Law School",
+        "url": "https://www.law.cornell.edu/supremecourt/text/274/200",
+        "type": "primary",
+        "supports": "Decision date 2 May 1927; the court's description of Carrie Buck; 'Three generations of imbeciles are enough.'",
+        "quote": "Carrie Buck is a feeble-minded white woman who was committed to the State Colony above mentioned in due form"
+      },
+      {
+        "title": "Buck v. Bell (1927)",
+        "publisher": "The Embryo Project Encyclopedia, Arizona State University",
+        "url": "https://embryo.asu.edu/pages/buck-v-bell-1927",
+        "type": "reference",
+        "supports": "Eight-to-one decision; Carrie Buck the first sterilized under the Virginia law; Lombardo's findings about her school record, her daughter and the rape.",
+        "quote": "Lombardo interviewed Carrie in 1983, shortly before her death. He confirmed that she had been raped, inquired about her grades"
+      },
+      {
+        "title": "Republicans, Democrats, & Doctors: The Lawmakers Who Wrote Sterilization Laws",
+        "author": "Paul A. Lombardo",
+        "publisher": "Journal of Law, Medicine & Ethics",
+        "year": 2023,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10209985/",
+        "type": "scholarly",
+        "supports": "Indiana's 1907 law as the first; thirty-two state laws by 1937.",
+        "quote": "Between 1907 and 1937, thirty-two states passed eugenical sterilization laws that allowed physicians in state institutions to operate on patients without their consent."
+      },
+      {
+        "title": "Kallmann Syndrome: Eugenics and the Man behind the Eponym",
+        "publisher": "Rambam Maimonides Medical Journal",
+        "year": 2016,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4839542/",
+        "type": "scholarly",
+        "supports": "Galton credited with the term; the movement's spread; the 14 July 1933 German law; some 400,000 sterilized; Aktion T4 halted officially in August 1941 after almost 70,000 deaths, with killing continuing unofficially.",
+        "quote": "In the six years before World War II, Nazi doctors sterilized some 400,000 people, mostly German citizens living in asylums."
+      },
+      {
+        "title": "Race biology",
+        "author": "Ulf Lagerkvist et al.",
+        "publisher": "Hereditas",
+        "year": 2020,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7690032/",
+        "type": "scholarly",
+        "supports": "Nordic sterilization laws of the 1930s and compensation of victims.",
+        "quote": "The sterilization policies are now seen as a major human tragedy: compensation is paid to its victims."
+      }
+    ],
+    "further": [],
+    "image": {
+      "commons": "File:Carrie and Emma Buck, 1924.jpg",
+      "alt": "A young woman and an older woman sitting side by side outdoors.",
+      "caption": "Carrie Buck and her mother Emma at the Virginia Colony for Epileptics and Feebleminded, photographed in November 1924 by A. H. Estabrook before the Buck v. Bell trial."
+    }
+  },
+  {
+    "id": "penicillin",
+    "title": "Penicillin",
+    "stream": "bio-drugs",
+    "tier": 1,
+    "date": {
+      "year": 1928,
+      "end": 1945,
+      "display": "1928 (Fleming's observation) to 1945 (Nobel Prize)"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "Fleming's 1929 paper, the Oxford team's Lancet papers of 1940–41 and wartime production records document the story well. The dispute is over credit, which popular accounts long gave almost entirely to Fleming."
+    },
+    "place": "St Mary's Hospital, London; Oxford; Peoria, Illinois",
+    "people": [
+      "Alexander Fleming (1881–1955), bacteriologist at St Mary's Hospital",
+      "Howard Florey, who led the Oxford team",
+      "Ernst Chain, biochemist who purified penicillin",
+      "Norman Heatley, who worked out how to grow the mold in quantity",
+      "Andrew Jackson Moyer, US Department of Agriculture scientist in Peoria"
+    ],
+    "themes": [
+      "drugs",
+      "technology"
+    ],
+    "summary": "A stray mold on a London culture plate took twelve years, an Oxford team and an Illinois corn by-product to become the drug that changed medicine.",
+    "body": [
+      "In 1928 Alexander Fleming, a bacteriologist at St Mary's Hospital in London, noticed that a mold contaminating one of his staphylococcus plates had cleared a zone around itself where bacteria would not grow. He identified it as a *Penicillium*, named its active substance penicillin and published in 1929. But he could not purify the unstable compound, and for a decade almost nothing happened.",
+      "In 1939 Howard Florey assembled a team at Oxford. Ernst Chain purified penicillin, and Norman Heatley found ways to grow the mold in bulk. In their key experiment, eight mice were infected with streptococci and four were given penicillin; by morning the untreated mice were dead and the treated ones alive. The results appeared in *The Lancet* in August 1940. In February 1941 an Oxford policeman with abscesses all over his body became the first patient; he improved startlingly, but the supply ran out and he died weeks later.",
+      "Wartime Britain could not manufacture the drug, so in June 1941 Florey and Heatley took the mold to the US Department of Agriculture laboratory in Peoria, Illinois. There Andrew Moyer suggested growing it in corn steep liquor, a cheap waste product of cornstarch making, and a strain from a moldy cantaloupe proved six times more productive than Fleming's. At the end of 1942 there was enough penicillin for fewer than 100 patients; by September 1943, enough for the Allied armed forces.",
+      "Fleming became the public face of the drug after treating a dying patient in 1942 with Oxford-made penicillin and talking freely to the press, while Florey forbade his team to give interviews. The 1945 Nobel Prize went jointly to Fleming, Chain and Florey. Fleming was also not the first to report that molds can act against bacteria: in 1895 the Italian naval physician Vincenzo Tiberio had published on the antibacterial effects of mold extracts."
+    ],
+    "myth": {
+      "tradition": "Alexander Fleming discovered penicillin and gave the world its first antibiotic.",
+      "record": "Fleming observed the effect and named the substance, but turning it into a medicine was the work of the Oxford team under Florey and of American government and industrial laboratories. Fleming's outsized fame owed much to wartime publicity."
+    },
+    "links": [
+      {
+        "to": "salvarsan",
+        "kind": "built-on",
+        "note": "Ehrlich's 'magic bullet' was the dream penicillin finally realized for bacterial infections."
+      },
+      {
+        "to": "sulfa",
+        "kind": "see-also",
+        "note": "The sulfa drugs reached patients first and revived interest in antibacterial chemotherapy."
+      },
+      {
+        "to": "streptomycin-rct",
+        "kind": "led-to",
+        "note": "Penicillin's success launched the hunt for more antibiotics."
+      },
+      {
+        "to": "antimicrobial-resistance",
+        "kind": "led-to",
+        "note": "Bacteria began evolving resistance almost as soon as antibiotics were used."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Discovery of Penicillin—New Insights After More Than 75 Years of Clinical Use",
+        "author": "Robert Gaynes",
+        "publisher": "Emerging Infectious Diseases",
+        "year": 2017,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5403050/",
+        "type": "scholarly",
+        "supports": "Fleming's observation and 1929 paper; Florey's team; mouse experiment; August 1940 Lancet paper; February 1941 policeman; Peoria, corn steep liquor and the cantaloupe strain; supplies in 1942–43; the press and the Fleming myth.",
+        "quote": "Florey not only did not speak with the press but prohibited any member of the Oxford team from giving interviews, leading many to erroneously believe that Fleming alone was responsible for penicillin."
+      },
+      {
+        "title": "Sir Alexander Fleming — Biographical",
+        "publisher": "NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/medicine/1945/fleming/biographical/",
+        "type": "institutional",
+        "supports": "The 1928 observation of mold on a staphylococcus plate at St Mary's.",
+        "quote": "In 1928, while working on influenza virus, he observed that mould had developed accidently on a staphylococcus culture plate"
+      },
+      {
+        "title": "The Nobel Prize in Physiology or Medicine 1945",
+        "publisher": "NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/medicine/1945/summary/",
+        "type": "institutional",
+        "supports": "The 1945 prize shared by Fleming, Chain and Florey.",
+        "quote": "awarded jointly to Sir Alexander Fleming, Ernst Boris Chain and Sir Howard Walter Florey"
+      },
+      {
+        "title": "The penicillin revolution and the role of the forgotten pioneer Vincenzo Tiberio (1869–1915)",
+        "publisher": "Journal of Preventive Medicine and Hygiene",
+        "year": 2025,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12606539/",
+        "type": "scholarly",
+        "supports": "Tiberio's 1895 report on antibacterial mold extracts.",
+        "quote": "In 1895, Vincenzo Tiberio published a study on the antimicrobial effects of mold"
+      }
+    ],
+    "further": [
+      "porter-1997"
+    ],
+    "image": {
+      "commons": "File:Sample of penicillin mould presented by Alexander Fleming to Douglas Macleod, 1935 (9672239344).jpg",
+      "alt": "A small round glass dish containing a dried disc of mold, mounted for display.",
+      "caption": "A sample of penicillin mold that Alexander Fleming gave to Douglas Macleod in 1935, years before anyone could make the drug in quantity. Science Museum, London."
+    }
+  },
+  {
+    "id": "iron-lung",
+    "title": "The iron lung",
+    "stream": "bio-surgery",
+    "tier": 3,
+    "date": {
+      "year": 1929,
+      "display": "1929"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "The machine's design and first clinical use were published in 1929. It was not the first body-enclosing respirator: Drinker's patents were overturned because such devices went back to 1864."
+    },
+    "place": "Harvard School of Public Health and Boston, Massachusetts",
+    "people": [
+      "Philip Drinker (1894–1972), Harvard engineer",
+      "Louis A. Shaw, Harvard physiologist",
+      "Charles F. McKhann III, pediatrician",
+      "John Haven Emerson (1906–1997), maker of a cheaper rival machine"
+    ],
+    "themes": [
+      "technology",
+      "practice"
+    ],
+    "summary": "A sealed metal tank that breathed for paralyzed patients set off a patent fight that turned on an 1864 precedent.",
+    "body": [
+      "In 1929 Philip Drinker and Louis Shaw of the Harvard School of Public Health published the design of a negative-pressure respirator, a sealed tank enclosing the body, for keeping patients breathing over long periods. That year Drinker and the pediatrician Charles McKhann reported using it on a young polio patient. A Drinker machine cost around $3,600. John Haven Emerson built a quieter, simpler and cheaper one; when Drinker sued, his patents were declared invalid because body-enclosing respirators dated back to 1864."
+    ],
+    "links": [
+      {
+        "to": "polio-vaccine",
+        "kind": "see-also",
+        "note": "Vaccines finally emptied the iron-lung wards."
+      },
+      {
+        "to": "intensive-care",
+        "kind": "led-to",
+        "note": "Respirator wards for polio patients were a forerunner of intensive care."
+      }
+    ],
+    "sources": [
+      {
+        "title": "An apparatus for the prolonged administration of artificial respiration: I. A design for adults and children",
+        "author": "Philip Drinker and Louis A. Shaw",
+        "publisher": "Journal of Clinical Investigation",
+        "year": 1929,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC434785/",
+        "type": "primary",
+        "supports": "The 1929 publication of the respirator design by Drinker and Shaw at the Harvard School of Public Health.",
+        "quote": "AN APPARATUS FOR THE PROLONGED ADMINISTRATION OF ARTIFICIAL RESPIRATION I. A Design for Adults and Children"
+      },
+      {
+        "title": "John Haven Emerson (1906–1997): The Ultimate Pioneer of the \"Iron Lung\"",
+        "publisher": "Cureus",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11496925/",
+        "type": "scholarly",
+        "supports": "Drinker and McKhann's 1929 use on a young polio patient; the $3,600 price; Emerson's cheaper machine; Drinker's patents invalidated; Jones's 1864 respirator.",
+        "quote": "Drinker’s patents were declared invalid due to a lack of originality in the invention"
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "cardiac-catheter",
+    "title": "Forssmann catheterizes his own heart",
+    "stream": "bio-surgery",
+    "tier": 3,
+    "date": {
+      "year": 1929,
+      "display": "1929"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "Forssmann published the self-experiment in 1929 with an X-ray image, and the Nobel Foundation's account confirms it. Retellings disagree on details such as the type of tube and whether the nurse helped him or was restrained."
+    },
+    "place": "August Victoria Home, Eberswalde, near Berlin",
+    "people": [
+      "Werner Forssmann (1904–1979), surgical trainee",
+      "André Cournand and Dickinson Richards, New York physicians who developed the method"
+    ],
+    "themes": [
+      "surgery",
+      "technology"
+    ],
+    "summary": "A young German doctor pushed a tube up his own arm vein into his heart, then walked to X-ray to prove it. Recognition took 27 years.",
+    "body": [
+      "In 1929, as a surgical trainee at Eberswalde near Berlin, Werner Forssmann passed a catheter 65 cm up a vein in his own arm, then walked to the X-ray department and photographed its tip in his heart's right atrium. He suggested such catheters could measure pressures and deliver contrast dye. His work was only moderately appreciated by colleagues and he went on to train in urology, while André Cournand and Dickinson Richards in New York made catheterization a clinical tool; all three shared the 1956 Nobel Prize."
+    ],
+    "myth": {
+      "tradition": "Forssmann strapped the nurse who was supposed to help him to the table, then catheterized himself.",
+      "record": "Published accounts disagree: some say he restrained the nurse, others that she cooperated. Only the self-experiment itself and the X-ray are well documented."
+    },
+    "links": [
+      {
+        "to": "heart-lung-machine",
+        "kind": "see-also",
+        "note": "Catheter diagnosis helped make open-heart surgery possible."
+      },
+      {
+        "to": "ecg",
+        "kind": "see-also",
+        "note": "Another way into the living heart, by its electricity rather than its chambers."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Werner Forssmann — Biographical",
+        "publisher": "NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/medicine/1956/forssmann/biographical/",
+        "type": "institutional",
+        "supports": "1929 at Eberswalde; catheter passed 65 cm through his own arm vein; walk to X-ray; image in right atrium; later urology.",
+        "quote": "This he did by inserting a cannula into his own antecubital vein, through which he passed a catheter for 65 cm and then walked to the X-ray department"
+      },
+      {
+        "title": "The Nobel Prize in Physiology or Medicine 1956",
+        "publisher": "NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/medicine/1956/summary/",
+        "type": "institutional",
+        "supports": "The 1956 prize shared by Cournand, Forssmann and Richards.",
+        "quote": "for their discoveries concerning heart catheterization and pathological changes in the circulatory system"
+      },
+      {
+        "title": "High technology in medicine: lessons from cardiovascular innovations and future perspective",
+        "publisher": "Rambam Maimonides Medical Journal",
+        "year": 2013,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3678832/",
+        "type": "scholarly",
+        "supports": "Version in which he restrained the nurse; his suggestion that catheters could measure pressures and inject dye.",
+        "quote": "To do so, he had to constrain the nurse to the catheterization table."
+      },
+      {
+        "title": "The Rise of Contrast-enhanced Roentgenology: An Illustrated and Chronological Overview",
+        "publisher": "Journal of the Belgian Society of Radiology",
+        "year": 2016,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6100559/",
+        "type": "scholarly",
+        "supports": "Version in which the nurse cooperated; Cournand and Richards developed clinical catheterization.",
+        "quote": "He inserted a plastic tube in his cubital vein and guided it, with the cooperation of his nurse, to the right chambers of his heart."
+      }
+    ],
+    "further": []
+  }
+]

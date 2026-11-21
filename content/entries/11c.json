@@ -1,0 +1,598 @@
+[
+  {
+    "id": "the-pill",
+    "title": "The Pill",
+    "stream": "bio-drugs",
+    "tier": 1,
+    "date": {
+      "year": 1960,
+      "display": "1960"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "The FDA's own historian and the agency's milestones page document the 1957 and 1960 approvals of Enovid. The facts of the Puerto Rico trials are not in dispute; how harshly to judge them by the standards of the 1950s is still argued."
+    },
+    "place": "Shrewsbury and Boston, Massachusetts; Río Piedras, Puerto Rico; Mexico City",
+    "people": [
+      "Margaret Sanger (1879–1966), birth-control campaigner",
+      "Katharine McCormick (1875–1967), heiress who paid for the research",
+      "Gregory Pincus (1903–1967), biologist at the Worcester Foundation",
+      "John Rock (1890–1984), Catholic gynecologist who ran the clinical trials",
+      "Russell Marker (1902–1995), chemist who made progesterone from Mexican yams",
+      "Carl Djerassi (1923–2015), Syntex chemist whose group made norethindrone",
+      "Edris Rice-Wray, medical director of the Puerto Rico trials"
+    ],
+    "themes": [
+      "drugs",
+      "ethics",
+      "public-health"
+    ],
+    "summary": "A pill for healthy women to take every day for years: built on Mexican yams, paid for by one heiress, tested on poor Puerto Rican women, and approved in 1960.",
+    "body": [
+      "In 1960 the US Food and Drug Administration approved Enovid, a hormone pill made by G. D. Searle, as a contraceptive. The drug was already on sale: the FDA had cleared it in 1957 for menstrual disorders, and by late 1959 more than half a million American women were taking it, presumably most of them to avoid pregnancy. What was new in 1960 was the question: whether a healthy woman could safely take a drug every day for years.",
+      "The chemistry came largely from Mexico. In 1942 the American chemist Russell Marker went looking in Mexico for yams big enough to process and found the *cabeza de negro*. He turned its diosgenin into progesterone and in 1944 co-founded the company Syntex in Mexico City. Natural progesterone works poorly by mouth; in 1951 Carl Djerassi's group at Syntex synthesized norethindrone, a potent oral version. Searle's chemists made a closely related compound, norethynodrel, which became Enovid.",
+      "The push to use these hormones for contraception came from two elderly women. Margaret Sanger, who had campaigned for birth control for four decades, met the biologist Gregory Pincus in 1951 and urged him to try. In 1953 the heiress Katharine McCormick wrote him a check for $40,000 and promised whatever else he needed. Pincus teamed up with John Rock, a Catholic Boston gynecologist, who began human tests on 50 women in Massachusetts under the cover of a fertility study, because the state's laws made contraception research all but impossible.",
+      "Larger trials began in April 1956 in a new housing project at Río Piedras, Puerto Rico. The medical director, Edris Rice-Wray, reported that the pill was 100% effective when taken properly but that 17% of the women complained of nausea, dizziness, headaches and vomiting, too many side reactions to be generally acceptable. Pincus and Rock dismissed her concerns. The women were told the pill prevented pregnancy, not that it was experimental, and three deaths during the trials were never investigated. Pincus and Rock believed they met the ethical standards of the day.",
+      "The pill spread fast: by 1965 some 6.5 million American women were taking it. Its chief danger, blood clots, was not anticipated by anyone at the time of approval, and proving the link took almost a decade. In 1970 the FDA made oral contraceptives the first drugs sold with a leaflet explaining risks to the patient, and doses have since been cut sharply."
+    ],
+    "links": [
+      {
+        "to": "thalidomide",
+        "kind": "see-also",
+        "note": "The Pill was approved before thalidomide and the 1962 drug amendments changed the regulatory climate."
+      },
+      {
+        "to": "nuremberg-code",
+        "kind": "see-also",
+        "note": "The 1947 code demanded voluntary consent; the Puerto Rico women were not told the pill was experimental."
+      },
+      {
+        "to": "hormones",
+        "kind": "built-on",
+        "note": "Rests on decades of work on sex hormones and their synthesis."
+      }
+    ],
+    "sources": [
+      {
+        "title": "FDA's Approval of the First Oral Contraceptive, Enovid",
+        "author": "Suzanne White Junod",
+        "publisher": "U.S. Food and Drug Administration",
+        "year": 1998,
+        "url": "https://www.fda.gov/media/110456/download",
+        "type": "institutional",
+        "supports": "Enovid submitted in 1957 for menstrual disorders and in 1960 as a contraceptive; approval preceded thalidomide and the 1962 amendments; thromboembolism unanticipated and took nearly a decade to prove.",
+        "quote": "The chief danger of oral contraceptives¾ thromboembolism (occasionally fatal obstructions of blood vessels leading to brain, heart, or lungs)¾ was not anticipated by anyone at the time of approval"
+      },
+      {
+        "title": "Timeline: The Pill",
+        "publisher": "American Experience, PBS",
+        "url": "https://www.pbs.org/wgbh/americanexperience/features/pill-timeline/",
+        "type": "reference",
+        "supports": "Sanger meets Pincus 1951; McCormick's $40,000 in 1953; first human trials with 50 women; half a million women on Enovid by late 1959; 1960 approval; 6.5 million users by 1965. Original high-dose pills withdrawn at the FDA's urging in 1988.",
+        "quote": "Katharine McCormick writes Pincus a check for a huge sum -- $40,000 -- with assurances she will provide him with all the additional funding he will need"
+      },
+      {
+        "title": "The Puerto Rico Pill Trials",
+        "publisher": "American Experience, PBS",
+        "url": "https://www.pbs.org/wgbh/americanexperience/features/pill-puerto-rico-pill-trials/",
+        "type": "reference",
+        "supports": "Río Piedras trials from April 1956; Rice-Wray's report of 100% efficacy and 17% side effects; three deaths not investigated; women not told the drug was experimental.",
+        "quote": "Although three women died while participating in the trials, no investigation was conducted to see if the Pill had caused the young women's deaths"
+      },
+      {
+        "title": "Russell Earl Marker",
+        "publisher": "Science History Institute",
+        "url": "https://www.sciencehistory.org/education/scientific-biographies/russell-earl-marker/",
+        "type": "institutional",
+        "supports": "Marker turned diosgenin into progesterone and found the cabeza de negro yam in Mexico in 1942.",
+        "quote": "In 1942 he searched for and found in the wilds of Mexico the cabeza de negro , a yam with roots that can weigh up to a hundred pounds each"
+      },
+      {
+        "title": "Carl Djerassi",
+        "publisher": "Science History Institute",
+        "url": "https://www.sciencehistory.org/education/scientific-biographies/carl-djerassi/",
+        "type": "institutional",
+        "supports": "Syntex founded by Marker in 1944; Djerassi's group synthesized norethindrone in 1951; Searle's norethynodrel; FDA approvals in 1957 and 1960.",
+        "quote": "In 1951, the same year that Djerassi’s group at Syntex synthesized cortisone, it also synthesized the first effective oral-contraceptive substance"
+      },
+      {
+        "title": "Milestones in U.S. Food and Drug Law",
+        "publisher": "U.S. Food and Drug Administration",
+        "url": "https://www.fda.gov/about-fda/fda-history/milestones-us-food-and-drug-law",
+        "type": "institutional",
+        "supports": "In 1970 oral contraceptives became the first drugs required to carry a patient package insert.",
+        "quote": "FDA requires the first patient package insert: oral contraceptives must contain information for the patient about specific risks and benefits"
+      }
+    ],
+    "further": [],
+    "image": {
+      "commons": "File:Bottle for Enovid 10 mg Oral Contraceptive - DPLA - 0cc9d42b69b6fd3d586205f5831cade0.jpg",
+      "alt": "A white plastic pill bottle with a white, dark red and yellow label reading Enovid.",
+      "caption": "A bottle of Enovid 10 mg tablets made by G. D. Searle & Co., the first pill approved as a contraceptive. Science History Institute collection."
+    }
+  },
+  {
+    "id": "thalidomide",
+    "title": "Thalidomide",
+    "stream": "bio-drugs",
+    "tier": 1,
+    "date": {
+      "year": 1961,
+      "display": "1961"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "The drug's marketing, the 1961 identification by Lenz and McBride and its withdrawal are well documented. The figure of more than 10,000 affected children is a consensus estimate; miscarriages and stillbirths mean the true toll will never be known."
+    },
+    "place": "West Germany, Britain, Australia and worldwide; Washington, DC",
+    "people": [
+      "Widukind Lenz, German clinician who linked the drug to birth defects",
+      "William McBride, Australian clinician who independently made the same link",
+      "Frances Oldham Kelsey, FDA medical officer"
+    ],
+    "themes": [
+      "drugs",
+      "ethics",
+      "institutions"
+    ],
+    "summary": "A sleeping pill sold as harmless to pregnant women caused severe birth defects in more than 10,000 children, and forced the modern rules for testing drugs.",
+    "body": [
+      "In the late 1950s the German firm Chemie Grünenthal began selling thalidomide as a sedative that was not addictive and, unlike barbiturates, would not kill in an overdose. It also eased nausea, and doctors gave it to pregnant women for morning sickness. Free sample packets went out to physicians to hand on. It became one of the world's best-selling drugs, advertised as completely safe.",
+      "It was not. Patients taking it developed nerve damage, and reports came in of babies with rare and severe malformations, above all phocomelia, in which the long bones of the limbs are shortened or missing and hands and feet sit almost directly on the body. At first no one connected the two. In 1961 two clinicians working independently, Widukind Lenz in Germany and William McBride in Australia, identified thalidomide as the cause. It was withdrawn in Britain in November 1961 and from most of the world by 1962.",
+      "Between 1957 and 1962 the drug caused severe birth defects in more than 10,000 children. Up to 40% of the worst affected died in infancy, and many more pregnancies ended in miscarriage or stillbirth, so the true number will never be known. The disaster showed that animal species can react to a drug very differently from humans. No individual, and not Grünenthal itself, was ever successfully prosecuted.",
+      "The United States was largely spared because of Frances Kelsey, a pharmacologist and physician who joined the FDA in 1960. Thalidomide was one of the first applications she was given. Worried by the reports of nerve damage and by what the drug might do in pregnancy, she refused to approve it despite constant pressure from the company. Press coverage of her stand helped pass the Kefauver–Harris Drug Amendments of 1962, which for the first time required manufacturers to prove that a drug works, not just that it is safe, before selling it.",
+      "Thalidomide never went away. It is now used, under strict controls, to treat complications of leprosy and the blood cancer multiple myeloma. Where controls fail, as in Brazil, where leprosy is common, a new generation of children has been born with the same injuries."
+    ],
+    "links": [
+      {
+        "to": "the-pill",
+        "kind": "see-also",
+        "note": "The Pill was approved before thalidomide hardened regulators."
+      },
+      {
+        "to": "streptomycin-rct",
+        "kind": "see-also",
+        "note": "Controlled trials were the model of proof for the efficacy rule the 1962 law introduced."
+      },
+      {
+        "to": "evidence-based-medicine",
+        "kind": "see-also",
+        "note": "Proof of efficacy became a legal requirement; EBM later made trial evidence a clinical standard."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Thalidomide-induced teratogenesis: history and mechanisms",
+        "author": "Neil Vargesson",
+        "publisher": "Birth Defects Research Part C",
+        "year": 2015,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4737249/",
+        "type": "scholarly",
+        "supports": "Marketing as a nonbarbiturate sedative and anti-emetic; Lenz and McBride in 1961; withdrawal in November 1961; more than 10,000 children; 40% infant mortality; species differences; no prosecution; Kelsey's concerns; later use for leprosy and myeloma; new cases in Brazil.",
+        "quote": "It was not until 1961 that thalidomide was confirmed by two independent clinicians, Lenz in Germany and McBride in Australia, to be the cause of the largest man‐made medical disaster in history"
+      },
+      {
+        "title": "Frances Oldham Kelsey: Medical reviewer famous for averting a public health tragedy",
+        "publisher": "U.S. Food and Drug Administration",
+        "url": "https://www.fda.gov/about-fda/fda-history-exhibits/frances-oldham-kelsey-medical-reviewer-famous-averting-public-health-tragedy",
+        "type": "institutional",
+        "supports": "Kelsey joined the FDA in 1960; thalidomide among her first applications; refused approval despite pressure; drug never marketed in the US; helped pass the 1962 amendments.",
+        "quote": "Dr. Kelsey, despite constant pressure from the company, refused to approve the application because of its inadequate evidence"
+      },
+      {
+        "title": "Milestones in U.S. Food and Drug Law",
+        "publisher": "U.S. Food and Drug Administration",
+        "url": "https://www.fda.gov/about-fda/fda-history/milestones-us-food-and-drug-law",
+        "type": "institutional",
+        "supports": "Press coverage of Kelsey's role built support for the Kefauver–Harris Amendments of 1962, which first required proof of effectiveness.",
+        "quote": "For the first time, drug manufacturers are required to prove to FDA the effectiveness of their products before marketing them"
+      }
+    ],
+    "further": [],
+    "image": {
+      "commons": "File:FDA History - Dr. Kelsey and John F. Kennedy.jpg",
+      "alt": "Photograph of President John F. Kennedy presenting an award to Frances Kelsey, 1962.",
+      "caption": "President John F. Kennedy presents the President's Award for Distinguished Federal Civilian Service to FDA medical officer Frances Kelsey, August 1962, for keeping thalidomide off the US market."
+    }
+  },
+  {
+    "id": "hip-replacement",
+    "title": "Charnley's hip replacement",
+    "stream": "bio-surgery",
+    "tier": 3,
+    "date": {
+      "year": 1962,
+      "earliest": 1958,
+      "latest": 1962,
+      "display": "c. 1958–1962"
+    },
+    "confidence": {
+      "date": "uncertain",
+      "claim": "agreed",
+      "note": "Published histories date the steps differently: one review places the Teflon trials in 1956, gives 1958 for low-friction arthroplasty elsewhere in the same text, and dates the technique that began the successful era to November 1962. Charnley's own Lancet paper on the operation appeared in 1961. His central role in modern hip replacement is not disputed."
+    },
+    "place": "Wrightington Hospital, England",
+    "people": [
+      "John Charnley (1911–1982), orthopedic surgeon"
+    ],
+    "themes": [
+      "surgery",
+      "technology"
+    ],
+    "summary": "An English orthopedic surgeon treated failing artificial hips as a problem of friction, and the low-friction design he developed shaped modern hip replacement.",
+    "body": [
+      "Artificial hips existed before John Charnley, but they wore out, loosened and failed. Charnley, an orthopedic surgeon at Wrightington Hospital, treated the problem as one of friction. He tried Teflon as a synthetic cartilage, but it wore quickly and provoked intense tissue reactions; he turned to ultra-high-molecular-weight polyethylene and fixed the parts to bone with acrylic cement. Histories date the key steps differently, from 1956 for the Teflon trials to November 1962 for the technique that began the successful era."
+    ],
+    "links": [],
+    "sources": [
+      {
+        "title": "Ten Inventions That Shaped Modern Orthopedics",
+        "author": "Baig MN, Kearns SR, Shannon FJ, Devitt A",
+        "publisher": "Cureus",
+        "year": 2021,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7894968/",
+        "type": "scholarly",
+        "supports": "Teflon tried in 1956 and abandoned for polyethylene; 1958 for low-friction arthroplasty and November 1962 at Wrightington Hospital (the review gives all three dates).",
+        "quote": "In November 1962, John Charnley (Figure 4 ), an orthopedic surgeon at Wrightington Hospital, developed a technique that started a successful arthroplasty era in orthopedics"
+      },
+      {
+        "title": "Dr. John H. Charnley: An Architect and Pioneer of the Modern Era of Hip Replacement Surgery",
+        "author": "Phalak MO, Chaudhari AK, Chaudhari T, Birajdar A",
+        "publisher": "Cureus",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11456414/",
+        "type": "scholarly",
+        "supports": "Charnley's life dates (born 29 August 1911, died 5 August 1982); low-friction arthroplasty using polyethylene and acrylic bone cement; his 1961 Lancet paper appears in its reference list.",
+        "quote": "This article reviews Charnley's contributions to the development of low-friction arthroplasty using ultra-high-molecular-weight polyethylene and the use of acrylic bone cement for improved implant fixation"
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "measles-vaccine",
+    "title": "Enders, Hilleman and the measles vaccine",
+    "stream": "bio-drugs",
+    "tier": 3,
+    "date": {
+      "year": 1963,
+      "display": "1963"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "US licensing dates for the measles vaccine (1963) and MMR (1971) are documented in the cited reviews. Tulchinsky stresses that measles vaccine had 'many key players'; the entry names only the best known, and Enders and Katz are credited with the 1963 licensed vaccine."
+    },
+    "place": "Boston, Massachusetts, and Merck & Co., United States",
+    "people": [
+      "John Enders, virologist",
+      "Samuel L. Katz, Enders's colleague",
+      "Maurice Hilleman (1919–2005), vaccine scientist at Merck"
+    ],
+    "themes": [
+      "drugs",
+      "public-health"
+    ],
+    "summary": "Measles virus taken from a sick schoolboy became a vaccine in 1963; Maurice Hilleman then made it gentler and folded it into MMR.",
+    "body": [
+      "John Enders and Samuel Katz isolated measles virus from the blood of a 13-year-old boy, David Edmonston, and with colleagues weakened the \"Edmonston strain\" into a live vaccine licensed in the United States in 1963. In 1968 Maurice Hilleman and colleagues further improved that strain; the result remains the main measles vaccine in the US. In 1971 his combined measles, mumps and rubella vaccine, MMR, was licensed. Over decades his team created more than 40 experimental and licensed human and animal vaccines."
+    ],
+    "links": [
+      {
+        "to": "polio-vaccine",
+        "kind": "see-also",
+        "note": "Earlier vaccine milestone, licensed in 1955."
+      },
+      {
+        "to": "wakefield-mmr",
+        "kind": "see-also",
+        "note": "MMR later became the target of a discredited scare."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Maurice Hilleman: Creator of Vaccines That Changed the World",
+        "author": "Theodore H. Tulchinsky",
+        "publisher": "Case Studies in Public Health (Elsevier)",
+        "year": 2018,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7150172/",
+        "type": "scholarly",
+        "supports": "Enders and Katz, the Edmonston strain and the 1963 licence; Hilleman's 1968 strain; MMR licensed 1971; more than 40 vaccines.",
+        "quote": "Working with other scientists, Enders and Katz turned this strain into a vaccine licensed in the United States in 1963"
+      },
+      {
+        "title": "A Review of the Resurgence of Measles, a Vaccine-Preventable Disease, as Current Concerns Contrast with Past Hopes for Measles Elimination",
+        "author": "Dinah V. Parums",
+        "publisher": "Medical Science Monitor",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10946219/",
+        "type": "scholarly",
+        "supports": "First measles vaccine 1963; Hilleman's MMR combination in 1971.",
+        "quote": "The first measles vaccine was developed in 1963, followed by a mumps vaccine in 1967 and a rubella vaccine in 1969"
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "hospice",
+    "title": "The modern hospice",
+    "stream": "bio-public",
+    "tier": 3,
+    "date": {
+      "year": 1967,
+      "display": "1967"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "The founding of St Christopher's in 1967 is well documented. The sources call it the first modern hospice because it joined clinical care with teaching and research; 'first' rests on that combination."
+    },
+    "place": "St Christopher's Hospice, London",
+    "people": [
+      "Cicely Saunders (1918–2005), nurse, social worker and physician"
+    ],
+    "themes": [
+      "practice",
+      "institutions",
+      "ethics"
+    ],
+    "summary": "A nurse turned doctor showed that dying patients could be kept awake and free of pain, and built a hospice in London to prove it.",
+    "body": [
+      "Cicely Saunders trained as a nurse during the Second World War, studied social work, and earned her medical degree in 1957. In 1967 she founded St Christopher's Hospice in London, described as the first modern hospice to integrate clinical care with teaching and research. Her key medical innovation was giving opioids by mouth, then highly unusual; doctors commonly held that strong opioids worked only by injection and that addiction would follow regular use. Her idea of \"total pain\", with physical, psychological, social and spiritual dimensions, became a foundational concept of palliative care."
+    ],
+    "links": [
+      {
+        "to": "intensive-care",
+        "kind": "see-also",
+        "note": "A contrasting response to the technologies that prolong dying."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Dame Cicely Saunders: Pioneering Palliative Care and the Evolution of Hospice Services",
+        "author": "Redwine HM, Ganti L",
+        "publisher": "Cureus",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11700540/",
+        "type": "scholarly",
+        "supports": "Saunders's life dates and training; medical degree 1957; St Christopher's founded 1967 combining care, teaching and research.",
+        "quote": "In 1967, she founded St. Christopher’s Hospice in London, the first modern hospice to integrate clinical care with teaching and research"
+      },
+      {
+        "title": "A shelter from the abyss: exploring Cicely Saunders' vision of hospice care through the concept of worldview",
+        "author": "Gregor U. Metzger",
+        "publisher": "Palliative Care and Social Practice",
+        "year": 2023,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10068131/",
+        "type": "scholarly",
+        "supports": "Oral opiates as Saunders's key medical innovation against the belief that they worked only by injection and caused addiction.",
+        "quote": "Saunders’ key medical innovation was the oral administration of opiates to patients, which was highly unusual at that time"
+      },
+      {
+        "title": "The dual structure of 'total pain': multidimensionality and holism in the foundational concept of palliative care",
+        "author": "Fajardo-Chica D",
+        "publisher": "Frontiers in Sociology",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13719348/",
+        "type": "scholarly",
+        "supports": "Saunders introduced 'total pain' (1964) with physical, psychological, social and spiritual dimensions.",
+        "quote": "Saunders (1964 , 2001) introduced it to describe the experience of patients at the end of life, whose distress could not be captured by physical symptomatology alone"
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "heart-transplant",
+    "title": "The first human-to-human heart transplant",
+    "stream": "bio-surgery",
+    "tier": 2,
+    "date": {
+      "year": 1967,
+      "display": "3 December 1967"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "The operation, the patients and their outcomes were documented in detail at the time, and two later accounts by surgeons close to the events agree on the main facts. Barnard's technique came from Shumway's Stanford group and his knowledge of immunosuppression from Hume's program in Richmond."
+    },
+    "place": "Groote Schuur Hospital, Cape Town, South Africa",
+    "people": [
+      "Christiaan Barnard, cardiac surgeon",
+      "Louis Washkansky, the recipient",
+      "Denise Darvall, the 25-year-old donor",
+      "Norman Shumway, Stanford surgeon whose team developed the technique in dogs",
+      "David Hume, Richmond, Virginia, transplant surgeon from whom Barnard learned immunosuppression"
+    ],
+    "themes": [
+      "surgery"
+    ],
+    "summary": "A Cape Town surgeon put a young woman's heart into a dying man's chest. He lived 18 days, and the world's media followed his progress almost hourly.",
+    "body": [
+      "In the early hours of 3 December 1967, at Groote Schuur Hospital in Cape Town, Christiaan Barnard replaced the failing heart of Louis Washkansky with that of Denise Darvall, a 25-year-old woman certified brain-dead after a traffic accident; her father consented to the donation. The surgical technique had been developed in dogs by Norman Shumway's team at Stanford. Barnard had spent a three-month sabbatical in Richmond, Virginia, learning immunosuppression from David Hume's kidney transplant program.",
+      "Washkansky died 18 days later. The team mistook his decline for rejection and increased his immunosuppressive drugs, but he had pneumonia, and the autopsy found no rejection of the heart. Barnard's second patient, Philip Blaiberg, operated on 2 January 1968, lived almost 19 months. Over a hundred heart transplants followed worldwide in 1968, but only 11% of patients in 1968–70 survived two years, and few centers kept going.",
+      "Given South Africa's poor reputation under apartheid, the operation mattered more to the country than it would have elsewhere, and nationalist politicians exploited Barnard's fame. Barnard opposed apartheid and tried to prevent racial segregation of patients in his department, against government policy."
+    ],
+    "links": [
+      {
+        "to": "kidney-transplant",
+        "kind": "built-on",
+        "note": "Kidney grafting pioneered the immunosuppression Barnard used."
+      },
+      {
+        "to": "heart-lung-machine",
+        "kind": "built-on",
+        "note": "Open-heart surgery made the operation possible."
+      },
+      {
+        "to": "brain-death",
+        "kind": "see-also",
+        "note": "Heart donation forced the question of when a ventilated patient is dead."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The first human heart transplant and further advances in cardiac transplantation at Groote Schuur Hospital and the University of Cape Town",
+        "author": "Brink JG, Hassoulas J",
+        "publisher": "Cardiovascular Journal of Africa",
+        "year": 2009,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4200566/",
+        "type": "scholarly",
+        "supports": "Date and place; Shumway's technique; Barnard's opposition to apartheid and segregation in his department and politicians' exploitation of his fame; the 1968–70 worldwide results (11% two-year survival) and the few centers that continued.",
+        "quote": "Christiaan Barnard with his team, performed the world’s first human-to-human heart transplant operation on 3 December 1967"
+      },
+      {
+        "title": "Christiaan Barnard: The surgeon who dared. The story of the first human-to-human heart transplant",
+        "author": "David K. C. Cooper",
+        "publisher": "Global Cardiology Science and Practice",
+        "year": 2018,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6062759/",
+        "type": "scholarly",
+        "supports": "Darvall, aged 25, certified brain-dead after a traffic accident, father's consent; Barnard's sabbatical with Hume in Richmond; death from pneumonia 18 days after the transplant after intensified immunosuppression, no rejection at autopsy; Blaiberg's almost 19 months; media coverage almost hourly; the operation's importance for South Africa given apartheid.",
+        "quote": "Despite intensive antibiotic treatment, Mr. Washkansky deteriorated rapidly and died in the early hours of Thursday, December 21st, 18 days after the transplant"
+      }
+    ],
+    "further": [],
+    "image": {
+      "commons": "File:Christiaan Barnard (1968).jpg",
+      "alt": "Press photograph of Christiaan Barnard at a medical symposium in Amsterdam in 1968.",
+      "caption": "Christiaan Barnard at a symposium at the Sint Lucas Hospital, Amsterdam, 6 June 1968, six months after the first heart transplant. Photograph from the Dutch National Archives."
+    }
+  },
+  {
+    "id": "brain-death",
+    "title": "Redefining death",
+    "stream": "bio-public",
+    "tier": 3,
+    "date": {
+      "year": 1968,
+      "display": "1968"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "The 1959 French paper and the 1968 Harvard report are documented publications. The committee's stated reasons were practical ones (the burden of treatment and its cost); that brain death also made transplantation easier is noted by historians, but how far it drove the committee is not settled by these sources."
+    },
+    "place": "Paris, France; Harvard Medical School, Boston",
+    "people": [
+      "Mollaret and Goulon, French physicians who described coma dépassé",
+      "Henry K. Beecher, chair of the Harvard committee"
+    ],
+    "themes": [
+      "ethics",
+      "theory",
+      "practice"
+    ],
+    "summary": "Ventilators kept bodies alive after brains had stopped working. In 1968 a Harvard committee proposed that such patients were dead.",
+    "body": [
+      "Ventilators created a state medicine had never seen: patients whose brains had stopped working but whose bodies kept going. In 1959 the French physicians Mollaret and Goulon called it *coma dépassé*, \"a state beyond coma\". In 1968 a Harvard Medical School ad hoc committee, chaired by Henry Beecher, argued that irreversible coma should be treated as equivalent to death, with criteria including absent brainstem reflexes, no spontaneous breathing and a flat EEG. The committee cited the burden of treatment on patients and families and the cost to the health care system; the new definition also removed practical obstacles to transplantation."
+    ],
+    "links": [
+      {
+        "to": "intensive-care",
+        "kind": "built-on",
+        "note": "Ventilators created the condition the committee had to define."
+      },
+      {
+        "to": "heart-transplant",
+        "kind": "see-also",
+        "note": "Transplant surgeons needed hearts from donors still on ventilators."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Defining Death Anew: Reexamining the Twentieth-Century Brain Death Debates and the Uniform Determination of Death Act",
+        "author": "Anne E. Clinton",
+        "publisher": "Hastings Center Report",
+        "year": 2025,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12696793/",
+        "type": "scholarly",
+        "supports": "The 1968 Harvard committee, its criteria, its stated motives, and the link to transplantation.",
+        "quote": "The committee cited practical concerns—namely, the burden of treatment on patients and families and the cost to the health care system—as the primary motivations for shifting the definition of death"
+      },
+      {
+        "title": "The Neurology of Death and the Dying Brain: A Pictorial Essay",
+        "author": "Daniel Kondziella",
+        "publisher": "Frontiers in Neurology",
+        "year": 2020,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7385288/",
+        "type": "scholarly",
+        "supports": "Mollaret and Goulon's coma dépassé in 1959; Harvard criteria a decade later.",
+        "quote": "Frenchmen Mollaret and Goulon termed this condition coma dépassé (literally, “a state beyond coma”)"
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "ors",
+    "title": "Oral rehydration therapy",
+    "stream": "bio-public",
+    "tier": 2,
+    "date": {
+      "year": 1971,
+      "earliest": 1968,
+      "latest": 1971,
+      "display": "1968–1971"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "The Dhaka and Calcutta work of 1967–68 (published in 1968) and Mahalanabis's work in 1971 are documented in published papers and later reviews. Lives-saved totals are estimates: one review gives about 70 million, another credits Mahalanabis's contribution with about 54 million."
+    },
+    "place": "Dhaka (then East Pakistan) and Calcutta (Kolkata); refugee camps at Bangaon, India",
+    "people": [
+      "David Nalin and Richard Cash, physicians at the Cholera Research Laboratory, Dhaka",
+      "Nathaniel F. Pierce, leader of the Johns Hopkins team in Calcutta",
+      "Dilip Mahalanabis (1934–2022), Indian pediatrician"
+    ],
+    "themes": [
+      "practice",
+      "public-health"
+    ],
+    "summary": "Salt, sugar and water by mouth: proved in cholera wards in 1968, then tested in a refugee crisis in 1971, it went on to save millions of lives.",
+    "body": [
+      "Cholera kills by draining the body of water and salt, and the standard treatment was intravenous fluid. In the 1950s, work by R. B. Fisher and D. S. Parsons, and then by Schultz and Curran at Harvard, showed that sugar and salt absorption in the gut are coupled. In 1967–68 a Johns Hopkins team in Calcutta led by Nathaniel Pierce, and David Nalin, Richard Cash and colleagues at the Cholera Research Laboratory in Dhaka, showed that glucose-salt solutions could replace much intravenous fluid; in Dhaka, by April 1968, they had cut IV needs by 80%.",
+      "The real test came in 1971, during the Bangladesh War of Independence. At Bangaon, India, the refugee camp population reached about 350,000 by mid-June, with about 6,000 new cholera cases a day, and intravenous saline was far too scarce. Dilip Mahalanabis had the oral solution given on a massive scale, including by family members without medical training, and its success there challenged entrenched skepticism.",
+      "*The Lancet* later called oral rehydration \"potentially the most important medical advance\" of the 20th century; some summaries drop the qualifying word. One recent review credits it with about 70 million lives, a figure that is an estimate."
+    ],
+    "links": [
+      {
+        "to": "snow-cholera",
+        "kind": "see-also",
+        "note": "Snow found how cholera spreads; ORS gave a cheap way to survive it."
+      },
+      {
+        "to": "alma-ata",
+        "kind": "see-also",
+        "note": "Both stressed cheap care that families and communities could deliver."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Development of oral rehydration salt solution: A triumph of medical science",
+        "author": "Mahfuz M, Tariful Islam Khan AKM, Yunus M",
+        "publisher": "Indian Journal of Medical Research",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11463858/",
+        "type": "scholarly",
+        "supports": "Fisher and Parsons and Schultz and Curran on glucose-sodium absorption; the Calcutta team under Pierce; the Dhaka trials and 80% cut in IV fluid by April 1968; Mahalanabis in 1971; the estimate of about 70 million lives; the Lancet quote without its qualifier.",
+        "quote": "By April 1968, they had shown that oral glucose-sodium solutions could effectively maintain electrolyte balance in cholera patients, reducing IV fluid requirements by 80 per cent"
+      },
+      {
+        "title": "Dr. Dilip Mahalanabis (1934-2022): Trailblazer in Diarrheal Disease Management",
+        "author": "Kawalkar U, Mankar A, Kogade P, Naitam D",
+        "publisher": "Cureus",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11244720/",
+        "type": "scholarly",
+        "supports": "Bangaon camps in 1971: about 350,000 people and 6,000 new cases daily by mid-June; IV saline insufficient; mass oral therapy by family members and people without medical training; its success against skepticism; the Lancet's 'potentially the most important medical advance of the 20th century'; the 54 million estimate.",
+        "quote": "By mid-June, the camp population had surged to approximately 350,000, with about 6,000 new cases daily"
+      }
+    ],
+    "further": [],
+    "image": {
+      "commons": "File:Cholera rehydration nurses.jpg",
+      "alt": "A cholera patient drinking oral rehydration solution.",
+      "caption": "A cholera patient drinking oral rehydration solution, from the CDC Public Health Image Library (1992). It shows the treatment in use, not the 1968–71 trials."
+    }
+  }
+]

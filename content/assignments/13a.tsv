@@ -1,0 +1,9 @@
+# id	stream	year	tier	batch	title	scope notes
+imatinib	bio-drugs	2001	3	13	Gleevec and targeted cancer drugs	Imatinib approved May 2001; Philadelphia chromosome 1960; Druker
+sars-2003	bio-public	2003	3	13	SARS	2002–03; 8,096 cases, 774 deaths; Carlo Urbani; revised International Health Regulations 2005
+hpv-vaccine	bio-drugs	2006	3	13	The HPV vaccine	zur Hausen; Frazer and Zhou; Gardasil 2006; cervical cancer falling in vaccinated cohorts
+microbiome	bio-lab	2007	3	13	The microbiome	Human Microbiome Project 2007–; faecal transplant RCT 2013 for C. difficile; hype vs evidence
+cancer-immunotherapy	bio-drugs	2011	2	13	Cancer immunotherapy	Coley's toxins 1890s; ipilimumab 2011; PD-1 drugs 2014; Allison and Honjo Nobel 2018; CAR-T approved 2017
+crispr	bio-lab	2012	1	13	CRISPR gene editing	Doudna and Charpentier 2012 (Šikšnys; Zhang 2013; Mojica); Nobel 2020; He Jiankui 2018; Casgevy approved 2023
+hepatitis-c-cure	bio-drugs	2013	3	13	A cure for hepatitis C	Virus identified 1989 (Nobel 2020); sofosbuvir 2013; price controversy; Egypt's mass treatment
+ebola-west-africa	bio-public	2014	3	13	Ebola in West Africa and a vaccine	2014–16: 28,600 cases, 11,300 deaths; rVSV-ZEBOV ring trial in Guinea 2015; licensed 2019

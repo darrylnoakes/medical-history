@@ -1,0 +1,661 @@
+[
+  {
+    "id": "laennec-stethoscope",
+    "title": "Laennec's stethoscope",
+    "stream": "europe",
+    "tier": 1,
+    "date": {
+      "year": 1816,
+      "earliest": 1816,
+      "latest": 1817,
+      "display": "1816"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "firm",
+      "note": "The paper-tube episode is known from Laennec's own account in his 1819 treatise, written about three years later, and a modern summary places it in the fall of 1816; no one disputes the year, but there is no contemporaneous record of the day. That he devised the stethoscope and used it to correlate chest sounds with autopsy findings is not in doubt, while the popular emphasis on his shyness is softer: his account gives the patient's fatness as the first reason the usual methods failed."
+    },
+    "place": "Necker Hospital, Paris, France",
+    "people": [
+      "René-Théophile-Hyacinthe Laennec (1781–1826), physician at the Necker Hospital",
+      "Leopold Auenbrugger, Viennese physician who described chest percussion in 1761",
+      "Jean-Nicolas Corvisart, Laennec's teacher, who revived percussion in France",
+      "John Forbes, British physician who translated Laennec's treatise in 1821"
+    ],
+    "themes": [
+      "technology",
+      "practice"
+    ],
+    "summary": "A rolled-up quire of paper let a Paris doctor hear a living heart, and turned the body's hidden sounds into evidence of disease.",
+    "body": [
+      "In 1816 René Laennec, a physician at the Necker Hospital in Paris, was consulted by a young woman with the symptoms of heart disease. Tapping her chest and feeling it with his hand told him little, he later wrote, because of “the great degree of fatness,” and putting his ear to her chest was ruled out by her age and sex. He remembered that sound carries well through solid bodies, as when the scratch of a pin at one end of a piece of wood is heard at the other. So he rolled a quire of paper into a cylinder, set one end over her heart and the other at his ear, and heard the heart more clearly than he ever had with his bare ear.",
+      "Laennec worked in the Paris hospitals where doctors were learning to match what they found at the bedside with what they found at autopsy. One bedside technique already existed. In 1761 the Viennese physician Leopold Auenbrugger had published *Inventum novum*, on judging the state of the chest from the sound it made when tapped. The method was largely ignored until Laennec's teacher Jean-Nicolas Corvisart translated it into French and took it up.",
+      "Over the following years Laennec listened to patients and checked what he heard against what dissection showed after death. He replaced the paper with a bored wooden cylinder that came apart for carrying and called it the stethoscope. His *De l'Auscultation médiate* of 1819 coined terms still in use, such as pectoriloquy and egophony, and taught doctors to tell apart diseases such as bronchiectasis, emphysema and pneumothorax in the living patient.",
+      "The two-volume book caused little stir at first. John Forbes's English translation appeared in 1821, and the instrument gradually won acceptance among practicing physicians. The real change was that diagnosis moved inside the body: a physician could now infer a damaged lung or valve before death rather than relying on the patient's account of symptoms. Laennec himself died of tuberculosis in August 1826, aged 45."
+    ],
+    "myth": {
+      "tradition": "Laennec invented the stethoscope because he was too shy or too proper to press his ear to a young woman's chest.",
+      "record": "Propriety was one reason, but his own account says percussion and touch failed because of the patient's weight, and that he had long listened with his bare ear in difficult cases. He presented the tube as a better way of hearing, not just a more modest one."
+    },
+    "links": [
+      {
+        "to": "paris-clinic",
+        "kind": "built-on",
+        "note": "Paris hospital medicine paired bedside signs with autopsy findings."
+      },
+      {
+        "to": "morgagni",
+        "kind": "built-on",
+        "note": "The idea that disease sits in particular organs gave the sounds something to point to."
+      },
+      {
+        "to": "xrays",
+        "kind": "see-also",
+        "note": "Nearly eighty years later, another way to examine the inside of a living body."
+      }
+    ],
+    "sources": [
+      {
+        "title": "A treatise on the diseases of the chest, in which they are described according to their anatomical characters (trans. John Forbes)",
+        "author": "R. T. H. Laennec",
+        "publisher": "T. and G. Underwood, London, 1821 (Internet Archive scan)",
+        "year": 1821,
+        "url": "https://archive.org/stream/treatiseondiseas00laen/treatiseondiseas00laen_djvu.txt",
+        "type": "primary",
+        "supports": "Laennec's own account of the 1816 consultation: fatness defeating percussion and touch, direct listening ruled out by age and sex, the pin-and-wood analogy, the rolled quire of paper, the later wooden cylinder that came apart, his use of the names Cylinder and Stethoscope, and the English translation by John Forbes of 1821 (title page).",
+        "quote": "In 1816, I was consulted by a young woman labouring under general symptoms of diseased heart"
+      },
+      {
+        "title": "Medicine in philately: Rene T. H. Laënnec, the father of stethoscope",
+        "author": "E. Elif Vatanoğlu-Lutz, Ahmet Doğan Ataman",
+        "publisher": "Anatolian Journal of Cardiology",
+        "year": 2016,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5336737/",
+        "type": "scholarly",
+        "supports": "Laennec's post at the Necker, study under Corvisart, neglect of Auenbrugger's percussion until the early 1800s, the fall-of-1816 date, the wooden tube replacing paper, the choice of the name stethoscope, the diseases he distinguished, the 1819 book's slow reception and gradual acceptance, and his death from tuberculosis on 13 August 1826 aged 45.",
+        "quote": "the two-volume book hardly caused a stir in the medical world"
+      },
+      {
+        "title": "The evolution of a neglected disease: tuberculosis discoveries in the centuries",
+        "author": "Niccolò Riccardi et al.",
+        "publisher": "Journal of Preventive Medicine and Hygiene",
+        "year": 2020,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7263068/",
+        "type": "scholarly",
+        "supports": "Auenbrugger's percussion treatise Inventum novum, 1761.",
+        "quote": "In 1761, Leopold Auenbrugger refined the semiotics of the chest with his treatise on percussion"
+      },
+      {
+        "title": "Clinical Reasoning in Cardiology: Past, Present and Future",
+        "author": "Evandro Tinoco Mesquita et al.",
+        "publisher": "Arquivos Brasileiros de Cardiologia",
+        "year": 2022,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9750203/",
+        "type": "scholarly",
+        "supports": "Corvisart's French translation and revival of Auenbrugger's percussion; terms coined by Laennec, including pectoriloquy and egophony.",
+        "quote": "Corvisart reintroduced and perfected the method of chest percussion in clinical diagnosis"
+      },
+      {
+        "title": "Chest auscultation – tradition and expectations",
+        "author": "Hasse Melbye, Carl Edvard Rudebeck, Hans Pasterkamp",
+        "publisher": "Scandinavian Journal of Primary Health Care",
+        "year": 2026,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13618091/",
+        "type": "scholarly",
+        "supports": "Laennec matched chest sounds to findings at autopsy.",
+        "quote": "correlated the sounds heard from his patients’ chests with specific pathological findings identified at autopsy"
+      }
+    ],
+    "further": [
+      "porter-1997",
+      "duffin-2021",
+      "bynum-1994"
+    ],
+    "image": {
+      "commons": "File:Rene-Theophile-Hyacinthe Laennec Drawings stethoscope 1819.jpg",
+      "alt": "Engraved plate from Laennec's treatise showing drawings of his wooden stethoscope and its parts.",
+      "caption": "Laennec's first published drawings of the stethoscope, from *De l'auscultation médiate* (Paris, 1819)."
+    }
+  },
+  {
+    "id": "beaumont",
+    "title": "Beaumont and the window in a stomach",
+    "stream": "europe",
+    "tier": 3,
+    "date": {
+      "year": 1822,
+      "end": 1833,
+      "display": "1822–1833"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "Beaumont's 1833 book gives the dates of the wound and the experiments, and Osler's 1908 essay describes the signed agreements, the letters signed with St. Martin's mark and the family's handling of his burial. Whether St. Martin, who signed with a mark, could freely consent is a modern ethical judgment rather than a factual dispute; his age is also uncertain, since Beaumont's 'about eighteen' sits oddly with Osler's report that he was 83 at death in 1880."
+    },
+    "place": "Fort Mackinac, Michigan Territory, and later Plattsburgh and Washington",
+    "people": [
+      "William Beaumont, U.S. Army surgeon",
+      "Alexis St. Martin (died 1880), French-Canadian voyageur whose wound left an opening into his stomach"
+    ],
+    "themes": [
+      "ethics",
+      "theory"
+    ],
+    "summary": "A gunshot left a young voyageur with a hole into his stomach, and an army surgeon spent years watching digestion through it.",
+    "body": [
+      "On 6 June 1822 a musket fired from about a yard away tore open the side of Alexis St. Martin, a young voyageur at Fort Mackinac. The army surgeon William Beaumont saved him, but the wound healed around an opening into the stomach. From 1825 Beaumont lowered food on silk strings through it and drew off gastric juice, helping to show that digestion was chemical as well as mechanical. St. Martin, who signed with a mark, was bound by contract as Beaumont's servant and test subject. When he died in 1880, his family let the body decay and buried it eight feet deep to keep doctors out."
+    ],
+    "links": [
+      {
+        "to": "tuskegee",
+        "kind": "see-also",
+        "note": "A later case of research on people with little power to refuse."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Experiments and observations on the gastric juice, and the physiology of digestion",
+        "author": "William Beaumont",
+        "publisher": "F. P. Allen, Plattsburgh, 1833 (Internet Archive scan)",
+        "year": 1833,
+        "url": "https://archive.org/stream/b33280356/b33280356_djvu.txt",
+        "type": "primary",
+        "supports": "The wound of 6 June 1822 at Michilimackinac, St. Martin's age (given as about eighteen) and occupation, the musket fired at close range, the first experiments in 1825 with food on a silk string, and the 1833 publication.",
+        "quote": "The charge, consisting of powder and duck shot, was received in the left side of the youth"
+      },
+      {
+        "title": "A backwood physiologist, in An Alabama student and other biographical essays",
+        "author": "William Osler",
+        "publisher": "Oxford University Press, 1908 (Internet Archive scan)",
+        "year": 1908,
+        "url": "https://archive.org/stream/cu31924011944620/cu31924011944620_djvu.txt",
+        "type": "scholarly",
+        "supports": "The 1833 agreements binding St. Martin to Beaumont as covenant servant and experimental subject, letters written for him and signed with his mark, his death in 1880 at 83, and his family's refusal of an autopsy and eight-foot grave.",
+        "quote": "They had also the grave dug eight feet below the surface of the ground in order to prevent any attempt at a resurrection"
+      },
+      {
+        "title": "The Telegraphic Body: Dyspepsia, Modern Life, and 'Gastric Time' in Nineteenth-Century Medicine and Culture",
+        "author": "Emily Taylor-Pirie",
+        "publisher": "Journal of Medical Humanities",
+        "year": 2025,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12779677/",
+        "type": "scholarly",
+        "supports": "Food lowered into the stomach on silk strings, and the conclusion that digestion was both mechanical and chemical.",
+        "quote": "Beaumont helped to experimentally establish that digestion was both a mechanical and chemical process"
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "anatomy-act",
+    "title": "Body-snatchers and the Anatomy Act",
+    "stream": "europe",
+    "tier": 3,
+    "date": {
+      "year": 1832,
+      "display": "1832"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "The Act, the Burke trial and the London murders are documented in court and parliamentary records. Modern sources date the earlier Murder Act to 1751 or 1752, and one legal history notes that bodies from coroners' inquests were also a lawful supply, so 'executed murderers' describes the main source rather than the only one."
+    },
+    "place": "Edinburgh and London, United Kingdom",
+    "people": [
+      "William Burke (executed 1829), murderer",
+      "William Hare, his accomplice, who testified against him",
+      "Robert Knox, Edinburgh anatomy lecturer who bought the bodies"
+    ],
+    "themes": [
+      "ethics",
+      "institutions"
+    ],
+    "summary": "Murders committed to supply anatomy classes pushed Parliament to hand anatomists a new source of bodies: the poor who died in workhouses.",
+    "body": [
+      "British anatomy schools in the 1820s needed far more corpses than the law supplied, since the legal supply was largely limited to executed murderers, so grave-robbers filled the gap. In Edinburgh William Burke and William Hare, tried in 1828, killed at least 16 people and sold the bodies to the anatomist Robert Knox. Hare turned against Burke, who was hanged in 1829 and publicly dissected. After copycat killings in London in 1831, Parliament passed the Anatomy Act of 1832. It ended dissection as a punishment and gave licensed schools the unclaimed bodies of people who died in workhouses and hospitals, making dissection the fate of the poor."
+    ],
+    "links": [
+      {
+        "to": "john-hunter",
+        "kind": "see-also",
+        "note": "Eighteenth-century anatomy teaching depended on the same illicit trade in bodies."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Human cadaveric dissection: a historical account from ancient Greece to the modern era",
+        "author": "Sanjib Kumar Ghosh",
+        "publisher": "Anatomy & Cell Biology",
+        "year": 2015,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4582158/",
+        "type": "scholarly",
+        "supports": "Murder Act limiting dissection to executed murderers; Burke and Hare selling the bodies of at least 16 people to Knox; Burke's execution and dissection; the London Burkers of 1831; the 1832 Act's provision for unclaimed bodies from workhouses and charitable hospitals.",
+        "quote": "murdered and sold the bodies of at least 16 men and women to Robert Knox as dissection material for his anatomy classes"
+      },
+      {
+        "title": "A common law power to dissect: a medico-legal history",
+        "author": "Jonathan Shaw",
+        "publisher": "Medical Law Review",
+        "year": 2025,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11825383/",
+        "type": "scholarly",
+        "supports": "The 1832 Act repealed dissection as punishment and regulated anatomy schools; Burke executed in 1829; the alternative dating of the Murder Act to 1751; the point that other lawful sources of bodies (post-mortems after coroners' inquests) were argued over in court.",
+        "quote": "which repealed the Murder Act 1751 to the extent that it allowed dissection as punishment"
+      },
+      {
+        "title": "Human dissection and comparative anatomy: Archaeological evidence for nineteenth-century anatomical practice",
+        "author": "William Birch, Tania Kausmally",
+        "publisher": "Journal of Anatomy",
+        "year": 2026,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13438011/",
+        "type": "scholarly",
+        "supports": "The Act redirected the bodies of the poor from workhouses, hospitals and prisons into anatomy teaching.",
+        "quote": "the Act effectively redirected the bodies of the poor into medical education"
+      },
+      {
+        "title": "Post-Mortem Pedagogy: A Brief History of the Practice of Anatomical Dissection",
+        "author": "Connor T. A. Brenna",
+        "publisher": "Rambam Maimonides Medical Journal",
+        "year": 2021,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7835115/",
+        "type": "scholarly",
+        "supports": "Hare testified against Burke, who was hanged and publicly dissected after the 1828 trial.",
+        "quote": "Hare sold out Burke, who was then hanged and publicly dissected as punishment for his crimes"
+      }
+    ],
+    "further": [
+      "porter-1997"
+    ]
+  },
+  {
+    "id": "cell-theory",
+    "title": "Cell theory",
+    "stream": "europe",
+    "tier": 2,
+    "date": {
+      "year": 1839,
+      "earliest": 1838,
+      "latest": 1839,
+      "display": "1838–1839"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "Schleiden's paper (1838) and Schwann's book (1839) are dated publications. Historians agree that their account of how cells form was wrong and was replaced by cell division in the 1850s; how to divide credit between Remak and Virchow for that correction is a matter of emphasis."
+    },
+    "place": "Berlin, Prussia",
+    "people": [
+      "Matthias Schleiden, botanist",
+      "Theodor Schwann, physiologist in Johannes Müller's Berlin laboratory",
+      "Robert Remak (1815–1865), embryologist",
+      "Rudolf Virchow (1821–1902), pathologist"
+    ],
+    "themes": [
+      "theory"
+    ],
+    "summary": "Plants and animals turned out to be built from the same units, though the men who said so misunderstood where new cells came from.",
+    "body": [
+      "In 1838 the botanist Matthias Schleiden argued that plant tissue was made of cells that formed around a nucleus, and he described his findings to Theodor Schwann before publishing them. Schwann, working in Johannes Müller's Berlin laboratory, found the same structures in animal tissues. In his *Microscopic Investigations* of 1839 he concluded that one principle of development, the cell, held for all living things.",
+      "They were wrong, though, about where cells came from. Schwann thought new cells condensed out of a structureless fluid he called the cytoblastema, in terms not far from Müller's own descriptions of a formative fluid. In the early 1850s Robert Remak and Rudolf Virchow, both Müller's students, replaced this with cell division. Remak supplied much of the evidence, but it was Virchow's slogan *omnis cellula e cellula*, every cell from a cell, that settled the matter and became the basis of his cellular pathology."
+    ],
+    "myth": {
+      "tradition": "Schleiden and Schwann established that all cells come from pre-existing cells.",
+      "record": "They believed new cells formed freely in a structureless fluid around a nucleus, not by division of existing cells. Division as the source of all cells came from Remak's and Virchow's work in the 1850s."
+    },
+    "links": [
+      {
+        "to": "microscope",
+        "kind": "built-on",
+        "note": "Better microscopes made the cell visible in animal tissue."
+      },
+      {
+        "to": "virchow",
+        "kind": "led-to",
+        "note": "Virchow carried the cell into pathology."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Microscopical researches into the accordance in the structure and growth of animals and plants (trans. Henry Smith)",
+        "author": "Theodor Schwann",
+        "publisher": "Sydenham Society, London, 1847 (Internet Archive scan)",
+        "year": 1847,
+        "url": "https://archive.org/stream/microscopicalres00schw/microscopicalres00schw_djvu.txt",
+        "type": "primary",
+        "supports": "Schleiden's 1838 work on plant cells, communicated to Schwann before publication; Schwann's conclusion of a common principle of development for all organisms; preface dated Berlin, March 1839.",
+        "quote": "there is one common principle of development for the elementary particles of all organised bodies"
+      },
+      {
+        "title": "The Schema and Organization of the Cell: An Introduction to Ernst Brücke's Die Elementarorganismen (1861)",
+        "author": "Daniel Liu",
+        "publisher": "Journal of the History of Biology",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11341682/",
+        "type": "scholarly",
+        "supports": "The 1838/39 cell theory; Schwann in Müller's laboratory; the cytoblastema and free cell formation; Remak and Virchow replacing it with cell division in 1850–1855.",
+        "quote": "Robert Remak and Rudolf Virchow—both students of Müller (see Otis 2007 )—replaced Schwann’s theory of free cell formation with the theory of cell division"
+      },
+      {
+        "title": "Gasocrine hypothesis – a potential supplement to cell theory",
+        "author": "Savani Anbalagan",
+        "publisher": "Acta Biochimica Polonica",
+        "year": 2025,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12732322/",
+        "type": "scholarly",
+        "supports": "Remak's experimental evidence against free cell formation, and Virchow's dictum ending it.",
+        "quote": "Even though Remak provided strong experimental evidence against the free cell theory, it required Virchow’s dictum"
+      },
+      {
+        "title": "The Kantian account of mechanical explanation of natural ends in eighteenth and nineteenth century biology",
+        "author": "Wim Beekman, Henk Jochemsen",
+        "publisher": "History and Philosophy of the Life Sciences",
+        "year": 2022,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8904326/",
+        "type": "scholarly",
+        "supports": "Remak's and Virchow's life dates; Virchow's statement of the cellular origin of every cell, in his lectures on cellular pathology.",
+        "quote": "Where a cell arises, there a cell must have previously existed"
+      }
+    ],
+    "further": [
+      "bynum-1994",
+      "porter-1997"
+    ],
+    "image": {
+      "commons": "File:T. Schwann, Mikroskopische Untersuchungern u Wellcome L0032288.jpg",
+      "alt": "Engraved plate of cells drawn from plant and animal tissue, each with a visible nucleus.",
+      "caption": "Plate I of Theodor Schwann's *Mikroskopische Untersuchungen* (Berlin, 1839), drawn by Schwann, showing cells from animal and plant tissue."
+    }
+  },
+  {
+    "id": "chadwick",
+    "title": "Chadwick's sanitary report",
+    "stream": "bio-public",
+    "tier": 2,
+    "date": {
+      "year": 1842,
+      "end": 1848,
+      "display": "1842–1848"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "The report (July 1842) and the Public Health Act (1848) are dated documents. That sanitary engineering cut deaths in the long run is accepted, but historians stress its mixed early effects and the political choices behind Chadwick's framing."
+    },
+    "place": "London, United Kingdom",
+    "people": [
+      "Edwin Chadwick (1800–1890), lawyer and Poor Law administrator"
+    ],
+    "themes": [
+      "public-health",
+      "institutions"
+    ],
+    "summary": "A Poor Law official blamed filth and foul air for the diseases of the poor, and his wrong theory still produced sewers and clean water.",
+    "body": [
+      "In July 1842 Edwin Chadwick, a lawyer who had helped design the harsh New Poor Law of 1834, published his *Report on the Sanitary Condition of the Labouring Population of Great Britain*. Drawing on local reports from across the country, it blamed epidemic disease on “atmospheric impurities produced by decomposing animal and vegetable substances,” damp, filth and overcrowding, and claimed that filth killed more people each year than any modern war. Good wages, it argued, gave no protection.",
+      "Chadwick's interest was partly financial: sick breadwinners pushed families onto poor relief. His answer was engineering rather than higher wages: drainage, sewers and abundant piped water. The Public Health Act of 1848 let local boards tax property owners to pay for them.",
+      "The theory was wrong. Cholera and typhoid spread largely through contaminated water, not foul air. Removing waste and supplying clean water still cut those routes, but not at once. Early sewers often emptied into rivers that also supplied drinking water, and in some towns they made pollution worse."
+    ],
+    "links": [
+      {
+        "to": "snow-cholera",
+        "kind": "see-also",
+        "note": "Snow's 1854 work pointed to water, not air, as the route of cholera."
+      },
+      {
+        "to": "roman-public-health",
+        "kind": "see-also",
+        "note": "An earlier state that built sewers and aqueducts."
+      },
+      {
+        "to": "nightingale",
+        "kind": "see-also",
+        "note": "Another sanitary reformer of the same era."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Report to Her Majesty's Principal Secretary of State for the Home Department from the Poor Law Commissioners, on an inquiry into the sanitary condition of the labouring population of Great Britain (presented July 1842)",
+        "author": "Edwin Chadwick",
+        "publisher": "Poor Law Commission, London, 1842 (Internet Archive scan, Wellcome Library copy)",
+        "year": 1842,
+        "url": "https://archive.org/stream/b21365143/b21365143_djvu.txt",
+        "type": "primary",
+        "supports": "The report's conclusions: disease caused by atmospheric impurities, damp, filth and overcrowding; loss of life greater than in modern wars; prosperity and wages no protection; drainage and water as remedies.",
+        "quote": "That the annual loss of life from filth and bad ventilation are greater than the loss from death or wounds in any wars in which the country has been engaged in modern times"
+      },
+      {
+        "title": "Infant mortality and social causality: Lessons from the history of Britain's public health movement, c. 1834–1914",
+        "author": "Elias Nosrati, Michael P. Kelly, Simon Szreter",
+        "publisher": "British Journal of Sociology",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11617806/",
+        "type": "scholarly",
+        "supports": "Chadwick's role in the 1834 New Poor Law; disease raising Poor Law costs; the 'Sanitary Idea' as an engineering solution; the 1848 Act enabling local authorities to tax property for water and sewers.",
+        "quote": "Chadwick had discovered that disease was causing rising costs to his new Poor Law when family wage‐earners were incapacitated"
+      },
+      {
+        "title": "Cholera as a 'sanitary test' of British cities, 1831–1866",
+        "author": "Romola J. Davenport, Max Satchell, Leigh M. W. Shaw-Taylor",
+        "publisher": "The History of the Family",
+        "year": 2019,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6582458/",
+        "type": "scholarly",
+        "supports": "Miasmatic theory prioritised waste removal; early sewage disposal into watercourses could increase pollution of drinking water.",
+        "quote": "towns that were pro-active in adopting newer means of waste disposal could inadvertently have increased the pollution of domestic water sources"
+      },
+      {
+        "title": "Edwin Chadwick: A Pioneer of Public Health Reform and His Role in Sanitary Awakening",
+        "author": "P. Mary Vaishali, N. Boopathy",
+        "publisher": "Cureus",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11457289/",
+        "type": "scholarly",
+        "supports": "Chadwick's birth in 1800 and training in law; the miasma theory behind the report.",
+        "quote": "This theory proposes that ailments such as cholera were spread by \"foul air\" or miasmas originating from decomposing organic matter"
+      }
+    ],
+    "further": [
+      "snowden-2019",
+      "porter-1997"
+    ],
+    "image": {
+      "commons": "File:Chadwick's sanitary map of Leeds. Wellcome L0009781.jpg",
+      "alt": "Map of the town of Leeds prepared for Chadwick's report on the sanitary condition of the labouring population.",
+      "caption": "A map of Leeds, prepared at Chadwick's request for the 1842 sanitary report, showing where epidemic disease and cholera fell on the town's crowded streets."
+    }
+  },
+  {
+    "id": "blackwell",
+    "title": "Women enter the profession",
+    "stream": "bio-public",
+    "tier": 2,
+    "date": {
+      "year": 1849,
+      "display": "1849"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "Blackwell's 1849 degree, Crumpler's 1864 degree and the British milestones are documented in NLM and journal sources. The story of the Geneva students voting her in as a joke comes from later accounts but is consistently reported; Erxleben's 1754 doctorate and the effect of the 1876 Medical Act are documented here only in secondary sources."
+    },
+    "place": "Geneva, New York, United States",
+    "people": [
+      "Elizabeth Blackwell (1821–1910), first woman to earn an M.D. from an American medical school",
+      "Rebecca Lee Crumpler (1831–1895), first African American woman to earn an M.D.",
+      "James Barry (born Margaret Bulkley), army surgeon who graduated from Edinburgh in 1812",
+      "Elizabeth Garrett Anderson (1836–1917), first woman to qualify as a medical practitioner in the United Kingdom",
+      "Sophia Jex-Blake, leader of the Edinburgh Seven"
+    ],
+    "themes": [
+      "institutions",
+      "ethics"
+    ],
+    "summary": "Elizabeth Blackwell's 1849 degree came after rejections, a students' joke and earlier women who had found other ways in.",
+    "body": [
+      "In 1849 Elizabeth Blackwell graduated from Geneva Medical College in upstate New York, the first woman to earn an M.D. from an American medical school. She had applied to every medical school in New York and Philadelphia and twelve more in the Northeast before Geneva accepted her in 1847. Its faculty, sure the all-male students would refuse, let them vote on her admission. They voted yes, as a joke.",
+      "She was not the first woman to hold a medical degree. Dorothea Erxleben took a doctorate at Halle in 1754 with the favor of Frederick the Great, and Margaret Bulkley graduated from Edinburgh in 1812 as James Barry, living as a man through a long army career. In 1864 Rebecca Lee Crumpler, a nurse for eight years, became the first African American woman to earn an M.D.",
+      "Britain moved slowly. Elizabeth Garrett qualified in 1865 through the examinations of the Society of Apothecaries. Sophia Jex-Blake and the other “Edinburgh Seven” enrolled at Edinburgh in 1869 but were later shut out, and only the Medical Act of 1876 opened qualifying examinations to women."
+    ],
+    "myth": {
+      "tradition": "Elizabeth Blackwell was the first woman doctor.",
+      "record": "She was the first woman to earn an M.D. from an American medical school. Dorothea Erxleben took a German medical doctorate in 1754, and Margaret Bulkley graduated from Edinburgh in 1812 as James Barry."
+    },
+    "links": [
+      {
+        "to": "hildegard",
+        "kind": "see-also",
+        "note": "A medieval woman who wrote on medicine without any degree."
+      },
+      {
+        "to": "nightingale",
+        "kind": "see-also",
+        "note": "Blackwell's contemporary, who chose nursing."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Biography: Dr. Elizabeth Blackwell",
+        "publisher": "U.S. National Library of Medicine, Changing the Face of Medicine",
+        "url": "https://www.nlm.nih.gov/exhibition/changing-the-face-of-medicine/physicians/biography_elizabeth_blackwell.html",
+        "type": "institutional",
+        "supports": "Blackwell's 1849 M.D. from Geneva Medical College; her applications to every school in New York and Philadelphia and twelve more, and acceptance at Geneva in 1847; the students' vote taken as a joke; her life dates.",
+        "quote": "The faculty, assuming that the all-male student body would never agree to a woman joining their ranks, allowed them to vote on her admission"
+      },
+      {
+        "title": "Biography: Dr. Rebecca Lee Crumpler",
+        "publisher": "U.S. National Library of Medicine, Changing the Face of Medicine",
+        "url": "https://www.nlm.nih.gov/exhibition/changing-the-face-of-medicine/physicians/biography_rebecca_crumpler.html",
+        "type": "institutional",
+        "supports": "Crumpler's birth in 1831, eight years as a nurse, and her 1864 M.D. from the New England Female Medical College as the first African American woman to earn the degree.",
+        "quote": "When she graduated in 1864, Crumpler was the first African American woman in the United States to earn an M.D. degree"
+      },
+      {
+        "title": "The Women Making Their Mark in Modern Scottish Medical History",
+        "author": "Sophie Au, Andrew de Beaux",
+        "publisher": "Journal of Abdominal Wall Surgery",
+        "year": 2023,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10831754/",
+        "type": "scholarly",
+        "supports": "Margaret Bulkley enrolling at Edinburgh as James Barry, graduating in 1812 and serving in the army; the Edinburgh Seven matriculating in 1869 and later being excluded.",
+        "quote": "She took on the name James Barry, after her late uncle, and enrolled at the University of Edinburgh as a medical student"
+      },
+      {
+        "title": "Breaking Barriers: The History of Women's Education and the Training of Female Surgeons",
+        "author": "John P. Collins",
+        "publisher": "ANZ Journal of Surgery",
+        "year": 2026,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13327638/",
+        "type": "scholarly",
+        "supports": "Elizabeth Garrett Anderson's dates and 1865 Society of Apothecaries diploma; the Medical Act of 1876 admitting qualified applicants regardless of gender.",
+        "quote": "The Medical Act 1876 repealed the previous Medical Act of 1858 and ruled that all qualified applicants, whatever their gender, must be allowed admission"
+      },
+      {
+        "title": "The German experiment: health care without female or Jewish doctors",
+        "author": "Alexa R. Shipman",
+        "publisher": "International Journal of Women's Dermatology",
+        "year": 2017,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5419055/",
+        "type": "scholarly",
+        "supports": "Dorothea Erxleben's 1754 medical degree at Halle with the favor of Frederick the Great.",
+        "quote": "in 1754, was admitted to the University of Halle and graduated from the medical faculty by the favor of Frederick the Great"
+      }
+    ],
+    "further": [
+      "porter-1997"
+    ],
+    "image": {
+      "commons": "File:Elizabeth Blackwell NLM 02.jpg",
+      "alt": "Signed black-and-white portrait photograph of Elizabeth Blackwell in later life, with white hair and a lace collar.",
+      "caption": "Elizabeth Blackwell (1821–1910) in later life, in a signed portrait; photographer and date unknown. National Library of Medicine."
+    }
+  },
+  {
+    "id": "hypodermic-syringe",
+    "title": "The hypodermic syringe",
+    "stream": "bio-surgery",
+    "tier": 3,
+    "date": {
+      "year": 1853,
+      "display": "1853"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "Wood's own 1855 paper describes his first injection in November 1853, and Pravaz's syringe is of the same year. Credit was disputed at the time, notably with Charles Hunter, and Rynd's 1844 hollow needle came earlier."
+    },
+    "place": "Edinburgh, Scotland, and France",
+    "people": [
+      "Alexander Wood, Edinburgh physician",
+      "Charles-Gabriel Pravaz, French physician",
+      "Francis Rynd (1801–1861), Irish physician",
+      "Charles Hunter, London surgeon who named the method hypodermic"
+    ],
+    "themes": [
+      "technology",
+      "drugs"
+    ],
+    "summary": "A small syringe built to treat birthmarks and aneurysms became the way to put morphine straight into the body.",
+    "body": [
+      "In 1844 the Irish physician Francis Rynd used a hollow needle to relieve a patient's facial pain. In 1853 Charles-Gabriel Pravaz in France built a piston syringe to inject coagulant into aneurysms. That November in Edinburgh, Alexander Wood used a small London-made syringe, meant for treating birthmarks, to inject morphine beside the nerve of an elderly woman with neuralgia, and she slept deeply and woke free of pain. Wood believed the drug acted locally; the London surgeon Charles Hunter showed it worked wherever it was injected. By 1870 Clifford Allbutt was warning about patients injecting themselves daily."
+    ],
+    "myth": {
+      "tradition": "Wood's first injection was given to his own dying wife.",
+      "record": "Wood's published account describes his first patient as an elderly unmarried woman with neuralgia. The wife story is repeated in modern reviews but does not appear in his own report."
+    },
+    "links": [
+      {
+        "to": "morphine",
+        "kind": "built-on",
+        "note": "The drug the syringe was first used to deliver."
+      },
+      {
+        "to": "opioid-crisis",
+        "kind": "see-also",
+        "note": "Allbutt's 1870 worry about daily self-injection foreshadows later concern about dependence."
+      }
+    ],
+    "sources": [
+      {
+        "title": "New Method of Treating Neuralgia by the Direct Application of Opiates to the Painful Points",
+        "author": "Alexander Wood",
+        "publisher": "Edinburgh Medical and Surgical Journal",
+        "year": 1855,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5846403/",
+        "type": "primary",
+        "supports": "Wood's syringe made by Ferguson of London for injecting naevi; his first case, an old lady ('Miss') with neuralgia, injected with morphia on 28 November 1853, who then slept so deeply she was hard to rouse and whose pain did not return.",
+        "quote": "an old lady, who had long laboured under gastric and nervous symptoms, had suffered severely for four days from cervico-brachial neuralgia"
+      },
+      {
+        "title": "Brief History of Opioids in Perioperative and Periprocedural Medicine to Inform the Future",
+        "author": "Philip G. Boysen, Jay H. Patel, Alan N. King",
+        "publisher": "Ochsner Journal",
+        "year": 2023,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10016219/",
+        "type": "scholarly",
+        "supports": "Rynd's hollow needle in 1844 for facial pain; Pravaz's piston syringe of 1853 for injecting coagulant into aneurysms; Rynd's life dates in its references.",
+        "quote": "Pravaz's syringe was designed for injecting coagulant into aneurysms, but it was modified and used for the administration of drugs"
+      },
+      {
+        "title": "The opioid receptor: emergence through millennia of pharmaceutical sciences",
+        "author": "Carolyn A. Fairbanks, Cristina D. Peterson",
+        "publisher": "Frontiers in Pain Research",
+        "year": 2023,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10646403/",
+        "type": "scholarly",
+        "supports": "Wood's belief in local action, Hunter's demonstration of systemic action and the priority dispute; Allbutt's 1870 warning about self-injection.",
+        "quote": "he deduced that the effect of morphine was due to systemic action of opioid whereas Dr. Wood continued to assert a local action"
+      },
+      {
+        "title": "Bridging Old and New in Pain Medicine: An Historical Review",
+        "author": "Antonella Paladini et al.",
+        "publisher": "Cureus",
+        "year": 2023,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10504912/",
+        "type": "scholarly",
+        "supports": "Hunter as the first to call it a hypodermic syringe; an example of the popular claim that Wood's wife was his first patient.",
+        "quote": "A surgeon in London named Charles Hunter was the first to call this a hypodermic syringe"
+      }
+    ],
+    "further": []
+  }
+]

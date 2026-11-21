@@ -1,0 +1,693 @@
+[
+  {
+    "id": "dioscorides",
+    "title": "Dioscorides, De Materia Medica",
+    "stream": "greco-roman",
+    "tier": 2,
+    "date": {
+      "year": 65,
+      "earliest": 50,
+      "latest": 80,
+      "display": "c. 50–70 CE"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "firm",
+      "note": "No document dates the book. It is placed by his mention of Laecanius Bassus, presumed to be the consul of 64 CE, by a mention in Erotian, a Hippocratic commentator of the Neronian age (if that name is not a later insertion), and by Galen's later use of it. The text itself survives, so its contents and long afterlife are not in doubt."
+    },
+    "place": "Anazarbus, Cilicia (southern Turkey), and travels across the Roman world",
+    "people": [
+      "Pedanius Dioscorides (fl. c. 50–70 CE), Greek physician and pharmacologist",
+      "Anicia Juliana, daughter of the emperor Olybrius, for whom the Vienna copy was made"
+    ],
+    "themes": [
+      "drugs",
+      "texts"
+    ],
+    "summary": "A Greek doctor's plain catalogue of some 600 plants stayed a leading drug authority in Europe and the Islamic world for around 1,600 years.",
+    "body": [
+      "Pedanius Dioscorides came from Anazarbus in Cilicia, in what is now southern Turkey. In the letter that opens his book he says that he led a “soldier-like life”, which let him learn medicines at first hand. His *De materia medica* (“On medical materials”), written in Greek in five books, probably between about 50 and 70 CE, covers more than 600 plants, 35 animal products and 90 minerals in roughly 827 entries, in plain language and with little medical theory: how to recognize and prepare each substance, and what it is good for.",
+      "Few books have lasted so long. Copyists rearranged it and added to it; it was in Latin by the sixth century and was translated into Arabic in the ninth, with corrections by Hunayn ibn Ishaq. Around 512 a lavishly illustrated copy, its entries re-sorted alphabetically, was made in Constantinople for the noblewoman Anicia Juliana. Now in the Austrian National Library and known as the Vienna Dioscurides, it is on UNESCO's Memory of the World register. Printed editions multiplied in the Renaissance, above all Mattioli's of 1554. A 2010 comparison of later European drug lists found that the 19th-century Spanish pharmacopoeia still shared almost three-fifths of its simple remedies with Dioscorides."
+    ],
+    "myth": {
+      "tradition": "Dioscorides was an army surgeon who served the emperor Nero and gathered his plants on campaign.",
+      "record": "He says only that he led a “soldier-like life”. Historians infer service as an army physician from that phrase and his travels, but no source states it, and the link to Nero is a later inference."
+    },
+    "links": [
+      {
+        "to": "galen",
+        "kind": "see-also",
+        "note": "Galen drew on Dioscorides' work, which helps date the book."
+      },
+      {
+        "to": "islamic-pharmacy",
+        "kind": "led-to",
+        "note": "The ninth-century Arabic translation fed Islamic pharmacy."
+      },
+      {
+        "to": "theriac",
+        "kind": "see-also",
+        "note": "Another long-lived drug tradition of Greco-Roman antiquity."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Dioscorides (Complete Dictionary of Scientific Biography)",
+        "author": "John M. Riddle",
+        "publisher": "Encyclopedia.com / Gale",
+        "url": "https://encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/dioscorides",
+        "type": "reference",
+        "supports": "Anazarbus; fl. 50–70; 'soldier's life' and army service as inference; five books, 600 plants, 35 animal products, 90 minerals, c. 827 entries; c. 512 Anicia Juliana manuscript, alphabetical order; Latin by 6th century; Arabic translation corrected by Hunayn; Mattioli 1554.",
+        "quote": "Written in five books, the treatise discusses over 600 plants, thirty-five animal products, and ninety minerals in simple, concise Greek"
+      },
+      {
+        "title": "Vienna Dioscurides",
+        "publisher": "UNESCO Memory of the World",
+        "url": "https://www.unesco.org/en/memory-world/vienna-dioscurides",
+        "type": "institutional",
+        "supports": "Long use of the work through the Middle Ages and Renaissance; Vienna manuscript (Cod. med. Graec. 1, Austrian National Library), early 6th century, Anicia Juliana; inscribed on the register in 1997.",
+        "quote": "Dioscurides' work can be considered as the most important pharmaceutical source of the Ancient World and was used throughout the Middle Age, Renaissance"
+      },
+      {
+        "title": "European Materia Medica in Historical Texts: Longevity of a Tradition and Implications for Future Use",
+        "author": "Paula De Vos",
+        "publisher": "Journal of Ethnopharmacology (PMC)",
+        "year": 2010,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2956839/",
+        "type": "scholarly",
+        "supports": "Later pharmacopoeias' heavy overlap with Dioscorides, including the 19th-century Spanish pharmacopoeia sharing almost three-fifths of its simples; Dioscorides' avoidance of medical theory.",
+        "quote": "Farmacopea Española still had almost three-fifths of its simples in common with the"
+      }
+    ],
+    "further": [
+      "nutton-2013"
+    ],
+    "image": {
+      "commons": "File:Dioscorides, Codex Julianae Aniciae; Coriander Wellcome M0006403.jpg",
+      "alt": "Early black-and-white photograph of a manuscript page showing a coriander plant with feathery leaves, flower heads and roots, with Greek and Arabic labels.",
+      "caption": "Coriander, from the Vienna Dioscurides, made in Constantinople around 512 for Anicia Juliana. Early photograph of the page, Wellcome Collection; the manuscript is in the Austrian National Library."
+    }
+  },
+  {
+    "id": "soranus",
+    "title": "Soranus on childbirth",
+    "stream": "greco-roman",
+    "tier": 3,
+    "date": {
+      "year": 110,
+      "earliest": 98,
+      "latest": 138,
+      "display": "c. 98–138 CE"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "firm",
+      "note": "His dates come from two short entries in the Byzantine Suda, placing him under Trajan and Hadrian, which details in his own text support. The Gynecology itself survives in Greek, so what he taught is well known."
+    },
+    "place": "Rome (born Ephesus; trained at Alexandria)",
+    "people": [
+      "Soranus of Ephesus (fl. 98–138 CE), physician of the Methodist school"
+    ],
+    "themes": [
+      "practice",
+      "texts"
+    ],
+    "summary": "A Roman-era doctor wrote antiquity's great manual for midwives, and wanted them literate, calm and trained in drugs and surgery.",
+    "body": [
+      "Soranus was born at Ephesus, studied at Alexandria and practised in Rome under the emperors Trajan and Hadrian (98–138 CE), a leading figure of the Methodist school. His *Gynecology*, written chiefly for midwives, covers menstruation, contraception, pregnancy, normal and difficult births, and the care of infants. He wanted a midwife literate, calm in danger, discreet and trained in diet, surgery and drugs, and he rejected the common view that she must have borne children herself. He also describes turning a badly placed baby so it could be delivered feet first. Medieval readers knew him largely through Latin versions by Caelius Aurelianus and Mustio."
+    ],
+    "links": [
+      {
+        "to": "alexandria-dissection",
+        "kind": "built-on",
+        "note": "He knew Herophilus's dissections of the uterus."
+      },
+      {
+        "to": "late-antique-encyclopedists",
+        "kind": "led-to",
+        "note": "Aetius of Amida's compilation is a chief source for his gynecology."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Qualities and training of midwives (Soranus, Gynaecology 1.3–4, tr. O. Temkin)",
+        "publisher": "Diotima: Women and Gender in the Ancient World",
+        "url": "https://diotima-doctafemina.org/translations/anthologies/womens-life-in-greece-and-rome-selections/ix-medicine-and-anatomy/375-qualities-and-training-of-midwives/",
+        "type": "primary",
+        "supports": "Soranus's requirements for midwives: literacy, calm, training in diet, surgery and drugs; no need to have borne children.",
+        "quote": "We call a person the best midwife if she is trained in all branches of therapy"
+      },
+      {
+        "title": "Heirs of Hippocrates No. 34: Soranus of Ephesus",
+        "publisher": "University of Iowa Libraries",
+        "url": "https://heirs.lib.uiowa.edu/record.php?id=34",
+        "type": "institutional",
+        "supports": "Born Ephesus, educated Alexandria, practised in Rome under Trajan and Hadrian; Methodist; Gynecology written chiefly for midwives and its contents; podalic version.",
+        "quote": "Born at Ephesus, Soranus was educated in Alexandria and practiced and taught medicine in Rome during the reigns of Trajan and Hadrian"
+      },
+      {
+        "title": "Review of Owsei Temkin, Soranus' Gynecology",
+        "author": "Ann Hanson",
+        "publisher": "Bryn Mawr Classical Review",
+        "year": 1992,
+        "url": "https://bmcr.brynmawr.edu/?p=19776",
+        "type": "scholarly",
+        "supports": "Greek text (Ilberg 1927 edition); dates from the Suda confirmed by the text; knowledge of Herophilus's uterine dissections; Latin versions of Caelius Aurelianus and Mustio.",
+        "quote": "The jejune details about Soranus' life, derived from two complementary biographical entries in the Suida"
+      }
+    ],
+    "further": [
+      "nutton-2013"
+    ]
+  },
+  {
+    "id": "roman-public-health",
+    "title": "Aqueducts, sewers and army hospitals",
+    "stream": "greco-roman",
+    "tier": 2,
+    "date": {
+      "year": 50,
+      "earliest": -312,
+      "latest": 200,
+      "display": "312 BCE – 2nd century CE"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "agreed",
+      "note": "Frontinus dates Rome's first aqueduct to 441 years after the city's founding (312 BCE), and the buildings are well documented. Whether they made Romans healthier is less certain: parasite studies suggest little benefit, and how the army hospitals were staffed is reconstructed from scattered inscriptions."
+    },
+    "place": "Rome and the Roman Empire",
+    "people": [
+      "Appius Claudius Caecus (censor 312 BCE), builder of the first aqueduct",
+      "Sextus Julius Frontinus, water commissioner of Rome under Nerva"
+    ],
+    "themes": [
+      "public-health",
+      "institutions"
+    ],
+    "summary": "Rome piped in clean water, built sewers, latrines and army hospitals, and still crawled with worms and lice.",
+    "body": [
+      "For 441 years after its founding, wrote Sextus Julius Frontinus, Rome made do with water from the Tiber, wells and springs. Then, in 312 BCE by modern reckoning, the censor Appius Claudius brought in the first aqueduct. When the emperor Nerva made Frontinus water commissioner, he called it an office concerning \"the health and even the safety of the City.\" Across the empire Romans built multi-seat public latrines with washing facilities, sewers, fountains and bathhouses. The army built hospitals, *valetudinaria*, inside its fortresses to a standard plan; at Inchtuthil in Scotland the hospital was the largest finished building on the site, though its staffing is pieced together from inscriptions.",
+      "Whether all this made people healthier is another matter. In 2017 Piers Mitchell gathered parasite evidence from Roman latrines, burials, fossilized feces, combs and textiles. Whipworm, roundworm and dysentery-causing *Entamoeba* became gradually more common under Rome, not less, and at York lice and fleas turned up in Roman, Viking and medieval layers in similar numbers. Warm, rarely changed bathwater may have spread worms, and fish sauce traded in sealed jars may have spread fish tapeworm. Roman sanitation, Mitchell concluded, probably made people smell better rather than live healthier."
+    ],
+    "myth": {
+      "tradition": "Roman aqueducts, sewers and baths made Romans far healthier than the peoples they conquered.",
+      "record": "Archaeological parasite evidence shows intestinal worms and lice did not decline under Roman rule and some increased; any health benefit of Roman sanitation remains unproven."
+    },
+    "links": [
+      {
+        "to": "basileias",
+        "kind": "see-also",
+        "note": "A Christian institution for the sick, centuries after the first army hospitals."
+      },
+      {
+        "to": "antonine-plague",
+        "kind": "see-also",
+        "note": "Epidemics still struck the empire despite its infrastructure."
+      },
+      {
+        "to": "chadwick",
+        "kind": "see-also",
+        "note": "Sanitary engineering returns as public health in the 19th century."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Frontinus, De Aquis (The Aqueducts of Rome), Book I, tr. C. E. Bennett (Loeb, 1925)",
+        "publisher": "LacusCurtius, University of Chicago",
+        "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Frontinus/De_Aquis/Bennett/1*.html",
+        "type": "primary",
+        "supports": "441 years without aqueducts; Appius Claudius and the first aqueduct; Frontinus made water commissioner by Nerva; the office concerns health.",
+        "quote": "For four hundred and forty-one years from the foundation of the City, the Romans were satisfied with the use of such waters as they drew from the Tiber"
+      },
+      {
+        "title": "Human parasites in the Roman World: health consequences of conquering an empire",
+        "author": "Piers D. Mitchell",
+        "publisher": "Parasitology (Cambridge University Press)",
+        "year": 2017,
+        "url": "https://www.cambridge.org/core/journals/parasitology/article/human-parasites-in-the-roman-world-health-consequences-of-conquering-an-empire/6464BDBB5D4B8EC0B08C503B6ECD1B7B",
+        "type": "scholarly",
+        "supports": "Roman latrines, sewers, aqueducts, baths; persistence of whipworm, roundworm and Entamoeba histolytica; no evident protection from parasites.",
+        "quote": "Roman technology such as flushing latrines, clean piped water, sewers and drains, hand washing and bath houses does not seem to have protected them"
+      },
+      {
+        "title": "Roman toilets gave no clear health benefit, and Romanisation actually spread parasites",
+        "publisher": "University of Cambridge",
+        "year": 2016,
+        "url": "https://www.cam.ac.uk/research/news/roman-toilets-gave-no-clear-health-benefit-and-romanisation-actually-spread-parasites",
+        "type": "institutional",
+        "supports": "Evidence types (latrines, burials, coprolites, combs, textiles); gradual increase of parasites; lice and fleas as common as among Vikings and medieval people; bathwater and garum hypotheses; 'smelt better' conclusion.",
+        "quote": "It seems likely that while Roman sanitation may not have made people any healthier, they would probably have smelt better"
+      },
+      {
+        "title": "Medicine and the Roman Army: a Further Reconsideration",
+        "author": "Vivian Nutton",
+        "publisher": "Medical History (Cambridge University Press)",
+        "year": 1969,
+        "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/BE21D3C0E8A830143F05A199DDFB07DB/S0025727300014526a.pdf/medicine-and-the-roman-army-a-further-reconsideration.pdf",
+        "type": "scholarly",
+        "supports": "Standard plan of legionary hospitals; Inchtuthil hospital the largest completed building; medical hierarchy conjectured from inscriptions.",
+        "quote": "At Inchtuthil the hospital is the largest completed building on the site and shows such refinement of design"
+      }
+    ],
+    "further": [
+      "nutton-2013"
+    ],
+    "image": {
+      "commons": "File:Ostia antica - Forica (5156172544).jpg",
+      "alt": "A brick-walled room with a stone bench running around the walls, pierced by keyhole-shaped seat openings, and a paved floor.",
+      "caption": "A public latrine (forica) at Ostia Antica, the port of Rome. Stone seating survives around the walls; this one was perhaps installed in the 4th century CE in a former pair of shops near the Forum Baths."
+    }
+  },
+  {
+    "id": "galen",
+    "title": "Galen of Pergamon",
+    "stream": "greco-roman",
+    "tier": 1,
+    "date": {
+      "year": 170,
+      "earliest": 129,
+      "latest": 215,
+      "display": "129–c. 200 CE"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "firm",
+      "note": "Galen's career is known mostly from his own voluminous writings, which date his birth to 129 (one reference work gives 131) and his main works to the 160s–90s; the year of his death is uncertain, c. 200 by tradition but perhaps a decade later. That he dissected animals rather than humans, and that his authority lasted into the 16th century, is not disputed."
+    },
+    "place": "Pergamon (western Turkey) and Rome",
+    "people": [
+      "Galen of Pergamon (129–c. 200 CE), physician and philosopher",
+      "Marcus Aurelius (ruled 161–180), emperor and Galen's patron",
+      "Andreas Vesalius (1514–1564), anatomist who exposed Galen's errors"
+    ],
+    "themes": [
+      "theory",
+      "practice",
+      "texts"
+    ],
+    "summary": "Galen tied off a live pig's spinal cord to show where the soul's ruling part sits, and his animal-based anatomy dominated medicine for well over a thousand years.",
+    "body": [
+      "Galen was born in 129 CE into the elite of Pergamon, a Greek city near the coast of Roman Asia, the son of an architect. After his father died he spent years studying with leading teachers in Smyrna, Corinth and Alexandria, where anatomy was still taught but dissection was limited to animals. In 157 he took a post as doctor to the gladiators of Pergamon, and in the early 160s he moved to Rome. There he won patients, rivals and the favor of the emperor Marcus Aurelius, who took him on as court physician.",
+      "He was among the most prolific writers of antiquity. His works fill 21 volumes of about 1,000 pages each in the standard Greek edition, more than four million words, and a few survive only in Arabic, Syriac, Hebrew or Latin. He revered Hippocrates and Plato and presented his own views as consistent with theirs, building a system that ran from the elements hot, cold, wet and dry, through the uniform tissues, to the organs, and that placed the soul's powers in brain, heart and liver. He was a ferocious polemicist, rarely content to state a view without demolishing someone else's.",
+      "Galen also tested ideas on living animals. In one famous experiment he tied off the spinal cord of a live pig to show that the brain was the seat of the soul's ruling part. But because human dissection was not available to him, much of his human anatomy was really animal anatomy, taken largely from monkeys.",
+      "His influence was enormous and long. Greek, Roman and Arabic physicians treated his books as authoritative, and their standing reached a peak in the Middle Ages. In 1543 Andreas Vesalius, working from human bodies at Padua, publish his *Fabrica* and show that Galen, still the principal authority on anatomy, had made many errors by trusting animals."
+    ],
+    "links": [
+      {
+        "to": "four-humours",
+        "kind": "built-on",
+        "note": "Galen systematized Hippocratic humoral theory."
+      },
+      {
+        "to": "alexandria-dissection",
+        "kind": "built-on",
+        "note": "He trained in Alexandria, the old center of anatomical research."
+      },
+      {
+        "to": "translation-movement",
+        "kind": "led-to",
+        "note": "Arabic translations carried his system into Islamic medicine."
+      },
+      {
+        "to": "vesalius",
+        "kind": "see-also",
+        "note": "Vesalius corrected Galen's animal-based anatomy in 1543."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Galen",
+        "author": "R. J. Hankinson",
+        "publisher": "Stanford Encyclopedia of Philosophy",
+        "year": 2016,
+        "url": "https://plato.stanford.edu/entries/galen/",
+        "type": "reference",
+        "supports": "Dates 129–c. 200; Pergamon, architect father; study in Smyrna, Corinth, Alexandria; animal-only dissection at Alexandria; gladiators 157; Rome early 160s; Marcus Aurelius; 21 volumes, 4 million words; Hippocrates and Plato; levels of analysis; brain-heart-liver; live pig spinal cord experiment; adversarial style; Arabic transmission.",
+        "quote": "is demonstrated by ligation of the spinal cord of a live pig"
+      },
+      {
+        "title": "Andreas Vesalius (1514–1564)",
+        "publisher": "Ars Anatomica, University of Edinburgh Library and Royal College of Physicians of Edinburgh",
+        "url": "https://www.arsanatomica.lib.ed.ac.uk/vesalius.html",
+        "type": "institutional",
+        "supports": "Vesalius at Padua; Fabrica of 1543; Galen still the principal authority; many errors from deriving anatomy from animals, especially monkeys.",
+        "quote": "Galen had derived a large part of his anatomy from the study of animals, especially monkeys"
+      },
+      {
+        "title": "Heirs of Hippocrates No. 36: Galenus, De ossibus",
+        "publisher": "University of Iowa Libraries",
+        "url": "https://heirs.lib.uiowa.edu/record.php?id=36",
+        "type": "institutional",
+        "supports": "Galen's enormous influence; accepted as authoritative by Greek, Roman and Arabic physicians, reaching a zenith in the Middle Ages.",
+        "quote": "for centuries his writings were accepted as authoritative by Greek, Roman, and Arabic physicians, reaching a zenith in the Middle Ages"
+      }
+    ],
+    "further": [
+      "nutton-2013",
+      "porter-1997"
+    ],
+    "image": {
+      "commons": "File:Galen-Pig-Vivisection.jpg",
+      "alt": "Black-and-white woodcut of a bearded man in a long robe bending over a pig tied to a table, watched by rows of onlookers labeled with names.",
+      "caption": "Galen demonstrating on a bound pig before onlookers, from the title page of the 1541 Giunta edition of his works. A 16th-century picture of his famous demonstration that cutting the laryngeal nerves leaves an animal voiceless, not a record made in his lifetime."
+    }
+  },
+  {
+    "id": "antonine-plague",
+    "title": "The Antonine Plague",
+    "stream": "greco-roman",
+    "tier": 3,
+    "date": {
+      "year": 165,
+      "earliest": 165,
+      "latest": 168,
+      "end": 180,
+      "display": "c. 165–180 CE"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "disputed",
+      "note": "Ancient writers clearly attest epidemic disease from the 160s to the 180s, but few describe symptoms, so it is unclear whether one disease is meant. The smallpox diagnosis rests on a handful of descriptions, notably Galen's, and has no genetic support; death-toll estimates depend on it."
+    },
+    "place": "Roman Empire, from the eastern frontier to Rome and the Rhine",
+    "people": [
+      "Lucius Verus, co-emperor whose returning army was blamed",
+      "Galen (129–c. 200), physician who described the disease"
+    ],
+    "themes": [
+      "public-health"
+    ],
+    "summary": "An epidemic swept the Roman Empire under Marcus Aurelius. It is usually called smallpox, but that diagnosis is now seriously doubted.",
+    "body": [
+      "From the mid-160s CE a pestilence spread through the Roman Empire. Later Roman histories said Lucius Verus seemed to bring the pestilence home from the war in the east, and told of a soldier who cut open a golden casket in a Babylonian temple and released a deadly vapor. They describe the dead being removed from Rome in carts. Galen recorded an ulcerated, scarring rash, and modern historians long diagnosed smallpox; one classic estimate put the dead at 7–10 million. Recent genetic work casts doubt on smallpox existing in recognizable form so early, and by 2022 no ancient DNA from the epidemic had been found."
+    ],
+    "myth": {
+      "tradition": "The Antonine Plague was the first great smallpox epidemic and killed a large share of the empire.",
+      "record": "Smallpox is a modern retrospective diagnosis with no genetic confirmation, now seriously questioned, and published death tolls such as 7–10 million were built on that diagnosis."
+    },
+    "links": [
+      {
+        "to": "galen",
+        "kind": "see-also",
+        "note": "Galen's descriptions are the main medical evidence."
+      },
+      {
+        "to": "plague-of-justinian",
+        "kind": "see-also",
+        "note": "The next great Roman pandemic, this time confirmed by DNA."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Historia Augusta, Life of Lucius Verus, tr. D. Magie (Loeb, 1921)",
+        "publisher": "LacusCurtius, University of Chicago",
+        "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Historia_Augusta/Lucius_Verus*.html",
+        "type": "primary",
+        "supports": "Ancient story of origin in Babylonia from a golden casket opened by a soldier; spread with Verus's returning army.",
+        "quote": "It is believed that this pestilence originated in Babylonia, where a pestilential vapour arose in a temple of Apollo from a golden casket"
+      },
+      {
+        "title": "Historia Augusta, Life of Marcus Aurelius, tr. D. Magie (Loeb, 1921)",
+        "publisher": "LacusCurtius, University of Chicago",
+        "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Historia_Augusta/Marcus_Aurelius/1*.html",
+        "type": "primary",
+        "supports": "Dead removed in carts at Rome; editor's note on spread to the Rhine and persistence to 180.",
+        "quote": "besides, that the dead were removed in carts and waggons"
+      },
+      {
+        "title": "Smallpox's antiquity in doubt",
+        "author": "Timothy P. Newfield, Ana T. Duggan and Hendrik Poinar",
+        "publisher": "Journal of Roman Archaeology (Cambridge University Press)",
+        "year": 2022,
+        "url": "https://doi.org/10.1017/S1047759422000290",
+        "type": "scholarly",
+        "supports": "Smallpox diagnosis of the Antonine plague and its doubtful basis; Galen's ulcerated and scarring exanthem; most references give no symptoms; Littman and Littman's 7–10 million estimate.",
+        "quote": "casts significant doubt on the existence of a VARV that caused a disease we would recognize"
+      },
+      {
+        "title": "Understanding the history of infectious diseases (review of Kyle Harper, Plagues upon the Earth)",
+        "author": "Talha Burki",
+        "publisher": "The Lancet Infectious Diseases (PMC)",
+        "year": 2022,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9760031/",
+        "type": "scholarly",
+        "supports": "Onset under Marcus Aurelius; no genetic evidence from the Antonine plague.",
+        "quote": "As yet, there is no genetic evidence from the Antonine plague, although this may change"
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "basileias",
+    "title": "The Basileias and the birth of the hospital",
+    "stream": "greco-roman",
+    "tier": 2,
+    "date": {
+      "year": 372,
+      "earliest": 370,
+      "latest": 379,
+      "display": "c. 370s CE (traditionally c. 372)"
+    },
+    "confidence": {
+      "date": "uncertain",
+      "claim": "disputed",
+      "note": "Basil's own letter and Gregory of Nazianzus's funeral speech prove the institution existed. The traditional dates of c. 370–372 rest on a visit by Valens that only a later writer, Theodoret, links to it, and Caner argues the letter may be from the mid-370s. Whether it was a general hospital or chiefly a leprosarium is debated."
+    },
+    "place": "Outside Caesarea, Cappadocia (modern Kayseri, Turkey)",
+    "people": [
+      "Basil of Caesarea (330–379), bishop and founder",
+      "Gregory of Nazianzus, Basil's friend, who described it"
+    ],
+    "themes": [
+      "institutions",
+      "ethics",
+      "practice"
+    ],
+    "summary": "A 4th-century bishop built a 'new city' for the sick and poor outside Caesarea. Was it the first hospital, or a leper colony?",
+    "body": [
+      "Basil, bishop of Caesarea in Cappadocia from 370, built a charitable institution just outside the city walls, traditionally dated to about 372. Some in the city objected. Basil asked the provincial governor in a letter what harm there could be in a place to lodge strangers, \"both for those who are on a journey and for those who require medical treatment on account of sickness\", with physicians, transport and escorts. Theodoret, writing in the fifth century, says the emperor Valens gave land to support Basil's work. After Basil's death his friend Gregory of Nazianzus urged people to visit \"the new city\", where disease was regarded \"in a religious light\". It outlived its founder and became known as the Basileias, Basil's Place.",
+      "It is often called the first hospital, where Christian charity and medical care for strangers met under one roof, and historians have pictured a multipurpose complex for the sick, the poor, travelers and lepers. In 2018 the historian Daniel Caner argued that the sources point to something narrower: a monastic leprosarium, where monks and lepers lived together and lepers were the central, perhaps the only, objects of care. Either way it evidently inspired similar facilities in early Byzantium."
+    ],
+    "myth": {
+      "tradition": "Basil of Caesarea founded the world's first hospital, a general infirmary open to all the sick.",
+      "record": "His institution offered medical care, but the sources may describe a leper refuge rather than a general hospital, and calling it 'first' depends on how a hospital is defined."
+    },
+    "links": [
+      {
+        "to": "roman-public-health",
+        "kind": "see-also",
+        "note": "Roman army hospitals were earlier but served the army."
+      },
+      {
+        "to": "bimaristans",
+        "kind": "see-also",
+        "note": "Later hospitals of the Islamic world."
+      },
+      {
+        "to": "medieval-hospitals",
+        "kind": "see-also",
+        "note": "Christian hospital foundations in medieval Europe."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Basil of Caesarea, Letter 94, to Elias, Governor of the Province",
+        "publisher": "New Advent (Nicene and Post-Nicene Fathers, 2nd series, vol. 8)",
+        "url": "https://www.newadvent.org/fathers/3202094.htm",
+        "type": "primary",
+        "supports": "Basil's description and defense of the institution: lodging for travelers and the sick, physicians, conveyance and escort.",
+        "quote": "both for those who are on a journey and for those who require medical treatment on account of sickness"
+      },
+      {
+        "title": "Gregory of Nazianzus, Oration 43, Funeral Oration on the Great S. Basil",
+        "publisher": "New Advent (Nicene and Post-Nicene Fathers, 2nd series, vol. 7)",
+        "url": "https://www.newadvent.org/fathers/310243.htm",
+        "type": "primary",
+        "supports": "The 'new city' outside Caesarea; care for the sick and lepers.",
+        "quote": "Go forth a little way from the city, and behold the new city, the storehouse of piety"
+      },
+      {
+        "title": "Not a Hospital but a Leprosarium: Basil's Basilias and an Early Byzantine Concept of the Deserving Poor",
+        "author": "Daniel Caner",
+        "publisher": "Dumbarton Oaks Papers 72 (via Internet Archive)",
+        "year": 2018,
+        "url": "https://archive.org/download/DOP72_02_Caner/DOP72_02_Caner.pdf",
+        "type": "scholarly",
+        "supports": "Date c. 372; Basil (330–379) as bishop; Valens's land gift; local opposition; later fame as the Basilias; conventional 'hospital' and 'multipurpose' readings; argument that it was a monastic leprosarium; inspired similar facilities.",
+        "quote": "a kind of monastic leprosarium where monks and lepers were sequestered together, each supporting the other"
+      }
+    ],
+    "further": [
+      "risse-1999"
+    ]
+  },
+  {
+    "id": "plague-of-justinian",
+    "title": "The Plague of Justinian",
+    "stream": "greco-roman",
+    "tier": 2,
+    "date": {
+      "year": 541,
+      "end": 544,
+      "display": "541–544 CE, recurring until c. 750"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "disputed",
+      "note": "Procopius and other contemporaries place the first outbreak precisely, and ancient DNA has confirmed the cause as Yersinia pestis. How many people died, and whether it changed the course of history, is argued between 'maximalist' historians and a revisionist challenge led by Mordechai and colleagues."
+    },
+    "place": "Pelusium (Egypt), Constantinople, and the Mediterranean world to Britain",
+    "people": [
+      "Procopius of Caesarea, historian and eyewitness in Constantinople",
+      "Justinian I, emperor after whom the plague is named"
+    ],
+    "themes": [
+      "public-health"
+    ],
+    "summary": "The first documented bubonic plague pandemic struck in 541. DNA proves the culprit; the death toll is still fiercely argued.",
+    "body": [
+      "In 541 CE a disease broke out at Pelusium in Egypt. It reached Constantinople in 542 and by the winter of 543 had spread to North Africa, Italy, Spain and the French-German borderlands. The historian Procopius, in the capital, described painful swellings in the groin, armpits and near the ears, black pustules and vomiting of blood, and doctors cutting open the swellings of the dead to understand the disease. He claimed deaths in the city reached 5,000 a day, then 10,000 and more. Outbreaks recurred until about 750.",
+      "Ancient DNA settled the cause: *Yersinia pestis*, the bacterium of bubonic plague, was found in 6th-century graves in Bavaria, and in 2019 eight more genomes came from Britain, France, Germany and Spain. The toll is another matter. A long-standing consensus held that the plague killed a quarter to half of the Mediterranean population and helped end antiquity. In 2019 Lee Mordechai and colleagues argued that this rests on a few dramatic texts, while papyri, coins, inscriptions and pollen records show more continuity than collapse."
+    ],
+    "myth": {
+      "tradition": "The Plague of Justinian killed a quarter to a half of the Roman world and brought antiquity to an end.",
+      "record": "That figure is an estimate built mainly on a few literary accounts; other evidence suggests a smaller impact, and the true toll is unknown."
+    },
+    "links": [
+      {
+        "to": "black-death",
+        "kind": "see-also",
+        "note": "The second plague pandemic, caused by the same bacterium."
+      },
+      {
+        "to": "antonine-plague",
+        "kind": "see-also",
+        "note": "An earlier Roman pandemic of uncertain cause."
+      },
+      {
+        "to": "quarantine",
+        "kind": "see-also",
+        "note": "Later societies' organized response to plague."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Procopius, History of the Wars, II.22–23, tr. H. B. Dewing (Loeb, 1914)",
+        "publisher": "LacusCurtius, University of Chicago",
+        "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Procopius/Wars/2F*.html",
+        "type": "primary",
+        "supports": "Origin at Pelusium; bubonic swellings, black pustules, vomiting blood; physicians opening swellings of the dead; four months in Byzantium; 5,000 then 10,000 deaths a day.",
+        "quote": "the tale of dead reached five thousand each day, and again it even came to ten thousand and still more than that"
+      },
+      {
+        "title": "Yersinia pestis DNA from Skeletal Remains from the 6th Century AD Reveals Insights into Justinianic Plague",
+        "author": "Michaela Harbeck et al.",
+        "publisher": "PLOS Pathogens",
+        "year": 2013,
+        "url": "https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1003349",
+        "type": "scholarly",
+        "supports": "541 outbreak, Constantinople 542, spread by winter 543; Y. pestis DNA from 6th-century Bavarian burials.",
+        "quote": "reaching Constantinople in 542 and North Africa, Italy, Spain, and the French-German border by winter 543"
+      },
+      {
+        "title": "Ancient Yersinia pestis genomes from across Western Europe reveal early diversification during the First Pandemic (541–750)",
+        "author": "Marcel Keller et al.",
+        "publisher": "PNAS (PMC)",
+        "year": 2019,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6589673/",
+        "type": "scholarly",
+        "supports": "First Pandemic 541–750; eight genomes from Britain, France, Germany and Spain.",
+        "quote": "we present eight genomes from Britain, France, Germany, and Spain, demonstrating the geographic range of plague during the First Pandemic"
+      },
+      {
+        "title": "The Justinianic Plague: An inconsequential pandemic?",
+        "author": "Lee Mordechai, Merle Eisenberg, Timothy P. Newfield, Adam Izdebski, Janet E. Kay and Hendrik Poinar",
+        "publisher": "PNAS (PMC)",
+        "year": 2019,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6926030/",
+        "type": "scholarly",
+        "supports": "The maximalist consensus of a quarter to half dying; revisionist argument from papyri, coins, inscriptions and pollen; Procopius's small share of text.",
+        "quote": "Current consensus accepts that it resulted in the deaths of between a quarter and half of the population of the Mediterranean"
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "late-antique-encyclopedists",
+    "title": "The compilers: Oribasius to Paul of Aegina",
+    "stream": "greco-roman",
+    "tier": 3,
+    "date": {
+      "year": 650,
+      "earliest": 360,
+      "latest": 700,
+      "display": "4th–7th centuries CE"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "agreed",
+      "note": "The works survive and their authors' careers are roughly datable, though Paul of Aegina's dates are uncertain; his 19th-century translator Francis Adams, following an earlier argument, put him no earlier than about 600. How much the compilers added of their own is still debated."
+    },
+    "place": "Constantinople, Alexandria and the eastern Mediterranean",
+    "people": [
+      "Oribasius (c. 325–403), physician to the emperor Julian",
+      "Aetius of Amida (c. 502–575), court physician under Justinian",
+      "Paul of Aegina (7th century), compiler of the Epitome in seven books"
+    ],
+    "themes": [
+      "texts",
+      "theory"
+    ],
+    "summary": "Late antique doctors boiled Greek medicine down into handbooks, preserving lost authors and feeding Arabic medicine.",
+    "body": [
+      "From the 4th to the 7th century, Greek physicians condensed their predecessors into handbooks. Oribasius, physician to the emperor Julian, excerpted Galen, Rufus, Soranus and others into a 70-book medical encyclopedia, a third of which survives. Aetius of Amida, court physician under Justinian, compiled the *Tetrabiblos*, now the chief source for parts of Rufus, Soranus and others. Paul of Aegina cut it all down again into seven books, setting down, he admitted, \"little of my own\". Arabic authors, his 19th-century translator observed, quoted him on almost every page."
+    ],
+    "links": [
+      {
+        "to": "galen",
+        "kind": "built-on",
+        "note": "Galen was their chief authority."
+      },
+      {
+        "to": "translation-movement",
+        "kind": "led-to",
+        "note": "Their compendia passed into Arabic medicine."
+      },
+      {
+        "to": "soranus",
+        "kind": "built-on",
+        "note": "Oribasius and Aetius preserved his work."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Heirs of Hippocrates No. 46: Oribasius, Synopseos ad Eustathium",
+        "publisher": "University of Iowa Libraries",
+        "url": "https://heirs.lib.uiowa.edu/record.php?id=46",
+        "type": "institutional",
+        "supports": "Oribasius physician to Julian; seventy-volume encyclopedia, one-third preserved; authors excerpted.",
+        "quote": "In this seventy-volume encyclopedia of medicine, of which only one-third has been preserved"
+      },
+      {
+        "title": "Heirs of Hippocrates No. 49: Aetius of Amida, Tetrabiblos",
+        "publisher": "University of Iowa Libraries",
+        "url": "https://heirs.lib.uiowa.edu/record.php?id=49",
+        "type": "institutional",
+        "supports": "Aetius court physician under Justinian; Tetrabiblos the chief source for Rufus, Leonides, Soranus and Philumenos.",
+        "quote": "court physician under the Emperor Justinian I"
+      },
+      {
+        "title": "The Seven Books of Paulus Aegineta, vol. 1, tr. Francis Adams (Sydenham Society, 1844)",
+        "publisher": "Internet Archive",
+        "url": "https://archive.org/stream/sevenbooksofpaul01pauluoft/sevenbooksofpaul01pauluoft_djvu.txt",
+        "type": "primary",
+        "supports": "Paul's preface: brief collection from the ancients, little of his own, Oribasius's seventy books; Adams on his dating and on Arabic authors quoting him.",
+        "quote": "I have compiled this brief collection from the works of the ancients, and have set down little of my own"
+      }
+    ],
+    "further": [
+      "nutton-2013"
+    ]
+  }
+]

@@ -1,0 +1,688 @@
+[
+  {
+    "id": "imatinib",
+    "title": "Gleevec and targeted cancer drugs",
+    "stream": "bio-drugs",
+    "tier": 3,
+    "date": {
+      "year": 2001,
+      "display": "10 May 2001"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "The approval date is on the FDA record, and the chain from the Philadelphia chromosome to the BCR-ABL gene to imatinib is well documented in the published literature."
+    },
+    "place": "Philadelphia and Portland, Oregon, USA",
+    "people": [
+      "Peter Nowell, University of Pennsylvania pathologist",
+      "David Hungerford, graduate student and his collaborator",
+      "Brian Druker, Oregon oncologist who led the first clinical trial",
+      "Nicholas Lydon, head of a pharmaceutical drug-discovery group"
+    ],
+    "themes": [
+      "drugs",
+      "theory"
+    ],
+    "summary": "A short chromosome spotted in 1960 led, four decades later, to a pill that turned a fatal leukemia into a manageable condition.",
+    "body": [
+      "In 1960 Peter Nowell and David Hungerford, studying leukemia cells in Philadelphia, noticed that one chromosome was abnormally short. Later work showed that this \"Philadelphia chromosome\" fuses two genes, BCR and ABL, and that the hybrid drives chronic myeloid leukemia. In the 1990s the oncologist Brian Druker and Nicholas Lydon's drug-discovery team found a compound that blocks the rogue protein. The FDA approved it as imatinib (Gleevec) on 10 May 2001, after a review of only ten weeks. More than 70 drugs that block kinase enzymes, used against cancers and some other diseases, have been approved since."
+    ],
+    "links": [
+      {
+        "to": "chemotherapy-origins",
+        "kind": "see-also",
+        "note": "The older approach: poisons that kill dividing cells indiscriminately."
+      },
+      {
+        "to": "cancer-immunotherapy",
+        "kind": "see-also",
+        "note": "The other big shift in cancer drugs since 2000."
+      }
+    ],
+    "sources": [
+      {
+        "title": "How Imatinib Transformed Leukemia Treatment and Cancer Research",
+        "publisher": "National Cancer Institute",
+        "year": 2018,
+        "url": "https://www.cancer.gov/research/progress/discovery/gleevec",
+        "type": "institutional",
+        "supports": "Nowell and Hungerford's 1960 observation; BCR-ABL fusion; Druker and Lydon's search for a blocking compound; 2001 approval.",
+        "quote": "In 1960, Drs. Nowell and Hungerford examined cancer cells from two patients with CML and noticed something peculiar—one of the 46 chromosomes was abnormally short."
+      },
+      {
+        "title": "Chronic Myeloid Leukemia: Historical Perspective, Pathophysiology, and Treatment Advances",
+        "author": "Tungjitviboonkun S, Daran L, Unsuwan S",
+        "publisher": "Acta Haematologica",
+        "year": 2026,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13186551/",
+        "type": "scholarly",
+        "supports": "Exact approval date, 10 May 2001, and the ten-week review.",
+        "quote": "The US FDA approved imatinib usage in IFN failure on May 10, 2001, only 10 weeks after submission of a New Drug Application"
+      },
+      {
+        "title": "Kinase drug discovery 20 years after imatinib: progress and future directions",
+        "author": "Cohen P, Cross D, Jänne PA",
+        "publisher": "Nature Reviews Drug Discovery",
+        "year": 2021,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8127496/",
+        "type": "scholarly",
+        "supports": "More than 70 kinase-inhibitor drugs approved since imatinib.",
+        "quote": "resulting in the approval of more than 70 new drugs since imatinib was approved in 2001"
+      }
+    ],
+    "further": [
+      "mukherjee-2010"
+    ]
+  },
+  {
+    "id": "sars-2003",
+    "title": "SARS",
+    "stream": "bio-public",
+    "tier": 3,
+    "date": {
+      "year": 2003,
+      "earliest": 2002,
+      "latest": 2003,
+      "end": 2003,
+      "display": "November 2002–July 2003"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "WHO's final tally covers probable cases with onset between 1 November 2002 and 31 July 2003. Counts are of probable cases, so they depend on case definitions that differed between countries."
+    },
+    "place": "China, Vietnam, Hong Kong, Canada and elsewhere",
+    "people": [
+      "Carlo Urbani (1956–2003), WHO infectious-disease specialist in Hanoi"
+    ],
+    "themes": [
+      "public-health",
+      "institutions"
+    ],
+    "summary": "A new virus spread from China to Vietnam, Canada and beyond in 2003, killed the doctor who raised the alarm, and helped reshape the global rules for reporting outbreaks.",
+    "body": [
+      "The first known case of severe acute respiratory syndrome fell ill in China in November 2002. On 28 February 2003 Carlo Urbani, a WHO specialist in Hanoi, examined a businessman with a strange pneumonia, recognized the danger and alerted WHO. He caught the disease and died on 29 March. By July WHO had counted 8,096 probable cases and 774 deaths, 1,706 of the cases in health workers. SARS showed how governments could be tempted to hide outbreaks, as China at first was; the revised International Health Regulations adopted in May 2005 let WHO use unofficial reports to reduce that temptation."
+    ],
+    "links": [
+      {
+        "to": "covid-19",
+        "kind": "led-to",
+        "note": "A rehearsal, imperfectly learned, for a far larger coronavirus pandemic."
+      },
+      {
+        "to": "who-founded",
+        "kind": "see-also",
+        "note": "WHO's role in coordinating the response."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Summary of probable SARS cases with onset of illness from 1 November 2002 to 31 July 2003",
+        "publisher": "World Health Organization",
+        "url": "https://www.who.int/publications/m/item/summary-of-probable-sars-cases-with-onset-of-illness-from-1-november-2002-to-31-july-2003",
+        "type": "institutional",
+        "supports": "Totals of 8,096 probable cases, 774 deaths and 1,706 health-care workers; first onset in China 16 November 2002.",
+        "quote": "Total 8096 774 9.6 142 1706"
+      },
+      {
+        "title": "Photo Quiz: Carlo Urbani",
+        "publisher": "Emerging Infectious Diseases (CDC)",
+        "year": 2023,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10461676/",
+        "type": "scholarly",
+        "supports": "Urbani's role in Hanoi, alert to WHO, and death on 29 March 2003.",
+        "quote": "On March 29, 2003, after 19 days in isolation, Dr. Urbani died."
+      },
+      {
+        "title": "SARS-CoV-2 (COVID-19) and the teaching of Carlo Urbani in Vietnam",
+        "author": "Martini M",
+        "publisher": "Journal of Preventive Medicine and Hygiene",
+        "year": 2021,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8452283/",
+        "type": "scholarly",
+        "supports": "Urbani first examined the patient on 28 February 2003.",
+        "quote": "On February 28th 2003, he first examined a Chinese-American businessman admitted, two days before, to Hanoi"
+      },
+      {
+        "title": "Global public health surveillance under new international health regulations",
+        "author": "Baker MG, Fidler DP",
+        "publisher": "Emerging Infectious Diseases",
+        "year": 2006,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3291053/",
+        "type": "scholarly",
+        "supports": "IHR adopted May 2005; China's initial reluctance during SARS; WHO's use of nongovernmental reports.",
+        "quote": "WHO's access to nongovernmental sources of surveillance information reduces the incentives that state parties once had to hide disease events, as was demonstrated during the SARS pandemic"
+      }
+    ],
+    "further": [
+      "snowden-2019"
+    ]
+  },
+  {
+    "id": "hpv-vaccine",
+    "title": "The HPV vaccine",
+    "stream": "bio-drugs",
+    "tier": 3,
+    "date": {
+      "year": 2006,
+      "display": "June 2006"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "The 2006 US approval is well documented. The fall in cervical cancer comes from national registry data in vaccinated cohorts, which are still young, so the long-term size of the effect is still being measured."
+    },
+    "place": "Heidelberg, Germany; Brisbane, Australia; USA",
+    "people": [
+      "Harald zur Hausen, German virologist, Nobel Prize 2008",
+      "Ian Frazer, immunologist at the University of Queensland",
+      "Jian Zhou (d. 1999), virologist who made the virus-like particles"
+    ],
+    "themes": [
+      "drugs",
+      "public-health"
+    ],
+    "summary": "A virus was shown to cause cervical cancer, two scientists in Brisbane built empty virus shells, and vaccinated English girls now have about 80% less cervical cancer.",
+    "body": [
+      "Against the prevailing view, Harald zur Hausen argued that a papillomavirus caused cervical cancer, and in 1983 found a new type, HPV16, in tumor biopsies; types 16 and 18 turned up in about 70% of cervical cancers. In 1991 Ian Frazer and Jian Zhou in Brisbane reported that the virus's capsid proteins could self-assemble into harmless virus-like particles, the basis of the vaccines. Zhou died in 1999. The first vaccine, Gardasil, was approved in the United States in June 2006. In England, women offered vaccination at 12–13 now have around 80% less cervical cancer."
+    ],
+    "links": [
+      {
+        "to": "hepatitis-b-vaccine",
+        "kind": "built-on",
+        "note": "The earlier vaccine against a virus-caused cancer."
+      },
+      {
+        "to": "pap-smear",
+        "kind": "see-also",
+        "note": "Screening, the other half of cervical-cancer prevention."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Nobel Prize in Physiology or Medicine 2008: Press release",
+        "publisher": "NobelPrize.org",
+        "year": 2008,
+        "url": "https://www.nobelprize.org/prizes/medicine/2008/press-release/",
+        "type": "institutional",
+        "supports": "Zur Hausen's hypothesis, HPV16 in 1983, HPV16 and 18 in about 70% of cervical cancers.",
+        "quote": "The HPV types 16 and 18 were consistently found in about 70% of cervical cancer biopsies throughout the world."
+      },
+      {
+        "title": "Dr. Jian Zhou: The great inventor of cervical cancer vaccine",
+        "author": "Zhao KN, Zhang L, Qu J",
+        "publisher": "Protein & Cell",
+        "year": 2017,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5291779/",
+        "type": "scholarly",
+        "supports": "Zhou and Frazer's virus-like particles, published 1991; Zhou's death in 1999.",
+        "quote": "The expressed capsid protein can be self-assembled into virus-like particles"
+      },
+      {
+        "title": "An Update on Human Papilloma Virus Vaccines: History, Types, Protection, and Efficacy",
+        "author": "Yousefi Z et al.",
+        "publisher": "Frontiers in Immunology",
+        "year": 2022,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8828558/",
+        "type": "scholarly",
+        "supports": "First US approval of an HPV vaccine in June 2006.",
+        "quote": "From June 2006, when the HPV vaccines were first approved in the USA"
+      },
+      {
+        "title": "Association between HPV vaccination and cervical screening policy changes and cervical cancer incidence and grade-3 cervical intraepithelial neoplasia in England",
+        "author": "Falcaro M, Castañón A, Ndlela B, Sasieni P",
+        "publisher": "The Lancet Regional Health – Europe",
+        "year": 2025,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11697118/",
+        "type": "scholarly",
+        "supports": "Around 80% lower cervical cancer rates in women offered vaccination at 12–13 in England.",
+        "quote": "those offered vaccination at age 12–13 years have around 80% lower rates than they would have had in the absence of a national vaccination programme"
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "microbiome",
+    "title": "The microbiome",
+    "stream": "bio-lab",
+    "tier": 3,
+    "date": {
+      "year": 2007,
+      "end": 2016,
+      "display": "2007–2016"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "The project's dates and the C. difficile trial are well documented. Most claimed links between gut microbes and other diseases rest on associations whose causal role is unproven."
+    },
+    "place": "USA",
+    "people": [],
+    "themes": [
+      "theory",
+      "practice"
+    ],
+    "summary": "Sequencing revealed the microbes living in and on us. The clearest cure so far came from an old idea: transplanting stool.",
+    "body": [
+      "From 2007 to 2016 the NIH's Human Microbiome Project built DNA-sequence catalogs of the microbes living on and in healthy people, and NIH microbiome funding elsewhere grew more than forty-fold. The firmest clinical result came from an older, unglamorous idea. In a 2013 randomized trial, infusing donor stool into the intestine stopped recurrent *Clostridioides difficile* infection far more often than the antibiotic vancomycin alone, and the trial was stopped early; the FDA approved the first stool-based products in 2022 and 2023. For irritable bowel syndrome and colitis, guidelines still recommend fecal transplants only within trials, and critics warn the field needs skepticism."
+    ],
+    "links": [
+      {
+        "to": "human-genome-project",
+        "kind": "built-on",
+        "note": "Cheap sequencing made the census of microbes possible."
+      },
+      {
+        "to": "antimicrobial-resistance",
+        "kind": "see-also",
+        "note": "C. difficile thrives after antibiotics wipe out normal gut bacteria."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Human Microbiome Project",
+        "publisher": "NIH Common Fund",
+        "url": "https://commonfund.nih.gov/hmp",
+        "type": "institutional",
+        "supports": "Funding 2007–2016; sequence datasets of the microbiome in healthy adults; forty-fold growth in other NIH microbiome funding.",
+        "quote": "The HMP was supported by the Common Fund from 2007 to 2016."
+      },
+      {
+        "title": "Fecal Microbiota Transplantation in 2025: Two Steps Forward, One Step Back",
+        "author": "Miller CB, Bader GA, Kay CL",
+        "publisher": "Current Gastroenterology Reports",
+        "year": 2026,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12799677/",
+        "type": "scholarly",
+        "supports": "2013 RCT stopped early; FDA approvals in 2022 and 2023; FMT for IBS and colitis recommended only within trials.",
+        "quote": "The study was ultimately stopped early due to the dramatically reduced CDI recurrence rates seen in the duodenal infusion of donor stool arm"
+      },
+      {
+        "title": "Help, hope and hype: ethical considerations of human microbiome research and applications",
+        "author": "Ma Y, Chen H, Lan C, Ren J",
+        "publisher": "Protein & Cell",
+        "year": 2018,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5960465/",
+        "type": "scholarly",
+        "supports": "Warnings about hype and correlation versus causation in microbiome research.",
+        "quote": "the history of science is replete with examples of exciting new fields that promised a gold rush of medicines and health insights but required skepticism and years of slogging to deliver"
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "cancer-immunotherapy",
+    "title": "Cancer immunotherapy",
+    "stream": "bio-drugs",
+    "tier": 2,
+    "date": {
+      "year": 2011,
+      "display": "2011"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "Regulatory approvals and the Nobel citation are documented. Coley's own reports met skepticism in his day, and modern drugs help some patients far more than others."
+    },
+    "place": "New York; Kyoto, Japan; and elsewhere",
+    "people": [
+      "William B. Coley (1862–1936), New York bone-sarcoma surgeon",
+      "James P. Allison, immunologist, Nobel Prize 2018",
+      "Tasuku Honjo, immunologist, Nobel Prize 2018"
+    ],
+    "themes": [
+      "drugs",
+      "theory"
+    ],
+    "summary": "A century after a surgeon injected tumors with bacteria, drugs that release the immune system's brakes made the idea work.",
+    "body": [
+      "In 1891 the New York surgeon William Coley, struck by tumors that shrank after a bacterial skin infection, began injecting cancer patients with bacteria, later a mixture of killed streptococci and the germ now called *Serratia marcescens*. Many physicians doubted his results, and the mechanism was a mystery.",
+      "The revival came from finding the immune system's brakes. In 1992 Tasuku Honjo discovered PD-1, a protein on T cells. James Allison showed at the end of 1994 that an antibody blocking another brake, CTLA-4, cured mice with cancer. The anti-CTLA-4 drug ipilimumab was approved in the United States and Europe in 2011 for advanced melanoma, and anti-PD-1 drugs followed in 2014, first in Japan. Allison and Honjo shared the 2018 Nobel Prize.",
+      "A second approach, CAR-T therapy, genetically re-engineers a patient's own T cells to attack cancer; the first was approved in 2017, for blood cancers. These treatments have produced long remissions in metastatic disease, but an overactive immune response can cause serious, even life-threatening, side effects."
+    ],
+    "links": [
+      {
+        "to": "monoclonal-antibodies",
+        "kind": "built-on",
+        "note": "Checkpoint drugs are monoclonal antibodies."
+      },
+      {
+        "to": "imatinib",
+        "kind": "see-also",
+        "note": "Targeted drugs, the other route away from chemotherapy."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Nobel Prize in Physiology or Medicine 2018: Press release",
+        "publisher": "NobelPrize.org",
+        "year": 2018,
+        "url": "https://www.nobelprize.org/prizes/medicine/2018/press-release/",
+        "type": "institutional",
+        "supports": "Honjo's discovery of PD-1 in 1992; Allison's 1994 mouse experiment; serious side effects.",
+        "quote": "In 1992, a few years before Allison’s discovery, Tasuku Honjo discovered PD-1, another protein expressed on the surface of T-cells."
+      },
+      {
+        "title": "Scientific Background: Cancer therapy by inhibition of negative immune regulation",
+        "publisher": "Nobel Assembly at Karolinska Institutet",
+        "year": 2018,
+        "url": "https://www.nobelprize.org/prizes/medicine/2018/advanced-information/",
+        "type": "institutional",
+        "supports": "Coley's treatments in the early 1890s; anti-CTLA-4 approval by FDA and EMA in 2011; anti-PD-1 approvals in Japan and the US in 2014.",
+        "quote": "who reported on the treatment of malignant tumors by repeated"
+      },
+      {
+        "title": "The evolution of cancer immunotherapy: a comprehensive review of its history and current perspectives",
+        "author": "Ahuja S, Zaheer S",
+        "publisher": "Korean Journal of Clinical Oncology",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11717579/",
+        "type": "scholarly",
+        "supports": "Coley's 1891 start, his toxins and the doubts they met; first CAR-T approval in 2017.",
+        "quote": "Coley’s experiments encountered skepticism in his era because of the unclear understanding of their mechanisms of action and concerns regarding the potential risks of infection."
+      }
+    ],
+    "further": [
+      "mukherjee-2010"
+    ],
+    "image": {
+      "commons": "File:Portrait of William Coley Wellcome M0017955.jpg",
+      "alt": "Portrait of the surgeon William B. Coley.",
+      "caption": "William B. Coley (1862–1936), the New York surgeon whose bacterial \"toxins\" were an early attempt to turn the immune system against cancer. Wellcome Collection."
+    }
+  },
+  {
+    "id": "crispr",
+    "title": "CRISPR gene editing",
+    "stream": "bio-lab",
+    "tier": 1,
+    "date": {
+      "year": 2012,
+      "display": "2012"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "The 2012 paper, the 2020 Nobel Prize and the 2023 approvals are all on the record. Who deserves credit is genuinely contested: many laboratories contributed, and the patent fight between Berkeley and the Broad Institute ran for years."
+    },
+    "place": "Berkeley, USA; Vienna; Alicante; Vilnius; Cambridge, Massachusetts",
+    "people": [
+      "Emmanuelle Charpentier, microbiologist, Nobel Prize 2020",
+      "Jennifer Doudna, biochemist, Nobel Prize 2020",
+      "Francisco Mojica, microbiologist at the University of Alicante",
+      "Virginijus Šikšnys, biochemist at Vilnius University",
+      "Feng Zhang, Broad Institute",
+      "He Jiankui, scientist jailed for editing embryos"
+    ],
+    "themes": [
+      "technology",
+      "ethics",
+      "theory"
+    ],
+    "summary": "Two scientists turned a bacterial defense against viruses into scissors for DNA. Within twelve years it had made a medicine, and a scandal.",
+    "body": [
+      "In 2012 Emmanuelle Charpentier and Jennifer Doudna showed how to turn part of a bacterial immune system into a programmable tool for cutting DNA. Studying *Streptococcus pyogenes*, Charpentier had found a previously unknown molecule, tracrRNA, that belongs to the bacterium's defense against viruses. Working with Doudna, she rebuilt the system in a test tube, simplified it, and proved that its enzyme, Cas9, could be steered to cut any DNA at a chosen site. The Nobel committee noted that changing the code of life could now take a few weeks.",
+      "The discovery stood on two decades of curiosity-driven microbiology. Researchers in Osaka noticed odd repeated sequences in *E. coli* DNA in 1987. Francisco Mojica in Alicante found similar ones in archaea in 1995 and was among the first to propose that they were part of a microbial immune system. Virginijus Šikšnys's group in Vilnius showed that a 20-letter stretch of guide RNA is enough to direct the cut. In January 2013 Feng Zhang at the Broad Institute and George Church at Harvard showed that the method worked in human cells, as did Doudna and others. Zhang's side won the first patent, in April 2014, beginning a long legal dispute.",
+      "The power of the tool was shown in the worst way in November 2018, when the Chinese scientist He Jiankui announced the birth of twin girls whose embryos he had edited to disable a gene called CCR5, hoping to make them resistant to HIV. In one twin the edit was incomplete. In December 2019 he was convicted of illegal medical practice and sentenced to three years in prison, and China later made illegal embryo editing a crime.",
+      "Charpentier and Doudna received the Nobel Prize in Chemistry in 2020. On 16 November 2023 Britain authorized Casgevy, the first licensed medicine made with CRISPR, for sickle-cell disease and β-thalassemia; the US followed on 8 December, at first for sickle-cell disease only. In 2025 doctors in Philadelphia reported giving a baby with a rare, often fatal metabolic disease a base-editing therapy designed for his single mutation. It was a bespoke treatment for one child, and longer follow-up is still needed."
+    ],
+    "myth": {
+      "tradition": "CRISPR gene editing was invented by Charpentier and Doudna alone, in a single stroke in 2012.",
+      "record": "Their 2012 paper was the key step, but it built on work since 1987 by microbiologists such as Mojica and Šikšnys, and others; Zhang and Church, along with Doudna's group, showed editing in human cells within weeks of each other in early 2013. Priority was fought over for years in patent courts."
+    },
+    "links": [
+      {
+        "to": "recombinant-dna",
+        "kind": "built-on",
+        "note": "The first generation of tools for cutting and splicing DNA."
+      },
+      {
+        "to": "gene-therapy",
+        "kind": "built-on",
+        "note": "Decades of attempts to fix genes in patients, with mixed results."
+      },
+      {
+        "to": "ivf",
+        "kind": "see-also",
+        "note": "He Jiankui's edited embryos were created by IVF."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Nobel Prize in Chemistry 2020: Press release",
+        "publisher": "NobelPrize.org",
+        "year": 2020,
+        "url": "https://www.nobelprize.org/prizes/chemistry/2020/press-release/",
+        "type": "institutional",
+        "supports": "Charpentier's discovery of tracrRNA; collaboration with Doudna; reprogramming the scissors to cut any DNA; 2012 date; 2020 Nobel.",
+        "quote": "Since Charpentier and Doudna discovered the CRISPR/Cas9 genetic scissors in 2012 their use has exploded."
+      },
+      {
+        "title": "CRISPR-Cas9: A History of Its Discovery and Ethical Considerations of Its Use in Genome Editing",
+        "author": "Gostimskaya I",
+        "publisher": "Biochemistry (Moscow)",
+        "year": 2022,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9377665/",
+        "type": "scholarly",
+        "supports": "Ishino 1987; Mojica 1995 and the immune-system hypothesis; Šikšnys's guide-RNA work; Zhang and Church's human-cell papers of January 2013; Zhang's patent of April 2014 and the dispute.",
+        "quote": "Initially, it was Zhang’s application that turned out to be successful and resulted in a patent in April 2014, while Doudna’s application was still pending at that time."
+      },
+      {
+        "title": "CRISPR'd babies: human germline genome editing in the 'He Jiankui affair'",
+        "author": "Greely HT",
+        "publisher": "Journal of Law and the Biosciences",
+        "year": 2019,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6813942/",
+        "type": "scholarly",
+        "supports": "He's announcement of edited twins in November 2018; the CCR5 target; one twin's incomplete edit.",
+        "quote": "one of the twins was a heterozygote—that is, the CRISPR construct in her cells modified only one of the two chromosomes"
+      },
+      {
+        "title": "Regulatory framework of human germline and heritable genome editing in China",
+        "author": "Zou Y, Li Y, Tao Y",
+        "publisher": "Journal of Law and the Biosciences",
+        "year": 2025,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12069028/",
+        "type": "scholarly",
+        "supports": "He's conviction and three-year sentence in December 2019; the new crime added in 2020.",
+        "quote": "In December 2019, He was ultimately convicted of illegal medical practices and sentenced to prison for 3 years."
+      },
+      {
+        "title": "MHRA authorises world-first gene therapy that aims to cure sickle-cell disease and transfusion-dependent β-thalassemia",
+        "publisher": "Medicines and Healthcare products Regulatory Agency (GOV.UK)",
+        "year": 2023,
+        "url": "https://www.gov.uk/government/news/mhra-authorises-world-first-gene-therapy-that-aims-to-cure-sickle-cell-disease-and-transfusion-dependent-thalassemia",
+        "type": "institutional",
+        "supports": "Casgevy authorized in the UK on 16 November 2023 as the first licensed CRISPR medicine.",
+        "quote": "Casgevy is the first medicine to be licensed that uses the innovative gene-editing tool CRISPR"
+      },
+      {
+        "title": "FDA Approves First Gene Therapies to Treat Patients with Sickle Cell Disease",
+        "publisher": "U.S. Food and Drug Administration",
+        "year": 2023,
+        "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapies-treat-patients-sickle-cell-disease",
+        "type": "institutional",
+        "supports": "US approval of Casgevy on 8 December 2023.",
+        "quote": "Casgevy is the first FDA-approved therapy utilizing CRISPR/Cas9, a type of genome editing technology."
+      },
+      {
+        "title": "Patient-Specific In Vivo Gene Editing to Treat a Rare Genetic Disease",
+        "author": "Musunuru K et al.",
+        "publisher": "New England Journal of Medicine",
+        "year": 2025,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12713542/",
+        "type": "scholarly",
+        "supports": "Customized base-editing therapy for an infant with CPS1 deficiency at the Children's Hospital of Philadelphia; need for longer follow-up.",
+        "quote": "We developed a customized base-editing therapy, starting immediately after a neonate was diagnosed with severe carbamoyl phosphate synthetase 1 deficiency"
+      }
+    ],
+    "further": [],
+    "image": {
+      "commons": "File:Emmanuelle Charpentier and Jennifer Doudna.jpg",
+      "alt": "Side-by-side portraits of Emmanuelle Charpentier and Jennifer Doudna.",
+      "caption": "Emmanuelle Charpentier (left) and Jennifer Doudna, who shared the 2020 Nobel Prize in Chemistry for the CRISPR/Cas9 genetic scissors."
+    }
+  },
+  {
+    "id": "hepatitis-c-cure",
+    "title": "A cure for hepatitis C",
+    "stream": "bio-drugs",
+    "tier": 3,
+    "date": {
+      "year": 2013,
+      "display": "2013"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "The virus's identification, the drug approvals, the US launch price and Egypt's campaign figures are all documented; Egypt's numbers are official figures reported by WHO."
+    },
+    "place": "USA; Egypt",
+    "people": [
+      "Michael Houghton, virologist, Nobel Prize 2020",
+      "Harvey J. Alter, Nobel Prize 2020",
+      "Charles M. Rice, Nobel Prize 2020"
+    ],
+    "themes": [
+      "drugs",
+      "public-health",
+      "ethics"
+    ],
+    "summary": "A virus found in 1989 became curable with a short course of pills in 2013, at first for $84,000. Egypt showed what cheaper drugs could do.",
+    "body": [
+      "For years most blood-borne hepatitis was caused by an unknown agent, called \"non-A, non-B\". In 1989 Michael Houghton's team isolated the genome of the hepatitis C virus, work honored with the 2020 Nobel Prize. Gilead's sofosbuvir, authorized in the United States in 2013, made cure possible with short courses of pills, but launched there at $84,000. Generics and price deals changed the picture. Egypt tested over 60 million people and treated more than 4.1 million, and in 2023 became the first country WHO rated \"gold tier\" on the path to elimination."
+    ],
+    "links": [
+      {
+        "to": "hepatitis-b-vaccine",
+        "kind": "see-also",
+        "note": "The other blood-borne hepatitis virus."
+      },
+      {
+        "to": "azt-to-haart",
+        "kind": "see-also",
+        "note": "Another antiviral revolution, and another fight over drug prices."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Nobel Prize in Physiology or Medicine 2020: Press release",
+        "publisher": "NobelPrize.org",
+        "year": 2020,
+        "url": "https://www.nobelprize.org/prizes/medicine/2020/press-release/",
+        "type": "institutional",
+        "supports": "Non-A, non-B hepatitis; Houghton's isolation of the genome (Science, 1989); Nobel Prize 2020.",
+        "quote": "Michael Houghton used an untested strategy to isolate the genome of the new virus that was named Hepatitis C virus."
+      },
+      {
+        "title": "Making Hepatitis C History? Médecins sans Frontières, Hepatitis C and Humanitarian Medicine in Cambodia 2016–2021",
+        "author": "Taithe B, le Paih M",
+        "publisher": "Social History of Medicine",
+        "year": 2026,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7618520/",
+        "type": "scholarly",
+        "supports": "Sofosbuvir authorized in the US in 2013; initial US price of $84,000; later price falls.",
+        "quote": "Gilead lowered its selling price from its initial high value of 84,000$ in the United States"
+      },
+      {
+        "title": "Egypt becomes the first country to achieve WHO validation on the path to elimination of hepatitis C",
+        "publisher": "WHO Regional Office for the Eastern Mediterranean",
+        "year": 2023,
+        "url": "https://www.emro.who.int/media/news/egypt-becomes-the-first-country-to-achieve-who-validation-on-the-path-to-elimination-of-hepatitis-c.html",
+        "type": "institutional",
+        "supports": "Egypt's campaign: over 60 million tested, more than 4.1 million treated; gold tier status, 9 October 2023.",
+        "quote": "campaign resulted in the testing of over 60 million people and treatment of more than 4.1 million people"
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "ebola-west-africa",
+    "title": "Ebola in West Africa and a vaccine",
+    "stream": "bio-public",
+    "tier": 3,
+    "date": {
+      "year": 2014,
+      "earliest": 2013,
+      "latest": 2016,
+      "end": 2016,
+      "display": "December 2013–2016"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "WHO's case and death counts are the standard figures, though they include suspected cases and certainly miss some deaths. The vaccine trial results are published and widely accepted."
+    },
+    "place": "Guinea, Liberia and Sierra Leone",
+    "people": [],
+    "themes": [
+      "public-health",
+      "drugs"
+    ],
+    "summary": "An outbreak that began in a Guinean village killed over 11,000 people. A trial run as it waned showed a vaccine worked.",
+    "body": [
+      "The epidemic was traced back to a two-year-old in Meliandou, Guinea, who died in December 2013. It spread to Liberia and Sierra Leone, and WHO declared an international emergency only on 8 August 2014. By the end WHO counted 28,616 confirmed, probable and suspected cases and 11,310 deaths. In 2015 a trial in coastal Guinea tested the rVSV-ZEBOV vaccine using ring vaccination, the strategy that eradicated smallpox: among 5,837 people vaccinated, no cases appeared ten days or more afterward, against 23 among the unvaccinated. The vaccine, Ervebo, received a conditional marketing authorization in Europe in November 2019."
+    ],
+    "links": [
+      {
+        "to": "ebola-1976",
+        "kind": "built-on",
+        "note": "The virus's first recognized outbreaks, in Zaire and Sudan."
+      },
+      {
+        "to": "smallpox-eradication",
+        "kind": "built-on",
+        "note": "Ring vaccination was borrowed from the smallpox campaign."
+      },
+      {
+        "to": "covid-19",
+        "kind": "see-also",
+        "note": "Another test of WHO's emergency machinery."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Lessons learned from the World Health Organization's late initial response to the 2014–2016 Ebola outbreak in West Africa",
+        "author": "Park C",
+        "publisher": "Journal of Public Health in Africa",
+        "year": 2022,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9202458/",
+        "type": "scholarly",
+        "supports": "Totals of 28,616 cases and 11,310 deaths; Meliandou index case, December 2013; spread; PHEIC on 8 August 2014.",
+        "quote": "a total number of 28,616 confirmed, probable and suspected cases have been reported in Guinea, Liberia and Sierra Leone in West Africa, and 11,310 died in those cases"
+      },
+      {
+        "title": "Final trial results confirm Ebola vaccine provides high protection against disease",
+        "publisher": "World Health Organization",
+        "year": 2016,
+        "url": "https://www.who.int/news/item/23-12-2016-final-trial-results-confirm-ebola-vaccine-provides-high-protection-against-disease",
+        "type": "institutional",
+        "supports": "2015 ring-vaccination trial in Guinea; 5,837 vaccinated with no cases after ten days versus 23 cases among the unvaccinated.",
+        "quote": "Among the 5837 people who received the vaccine, no Ebola cases were recorded 10 days or more after vaccination."
+      },
+      {
+        "title": "WHO prequalifies Ebola vaccine, paving the way for its use in high-risk countries",
+        "publisher": "World Health Organization",
+        "year": 2019,
+        "url": "https://www.who.int/news/item/12-11-2019-who-prequalifies-ebola-vaccine-paving-the-way-for-its-use-in-high-risk-countries",
+        "type": "institutional",
+        "supports": "European conditional marketing authorization and WHO prequalification of Ervebo, November 2019.",
+        "quote": "This announcement comes less than 48 hours after the European Commission decision to grant a conditional marketing authorization for the vaccine"
+      },
+      {
+        "title": "Efficacy and effectiveness of an rVSV-vectored vaccine in preventing Ebola virus disease: final results from the Guinea ring vaccination, open-label, cluster-randomised trial (Ebola Ça Suffit!)",
+        "author": "Henao-Restrepo AM et al.",
+        "publisher": "The Lancet",
+        "year": 2017,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5364328/",
+        "type": "scholarly",
+        "supports": "Design and results of the Guinea ring vaccination trial.",
+        "quote": "The results add weight to the interim assessment that rVSV-ZEBOV offers substantial protection against Ebola virus disease"
+      }
+    ],
+    "further": [
+      "snowden-2019"
+    ]
+  }
+]

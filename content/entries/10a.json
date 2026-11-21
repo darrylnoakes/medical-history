@@ -1,0 +1,646 @@
+[
+  {
+    "id": "blood-groups",
+    "title": "Landsteiner's blood groups",
+    "stream": "bio-surgery",
+    "tier": 1,
+    "date": {
+      "year": 1901,
+      "display": "1901"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "Landsteiner's 1901 paper and the Nobel record fix the discovery, and the later milestones are well documented. Accounts differ on details: the Nobel biography dates his full four-group classification to 1909, while most histories credit the fourth group, AB, to Decastello and Sturli in 1902, and several men used citrate at about the same time."
+    },
+    "place": "Vienna, Austria",
+    "people": [
+      "Karl Landsteiner (1868–1943), Viennese pathologist and immunologist",
+      "Alfred von Decastello and Adriano Sturli, who found group AB",
+      "Oswald Hope Robertson, American physician who stored blood on the Western Front",
+      "Charles R. Drew (1904–1950), surgeon who directed Blood for Britain"
+    ],
+    "themes": [
+      "surgery",
+      "practice",
+      "technology"
+    ],
+    "summary": "A Viennese pathologist found that human blood comes in types, explaining why transfusions killed some patients. Making blood banks took citrate, ice and four more decades.",
+    "body": [
+      "In 1901 Karl Landsteiner, an assistant in the department of pathological anatomy at the University of Vienna, mixed red blood cells from some people with blood serum from others. Some combinations clumped and some did not, and the pattern was regular. Landsteiner sorted people into three groups, which he labeled A, B and C, the last later renamed O. In 1902 his colleague Alfred von Decastello and Adriano Sturli found the rarer fourth group, AB.",
+      "The finding answered an old puzzle. Physicians had known since the 1870s that animal blood transfused into a human was clumped and destroyed. Landsteiner suggested that the same clash between two people's blood explained the shock, jaundice and hemoglobin in the urine that had followed some human transfusions, and that because the groups are inherited they might help settle disputed paternity. For years these suggestions received little attention.",
+      "Typing was only one obstacle. In 1907 Ludvig Hektoen proposed cross-matching donor and recipient blood, and Reuben Ottenberg performed a transfusion using typing and cross-matching. Blood still clotted within minutes until 1914–15, when Luis Agote and Richard Lewisohn used sodium citrate to keep it liquid and Richard Weil showed that citrated blood could be refrigerated. On the Western Front in 1917 the American physician Oswald Hope Robertson collected blood from group O donors into glass bottles with anticoagulant, kept it on ice for up to 28 days, and took it where the wounded needed it.",
+      "Civilian banking followed. In 1937 Bernard Fantus set up a blood bank at Cook County Hospital in Chicago, storing blood in a refrigerator for up to ten days. In 1940 Landsteiner, by then at the Rockefeller Institute in New York, and Alexander Wiener described the Rh factor, which proved central to understanding hemolytic disease of the newborn. That year the African American surgeon Charles Drew directed the Blood for Britain program, setting uniform standards for collecting blood and processing plasma. As the national program expanded, the armed forces at first barred Black donors and then required their blood to be segregated, policies Drew criticized as unscientific and insulting.",
+      "Landsteiner received the Nobel Prize in 1930, almost three decades after his discovery."
+    ],
+    "myth": {
+      "tradition": "Charles Drew, the pioneer of blood banking, bled to death after a whites-only hospital refused to treat him or give him a transfusion.",
+      "record": "Drew died in 1950 of injuries from a car crash in North Carolina despite prompt and competent care from white physicians at a nearby hospital; the National Library of Medicine notes the story has been debunked repeatedly."
+    },
+    "links": [
+      {
+        "to": "heart-lung-machine",
+        "kind": "led-to",
+        "note": "Open-heart surgery depended on large supplies of typed, banked blood."
+      },
+      {
+        "to": "kidney-transplant",
+        "kind": "led-to",
+        "note": "Matching donor and recipient began with blood groups."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Karl Landsteiner – Biographical",
+        "publisher": "NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/medicine/1930/landsteiner/biographical/",
+        "type": "institutional",
+        "supports": "1901 discovery; his post in pathological anatomy in Vienna; explanation of transfusion reactions; paternity; slow acceptance; Nobel Prize 1930; Rh factor with Wiener at the Rockefeller Institute.",
+        "quote": "this might be the cause of shock, jaundice, and haemoglobinuria that had followed some earlier attempts at blood transfusions"
+      },
+      {
+        "title": "The History of Fluid Resuscitation for Bleeding",
+        "author": "Philip C. Spinella, Patrick Thompson, Geir Strandenes",
+        "publisher": "Damage Control Resuscitation (Springer), via PubMed Central",
+        "year": 2019,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7123228/",
+        "type": "scholarly",
+        "supports": "Groups A, B and C (later O); citrate (Agote 1914, Lewisohn 1915), refrigerated storage (Weil); Robertson's group O donors, bottles, ice chests and 28-day storage in 1917; Fantus's 1937 Cook County blood bank storing blood up to 10 days.",
+        "quote": "He labeled the blood groups according to agglutination A, B, and C, which was later changed to O."
+      },
+      {
+        "title": "Karl Landsteiner (1868-1943): A Versatile Blood Scientist",
+        "publisher": "Cureus, via PubMed Central",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11458791/",
+        "type": "scholarly",
+        "supports": "Decastello and Sturli found AB in 1902; Rh system described in 1940 and its link to hemolytic disease of the newborn (Wiener's part in the 1940 work is from the Nobel biography and Red Cross timeline).",
+        "quote": "In 1902, Alfred von Decastello, one of Landsteiner's colleagues, and his student Adriano Sturli discovered the fourth blood group, AB"
+      },
+      {
+        "title": "History of Blood Transfusion",
+        "publisher": "American Red Cross",
+        "url": "https://www.redcrossblood.org/donate-blood/blood-donation-process/what-happens-to-donated-blood/blood-transfusions/history-blood-transfusion.html",
+        "type": "institutional",
+        "supports": "Hektoen's 1907 proposal of cross-matching and Ottenberg's typed and cross-matched transfusion; Drew and Plasma for Britain in 1940.",
+        "quote": "Ludvig Hektoen suggests that the safety of transfusion might be improved by cross-matching blood between donors and patients"
+      },
+      {
+        "title": "The Charles R. Drew Papers: Biographical Overview",
+        "publisher": "National Library of Medicine, Profiles in Science",
+        "url": "https://profiles.nlm.nih.gov/spotlight/bg/feature/biographical",
+        "type": "institutional",
+        "supports": "Drew's direction of Blood for Britain, the exclusion and then segregation of Black donors, his criticism, his dates, and the debunked story of his death.",
+        "quote": "Drew's tragic death generated a persistent myth that he died because he was denied admission to the white hospital, or was denied a transfusion"
+      }
+    ],
+    "further": [
+      "porter-1997"
+    ],
+    "image": {
+      "commons": "File:Karl Landsteiner nobel.jpg",
+      "alt": "Portrait photograph of the pathologist Karl Landsteiner.",
+      "caption": "Karl Landsteiner in a portrait published in 1930, the year of his Nobel Prize, nearly thirty years after he first sorted human blood into groups in Vienna."
+    }
+  },
+  {
+    "id": "hormones",
+    "title": "The discovery of hormones",
+    "stream": "bio-lab",
+    "tier": 3,
+    "date": {
+      "year": 1902,
+      "display": "1902"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "Bayliss and Starling's 1902 paper and Starling's 1905 Croonian Lectures are in print. Priority for adrenaline is contested: John Jacob Abel had earlier reported an impure extract he called epinephrin, but Takamine's laboratory produced the first crystalline product."
+    },
+    "place": "London, England",
+    "people": [
+      "William Bayliss, physiologist",
+      "Ernest Starling, physiologist",
+      "Jokichi Takamine (1854–1922), chemist who patented Adrenalin",
+      "Keizo Uenaka (1876–1960), his assistant, who crystallized it"
+    ],
+    "themes": [
+      "theory"
+    ],
+    "summary": "Physiologists explained the body's coordination by its nerves. Then two Londoners found a chemical messenger carried in the blood, and Starling gave such substances a name: hormones.",
+    "body": [
+      "Until 1902 physiologists largely explained the coordination of organs by nerves. That year William Bayliss and Ernest Starling in London showed that the gut releases a messenger into the blood, secretin, which drives secretion by the pancreas. In his Croonian Lectures of 1905 Starling introduced the word hormone, proposed by W. B. Hardy, for such blood-borne messengers. One was already on sale: in 1900 Keizo Uenaka, working for Jokichi Takamine in New York, crystallized the active principle of the adrenal glands, and Parke, Davis distributed it as Adrenalin from early 1901."
+    ],
+    "links": [
+      {
+        "to": "insulin",
+        "kind": "led-to",
+        "note": "The hormone idea sent researchers looking for the pancreas's internal secretion."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Cholecystokinin and the hormone concept",
+        "author": "Jens F. Rehfeld",
+        "publisher": "Endocrine Connections, via PubMed Central",
+        "year": 2021,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8052576/",
+        "type": "scholarly",
+        "supports": "Bayliss and Starling's 1902 demonstration of a blood-borne messenger, secretin; the word hormone proposed by Hardy and introduced by Starling in his 1905 Croonian Lectures; blood-borne regulation as a paradigm shift beside neural regulation.",
+        "quote": "discovery of the first hormone in history, secretin"
+      },
+      {
+        "title": "Contributions to the field of neurotransmitters by Japanese scientists, and reflections on my own research",
+        "author": "Masanori Otsuka",
+        "publisher": "Proceedings of the Japan Academy, Series B, via PubMed Central",
+        "year": 2007,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3756739/",
+        "type": "scholarly",
+        "supports": "Uenaka's crystallization of adrenaline in Takamine's New York laboratory in 1900; Parke Davis distribution in early 1901; Abel's earlier epinephrin.",
+        "quote": "In August of this year, Uenaka succeeded in crystallizing the active principle of adrenal glands by adding a large excess of ammonia to a highly concentrated extract."
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "ecg",
+    "title": "Einthoven's electrocardiograph",
+    "stream": "bio-surgery",
+    "tier": 3,
+    "date": {
+      "year": 1903,
+      "earliest": 1901,
+      "latest": 1903,
+      "display": "1901–1903"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "firm",
+      "note": "Einthoven's papers and the 1924 Nobel record document the instrument; it was refined over about three years, so its 'invention' can be dated anywhere from 1901 to its 1903 description. Histories agree that Waller recorded the first human electrocardiogram, in 1887."
+    },
+    "place": "Leiden, Netherlands",
+    "people": [
+      "Willem Einthoven (1860–1927), professor of physiology at Leiden",
+      "Augustus D. Waller, physiologist who made the first human recording"
+    ],
+    "themes": [
+      "technology"
+    ],
+    "summary": "A Dutch physiologist hung a silvered quartz thread between two magnets and turned the heartbeat into a clean, readable trace: the electrocardiogram.",
+    "body": [
+      "Augustus Waller recorded the heart's electrical activity from a person in 1887 with a capillary electrometer, a sluggish mercury-filled tube. Willem Einthoven, professor of physiology at Leiden, at first corrected its traces mathematically, then built a better instrument: the string galvanometer, a thin silver-coated quartz filament between two electromagnets whose movements were magnified and photographed. Refining it took three years; by 1902 it recorded the P, Q, R, S and T waves directly. Einthoven had a telephone cable laid to the hospital to record patients at a distance, and received the 1924 Nobel Prize."
+    ],
+    "links": [
+      {
+        "to": "pacemaker",
+        "kind": "led-to",
+        "note": "Reading the heart's rhythm came before correcting it electrically."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Willem Einthoven – Biographical",
+        "publisher": "NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/medicine/1924/einthoven/biographical/",
+        "type": "institutional",
+        "supports": "His Leiden professorship, mathematical correction of the capillary electrometer, the string galvanometer and three years of refinement; Nobel Prize 1924.",
+        "quote": "he finally devised the string galvanometer which did not involve these calculations"
+      },
+      {
+        "title": "Commemorating the 1924 Nobel Prize awarded to Willem Einthoven: a century of progress in electrocardiography and arrhythmia research",
+        "author": "Carol Ann Remme, Katja E. Odening",
+        "publisher": "Europace, via PubMed Central",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11707386/",
+        "type": "scholarly",
+        "supports": "Waller's 1887 human recording with a capillary electrometer; construction of the string galvanometer.",
+        "quote": "comprising a thin, silver-coated quartz filament between two electromagnets, which converted electric current into movement"
+      },
+      {
+        "title": "Monitoring and modulating cardiac bioelectricity: from Einthoven to end-user",
+        "author": "Tim De Coster et al.",
+        "publisher": "Europace, via PubMed Central",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11711590/",
+        "type": "scholarly",
+        "supports": "Direct recording of the P, Q, R, S and T waves in 1902; the telephone cable linking laboratory and clinic.",
+        "quote": "The application of the string galvanometer eventually made it possible to directly record the P, Q, R, S, and T deflections in humans in 1902"
+      },
+      {
+        "title": "A brief review: history to understand fundamentals of electrocardiography",
+        "author": "Majd AlGhatrif, Joseph Lindsay",
+        "publisher": "Journal of Community Hospital Internal Medicine Perspectives, via PubMed Central",
+        "year": 2012,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3714093/",
+        "type": "scholarly",
+        "supports": "Einthoven developed the sensitive string galvanometer in 1901, the start of the 1901-1903 range.",
+        "quote": "In 1901, he successfully developed a new string galvanometer with very high sensitivity, which he used in his electrocardiograph."
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "alzheimer",
+    "title": "Alzheimer describes a 'peculiar disease'",
+    "stream": "bio-mind",
+    "tier": 3,
+    "date": {
+      "year": 1906,
+      "display": "November 1906"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "Alzheimer's 1907 paper and Kraepelin's 1910 textbook are in print, and the patient's file survives. Modern accounts disagree on the exact day of the Tübingen lecture, giving 3 or 6 November 1906."
+    },
+    "place": "Frankfurt, Munich and Tübingen, Germany",
+    "people": [
+      "Alois Alzheimer (1864–1915), psychiatrist and neuropathologist",
+      "Auguste Deter, his patient",
+      "Emil Kraepelin, psychiatrist who named the disease"
+    ],
+    "themes": [
+      "mind",
+      "theory"
+    ],
+    "summary": "A 51-year-old Frankfurt woman lost her memory and her bearings. After her death her doctor found strange tangles and deposits in her brain, and the disease took his name.",
+    "body": [
+      "In November 1901 Alois Alzheimer, a physician at the municipal asylum in Frankfurt, examined Auguste Deter, a 51-year-old woman with failing memory, disorientation and delusions. When she died in 1906 he, by then working in Munich under Kraepelin, examined her brain and, at a meeting of psychiatrists in Tübingen that November, described altered fibrils inside nerve cells and deposits of a peculiar substance in the cortex. The talk drew no comment. Emil Kraepelin named Alzheimer's disease in his 1910 textbook, treating it as a rare presenile illness separate from ordinary senile dementia, a division later abandoned."
+    ],
+    "links": [
+      {
+        "to": "kraepelin",
+        "kind": "built-on",
+        "note": "Kraepelin's classification gave the new disease its place and name."
+      },
+      {
+        "to": "alzheimers-antibodies",
+        "kind": "led-to",
+        "note": "The plaques Alzheimer saw became the target of the first disease-slowing drugs."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The past, present and future of Alzheimer's disease - part 1: the past",
+        "author": "Ricardo Nitrini",
+        "publisher": "Arquivos de Neuro-Psiquiatria, via PubMed Central",
+        "year": 2023,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10756790/",
+        "type": "scholarly",
+        "supports": "Deter's age and symptoms, first examination in November 1901, death in 1906, Tübingen presentation on 6 November 1906, the 'peculiar substance', the silent audience, Kraepelin's 1910 naming.",
+        "quote": "a 51-year-old woman with a progressive mental illness that had started about six years before"
+      },
+      {
+        "title": "Controversial Past, Splendid Present, Unpredictable Future: A Brief Review of Alzheimer Disease History",
+        "author": "Félix Bermejo-Pareja, Teodoro del Ser",
+        "publisher": "Journal of Clinical Medicine, via PubMed Central",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10816332/",
+        "type": "scholarly",
+        "supports": "Tübingen lecture 1906, publication 1907, Kraepelin's 1910 naming, and the later merging of presenile and senile forms.",
+        "quote": "Kraepelin introduced AD in 1910 in his textbook of Clinical Psychiatry"
+      },
+      {
+        "title": "History of Alzheimer's Disease",
+        "author": "Hyun Duk Yang et al.",
+        "publisher": "Dementia and Neurocognitive Disorders, via PubMed Central",
+        "year": 2016,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6428020/",
+        "type": "scholarly",
+        "supports": "Admission on 25 November 1901 and a lecture date of 3 November 1906 (differing from Nitrini). Also the brain sent from Frankfurt to Munich after her death.",
+        "quote": "Auguste entered the Frankfurt mental hospital on November 25th 1901"
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "typhoid-mary",
+    "title": "'Typhoid Mary'",
+    "stream": "bio-public",
+    "tier": 3,
+    "date": {
+      "year": 1907,
+      "end": 1938,
+      "display": "1907–1938"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "Health department records and George Soper's own accounts document her detention. Counts of cases and deaths attributed to her come mostly from Soper and later retellings and vary between them, and whether an autopsy found the bacteria in her gallbladder is disputed."
+    },
+    "place": "New York City, United States",
+    "people": [
+      "Mary Mallon (1869–1938), Irish-born cook",
+      "George Soper, sanitary engineer who traced her"
+    ],
+    "themes": [
+      "public-health",
+      "ethics"
+    ],
+    "summary": "A cook who never felt ill was linked to typhoid outbreaks and held on an island for 26 years, while hundreds of other healthy carriers stayed free.",
+    "body": [
+      "Mary Mallon, an Irish-born cook, felt perfectly well. After typhoid struck a household at Oyster Bay, Long Island, in 1906, the sanitary engineer George Soper traced the illness to her, and in 1907 New York officials forced her to give samples, found typhoid bacteria and confined her on North Brother Island. Released in 1910 on condition that she stop cooking, she was found in 1915 working in a maternity hospital kitchen under another name and was confined until her death in 1938. Hundreds of other healthy carriers were identified; none was held as she was."
+    ],
+    "myth": {
+      "tradition": "Typhoid Mary was a reckless woman who knowingly spread typhoid and killed scores of people.",
+      "record": "Soper traced typhoid to seven of the eight households she had cooked for, about 22 cases, and at least 25 people fell ill at Sloane Maternity in 1915, two of whom died; later tallies run higher and differ. Nobody had explained to her what a healthy carrier was, and the press portrait of a defiant woman reflected prejudice against an Irish working-class immigrant."
+    },
+    "links": [
+      {
+        "to": "koch",
+        "kind": "built-on",
+        "note": "Laboratory bacteriology made it possible to find germs in a healthy person."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Mary Mallon (1869-1938) and the history of typhoid fever",
+        "author": "Filio Marineli et al.",
+        "publisher": "Annals of Gastroenterology, via PubMed Central",
+        "year": 2013,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3959940/",
+        "type": "scholarly",
+        "supports": "Oyster Bay outbreak of 1906, her capture in 1907, release in 1910, Sloane Maternity under the name Mary Brown, 22 cases in earlier households and at least 25 at Sloane, nobody explaining carriers to her, 26 years confined in all, death in 1938, 400 other carriers not confined, disputed autopsy.",
+        "quote": "By the time she died New York health officials had identified more than 400 other healthy carriers"
+      },
+      {
+        "title": "The Dangers of \"Us Versus Them\": Epidemics Then and Now",
+        "author": "Justin Barr, Richard A. McKay, Deborah B. Doroshow",
+        "publisher": "Journal of General Internal Medicine, via PubMed Central",
+        "year": 2021,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7792909/",
+        "type": "scholarly",
+        "supports": "Second confinement from 1915; press portrayal and the role of her immigrant status.",
+        "quote": "public health authorities forcibly confined her on North Brother Island in the East River in 1915 for the last 23 years of her life"
+      },
+      {
+        "title": "Invisible epidemics: ethics and asymptomatic infection",
+        "author": "Euzebiusz Jamrozik, Michael J. Selgelid",
+        "publisher": "Monash Bioethics Review, via PubMed Central",
+        "year": 2020,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7738616/",
+        "type": "scholarly",
+        "supports": "She showed no signs of disease and found it hard to believe healthy people could spread it.",
+        "quote": "Mallon repeatedly resisted public health restrictions and refused to believe she was infected or posed risks to others"
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "salvarsan",
+    "title": "Salvarsan and the 'magic bullet'",
+    "stream": "bio-drugs",
+    "tier": 2,
+    "date": {
+      "year": 1910,
+      "display": "1909–1910"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "Ehrlich and Hata published their results in 1910 and the drug's launch is well documented. Its exact chemical structure was argued over for nearly a century."
+    },
+    "place": "Frankfurt am Main, Germany",
+    "people": [
+      "Paul Ehrlich (1854–1915), director of the Royal Institute of Experimental Therapy",
+      "Sahachiro Hata, Japanese bacteriologist",
+      "Alfred Bertheim, chemist"
+    ],
+    "themes": [
+      "drugs",
+      "theory"
+    ],
+    "summary": "Hundreds of arsenic compounds, a shelved bottle labeled 606 and a Japanese bacteriologist's rabbits gave syphilis an effective targeted treatment.",
+    "body": [
+      "Syphilis in 1900 was treated with mercury salts, which were toxic and worked poorly. Paul Ehrlich, director of the Royal Institute of Experimental Therapy in Frankfurt, argued that a chemical might be made to strike a microbe while sparing the patient, a 'magic bullet'. With the chemist Alfred Bertheim his laboratory made hundreds of arsenic compounds derived from the drug Atoxyl. In 1909 Sahachiro Hata, sent from Japan by Shibasaburo Kitasato and able to infect rabbits with syphilis, tested compound 606, set aside in 1907 as ineffective, and found that it cured them.",
+      "Hoechst marketed it as Salvarsan in 1910. The injections were tedious and the side effects real, and Ehrlich had to fight opposition, but Salvarsan and the more soluble Neosalvarsan became the most frequently prescribed drugs until penicillin replaced them in the 1940s. They made Ehrlich one of the founders of chemotherapy."
+    ],
+    "myth": {
+      "tradition": "The name 606 records Ehrlich's persistence through 605 failed compounds before he found the cure.",
+      "record": "Sources differ on the number: Ehrlich's Nobel biography calls it the 606th of the series tested, while another history reads 606 as the sixth compound of the 600 series, a catalog number rather than a count of failures. Either way, the compound had been made and set aside as ineffective in 1907, and its power emerged only when Hata retested it on syphilitic rabbits."
+    },
+    "links": [
+      {
+        "to": "sulfa",
+        "kind": "led-to",
+        "note": "The search for synthetic drugs against bacteria continued with Prontosil."
+      },
+      {
+        "to": "penicillin",
+        "kind": "see-also",
+        "note": "Penicillin replaced the arsenicals for syphilis in the 1940s."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Paul Ehrlich – Biographical",
+        "publisher": "NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/medicine/1908/ehrlich/biographical/",
+        "type": "institutional",
+        "supports": "Ehrlich's Frankfurt institute; work with Bertheim on atoxyl; compound 606 shelved in 1907; Hata, sent by Kitasato, tested it on rabbits; opposition; Neosalvarsan; founder of chemotherapy.",
+        "quote": "the 606th of the series tested, which had been set aside in 1907 as being ineffective"
+      },
+      {
+        "title": "A brief history of the antibiotic era: lessons learned and challenges for the future",
+        "author": "Rustam I. Aminov",
+        "publisher": "Frontiers in Microbiology, via PubMed Central",
+        "year": 2010,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3109405/",
+        "type": "scholarly",
+        "supports": "Mercury treatment; magic bullet idea; hundreds of organoarsenic compounds; 1909 rabbit cures; Hoechst marketing; most frequently prescribed drug until penicillin; reading of 606 as sixth in the 600 series. (Aminov and Ehrlich's Nobel biography differ on what 606 means.)",
+        "quote": "In 1909 they came across the sixth compound in the 600th series tested, thus numbered 606, which cured syphilis-infected rabbits"
+      },
+      {
+        "title": "German-Japanese relationships in biochemistry: a personal perspective",
+        "author": "Helmut Sies",
+        "publisher": "Nagoya Journal of Medical Science, via PubMed Central",
+        "year": 2016,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5159459/",
+        "type": "scholarly",
+        "supports": "Hata's role and the 1910 launch as Salvarsan.",
+        "quote": "Sahachiro Hata developed the substance Ehrlich-Hata 606, which under the name of Salvarsan became a drug against syphilis in 1910."
+      }
+    ],
+    "further": [
+      "porter-1997"
+    ],
+    "image": {
+      "commons": "File:Results of the treatment of mice with '606' . Wellcome M0013357.jpg",
+      "alt": "Photograph of a printed table of experimental results, with columns for mice infected with relapsing-fever spirilla and their treatment with compound 606.",
+      "caption": "A table of Sahachiro Hata's experiments treating mice infected with relapsing-fever spirilla with '606', reproduced in Paul Ehrlich's *The Experimental Chemotherapy of Spirilloses* (London, 1911)."
+    }
+  },
+  {
+    "id": "flexner-report",
+    "title": "The Flexner Report",
+    "stream": "bio-public",
+    "tier": 2,
+    "date": {
+      "year": 1910,
+      "display": "1910"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "The report itself is a dated publication. How much it caused, rather than accelerated, the closure of weak schools is debated, and counts of closures vary between histories."
+    },
+    "place": "United States and Canada",
+    "people": [
+      "Abraham Flexner, educator who wrote the report",
+      "Henry Pritchett, president of the Carnegie Foundation",
+      "William Welch, dean at Johns Hopkins and Flexner's adviser"
+    ],
+    "themes": [
+      "institutions",
+      "practice"
+    ],
+    "summary": "A schoolteacher who had never set foot in a medical school graded 155 of them, remade American medical education, and helped close five of the seven Black medical schools.",
+    "body": [
+      "In 1908 the American Medical Association's Council on Medical Education commissioned the Carnegie Foundation to survey North America's medical schools, which ranged from fine universities to dismal for-profit schools. The Foundation chose Abraham Flexner, a former Louisville schoolteacher who had never been inside a medical school, precisely because it saw the problem as one of education. He visited 155 schools, and his 1910 report held up Johns Hopkins and the German university as the model: science before admission, laboratories, and teaching in hospitals.",
+      "Backed by large Rockefeller and Carnegie gifts, the model became the American standard. One history counts 120 of 162 schools closing in the following years, though reform was already under way before Flexner set out. The costs fell unevenly. Flexner accepted segregation and recommended that, of the Black medical schools he reviewed, only Howard and Meharry remain open; the other five closed. A 2020 study estimated that they might have trained some 27,000 to 35,000 more physicians by 2019."
+    ],
+    "myth": {
+      "tradition": "The Flexner Report single-handedly swept away America's bad medical schools.",
+      "record": "Standards were already rising and some schools already closing. Flexner put nothing conceptually new forward; he publicized and accelerated a movement, with foundation money doing much of the work."
+    },
+    "links": [
+      {
+        "to": "halsted",
+        "kind": "built-on",
+        "note": "Johns Hopkins, where Halsted trained surgeons, was Flexner's model."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Flexner Report ― 100 Years Later",
+        "author": "Thomas P. Duffy",
+        "publisher": "Yale Journal of Biology and Medicine, via PubMed Central",
+        "year": 2011,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3178858/",
+        "type": "scholarly",
+        "supports": "Flexner's background as a Louisville schoolteacher with no medical training, Pritchett's choice of an educator, the Hopkins model and Welch's influence, Rockefeller and Carnegie funding. The 'never been in a medical school' detail and Pritchett's reason for choosing an educator are also from Duffy.",
+        "quote": "Abraham Flexner, a former school teacher and expert on educational practices whose background and training made him an outlier in the Circle"
+      },
+      {
+        "title": "The History of Surgical Education in the United States: Past, Present, and Future",
+        "author": "Liliana Camison et al.",
+        "publisher": "Annals of Surgery Open, via PubMed Central",
+        "year": 2022,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10013151/",
+        "type": "scholarly",
+        "supports": "AMA commission of 1908; visits to 155 schools; 120 of 162 schools closed; acceleration of a process already under way; acceptance of segregation.",
+        "quote": "Flexner traveled to and analyzed 155 medical schools in North America"
+      },
+      {
+        "title": "Projected Estimates of African American Medical Graduates of Closed Historically Black Medical Schools",
+        "author": "Kendall M. Campbell et al.",
+        "publisher": "JAMA Network Open, via PubMed Central",
+        "year": 2020,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7441360/",
+        "type": "scholarly",
+        "supports": "Flexner recommended only Howard and Meharry remain; the five other Black schools in the report closed; estimate of 27,773 to 35,315 lost graduates by 2019.",
+        "quote": "the Flexner report recommended that only the Howard and Meharry programs remain operational"
+      }
+    ],
+    "further": [
+      "washington-2006"
+    ]
+  },
+  {
+    "id": "vitamins",
+    "title": "Vitamins and deficiency diseases",
+    "stream": "bio-lab",
+    "tier": 2,
+    "date": {
+      "year": 1912,
+      "earliest": 1897,
+      "latest": 1915,
+      "display": "1890s–1912"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "agreed",
+      "note": "The key papers are dated and in print, but 'the discovery of vitamins' has no single date: it runs from Eijkman's hens in the 1890s to Hopkins's full paper and Funk's name in 1912, with Goldberger's pellagra trials in 1914–15. Credit is contested: the 1929 Nobel Prize went to Eijkman and Hopkins, while Grijns, who first read the evidence as a deficiency, and Funk, who named vitamins, were passed over."
+    },
+    "place": "Batavia (Jakarta), Cambridge and the American South",
+    "people": [
+      "Christiaan Eijkman (1858–1930), Dutch physician in Java",
+      "Gerrit Grijns, his successor in Batavia",
+      "Frederick Gowland Hopkins (1861–1947), Cambridge biochemist",
+      "Casimir Funk, Polish biochemist who coined 'vitamine'",
+      "Joseph Goldberger, US Public Health Service officer"
+    ],
+    "themes": [
+      "theory",
+      "public-health"
+    ],
+    "summary": "Sick hens fed polished rice, rats that grew only with a few drops of milk, and orphans cured of pellagra by better meals revealed that disease could come from something missing.",
+    "body": [
+      "In the 1890s, in a military laboratory in Batavia in the Dutch East Indies, Christiaan Eijkman was looking for a germ behind beriberi when the laboratory's hens developed a similar paralysis. He traced it not to a microbe but to their feed of boiled polished rice; rice bran prevented it. Eijkman thought the bran neutralized a poison. His successor, Gerrit Grijns, argued in 1901 that it supplied something the body itself needed.",
+      "In Cambridge, Frederick Hopkins found that young rats on a purified diet of lard, starch, casein and salts stopped growing until given two or three cubic centimeters of milk a day. He hinted at this in 1906 and published in full in 1912; between 1910 and 1912 Casimir Funk called the antineuritic substance a 'vitamine'. In the American South from 1914, Joseph Goldberger of the Public Health Service showed that pellagra, widely blamed on infection, disappeared when two orphanages and an asylum improved their diets. Eijkman and Hopkins shared the 1929 Nobel Prize."
+    ],
+    "myth": {
+      "tradition": "Eijkman discovered that beriberi is caused by a vitamin deficiency.",
+      "record": "Eijkman showed that polished rice caused the disease and bran prevented it, but he believed the bran counteracted a poison. The 1929 Nobel presentation credits the deficiency explanation to his successor Grijns, although the Nobel biography of Eijkman is worded as if he had found it."
+    },
+    "links": [
+      {
+        "to": "lind-scurvy",
+        "kind": "built-on",
+        "note": "Citrus against scurvy was an earlier, unexplained deficiency cure."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Award ceremony speech, Nobel Prize in Physiology or Medicine 1929",
+        "publisher": "NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/medicine/1929/ceremony-speech/",
+        "type": "institutional",
+        "supports": "Eijkman's hens, polished rice and bran, his poison hypothesis, Grijns's interpretation, Funk's naming; Hopkins's rat experiments with milk, 1906 communication and full publication three years after 1909 lectures.",
+        "quote": "It was only Eijkman’s successor in Java, Grijns, who made it clear that the substance in question was used directly in the body"
+      },
+      {
+        "title": "Wernicke's encephalopathy - from basic science to clinical practice. Part 1: Understanding the role of thiamine",
+        "author": "Maria Ott, Ursula Werneke",
+        "publisher": "Therapeutic Advances in Psychopharmacology, via PubMed Central",
+        "year": 2020,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7780320/",
+        "type": "scholarly",
+        "supports": "Eijkman's chicken experiments 1890–1897; Grijns 1901; Funk's 'vitamine' 1910–12; Drummond dropped the e in 1920; 1929 Nobel.",
+        "quote": "Eijkman conducts experiments in chicken and demonstrates that a diet of polished rice, not bacteria, is associated with a beriberi-like illness."
+      },
+      {
+        "title": "Prevention and Control Strategies for Non-Communicable Disease: Goldberger, Pellagra and Rose Revisited",
+        "author": "John W. Frank",
+        "publisher": "Epidemiologia, via PubMed Central",
+        "year": 2022,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9620930/",
+        "type": "scholarly",
+        "supports": "Goldberger's assignment in 1914, the infection theory, and the 1914–15 diet experiments in orphanages and an asylum.",
+        "quote": "he supplemented the diet of two orphanages and one part of an asylum for the mentally ill, where very high rates of pellagra had occurred"
+      },
+      {
+        "title": "Christiaan Eijkman – Biographical",
+        "publisher": "NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/medicine/1929/eijkman/biographical/",
+        "type": "institutional",
+        "supports": "Eijkman's laboratory in the Military Hospital in Batavia.",
+        "quote": "the laboratory which had been temporarily set up for the Commission in the Military Hospital in Batavia should be made permanent"
+      },
+      {
+        "title": "Frederick Gowland Hopkins – Biographical",
+        "publisher": "NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/medicine/1929/hopkins/biographical/",
+        "type": "institutional",
+        "supports": "Hopkins's move to Cambridge in 1898 to develop biochemistry there.",
+        "quote": "he was invited by Sir Michael Foster to move to Cambridge to develop there the chemical aspects of physiology"
+      }
+    ],
+    "further": [],
+    "image": {
+      "commons": "File:Goldberger, Joseph.jpg",
+      "alt": "Black-and-white portrait photograph of Joseph Goldberger.",
+      "caption": "Joseph Goldberger of the US Public Health Service, in a photograph dated 1914, the year he took over the investigation of pellagra."
+    }
+  }
+]
