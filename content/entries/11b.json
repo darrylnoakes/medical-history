@@ -26,7 +26,7 @@
     ],
     "summary": "A French anesthesia aid that calmed agitated patients became the first widely used antipsychotic. The story that it emptied the asylums is only partly true.",
     "body": [
-      "Chlorpromazine was made on 11 December 1951 by the chemist Paul Charpentier at the French drug company Rhône-Poulenc and released for testing as an aid to anesthesia. Henri Laborit, an army surgeon experimenting with \"artificial hibernation\" against surgical shock, found that it left patients detached and indifferent without putting them to sleep, and persuaded psychiatrists at the Val-de-Grâce military hospital in Paris to try it. On 19 January 1952 a 24-year-old man in manic agitation became the first psychiatric patient to receive it. From 24 March, Jean Delay and Pierre Deniker tested it at Sainte-Anne hospital, and their papers that year set the stage for its wide use. It went on sale in France that November and was approved in the United States as Thorazine in 1954.",
+      "Chlorpromazine was made on 11 December 1951 by the chemist Paul Charpentier at the drug company Rhône-Poulenc and released for testing as an aid to anesthesia. Henri Laborit, an army surgeon experimenting with \"artificial hibernation\" against surgical shock, found that it left patients detached and indifferent without putting them to sleep, and persuaded psychiatrists at the Val-de-Grâce military hospital to try it. On 19 January 1952 a 24-year-old man in manic agitation became the first psychiatric patient to receive it. From 24 March, Jean Delay and Pierre Deniker tested it at Sainte-Anne hospital, and their papers that year set the stage for its wide use. It went on sale in France that November and was approved in the United States as Thorazine in 1954.",
       "Disturbed wards grew quieter, but the popular story that it emptied the asylums is too simple. American state hospitals held more than 550,000 patients at their peak in 1955, the year after Thorazine's approval, and discharged most of them only between 1970 and 1980, after the 1963 Community Mental Health Act and the promise of saving money made deinstitutionalization official policy. Studying California, the historian Joel Braslow argues that the drugs, of limited efficacy, had little overall effect on how psychiatrists understood and treated psychotic patients."
     ],
     "myth": {
@@ -387,7 +387,12 @@
         "quote": "Lillehei was the first to successfully close a ventricular septal defect on March 26, 1954, using cross-circulation with a parent for support."
       }
     ],
-    "further": []
+    "further": [],
+    "image": {
+      "commons": "File:Heart-lung machine, London, England, c. 1955-1960 Wellcome L0057824.jpg",
+      "alt": "A heart-lung machine with a pump and a rotating-disc oxygenator, as built in London in the 1950s.",
+      "caption": "A heart-lung machine with a rotating-disc oxygenator, conceived by Denis Melrose at Hammersmith, London, and photographed c. 1955–1960. Gibbon's own machine used vertical screens instead."
+    }
   },
   {
     "id": "kidney-transplant",
