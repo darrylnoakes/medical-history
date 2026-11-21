@@ -11,7 +11,8 @@ import { Filters, Intro, Legend, Tooltip, Tour, ZoomControls } from './ui/Overla
 import { Pages } from './ui/Pages';
 import { yearToU } from './river/time';
 
-const panelInset = () => (window.innerWidth >= 900 ? Math.min(480, window.innerWidth * 0.4) : 0);
+const panelInset = (vertical: boolean) =>
+  window.innerWidth >= 900 ? Math.min(480, window.innerWidth * 0.4) : vertical ? Math.min(window.innerHeight * 0.7, window.innerHeight - 70) - 10 : 0;
 
 export function App() {
   const host = useRef<HTMLDivElement>(null);
@@ -37,7 +38,7 @@ export function App() {
       }),
       effect(() => {
         const t = selection.value;
-        r.setPanelInset(t ? panelInset() : 0);
+        r.setPanelInset(t ? panelInset(r.cam.vertical) : 0);
         if (tourStep.peek() != null && !t) return;
         r.setSelection(t);
         if (t) r.focus(t);

@@ -307,7 +307,7 @@ h1, h2, h3, h4, p { margin: 0; }
 }
 @media (max-width: 899px) {
   :root { --panel-w: 100vw; }
-  .panel { top: auto; left: 0; width: 100%; height: min(74vh, 100% - 70px); border-left: 0; border-top: 1px solid var(--rule-2); border-radius: 16px 16px 0 0; box-shadow: 0 -18px 40px -20px rgba(60, 40, 20, 0.5); animation-name: slide-up; }
+  .panel { top: auto; left: 0; width: 100%; height: min(70vh, 100% - 70px); border-left: 0; border-top: 1px solid var(--rule-2); border-radius: 16px 16px 0 0; box-shadow: 0 -18px 40px -20px rgba(60, 40, 20, 0.5); animation-name: slide-up; }
   @keyframes slide-up { from { transform: translateY(60px); opacity: 0; } }
   .hero img { max-height: 32vh; }
   .panel-body { padding: 20px 20px 40px; }

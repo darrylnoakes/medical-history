@@ -88,7 +88,7 @@
     "themes": ["mind", "institutions", "practice"],
     "summary": "Paintings show Philippe Pinel striking the chains off the mad. His own book gives much of the credit to the hospital's keeper, Pussin.",
     "body": [
-      "Philippe Pinel was appointed physician at Bicêtre, the vast hospice outside Paris, on 25 August 1793, at the height of the Revolution, and on 13 May 1795 moved to the Salpêtrière, with its 600-bed ward for the mentally ill. From these wards came his 'moral treatment' of insanity: close observation, conversation, routine and firm kindness instead of blows. In his treatise on mental alienation (1801; English translation 1806) he reported that at Bicêtre keepers were forbidden 'on any pretext whatever, to strike a madman', though strait-waistcoats and seclusion remained.",
+      "Philippe Pinel was appointed physician at the Bicêtre hospice in Paris on 25 August 1793, during the Revolution, and on 13 May 1795 moved to the Salpêtrière, with its 600-bed ward for the mentally ill. From these wards came his 'moral treatment' of insanity: close observation, conversation, routine and firm kindness instead of blows. In his treatise on mental alienation (1801; English translation 1806) he reported that at Bicêtre keepers were forbidden 'on any pretext whatever, to strike a madman', though strait-waistcoats and seclusion remained.",
       "The legend that grew up around him, in paintings and popular prints, has Pinel personally freeing the chained insane. His book tells a more shared story. Pinel praised 'the zeal, the humanity, and intelligence of the keeper', the governor Pussin, and described Pussin, not himself, taming patients, once with servants rattling chains for effect. In England the Quaker-run York Retreat was pursuing similar moral treatment."
     ],
     "myth": {
@@ -140,9 +140,9 @@
     ],
     "further": ["scull-2015"],
     "image": {
-      "commons": "File:Philippe Pinel libérant les aliénés de leurs chaînes à l'asile de la Salpêtrière à Paris en 1795 (1876), Tony Robert-Fleury, Paris, hôpital de la Salpêtrière.jpg",
-      "alt": "Large oil painting of a physician in a courtyard as an attendant unlocks the chains of a disheveled woman, while other female patients look on.",
-      "caption": "Tony Robert-Fleury's painting of Pinel freeing the insane at the Salpêtrière (1876), made eighty years after the event it imagines. Images like this fixed the legend."
+      "commons": "File:Pinel freeing the insane from their chains Wellcome L0071529.jpg",
+      "alt": "Dark oil painting of a crowded asylum courtyard: a man in a black coat and hat stands beside a pale young woman as women patients sit and crouch around them.",
+      "caption": "Pinel freeing the insane, an oil study by Tony Robert-Fleury from the 1870s, painted some eighty years after the events it imagines. Images like this fixed the legend. Wellcome Collection."
     }
   },
   {
@@ -241,7 +241,12 @@
         "quote": "The World Health Assembly accepted the WHO Global Commission’s recommendation and declared the world free from smallpox."
       }
     ],
-    "further": ["porter-1997", "snowden-2019"]
+    "further": ["porter-1997", "snowden-2019"],
+    "image": {
+      "commons": "File:Edward Jenner. Line engraving after J. R. Smith, 1800. Wellcome V0003071.jpg",
+      "alt": "Engraved half-length portrait of Edward Jenner in a dark coat and white cravat, leaning on a ledge.",
+      "caption": "Edward Jenner, in a line engraving after a portrait by J. R. Smith of 1800, two years after the *Inquiry* made him famous. Wellcome Collection."
+    }
   },
   {
     "id": "homeopathy",
@@ -473,7 +478,7 @@
     "themes": ["drugs", "technology"],
     "summary": "A self-taught apothecary's assistant pulled the 'sleep-inducing factor' out of opium, isolating the first alkaloid and testing it on himself.",
     "body": [
-      "Medicines around 1800 were mostly crude plant preparations whose active ingredients came in unknown and varying amounts. Opium was the most important of them. Friedrich Sertürner, a young apothecary's assistant with little formal training, used ammonia to separate an almost pure 'sleep-inducing factor' from it. His first reports, in 1805 and 1806, attracted no attention. In 1817 he republished the work at length, calling the substance *morphium* after the god of sleep and dreams, and this time chemists took notice.",
+      "Medicines around 1800 were mostly crude plant preparations whose active ingredients came in unknown and varying amounts. Opium, used since ancient times, remained among the most important. Friedrich Sertürner, a young apothecary's assistant with little formal training, used ammonia to separate an almost pure 'sleep-inducing factor' from it. His first reports, in 1805 and 1806, attracted no attention. In 1817 he republished the work at length, calling the substance *morphium* after the god of sleep and dreams, and this time chemists took notice.",
       "Sertürner had tested it on himself and three young volunteers: a quarter of a grain produced a happy light-headedness, while larger doses brought drowsiness and then confusion. He showed the substance was an alkali, overturning the belief that the active principles of plants were acids. Morphine was the first alkaloid isolated from any plant, the start of alkaloid chemistry, and it gave doctors a drug whose dose could be measured."
     ],
     "links": [

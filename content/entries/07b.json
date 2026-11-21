@@ -113,8 +113,8 @@
     ],
     "summary": "A London physician did the arithmetic: the heart pumps more blood in half an hour than the whole body holds. So the blood must go round.",
     "body": [
-      "In 1628 a slim Latin book of about 70 pages appeared in Frankfurt, written by William Harvey, physician to St Bartholomew's Hospital in London and to King James I. *Exercitatio anatomica de motu cordis et sanguinis in animalibus*, usually shortened to *De motu cordis*, argued that the heart is a pump and that the blood travels around the body in a circle, out through the arteries and back through the veins.",
-      "This overturned a system that had ruled European medicine for nearly 1,500 years. Galen taught that blood was made continually in the liver from digested food and was used up by the body's parts as nourishment, so it had to be replaced. It was a reasonable picture: food clearly becomes body. Harvey, who had studied at Padua under Fabricius, the anatomist who described the valves in the veins, attacked it with experiments on living animals and with a striking piece of arithmetic. Suppose, he wrote, the left ventricle throws out just half an ounce, or even one drachm, with each beat. In half an hour the heart beats more than a thousand times, so it moves more blood than the whole body contains. The liver could not make that much; the same blood must be going round.",
+      "In 1628 a slim Latin book of about 70 pages appeared in Frankfurt, written by William Harvey, physician to St Bartholomew's Hospital in London and a royal physician since 1618. *Exercitatio anatomica de motu cordis et sanguinis in animalibus*, usually shortened to *De motu cordis*, argued that the heart is a pump and that the blood travels around the body in a circle, out through the arteries and back through the veins.",
+      "This overturned a system that had ruled European medicine for nearly 1,500 years. Galen taught that blood was made in the liver and carried through the veins to nourish and build the tissues, which used it up, so it had to be constantly replaced. It was a reasonable picture of how food becomes body. Harvey, who had studied at Padua under Fabricius, the anatomist who described the valves in the veins, attacked it by watching the heart beat in living animals, and with a striking piece of arithmetic. Suppose, he wrote, the left ventricle throws out just half an ounce, or even one drachm, with each beat. In half an hour the heart beats more than a thousand times, so it moves more blood than the whole body contains. The liver could not make that much; the same blood must be going round.",
       "Harvey could not see how blood crossed from the smallest arteries into the veins. That gap was closed in 1661, when Marcello Malpighi, using a microscope, saw the capillaries. Others had glimpsed part of the picture before him. In the 13th century the Arab physician Ibn al-Nafis described blood passing from the heart through the lungs and back, and in the 16th century Michael Servetus and Realdo Colombo argued for the same passage through the lungs.",
       "Acceptance was slow but real. Conservative colleagues accused Harvey of quackery and his private practice suffered, yet by his death in 1657 circulation was widely accepted. Daily treatment barely changed. Purges and enemas built on Galen's physiology carried on, and Harvey himself still approved of bloodletting. Half a century after his death, Louis XIV of France had been bled 38 times. The discovery mattered first as a way of knowing: it showed that measurement and experiment could overturn the most revered authority in medicine. Its practical payoffs, such as blood transfusion, came later."
     ],
@@ -222,7 +222,7 @@
       "public-health",
       "texts"
     ],
-    "summary": "A self-taught London draper turned the city's weekly death lists into the first serious numbers on who died, of what, and how young.",
+    "summary": "A self-taught London draper turned the city's weekly lists of burials into reasoned estimates of who died, of what, and how young.",
     "body": [
       "In 1662 John Graunt (1620–1674), a largely self-educated London draper, published *Natural and Political Observations ... upon the Bills of Mortality*. The Bills were weekly tallies of burials. Elderly women called searchers viewed each body and named a cause of death, and parish clerks printed the totals. Most readers scanned them only to see whether plague was rising, so they knew when to flee or how trade would suffer. Graunt saw that they could answer bigger questions.",
       "Working mainly from the annual summaries of 1604–1660, and openly correcting for errors such as searchers bribed with ale to record syphilis as mere 'ulcers', he estimated London's population, showed that more boys are born than girls, measured migration from the countryside, and found that about a third of children died before age six. His table tracing the dying-out of a group of births is often called the first life table, but it rested on guesswork about ages; Edmond Halley later built one from real ages at death. The Royal Society elected Graunt a fellow, reportedly on the recommendation of Charles II."
@@ -270,7 +270,12 @@
     ],
     "further": [
       "porter-1997"
-    ]
+    ],
+    "image": {
+      "commons": "File:GRAUNT, John. (1620-1674). Natural and political observations.png",
+      "alt": "Two pages of a 17th-century printed book with a title page in large type.",
+      "caption": "John Graunt's *Natural and Political Observations ... upon the Bills of Mortality*, printed in London in 1662."
+    }
   },
   {
     "id": "willis",
@@ -352,7 +357,12 @@
     ],
     "further": [
       "porter-1997"
-    ]
+    ],
+    "image": {
+      "commons": "File:T. Willis, Cerebri anatome ; cui accessit n Wellcome L0032335.jpg",
+      "alt": "Engraved plate of a human brain showing the cerebellum and the nerves leaving the brain.",
+      "caption": "Plate of the human brain, cerebellum and nerves from Thomas Willis's *Cerebri Anatome*, Amsterdam edition, 1664. Willis credited Christopher Wren with drawing many of the figures. Wellcome Collection."
+    }
   },
   {
     "id": "microscope",
@@ -453,7 +463,12 @@
     ],
     "further": [
       "porter-1997"
-    ]
+    ],
+    "image": {
+      "commons": "File:Hooke-microscope.png",
+      "alt": "Engraving of a tall compound microscope on a stand beside an oil lamp and a water-filled glass globe used to focus light.",
+      "caption": "Robert Hooke's compound microscope and lighting apparatus, from Scheme I of his *Micrographia*, London, 1665."
+    }
   },
   {
     "id": "blood-transfusion-1667",
@@ -560,7 +575,7 @@
     ],
     "summary": "A Puritan ex-soldier told doctors to stop theorizing and watch their patients. He became the 'English Hippocrates', but only after he died.",
     "body": [
-      "Thomas Sydenham (1624–1689) came from a Puritan family, fought for Parliament in the Civil War and practised in London outside the universities. Influenced by Francis Bacon, he argued that diseases should be understood from close observation of their signs and course, not from theories about hidden mechanisms. His *Observationes Medicae* of 1676 expanded a 1666 book on fevers into a system of 'epidemic constitutions' shaped by season and environment, and his sorting of diseases into distinct kinds helped found nosology. His accounts of gout, which he suffered for 30 years, and of the childhood chorea that bears his name became classics. He preferred diet to aggressive bloodletting."
+      "Thomas Sydenham (1624–1689) came from a Puritan family, fought for Parliament in the Civil War and practiced in London outside the universities. Influenced by Francis Bacon, he argued that diseases should be understood from close observation of their signs and course, not from theories about hidden mechanisms. His *Observationes Medicae* of 1676 expanded a 1666 book on fevers into a system of 'epidemic constitutions' shaped by season and environment, and his sorting of diseases into distinct kinds helped found nosology. His accounts of gout, which he suffered for 30 years, and of the childhood chorea that bears his name became classics. He preferred diet to aggressive bloodletting."
     ],
     "links": [
       {
@@ -618,13 +633,13 @@
     "confidence": {
       "date": "firm",
       "claim": "firm",
-      "note": "Eyewitnesses such as Pepys describe the ceremony, and court registers recorded the numbers. The totals come from later compilers and differ slightly: 92,107 between 1660 and 1682 in one count, 'near a hundred thousand' over the reign in another."
+      "note": "Eyewitnesses such as Pepys describe the ceremony. The totals come from later compilers and differ slightly: 92,107 between 1660 and 1682 in one count, 'near a hundred thousand' over the reign in another."
     },
     "place": "Whitehall, London, England",
     "people": [
-      "Charles II (reigned 1660–1685), who touched more sufferers than any other English monarch on record",
-      "Samuel Pepys (1633–1703), diarist and eyewitness",
-      "Samuel Johnson, touched as a small child by Queen Anne"
+      "Charles II, restored to the English throne in 1660",
+      "Samuel Pepys, diarist and eyewitness",
+      "Samuel Johnson, touched as a young child by Queen Anne"
     ],
     "themes": [
       "practice",
@@ -632,7 +647,7 @@
     ],
     "summary": "Charles II laid hands on some 90,000 sick subjects to cure the 'king's evil'. In 1684 the crowd was so thick that several were trampled to death.",
     "body": [
-      "On 23 June 1660, weeks after his restoration, Charles II was due to touch the sick at Whitehall. It rained, and the poor stood all morning in the garden before he touched them in the Banqueting House. English and French monarchs claimed a God-given power to cure scrofula, the 'king's evil', by laying on hands and hanging a gold coin round the sufferer's neck. Demand was immense: one count gives 92,107 people touched between 1660 and 1682, and in 1684 several were trampled to death in the crush. William III called it 'a silly superstition', but Queen Anne still touched, among others the infant Samuel Johnson, without effect."
+      "On 23 June 1660 the newly restored Charles II was due to touch the sick at Whitehall. It rained, and the poor stood all morning in the garden before he touched them in the Banqueting House. English monarchs claimed a God-given power to cure scrofula, the 'king's evil', by laying on hands and hanging a gold coin round the sufferer's neck. Demand was immense: one count gives 92,107 people touched between 1660 and 1682, and in 1684 several were trampled to death in the crush. William III called it 'a silly superstition', but Queen Anne still touched, among others the young Samuel Johnson, without effect."
     ],
     "myth": {
       "tradition": "The English royal touch goes back to Edward the Confessor.",
@@ -675,7 +690,7 @@
     "image": {
       "commons": "File:Charles II touching the scrofulous (crop).jpeg",
       "alt": "Engraving of Charles II on a canopied throne laying hands on a kneeling sick person, with courtiers and clergy around.",
-      "caption": "Charles II touching for the king's evil, an engraving by Robert White, 1684 (detail)."
+      "caption": "An engraving of 1684 by R. White showing Charles II laying hands on a sufferer from the king's evil (detail)."
     }
   },
   {
@@ -700,9 +715,9 @@
       "public-health",
       "texts"
     ],
-    "summary": "An Italian professor went into the workshops and found millers half-deaf and midwives worn out. His 1700 survey of 40 trades founded occupational medicine.",
+    "summary": "An Italian professor surveyed 40 trades and found millers half-deaf and midwives worn out. His 1700 book made him the father of occupational medicine.",
     "body": [
-      "In 1700 Bernardino Ramazzini (1633–1714), professor of medicine at Modena, published *De Morbis Artificum Diatriba*, a treatise on the diseases of workers covering some 40 occupations. Each chapter described a trade and its workplace, the questions to put to its workers, their diseases and the remedies. Corn millers, he wrote, were nearly all 'half-deaf' from the noise of wheels and millstones; midwives spent hours on their knees and risked infection from their patients. He suggested crude earplugs and thorough washing, and argued that rulers should protect workers' health. An enlarged edition appeared in 1713, the year before his death in Padua."
+      "In 1700 Bernardino Ramazzini (1633–1714), then a professor of medicine at Modena, published *De Morbis Artificum Diatriba*, a treatise on the diseases of workers covering some 40 occupations. Each chapter described a trade and its workplace, the questions to put to its workers, their diseases and the remedies. Corn millers, he wrote, were nearly all 'half-deaf' from the noise of wheels and millstones; midwives spent hours on their knees and risked infection from their patients. He suggested crude earplugs and thorough washing, and argued that rulers should protect workers' health. An enlarged edition appeared in 1713, the year before his death in Padua."
     ],
     "links": [
       {

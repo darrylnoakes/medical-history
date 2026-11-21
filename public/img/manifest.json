@@ -1,0 +1,382 @@
+{
+ "trepanation": {
+  "commons": "File:Trephined skull, Neolithic period. Wellcome M0014688.jpg",
+  "src": "/img/trepanation.webp",
+  "width": 1196,
+  "height": 1500,
+  "credit": "Gallery: https://wellcomeimages.org/indexplus/image/M0014688.html Wellcome Collection gallery…",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Trephined_skull,_Neolithic_period._Wellcome_M0014688.jpg"
+ },
+ "hammurabi-physicians": {
+  "commons": "File:Code of Hammurabi-Sb 8-IMG 7753-gradient.jpg",
+  "src": "/img/hammurabi-physicians.webp",
+  "width": 1200,
+  "height": 1200,
+  "credit": "Rama",
+  "license": "CC BY-SA 3.0 fr",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/fr/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Code_of_Hammurabi-Sb_8-IMG_7753-gradient.jpg"
+ },
+ "imhotep": {
+  "commons": "File:Imhotep-Louvre.JPG",
+  "src": "/img/imhotep.webp",
+  "width": 768,
+  "height": 1024,
+  "credit": "Hu Totya",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "page": "https://commons.wikimedia.org/wiki/File:Imhotep-Louvre.JPG"
+ },
+ "edwin-smith-papyrus": {
+  "commons": "File:Edwin Smith Papyrus v2.jpg",
+  "src": "/img/edwin-smith-papyrus.webp",
+  "width": 1200,
+  "height": 920,
+  "credit": "Jeff Dahl",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Edwin_Smith_Papyrus_v2.jpg"
+ },
+ "ebers-papyrus": {
+  "commons": "File:Papyrus Ebers.png",
+  "src": "/img/ebers-papyrus.webp",
+  "width": 308,
+  "height": 400,
+  "credit": "Unknown scribe",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Papyrus_Ebers.png"
+ },
+ "four-humours": {
+  "commons": "File:The four elements, four qualities, four humours, four season Wellcome V0048018.jpg",
+  "src": "/img/four-humours.webp",
+  "width": 1200,
+  "height": 1003,
+  "credit": "Gallery: https://wellcomeimages.org/indexplus/image/V0048018.html Wellcome Collection gallery…",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:The_four_elements,_four_qualities,_four_humours,_four_season_Wellcome_V0048018.jpg"
+ },
+ "dioscorides": {
+  "commons": "File:Dioscorides, Codex Julianae Aniciae; Coriander Wellcome M0006403.jpg",
+  "src": "/img/dioscorides.webp",
+  "width": 1200,
+  "height": 1434,
+  "credit": "Gallery: https://wellcomeimages.org/indexplus/image/M0006403.html Wellcome Collection gallery…",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Dioscorides,_Codex_Julianae_Aniciae;_Coriander_Wellcome_M0006403.jpg"
+ },
+ "sushruta-samhita": {
+  "commons": "File:The Susruta-Samhita or Sahottara-Tantra (A Treatise on Ayurvedic Medicine) LACMA M.87.271a-g (1 of 8).jpg",
+  "src": "/img/sushruta-samhita.webp",
+  "width": 1200,
+  "height": 888,
+  "credit": "Image: http://collections.lacma.org/sites/default/files/remote_images/piction/ma-31972784-O3.jpg Gallery:…",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:The_Susruta-Samhita_or_Sahottara-Tantra_(A_Treatise_on_Ayurvedic_Medicine)_LACMA_M.87.271a-g_(1_of_8).jpg"
+ },
+ "bower-manuscript": {
+  "commons": "File:5th to 6th century Bower manuscript, Sanskrit, early Gupta script, Kucha Xinjiang China, Leaf 1.jpg",
+  "src": "/img/bower-manuscript.webp",
+  "width": 1200,
+  "height": 285,
+  "credit": "Ms Sarah Welch",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:5th_to_6th_century_Bower_manuscript,_Sanskrit,_early_Gupta_script,_Kucha_Xinjiang_China,_Leaf_1.jpg"
+ },
+ "tibetan-four-tantras": {
+  "commons": "File:GYu-thog Yon-tan mgon-po & Buddha Sakyamuni Wellcome V0018303.jpg",
+  "src": "/img/tibetan-four-tantras.webp",
+  "width": 1095,
+  "height": 1500,
+  "credit": "Gallery: https://wellcomeimages.org/indexplus/image/V0018303.html Wellcome Collection gallery…",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:GYu-thog_Yon-tan_mgon-po_%26_Buddha_Sakyamuni_Wellcome_V0018303.jpg"
+ },
+ "bengal-inoculation": {
+  "commons": "File:An account of the manner of inoculating for the smallpox... Wellcome L0008800.jpg",
+  "src": "/img/bengal-inoculation.webp",
+  "width": 948,
+  "height": 1500,
+  "credit": "Gallery: https://wellcomeimages.org/indexplus/image/L0008800.html Wellcome Collection gallery…",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:An_account_of_the_manner_of_inoculating_for_the_smallpox..._Wellcome_L0008800.jpg"
+ },
+ "indian-rhinoplasty-1794": {
+  "commons": "File:Indian method of nose reconstruction, illustrated in the Gentleman's Magazine, 1794.png",
+  "src": "/img/indian-rhinoplasty-1794.webp",
+  "width": 244,
+  "height": 384,
+  "credit": "http://www.sciencemuseum.org.uk/broughttolife/techniques/rhinoplasty",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Indian_method_of_nose_reconstruction,_illustrated_in_the_Gentleman%27s_Magazine,_1794.png"
+ },
+ "reserpine": {
+  "commons": "File:Rauwolfia serpentina(Flower).jpg",
+  "src": "/img/reserpine.webp",
+  "width": 640,
+  "height": 480,
+  "credit": "Pieria (Uploader and Photographer)",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Rauwolfia_serpentina(Flower).jpg"
+ },
+ "oracle-bone-medicine": {
+  "commons": "File:Shang dynasty inscribed scapula.jpg",
+  "src": "/img/oracle-bone-medicine.webp",
+  "width": 974,
+  "height": 1500,
+  "credit": "BabelStone",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Shang_dynasty_inscribed_scapula.jpg"
+ },
+ "mawangdui-manuscripts": {
+  "commons": "File:Daoyin tu - chart for leading and guiding people in exercise Wellcome L0036007.jpg",
+  "src": "/img/mawangdui-manuscripts.webp",
+  "width": 1200,
+  "height": 668,
+  "credit": "Gallery: https://wellcomeimages.org/indexplus/image/L0036007.html Wellcome Collection gallery…",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Daoyin_tu_-_chart_for_leading_and_guiding_people_in_exercise_Wellcome_L0036007.jpg"
+ },
+ "bencao-gangmu": {
+  "commons": "File:First edition of Bencao Gangmu; Chinese, 1590 Wellcome L0039328.jpg",
+  "src": "/img/bencao-gangmu.webp",
+  "width": 1000,
+  "height": 1500,
+  "credit": "(hi-res image) Gallery: https://wellcomeimages.org/indexplus/image/L0039328.html Wellcome Collection…",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:First_edition_of_Bencao_Gangmu;_Chinese,_1590_Wellcome_L0039328.jpg"
+ },
+ "kaitai-shinsho": {
+  "commons": "File:First Japanese treatise on Western anatomy.jpg",
+  "src": "/img/kaitai-shinsho.webp",
+  "width": 1200,
+  "height": 756,
+  "credit": "The original uploader was PHG at English Wikipedia .",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:First_Japanese_treatise_on_Western_anatomy.jpg"
+ },
+ "hanaoka-seishu": {
+  "commons": "File:Image from \"Surgical Casebook\" by Hanaoka Seishu.jpg",
+  "src": "/img/hanaoka-seishu.webp",
+  "width": 1043,
+  "height": 1500,
+  "credit": "Hanaoka Seishu",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Image_from_%22Surgical_Casebook%22_by_Hanaoka_Seishu.jpg"
+ },
+ "artemisinin": {
+  "commons": "File:Artemisia annua.jpeg",
+  "src": "/img/artemisinin.webp",
+  "width": 1125,
+  "height": 1500,
+  "credit": "Kristian Peters -- Fabelfroh 11:39, 16 September 2007 (UTC)",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+  "page": "https://commons.wikimedia.org/wiki/File:Artemisia_annua.jpeg"
+ },
+ "andean-trepanation": {
+  "commons": "File:The crude method of trephining (sic) with the sharpened edge of a stone practiced by peoples living in Peru some 500 or 600 years ago is revealed by the skulls at the National Museum LCCN95519350.jpg",
+  "src": "/img/andean-trepanation.webp",
+  "width": 1200,
+  "height": 948,
+  "credit": "National Photo Company Collection",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:The_crude_method_of_trephining_(sic)_with_the_sharpened_edge_of_a_stone_practiced_by_peoples_living_in_Peru_some_500_or_600_years_ago_is_revealed_by_the_skulls_at_the_National_Museum_LCCN95519350.jpg"
+ },
+ "aztec-medicine": {
+  "commons": "File:Badianus.jpg",
+  "src": "/img/aztec-medicine.webp",
+  "width": 443,
+  "height": 568,
+  "credit": "see above",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Badianus.jpg"
+ },
+ "columbian-exchange-epidemics": {
+  "commons": "File:FlorentineCodex BK12 F54 smallpox.jpg",
+  "src": "/img/columbian-exchange-epidemics.webp",
+  "width": 640,
+  "height": 494,
+  "credit": "en:Bernardino de Sahagún (1499-1590), compiler. Original illustration by unknown 16th-century artist; this…",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:FlorentineCodex_BK12_F54_smallpox.jpg"
+ },
+ "cinchona": {
+  "commons": "File:Cinchona calisaya - Köhler–s Medizinal-Pflanzen-179.jpg",
+  "src": "/img/cinchona.webp",
+  "width": 642,
+  "height": 900,
+  "credit": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Cinchona_calisaya_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-179.jpg"
+ },
+ "salerno": {
+  "commons": "File:ScuolaMedicaMiniatura.jpg",
+  "src": "/img/salerno.webp",
+  "width": 1200,
+  "height": 1059,
+  "credit": "fol. 317 v",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:ScuolaMedicaMiniatura.jpg"
+ },
+ "black-death": {
+  "commons": "File:Burying Plague Victims of Tournai.jpg",
+  "src": "/img/black-death.webp",
+  "width": 400,
+  "height": 418,
+  "credit": "Unknown author Unknown author",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Burying_Plague_Victims_of_Tournai.jpg"
+ },
+ "paracelsus": {
+  "commons": "File:Paracelsus.jpg",
+  "src": "/img/paracelsus.webp",
+  "width": 1125,
+  "height": 1500,
+  "credit": "After Quinten Metsys",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Paracelsus.jpg"
+ },
+ "vesalius": {
+  "commons": "File:Vesalius Fabrica fronticepiece.jpg",
+  "src": "/img/vesalius.webp",
+  "width": 1058,
+  "height": 1500,
+  "credit": "Wikimedia Commons contributor",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Vesalius_Fabrica_fronticepiece.jpg"
+ },
+ "harvey": {
+  "commons": "File:W. Harvey; Exercitatio anatomica...; valves in forearm. Wellcome L0019695.jpg",
+  "src": "/img/harvey.webp",
+  "width": 1200,
+  "height": 908,
+  "credit": "Gallery: https://wellcomeimages.org/indexplus/image/L0019695.html Wellcome Collection gallery…",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:W._Harvey;_Exercitatio_anatomica...;_valves_in_forearm._Wellcome_L0019695.jpg"
+ },
+ "graunt": {
+  "commons": "File:GRAUNT, John. (1620-1674). Natural and political observations.png",
+  "src": "/img/graunt.webp",
+  "width": 1200,
+  "height": 790,
+  "credit": "John Graunt",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:GRAUNT,_John._(1620-1674)._Natural_and_political_observations.png"
+ },
+ "willis": {
+  "commons": "File:T. Willis, Cerebri anatome ; cui accessit n Wellcome L0032335.jpg",
+  "src": "/img/willis.webp",
+  "width": 1200,
+  "height": 1424,
+  "credit": "Gallery: https://wellcomeimages.org/indexplus/image/L0032335.html Wellcome Collection gallery…",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:T._Willis,_Cerebri_anatome_;_cui_accessit_n_Wellcome_L0032335.jpg"
+ },
+ "microscope": {
+  "commons": "File:Hooke-microscope.png",
+  "src": "/img/microscope.webp",
+  "width": 625,
+  "height": 693,
+  "credit": "Robert Hooke",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Hooke-microscope.png"
+ },
+ "royal-touch": {
+  "commons": "File:Charles II touching the scrofulous (crop).jpeg",
+  "src": "/img/royal-touch.webp",
+  "width": 640,
+  "height": 408,
+  "credit": "R. White",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Charles_II_touching_the_scrofulous_(crop).jpeg"
+ },
+ "montagu-variolation": {
+  "commons": "File:Lady Mary Wortley Montagu with her son, Edward Wortley Montagu, and attendants by Jean Baptiste Vanmour.jpg",
+  "src": "/img/montagu-variolation.webp",
+  "width": 1200,
+  "height": 910,
+  "credit": "Jean Baptiste Vanmour",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Lady_Mary_Wortley_Montagu_with_her_son,_Edward_Wortley_Montagu,_and_attendants_by_Jean_Baptiste_Vanmour.jpg"
+ },
+ "lind-scurvy": {
+  "commons": "File:J. Lind; A treatise of the scurvy. Wellcome L0019183.jpg",
+  "src": "/img/lind-scurvy.webp",
+  "width": 1013,
+  "height": 1500,
+  "credit": "Gallery: https://wellcomeimages.org/indexplus/image/L0019183.html Wellcome Collection gallery…",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:J._Lind;_A_treatise_of_the_scurvy._Wellcome_L0019183.jpg"
+ },
+ "morgagni": {
+  "commons": "File:G. B. Morgagni, \"De sedibus...\", 1761; title page Wellcome L0000576.jpg",
+  "src": "/img/morgagni.webp",
+  "width": 1200,
+  "height": 978,
+  "credit": "Gallery: https://wellcomeimages.org/indexplus/image/L0000576.html",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:G._B._Morgagni,_%22De_sedibus...%22,_1761;_title_page_Wellcome_L0000576.jpg"
+ },
+ "franklin-commission": {
+  "commons": "File:\"Le Baquet de Mesmer\" Wellcome M0006352.jpg",
+  "src": "/img/franklin-commission.webp",
+  "width": 1200,
+  "height": 1421,
+  "credit": "Franz Anton Mesmer",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:%22Le_Baquet_de_Mesmer%22_Wellcome_M0006352.jpg"
+ },
+ "pinel-moral-treatment": {
+  "commons": "File:Pinel freeing the insane from their chains Wellcome L0071529.jpg",
+  "src": "/img/pinel-moral-treatment.webp",
+  "width": 1200,
+  "height": 843,
+  "credit": "Tony Robert-Fleury",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Pinel_freeing_the_insane_from_their_chains_Wellcome_L0071529.jpg"
+ },
+ "jenner": {
+  "commons": "File:Edward Jenner. Line engraving after J. R. Smith, 1800. Wellcome V0003071.jpg",
+  "src": "/img/jenner.webp",
+  "width": 1063,
+  "height": 1500,
+  "credit": "Gallery: https://wellcomeimages.org/indexplus/image/V0003071.html Wellcome Collection gallery…",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Edward_Jenner._Line_engraving_after_J._R._Smith,_1800._Wellcome_V0003071.jpg"
+ }
+}

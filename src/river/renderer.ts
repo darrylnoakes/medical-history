@@ -295,7 +295,10 @@ function drawIdeas(ctx: CanvasRenderingContext2D, s: DrawState) {
     ip.screen = [];
     const active = s.hoverIdea === ip.idea.id || s.selectedIdea === ip.idea.id;
     const someActive = !!(s.hoverIdea || s.selectedIdea);
-    const baseA = active ? 0.95 : someActive ? 0.22 : 0.5;
+    // at the overview the currents are a faint texture; they come forward as you zoom in
+    const near = clamp((cam.zoom - 1.3) / 2.2, 0, 1);
+    const baseA = active ? 0.95 : someActive ? 0.16 : 0.26 + 0.26 * near;
+    const showLabels = active || (near > 0.55 && !someActive);
     ctx.save();
     ctx.lineCap = 'round';
     ctx.lineJoin = 'round';
@@ -316,6 +319,8 @@ function drawIdeas(ctx: CanvasRenderingContext2D, s: DrawState) {
           const cA = cam.cPx(cf.geom.center(cf.u) + cf.lane * cf.geom.width(cf.u));
           const cB = cam.cPx(seg.geom.center(seg.u0) + seg.lane * seg.geom.width(seg.u0));
           ctx.setLineDash([2, 4]);
+          ctx.save();
+          if (!active) ctx.globalAlpha *= 0.45;
           ctx.beginPath();
           for (let i = 0; i <= 16; i++) {
             const q = i / 16;
@@ -324,6 +329,7 @@ function drawIdeas(ctx: CanvasRenderingContext2D, s: DrawState) {
             ip.screen.push({ x, y });
           }
           ctx.stroke();
+          ctx.restore();
           ip.screen.push({ x: NaN, y: NaN });
         }
       }
@@ -371,7 +377,7 @@ function drawIdeas(ctx: CanvasRenderingContext2D, s: DrawState) {
       // label: at the segment start, or pinned to the leading edge of the view when the start is off-screen
       const startPx = cam.tPx(seg.u0), endPx = cam.tPx(seg.u1);
       const pin = cam.vertical ? 96 : 14;
-      if (endPx - Math.max(startPx, pin) > 110 && (!labelled || startPx > pin)) {
+      if (showLabels && endPx - Math.max(startPx, pin) > 110 && (!labelled || startPx > pin)) {
         const tpx = Math.max(startPx + 8, pin);
         const u = cam.uAt(tpx);
         const [x, y] = lineAt(clamp(u, seg.u0, seg.u1));
@@ -379,7 +385,7 @@ function drawIdeas(ctx: CanvasRenderingContext2D, s: DrawState) {
         ctx.textBaseline = 'bottom';
         ctx.setLineDash([]);
         const [ox, oy] = cam.vertical ? [5, -4] : [0, -3.5];
-        haloText(ctx, ip.idea.name, x + ox, y + oy, rgba('#2a2420', (active ? 1 : someActive ? 0.3 : 0.72) * fade), 'rgba(244,238,222,0.82)', 2.6);
+        haloText(ctx, ip.idea.name, x + ox, y + oy, rgba('#2a2420', (active ? 1 : 0.72 * near) * fade), `rgba(244,238,222,${active ? 0.85 : 0.8 * near})`, 2.6);
         labelled = true;
       }
     });

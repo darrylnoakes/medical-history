@@ -200,7 +200,11 @@ function FlowView({ flow }: { flow: Transmission }) {
 export function Panel() {
   const sel = selection.value;
   const ref = useRef<HTMLElement>(null);
-  useEffect(() => { ref.current?.scrollTo(0, 0); }, [sel?.kind, sel?.id]);
+  useEffect(() => {
+    ref.current?.scrollTo(0, 0);
+    // move keyboard focus into the panel so screen-reader and keyboard users land on the text
+    if (sel && document.activeElement?.closest('.river-nodes, .search, .tour, .link-list, .stream-nav')) ref.current?.focus({ preventScroll: true });
+  }, [sel?.kind, sel?.id]);
   if (!sel) return null;
   const entry = sel.kind === 'entry' ? entryById.value.get(sel.id) : null;
   const idea = sel.kind === 'idea' ? ideaById.value.get(sel.id) : null;

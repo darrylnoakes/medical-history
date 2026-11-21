@@ -154,5 +154,542 @@
       }
     ],
     "further": []
+  },
+  {
+    "id": "monastic-medicine",
+    "title": "Medicine in the monastery",
+    "stream": "europe",
+    "tier": 3,
+    "date": {
+      "year": 530,
+      "earliest": 500,
+      "latest": 560,
+      "display": "6th century (Rule of Benedict; Cassiodorus, c. 543–555)"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "firm",
+      "note": "The texts of Benedict's Rule and Cassiodorus's Institutions survive and say exactly what is quoted. Their dates are less firm: Benedict's life is known mainly from a single later biography, and the Institutions are dated only to a range of years."
+    },
+    "place": "Monte Cassino and Vivarium (Squillace), Italy",
+    "people": [
+      "Benedict of Nursia (c. 480–543), author of the Rule",
+      "Cassiodorus (born c. 490), founder of Vivarium"
+    ],
+    "themes": [
+      "practice",
+      "institutions",
+      "texts"
+    ],
+    "summary": "\"Before all things, care must be taken of the sick\": how sixth-century monks made nursing a duty and kept Greek medical books in circulation.",
+    "body": [
+      "The Rule written by Benedict of Nursia, who died at Monte Cassino in 543, gave the sick a chapter of their own: \"Before all things and above all things, care must be taken of the sick.\" Sick monks got a separate room, a dedicated attendant, baths and meat. Cassiodorus, whose monastery of Vivarium imitated Benedict's, went further. His *Institutions*, written between 543 and 555, told monks who nursed the sick to learn the properties of herbs and read Dioscorides, Hippocrates and Galen in Latin, but not to put their hope in medicines. Five centuries later Monte Cassino would become a center of medical translation."
+    ],
+    "links": [
+      {
+        "to": "medieval-hospitals",
+        "kind": "led-to",
+        "note": "Monastic care of the sick shaped the later religious hospital."
+      },
+      {
+        "to": "arabic-into-latin",
+        "kind": "led-to",
+        "note": "Monte Cassino became the base of Constantine the African's translations."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Rule of Benedict, chapter 36: On the Sick",
+        "author": "Benedict of Nursia, trans. Leonard J. Doyle",
+        "publisher": "Order of Saint Benedict",
+        "url": "https://archive.osb.org/rb/text/rbemjo1.html",
+        "type": "primary",
+        "supports": "The Rule's chapter on the sick: priority of care, separate room and attendant, baths and meat.",
+        "quote": "Before all things and above all things, care must be taken of the sick, so that they will be served as if they were Christ in person"
+      },
+      {
+        "title": "Cassiodorus, Institutiones, Book I, ch. 31: Doctors",
+        "author": "Cassiodorus, trans. James W. and Barbara Halporn",
+        "publisher": "Georgetown University (James J. O'Donnell)",
+        "url": "https://faculty.georgetown.edu/jod/inst-trans.html",
+        "type": "primary",
+        "supports": "Cassiodorus's instructions to monks who care for the sick, and the books he recommends.",
+        "quote": "Even if you do not have eloquent knowledge of Greek literature, you have first the Herbal of Dioscorides who discusses and sketches accurately the herbs of the fields"
+      },
+      {
+        "title": "Cassiodorus",
+        "publisher": "Catholic Encyclopedia (1908), New Advent",
+        "url": "https://www.newadvent.org/cathen/03405c.htm",
+        "type": "reference",
+        "supports": "Vivarium modeled on Monte Cassino; date of the Institutions.",
+        "quote": "it was undoubtedly in imitation of Benedict's institution that Cassiodorus erected the monastery of Vivarium on his own estate"
+      },
+      {
+        "title": "St. Benedict of Nursia",
+        "publisher": "Catholic Encyclopedia (1907), New Advent",
+        "url": "https://www.newadvent.org/cathen/02467b.htm",
+        "type": "reference",
+        "supports": "Benedict's dates and the thinness of the biographical evidence.",
+        "quote": "Founder of western monasticism , born at Nursia, c. 480; died at Monte Cassino , 543. The only authentic life of Benedict of Nursia is that contained in the second book of St. Gregory's"
+      }
+    ],
+    "further": [
+      "porter-1997",
+      "siraisi-1990"
+    ]
+  },
+  {
+    "id": "salerno",
+    "title": "The school of Salerno",
+    "stream": "europe",
+    "tier": 2,
+    "date": {
+      "year": 1050,
+      "earliest": 950,
+      "latest": 1100,
+      "end": 1200,
+      "display": "10th–12th centuries"
+    },
+    "confidence": {
+      "date": "uncertain",
+      "claim": "agreed",
+      "note": "Salerno's physicians are praised from the 10th century, but the early school left few records and its origins are obscure. What is known of Trota and the *Trotula* comes from close study of the manuscripts, which has overturned a long-repeated legend."
+    },
+    "place": "Salerno, southern Italy",
+    "people": [
+      "Alfanus, archbishop of Salerno (d. 1085), patron of Constantine the African",
+      "Trota of Salerno (early 12th century), healer and medical writer"
+    ],
+    "themes": [
+      "institutions",
+      "texts",
+      "practice"
+    ],
+    "summary": "A town on Italy's Tyrrhenian coast became Latin Europe's most famous home of medicine, and of a woman healer later garbled into the legend of \"Trotula\".",
+    "body": [
+      "Salerno, on the Tyrrhenian coast of southern Italy, was famous for its physicians by the 10th century, though records of the early school are very poor. It was not a religious foundation and not a university, since none yet existed. In the 11th and 12th centuries it became the most celebrated center of medical learning in Latin Europe, fed by new texts: Alfanus, archbishop of Salerno (died 1085), was a patron of the translator Constantine the African.",
+      "Salerno also had women healers, mentioned more than five dozen times in 12th- and early 13th-century sources. One, Trota, who lived in the early decades of the 12th century, wrote a *Practica* of cures and is credited with a treatise on treating women. Late in that century the treatise and two anonymous texts were bundled as the *Trotula*, a title later mistaken for a woman's name. The verse health guide *Regimen sanitatis Salernitanum* carried the town's name across Europe in more than 300 editions."
+    ],
+    "myth": {
+      "tradition": "\"Trotula\" was an 11th-century woman physician and professor at the medical school of Salerno, often said to be the wife of the physician Johannes Platearius.",
+      "record": "No woman called Trotula is documented; the name is the title of a set of three 12th-century texts. The real healer Trota lived in the early 12th century, nothing is known of her family, and there was no university chair to hold."
+    },
+    "links": [
+      {
+        "to": "arabic-into-latin",
+        "kind": "built-on",
+        "note": "Salernitan teaching absorbed Constantine the African's translations."
+      },
+      {
+        "to": "universities-medicine",
+        "kind": "led-to",
+        "note": "University faculties of medicine took over Salerno's role."
+      },
+      {
+        "to": "monastic-medicine",
+        "kind": "see-also",
+        "note": "Unlike the monasteries, Salerno was a lay center of medicine."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Salernitan Medical School or Langobardic Medical School?",
+        "publisher": "Acta Biomedica",
+        "year": 2021,
+        "url": "https://doi.org/10.23750/abm.v92i2.9109",
+        "type": "scholarly",
+        "supports": "Salernitan physicians' reputation from the 10th century; poor early records; editions of the Regimen sanitatis.",
+        "quote": "Information on the earliest period of the School is very poor but, starting from the 10th century, we know that Salernitan physicians were widely recognized as researchers and healers"
+      },
+      {
+        "title": "Who/What is \"Trotula\"?",
+        "author": "Monica H. Green",
+        "publisher": "CELT, University College Cork",
+        "year": 2008,
+        "url": "https://www.ucc.ie/celt/whowhat2008.pdf",
+        "type": "scholarly",
+        "supports": "No historical Trotula; Trota's date and works; the women of Salerno; no university.",
+        "quote": "There was no historical woman named “Trotula.” Rather, there were numerous women in 12thcentury Salerno with the name Trota"
+      },
+      {
+        "title": "Who/What is \"Trotula\"?",
+        "author": "Monica H. Green",
+        "publisher": "CELT, University College Cork",
+        "year": 2008,
+        "url": "https://www.ucc.ie/celt/whowhat2008.pdf",
+        "type": "scholarly",
+        "supports": "More than five dozen references to the women healers of Salerno.",
+        "quote": "We have over five dozen references in 12th- and early 13th-century sources to “the women of Salerno” (mulieres Salernitane) as medical practitioners"
+      },
+      {
+        "title": "The Trotula ensemble of manuscripts",
+        "publisher": "CELT, University College Cork",
+        "url": "https://www.ucc.ie/celt/trotula.html",
+        "type": "institutional",
+        "supports": "The Trotula ensemble assembled in the late 12th century.",
+        "quote": "The Trotula ensemble proper was probably first created in the late 12th century, for we find manuscripts of it from the turn of the century"
+      },
+      {
+        "title": "Constantinus redivivus: Reclaiming a Forgotten Cultural Translator",
+        "author": "Monica H. Green et al.",
+        "publisher": "Constantinus Africanus (research blog)",
+        "year": 2018,
+        "url": "https://constantinusafricanus.com/2018/12/22/constantinus-redivivus-reclaiming-a-forgotten-cultural-translator/",
+        "type": "scholarly",
+        "supports": "Alfanus, archbishop of Salerno (d. 1085), as Constantine's patron.",
+        "quote": "It was because his patron Alfanus, archbishop of Salerno (d. 1085), had complained about his stomach ailments"
+      },
+      {
+        "title": "Medicine, History of",
+        "publisher": "Catholic Encyclopedia (1911), New Advent",
+        "url": "https://www.newadvent.org/cathen/10122a.htm",
+        "type": "reference",
+        "supports": "Location of Salerno; that the school was not a religious foundation; the traditional Trotula story (wife of Platearius) used in the myth field.",
+        "quote": "Salerno on the Tyrrhenian Sea, originally probably a Doric colony, was from the sixth to the eleventh century under the rule of the Lombards"
+      }
+    ],
+    "further": [
+      "siraisi-1990",
+      "porter-1997"
+    ],
+    "image": {
+      "commons": "File:ScuolaMedicaMiniatura.jpg",
+      "alt": "Medieval miniature of a wounded nobleman in bed attended by physicians and a woman.",
+      "caption": "The physicians of Salerno as pictured in a later medieval manuscript of Avicenna's Canon (Bologna, Biblioteca Universitaria, MS 2197). The scene illustrates a legend about Duke Robert of Normandy, wounded by an arrow."
+    }
+  },
+  {
+    "id": "arabic-into-latin",
+    "title": "Arabic medicine into Latin",
+    "stream": "europe",
+    "tier": 1,
+    "date": {
+      "year": 1085,
+      "earliest": 1076,
+      "latest": 1187,
+      "end": 1187,
+      "display": "c. 1076–1187"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "agreed",
+      "note": "Constantine's arrival (c. 1076) and death (before 1098/99) rest on monastic records and admiring biographies, and which texts he translated is still being worked out. Gerard of Cremona's death in 1187 is secure, but counts of his translations vary from 68 to about 80, and his authorship of particular versions is attributed rather than signed."
+    },
+    "place": "Monte Cassino, Italy, and Toledo, Castile",
+    "people": [
+      "Constantine the African (d. before 1099), translator and monk of Monte Cassino",
+      "Gerard of Cremona (1114–1187), translator at Toledo",
+      "Stephen of Antioch (fl. 1120s), rival translator"
+    ],
+    "themes": [
+      "texts",
+      "theory",
+      "institutions"
+    ],
+    "summary": "A Tunisian emigrant monk and an Italian scholar in Toledo turned Arabic medicine into Latin, giving Europe the textbooks it used for 400 years.",
+    "body": [
+      "Around 1076 an Arabic-speaking emigrant from Ifriqiya, roughly modern Tunisia, arrived at the Benedictine abbey of Monte Cassino in southern Italy. Constantine the African, as he signed himself, became a monk there, and before his death, sometime before 1098 or 1099, he became the first person known to render a major body of Arabic medical writing into Latin. His largest project, the *Pantegni*, was a version of al-Majusi's *Complete Book of the Medical Art*; among his patrons was Alfanus, archbishop of Salerno.",
+      "As far as scholars can tell, Constantine knew only Arabic and Latin, and needed an editor to polish his Latin. Unlike later translators, he tended to disguise the Arabic origins of his texts, and in the 1120s Stephen of Antioch, who re-translated al-Majusi, accused him of plagiarism. Yet a bundle of short texts assembled at Monte Cassino, including Hunayn ibn Ishaq's *Isagoge*, an introduction to Galenic medicine, became the core of medical teaching across Europe for some 400 years.",
+      "A second, larger wave came from Spain. Toledo, taken by Alfonso VI of Castile in 1085, offered Arabic manuscripts and an archbishop willing to sponsor translation, and in the second half of the 12th century it became the center of the work. Gerard of Cremona had come to learn Arabic and was there by 1144; by his death in 1187 he had translated somewhere between 68 and about 80 works. Through him Latin readers met most of the major Arabic medical writings, including those of al-Razi and Avicenna, whose *Canon of Medicine* in Latin became the basis of university medical teaching until the 17th century.",
+      "This was not simply the recovery of lost Greek learning. Much of what arrived was Arabic synthesis and commentary, and Greek authors often reached Latin through Arabic versions. After about 1300 translation from Arabic almost stopped, resuming only after 1480."
+    ],
+    "myth": {
+      "tradition": "Constantine was a learned physician who spent years traveling through the East before teaching at Salerno, and the books under his name were his own original works.",
+      "record": "The travel stories come from his monastery's admiring biographers, whose praise modern scholars call over-the-top; another early account calls him a merchant. His major books were translations from Arabic whose authors he often left unnamed."
+    },
+    "links": [
+      {
+        "to": "translation-movement",
+        "kind": "built-on",
+        "note": "Greek medicine reached Latin largely through Baghdad's Arabic versions."
+      },
+      {
+        "to": "ibn-sina-canon",
+        "kind": "built-on",
+        "note": "The Canon became a Latin university textbook."
+      },
+      {
+        "to": "salerno",
+        "kind": "see-also",
+        "note": "Constantine's translations fed Salernitan teaching."
+      },
+      {
+        "to": "universities-medicine",
+        "kind": "led-to",
+        "note": "The new texts became the university curriculum."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Ego Constantinus Africanus, Montis Cassinensis Monacus",
+        "author": "Monica H. Green et al.",
+        "publisher": "Constantinus Africanus (research blog)",
+        "year": 2017,
+        "url": "https://constantinusafricanus.com/2017/12/22/ego-constantinus-africanus-montis-cassinensis-monacus/",
+        "type": "scholarly",
+        "supports": "Constantine's origin in Ifriqiya (Tunisia) and his death before 1098/99.",
+        "quote": "All evidence suggests that he did indeed come from “Africa,” which here means the North African territory of “Ifriqiyah,” and Constantine appears to have come from the territory of modern Tunisia in particular"
+      },
+      {
+        "title": "Once settled in this monastery he translated a great number of books: the Constantinian corpus",
+        "author": "Monica H. Green et al.",
+        "publisher": "Constantinus Africanus (research blog)",
+        "year": 2018,
+        "url": "https://constantinusafricanus.com/2018/02/22/once-settled-in-this-monastery-he-translated-a-great-number-of-books-from-the-languages-of-diverse-peoples-the-constantinian-corpus/",
+        "type": "scholarly",
+        "supports": "Arrival at Monte Cassino c. 1076; his two languages; the Isagoge and the curriculum assembled at Monte Cassino.",
+        "quote": "This basic Latin medical teaching curriculum, which would go on to form the foundation of medical teaching all across Europe for the next 400 years, was, we know now, assembled at Monte Cassino"
+      },
+      {
+        "title": "Constantinus redivivus: Reclaiming a Forgotten Cultural Translator",
+        "author": "Monica H. Green et al.",
+        "publisher": "Constantinus Africanus (research blog)",
+        "year": 2018,
+        "url": "https://constantinusafricanus.com/2018/12/22/constantinus-redivivus-reclaiming-a-forgotten-cultural-translator/",
+        "type": "scholarly",
+        "supports": "The Pantegni as a version of al-Majusi; Stephen of Antioch's re-translation and plagiarism charge; the biographers' exaggeration and the merchant account.",
+        "quote": "which Constantine would render as the Pantegni (The Complete Art) and which Stephen would call the Liber regalis (The Royal Book)"
+      },
+      {
+        "title": "Influence of Arabic and Islamic Philosophy on the Latin West",
+        "publisher": "Stanford Encyclopedia of Philosophy",
+        "url": "https://plato.stanford.edu/entries/arabic-islamic-influence/",
+        "type": "reference",
+        "supports": "Constantine disguising Arabic origins; Toledo and Gerard in the later 12th century; conditions in Toledo; translation ceasing after 1300.",
+        "quote": "most of them by the translator Constantine the African, who, in contrast to later translators, tried to disguise the Arabic origin of his texts"
+      },
+      {
+        "title": "Influence of Arabic and Islamic Philosophy on the Latin West",
+        "publisher": "Stanford Encyclopedia of Philosophy",
+        "url": "https://plato.stanford.edu/entries/arabic-islamic-influence/",
+        "type": "reference",
+        "supports": "Toledo as the center in the second half of the 12th century; Gerard of Cremona.",
+        "quote": "assumed full pace in Toledo in the second half of the twelfth century, where two very prolific translators worked: Gerard of Cremona and Dominicus Gundisalvi"
+      },
+      {
+        "title": "Islamic Medical Manuscripts at the National Library of Medicine: Biographies (G)",
+        "publisher": "U.S. National Library of Medicine",
+        "url": "https://www.nlm.nih.gov/hmd/arabic/bioG.html",
+        "type": "institutional",
+        "supports": "Gerard's death in 1187, his 68 translations and his role in transmitting Arabic medicine.",
+        "quote": "He was a most prolific translator, with 68 works to his credit, and it is through Gerard's translations that medieval Europe came to know most of the medieval Arabic medical writings"
+      },
+      {
+        "title": "Gherard of Cremona",
+        "author": "J. J. O'Connor and E. F. Robertson",
+        "publisher": "MacTutor History of Mathematics, University of St Andrews",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Gherard/",
+        "type": "scholarly",
+        "supports": "Gerard in Toledo by 1144; about 80 translations; Arabic commentaries on Greek works.",
+        "quote": "Although we do not have detailed information of the date when Gherard went to Spain, he was certainly there by 1144"
+      },
+      {
+        "title": "Medicine, History of",
+        "publisher": "Catholic Encyclopedia (1911), New Advent",
+        "url": "https://www.newadvent.org/cathen/10122a.htm",
+        "type": "reference",
+        "supports": "Fall of Toledo in 1085; Gerard as translator of al-Razi and Avicenna.",
+        "quote": "Its focus was the city of Toledo, which was taken from the Moors in 1085 by Alfonso VI of Castile and Leon"
+      },
+      {
+        "title": "Ibn Sina [Avicenna]",
+        "publisher": "Stanford Encyclopedia of Philosophy",
+        "url": "https://plato.stanford.edu/entries/ibn-sina/",
+        "type": "reference",
+        "supports": "The Latin Canon as the basis of university teaching until the 17th century.",
+        "quote": "just as the Latin translation of his medical Canon (GMed 1), often revised, formed the basis of medical instruction in European universities until the 17 th century"
+      },
+      {
+        "title": "Constantine Africanus",
+        "publisher": "Catholic Encyclopedia (1908), New Advent",
+        "url": "https://www.newadvent.org/cathen/04295b.htm",
+        "type": "reference",
+        "supports": "The traditional travel story used in the myth field.",
+        "quote": "as was the custom of the times made distant journeys, some of which brought him into the Far East"
+      }
+    ],
+    "further": [
+      "pormann-savage-smith-2007",
+      "siraisi-1990"
+    ],
+    "image": {
+      "commons": "File:Avicenna Canon book 1 Strasbourg ante 1473 f 1r.jpg",
+      "alt": "First page of a printed Latin book with a large hand-painted initial and decorated border.",
+      "caption": "Opening page of Book 1 of Avicenna's Canon in Latin, printed at Strasbourg before 1473, with decoration added by hand. The Latin Canon was taught in European universities into the 17th century."
+    }
+  },
+  {
+    "id": "hildegard",
+    "title": "Hildegard of Bingen's medicine",
+    "stream": "europe",
+    "tier": 3,
+    "date": {
+      "year": 1155,
+      "earliest": 1150,
+      "latest": 1158,
+      "display": "c. 1150–1158"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "agreed",
+      "note": "Both works are dated to 1150–1158 by the abbey that preserves her legacy, but no copy in Hildegard's own hand survives. Scholars debate how much of *Causae et curae* she wrote: its modern editor argues that its most astrological parts came from others in her circle."
+    },
+    "place": "Rupertsberg, near Bingen on the Rhine",
+    "people": [
+      "Hildegard of Bingen (1098–1179), Benedictine abbess, visionary and writer",
+      "Laurence Moulinier, modern editor of *Causae et curae*"
+    ],
+    "themes": [
+      "drugs",
+      "texts",
+      "theory"
+    ],
+    "summary": "A Rhineland abbess wrote two books on the healing powers of nature and the causes of disease. How much of one of them she actually wrote is still argued over.",
+    "body": [
+      "Hildegard of Bingen (1098–1179), the Benedictine visionary who founded her own convent at Rupertsberg in 1150, is credited with two medical works dated to 1150–1158. *Physica* describes the powers of nature on the healthy and the sick in nine books: plants, elements, trees, gems, fish, birds, land animals, reptiles and metals. *Causae et curae* sets out the causes and symptoms of diseases and their natural remedies. Laurence Moulinier, editor of *Causae et curae*, has argued that its most blatant astrological material was not written by Hildegard herself. For long stretches afterward, few readers paid her medical writings much attention."
+    ],
+    "links": [
+      {
+        "to": "monastic-medicine",
+        "kind": "built-on",
+        "note": "Her healing writing grew out of Benedictine monastic care."
+      },
+      {
+        "to": "salerno",
+        "kind": "see-also",
+        "note": "A contemporary center of medical writing, in a lay setting."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Die Hauptwerke der heiligen Hildegard",
+        "publisher": "Benediktinerinnenabtei St. Hildegard, Eibingen",
+        "url": "https://abtei-st-hildegard.de/hauptwerke-hildegards-im-ueberblick/",
+        "type": "institutional",
+        "supports": "Dates of Physica and Causae et curae (1150–1158) and their contents.",
+        "quote": "In diesem Werk werden die Kräfte der Natur und ihre Wirkung auf den gesunden und den kranken Menschen in neun Kapiteln beschrieben: Kräuter, Elemente, Bäume, Edelsteine, Fische,Vögel, Landtiere, Kriechtiere und Metalle"
+      },
+      {
+        "title": "Hildegard von Bingen: Nonne, Prophetin, Kirchenlehrerin",
+        "publisher": "Benediktinerinnenabtei St. Hildegard, Eibingen",
+        "url": "https://abtei-st-hildegard.de/hildegard-von-bingen-nonne-prophetin-kirchenlehrerin/",
+        "type": "institutional",
+        "supports": "Hildegard's life dates.",
+        "quote": "Die mittelalterliche Benediktinerin, Mystikerin und Universalgelehrte Hildegard von Bingen (1098-1179) ist eine der faszinierendsten Frauengestalten des Christentums"
+      },
+      {
+        "title": "Academic Sources",
+        "publisher": "International Society of Hildegard von Bingen Studies",
+        "url": "http://www.hildegard-society.org/p/academic-sources.html",
+        "type": "scholarly",
+        "supports": "Moulinier's hypothesis on the authorship of parts of Causae et curae.",
+        "quote": "Laurence Moulinier , who has ventured the hypothesis that the most blatant astrological material in Books 5 and 6 was not authored directly by Hildegard, though was known to her and used in her monastery"
+      },
+      {
+        "title": "Frequently Asked Questions about Hildegard",
+        "author": "Xenia Sandstrom-McGuire",
+        "publisher": "International Society of Hildegard von Bingen Studies",
+        "url": "http://www.hildegard-society.org/p/faq.html",
+        "type": "scholarly",
+        "supports": "Founding of Rupertsberg in 1150; long neglect of her medical works.",
+        "quote": "Instead, there were long stretches of time where nobody paid much attention to them--or at least, not to the musical and medicinal works for which she is most famous today"
+      }
+    ],
+    "further": [
+      "porter-1997"
+    ]
+  },
+  {
+    "id": "medieval-hospitals",
+    "title": "The medieval hospital",
+    "stream": "europe",
+    "tier": 3,
+    "date": {
+      "year": 1123,
+      "earliest": 1123,
+      "latest": 1288,
+      "end": 1288,
+      "display": "1123 (St Bartholomew's); 1288 (Santa Maria Nuova)"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "agreed",
+      "note": "St Bartholomew's traditional founding year is 1123; its earliest royal charter dates from 1133. Santa Maria Nuova's foundation is given as 1288 by the hospital's foundation and as 1285 in older reference works."
+    },
+    "place": "London and Florence",
+    "people": [
+      "Rahere, founder of St Bartholomew's priory and hospital",
+      "Folco Portinari, founder of Santa Maria Nuova"
+    ],
+    "themes": [
+      "institutions",
+      "practice"
+    ],
+    "summary": "St Bartholomew's in London began in 1123 as a religious house offering the poor food and shelter. Nine centuries later it is still a hospital.",
+    "body": [
+      "Many medieval hospitals were religious communities that offered the poor shelter and food at least as much as medical treatment. St Bartholomew's in London, founded with its priory by Rahere and dated to 1123, is the oldest hospital in Britain still on its original site. Its first proctor begged food door to door and in the markets for the poor it sheltered, and in 1316 the bishop of London had to remind its brothers and sisters to look after the sick. In Florence, Folco Portinari founded Santa Maria Nuova in 1288; it claims to be the world's oldest hospital still working."
+    ],
+    "links": [
+      {
+        "to": "basileias",
+        "kind": "built-on",
+        "note": "An early Christian model of charitable care."
+      },
+      {
+        "to": "monastic-medicine",
+        "kind": "built-on",
+        "note": "Monastic duty to the sick."
+      },
+      {
+        "to": "bimaristans",
+        "kind": "see-also",
+        "note": "Islamic hospitals of the same centuries."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Hospitals: St Bartholomew",
+        "publisher": "British History Online (Victoria County History, London vol. 1)",
+        "url": "https://www.british-history.ac.uk/vch/london/vol1/pp520-525",
+        "type": "scholarly",
+        "supports": "Rahere's foundation; the charter of 1133; the begging proctor; the bishop's injunction of 1316 reminding the brethren to tend the sick.",
+        "quote": "devoted himself entirely to finding the means of subsistence for the poor it sheltered, a sufficiently hard task, seeing that he begged food from door to door and in the markets of the city"
+      },
+      {
+        "title": "St Bartholomew's Hospital",
+        "publisher": "Barts Health NHS Trust",
+        "url": "https://www.bartshealth.nhs.uk/st-bartholomews",
+        "type": "institutional",
+        "supports": "Founding date of 1123 and status as the UK's oldest hospital on its original site.",
+        "quote": "the UK’s oldest hospital still on its original site — founded in 1123 and still caring for Londoners today"
+      },
+      {
+        "title": "La Chiesa di Sant'Egidio",
+        "publisher": "Fondazione Santa Maria Nuova, Florence",
+        "url": "https://www.fondazionesantamarianuova.it/la-chiesa-di-santegidio/",
+        "type": "institutional",
+        "supports": "Foundation of Santa Maria Nuova by Folco Portinari in 1288.",
+        "quote": "solo pochi anni dopo dunque la fondazione di Santa Maria Nuova, avvenuta nel 1288 ad opera di Folco Portinari"
+      },
+      {
+        "title": "Scopri il museo di Santa Maria Nuova",
+        "publisher": "Fondazione Santa Maria Nuova, Florence",
+        "url": "https://www.fondazionesantamarianuova.it/scopri-il-museo-di-santa-maria-nuova/",
+        "type": "institutional",
+        "supports": "The hospital's claim to be the oldest still in operation.",
+        "quote": "Potrai ammirare i tesori artistici e architettonici del più antico ospedale al mondo ancora in attività"
+      },
+      {
+        "title": "Hospitals",
+        "publisher": "Catholic Encyclopedia (1910), New Advent",
+        "url": "https://www.newadvent.org/cathen/07480a.htm",
+        "type": "reference",
+        "supports": "The older 1285 date for Santa Maria Nuova; Rahere's foundation.",
+        "quote": "Santa Maria Nuova at Florence (1285) by Falco Portinari, the father of Dante's Beatrice"
+      }
+    ],
+    "further": [
+      "risse-1999"
+    ]
   }
 ]

@@ -1,0 +1,416 @@
+[
+  {
+    "id": "ether-anaesthesia",
+    "title": "Surgery without pain",
+    "stream": "bio-surgery",
+    "tier": 1,
+    "date": {
+      "year": 1846,
+      "display": "16 October 1846"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "The Boston operation is documented in hospital records and in Henry Bigelow's report of November 1846, and ether's rapid spread is well recorded. Who deserves credit was bitterly contested at the time and still is, and some of the most famous details, such as Warren's 'no humbug' remark, appear only in later, self-serving accounts."
+    },
+    "place": "Massachusetts General Hospital, Boston, USA",
+    "people": [
+      "William T. G. Morton, Boston dentist who gave the ether",
+      "John Collins Warren, surgeon who operated",
+      "Edward Gilbert Abbott (b. 1825), the patient",
+      "Crawford Williamson Long, Georgia physician who used ether from 1842",
+      "Horace Wells (1815–1848), dentist who tried nitrous oxide",
+      "James Young Simpson (1811–1870), Edinburgh obstetrician who introduced chloroform"
+    ],
+    "themes": [
+      "surgery",
+      "drugs",
+      "practice"
+    ],
+    "summary": "A Boston dentist held a globe of ether vapor to a young man's face while a surgeon cut into his neck, and within months operating rooms around the world fell quiet.",
+    "body": [
+      "On 16 October 1846, in the operating theater of Massachusetts General Hospital, a Boston dentist named William T. G. Morton held a glass globe of sulfuric ether vapor to the face of Edward Gilbert Abbott, a 21-year-old with a congenital mass under his jaw. The surgeon John Collins Warren then cut into his neck. Abbott did not cry out, though he moved and muttered, and afterwards said the pain had been \"considerable, though mitigated,\" as if his skin had been scratched with a hoe. Until then, operations had been done with little or no effective pain relief.",
+      "What made the day matter was publicity. Henry Bigelow reported four operations under ether on 18 November; on 3 December a steamer carried the news to Britain, and by the end of the month ether was being used there and in France. Within a year it had reached many countries, though it was not adopted everywhere at once, even in Boston, because early doctors also saw how dangerous it could be.",
+      "Morton was not the first. Crawford Long, a Georgia physician, had used ether in operations from 1842 but did not publish. Horace Wells, Morton's former partner, had a tooth pulled under nitrous oxide in December 1844, but his demonstration in Boston was jeered as a \"humbug affair\" when the patient cried out. The Harvard chemist Charles Jackson had advised Morton on ether. Morton patented the method in November 1846 and campaigned for decades to be named sole discoverer; in 1870 the American Medical Association gave the honor to Wells instead.",
+      "A rival agent came quickly. In Edinburgh on 4 November 1847, James Young Simpson and two assistants tried chloroform on themselves, and within 11 days he had published about 50 cases. It was easier to give than ether but could kill without warning: a 15-year-old, Hannah Greener, died under it in January 1848 during removal of a toenail. When John Snow gave chloroform to Queen Victoria at the births of Prince Leopold in 1853 and Princess Beatrice in 1857, it helped make pain relief in childbirth respectable, though doctors may already have been coming round."
+    ],
+    "myth": {
+      "tradition": "The operation was a flawless triumph, and Warren turned to the audience and declared, \"Gentlemen, this is no humbug.\"",
+      "record": "Abbott's hospital notes do not even mention ether, and the anesthesia was incomplete. The famous line first appears in Morton's promotional biography of 1859, published after Warren's death, and no earlier evidence supports it."
+    },
+    "links": [
+      {
+        "to": "hanaoka-seishu",
+        "kind": "built-on",
+        "note": "Forty years earlier, a Japanese surgeon operated under a herbal general anesthetic."
+      },
+      {
+        "to": "snow-cholera",
+        "kind": "see-also",
+        "note": "John Snow, the leading anesthetist in London, also tracked cholera to a water pump."
+      },
+      {
+        "to": "lister",
+        "kind": "led-to",
+        "note": "Painless surgery allowed longer operations, making wound infection the next great problem."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Ether Day Revisited: The Surgical Records of Edward Gilbert Abbott",
+        "author": "Paul G. Firth",
+        "publisher": "Annals of Surgery Open",
+        "year": 2022,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10431558/",
+        "type": "scholarly",
+        "supports": "Date, Morton, Warren, Abbott's age and lesion, incomplete anesthesia and Abbott's 'hoe' description, Bigelow's report of 18 November, spread by December, Morton's patent and campaign, Long from 1842, Wells, Jackson, and the late origin of the 'no humbug' story.",
+        "quote": "This book also contained the first account that Warren exclaimed “Gentlemen! This is no humbug.” to the audience after the operation."
+      },
+      {
+        "title": "Horace Wells: A Pioneer in Modern Anesthesia and Pain-Free Medical Practices",
+        "author": "Mistry LN et al.",
+        "publisher": "Cureus",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11566315/",
+        "type": "scholarly",
+        "supports": "Wells's own tooth extraction under nitrous oxide on 11 December 1844, the failed Boston demonstration called a 'humbug affair', and the AMA's 1870 recognition of Wells.",
+        "quote": "The American Medical Association in May 1870 at its yearly session in Washington DC agreed “that the honor of the discovery of practical anesthesia is due to the late Horace Wells of Connecticut”"
+      },
+      {
+        "title": "Anaesthetic practice and mortality in Scotland compared to England from 1847 to 1914",
+        "author": "Alistair G. McKenzie",
+        "publisher": "Anaesthesia and Intensive Care",
+        "year": 2025,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12405647/",
+        "type": "scholarly",
+        "supports": "Simpson's self-experiment on 4 November 1847, publication 11 days later with about 50 cases, and Hannah Greener's death in January 1848.",
+        "quote": "Just 11 days later, on 15 November, Simpson published his account of its use in surgery and midwifery, stating that he had exhibited it successfully in about 50 cases."
+      },
+      {
+        "title": "Memorials to John Snow – Pioneer in anaesthesia and epidemiology",
+        "author": "Nicholas G. Snowise",
+        "publisher": "Journal of Medical Biography",
+        "year": 2023,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9925902/",
+        "type": "scholarly",
+        "supports": "Snow's chloroform for Queen Victoria at the births of Leopold (1853) and Beatrice (1857), and the caution that the royal example may not fully explain acceptance.",
+        "quote": "This may actually be too simplistic a view since it is possible that Snow's medical colleagues were already changing their views on the use of chloroform"
+      }
+    ],
+    "further": [
+      "fitzharris-2017",
+      "porter-1997"
+    ]
+  },
+  {
+    "id": "semmelweis",
+    "title": "Semmelweis and the washing of hands",
+    "stream": "bio-lab",
+    "tier": 1,
+    "date": {
+      "year": 1847,
+      "earliest": 1847,
+      "latest": 1847,
+      "display": "May 1847"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "The Vienna clinic's yearly mortality figures were published by Semmelweis himself and are not in doubt; the chlorine washing began around mid-May 1847. Why his colleagues resisted, and how he died, are argued over, and the popular picture of a lone genius ignored by fools is a simplification."
+    },
+    "place": "Vienna General Hospital (Allgemeines Krankenhaus), Austria",
+    "people": [
+      "Ignaz Philipp Semmelweis (1818–1865), Hungarian obstetrician",
+      "Jakob Kolletschka, pathologist whose death gave Semmelweis the clue",
+      "Ferdinand von Hebra, dermatologist who first published the findings",
+      "Oliver Wendell Holmes (1809–1894), Boston physician who warned of contagion in 1843"
+    ],
+    "themes": [
+      "practice",
+      "public-health"
+    ],
+    "summary": "In a Vienna maternity clinic, women attended by doctors died at four times the rate of those attended by midwives. A basin of chlorine water closed the gap.",
+    "body": [
+      "The Vienna General Hospital had two maternity clinics. Doctors and medical students worked in the first; midwives were trained in the second. When Ignaz Semmelweis was put in charge of the first clinic in July 1846, he found a grim difference: that year 459 of 4,010 women there died, mostly of childbed (puerperal) fever, against 105 of 3,754 in the midwives' clinic. Semmelweis tested and ruled out explanations one by one, from birthing positions to a priest's bell that frightened patients.",
+      "The clue came in 1847, when his colleague Jakob Kolletschka died of a fever like the mothers' after being cut by a student's scalpel during an autopsy. Doctors and students went straight from dissecting corpses to examining women in labor; midwives did not. Semmelweis concluded that \"cadaverous particles\" on the doctors' hands were killing them. Around mid-May 1847 he ordered everyone to wash in chlorinated lime before touching a patient. In 1848, the first full year of washing, deaths in the first clinic fell to 45 of 3,556, about 1.3 percent, the same as the midwives'.",
+      "He was not alone in seeing the danger. Alexander Gordon in Aberdeen had argued in the 1790s that the fever was carried from patient to patient, and in 1843 Oliver Wendell Holmes told Boston doctors much the same. What Semmelweis added was numbers. But he let others publish for him, first his friend Ferdinand von Hebra in December 1847, and his own book appeared only in 1861. Germ theory did not yet exist to explain why washing worked; many obstetricians blamed miasma or other causes, and the idea that physicians were killing their patients was unwelcome.",
+      "His own temper did not help: in print he called his opponents murderers. In 1865 he was taken to a newly built asylum in Vienna and died two weeks later of sepsis. Only after his death did Vienna start calling him the \"savior of mothers.\""
+    ],
+    "myth": {
+      "tradition": "Semmelweis, a lone genius, was ignored purely out of prejudice, then died of childbed fever from a scalpel cut, killed by the very disease he had fought.",
+      "record": "Others had made similar arguments before him, he delayed publishing for years, and his insults alienated potential allies. Accounts of his death differ, but recent scholars attribute the fatal sepsis to wounds from rough treatment in the asylum rather than to a dissection cut."
+    },
+    "links": [
+      {
+        "to": "pasteur-germ-theory",
+        "kind": "led-to",
+        "note": "Germ theory later explained why chlorine washing worked."
+      },
+      {
+        "to": "lister",
+        "kind": "led-to",
+        "note": "Lister brought antisepsis into surgery and admired Semmelweis."
+      },
+      {
+        "to": "morgagni",
+        "kind": "built-on",
+        "note": "Vienna's routine autopsies, the legacy of pathological anatomy, carried the infection."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Ignaz Philipp Semmelweis (1818–1865) – a public health visionary and champion of hand hygiene",
+        "author": "Vanessa Ravel, Chandini Pandiyan, Krupa Chandran",
+        "publisher": "GMS Hygiene and Infection Control",
+        "year": 2025,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12720402/",
+        "type": "scholarly",
+        "supports": "Two clinics; 1846 and 1848 mortality figures; ruled-out hypotheses; Kolletschka; chlorine washing from mid-May 1847; Hebra's December 1847 report; 1861 book; death in an asylum in 1865.",
+        "quote": "In 1846, out of 4,010 patients in the first clinic, 459 patients died (11.4%) and in the second clinic out of 3,754 patients, 105 patients (2.7%) died"
+      },
+      {
+        "title": "Ignaz Semmelweis: a victim of harassment?",
+        "author": "Sonja Schreiner",
+        "publisher": "Wiener Medizinische Wochenschrift",
+        "year": 2020,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7476981/",
+        "type": "scholarly",
+        "supports": "His insults to colleagues; delayed publication; death from sepsis from wounds after confinement in a Vienna asylum in 1865; Holmes in 1843.",
+        "quote": "Badly abused, he died from sepsis caused by open wounds and a dirty straightjacket 2 weeks later."
+      },
+      {
+        "title": "The little-known history of cleanliness and the forgotten pioneers of handwashing",
+        "author": "Péter Poczai, László Z. Karvalics",
+        "publisher": "Frontiers in Public Health",
+        "year": 2022,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9632745/",
+        "type": "scholarly",
+        "supports": "Holmes's 1843 warning, Alexander Gordon's earlier work in Aberdeen, and Semmelweis's failure to publish.",
+        "quote": "In 1843 Holmes proclaimed insistently that “ doctors were agents of death” unless they washed their hands and clothing to avoid transmission of puerperal fever"
+      },
+      {
+        "title": "Louis Pasteur, Ignaz Semmelweis, Joseph Lister and the Link Between Their Works Toward the Development of Antisepsis",
+        "author": "Lepenos T et al.",
+        "publisher": "Cureus",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11254094/",
+        "type": "scholarly",
+        "supports": "The cause of his death is disputed; the scalpel-cut story versus trauma in the asylum.",
+        "quote": "In reality, his sepsis did not derive from his own hands, but from multiple, untreated traumas that occurred during his stay at an insane asylum."
+      }
+    ],
+    "further": [
+      "porter-1997",
+      "bynum-1994"
+    ]
+  },
+  {
+    "id": "snow-cholera",
+    "title": "John Snow and the Broad Street pump",
+    "stream": "bio-public",
+    "tier": 1,
+    "date": {
+      "year": 1854,
+      "display": "August–September 1854"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "Snow's own 1855 book and the parish inquiry document the Soho outbreak, the pump and the water-company comparison. What is disputed is the drama: the outbreak was already subsiding when the handle came off, and Snow's waterborne theory was not generally accepted until after his death."
+    },
+    "place": "Soho, London, England",
+    "people": [
+      "John Snow (1813–1858), physician and anesthetist",
+      "Henry Whitehead, curate of St Luke's, Berwick Street, who investigated the outbreak",
+      "Filippo Pacini, Florentine anatomist who described the cholera vibrio"
+    ],
+    "themes": [
+      "public-health",
+      "theory"
+    ],
+    "summary": "Over 500 people near one Soho street died of cholera in ten days. A doctor who thought the disease was swallowed, not breathed, pointed at the neighborhood pump.",
+    "body": [
+      "In the night of 31 August 1854, cholera exploded around Broad Street, Golden Square, in Soho. In Snow's words, \"there were upwards of five hundred fatal attacks of cholera in ten days\" within 250 yards of one corner. Most doctors then blamed miasma, foul air rising from filth. John Snow, a London physician better known as an expert anesthetist, had argued since the epidemic of 1848–49 that cholera was caused by something swallowed, and spread by sewage-tainted water.",
+      "He mapped the deaths and found they clustered around the public pump in Broad Street. The exceptions fit too. A nearby workhouse with its own well lost only five of 535 inmates, and none of the 70-odd men at the Broad Street brewery fell ill; they drank beer and the brewery's own well water. Snow put his case to the parish Board of Guardians, and the pump handle was removed the next day. A local curate, Henry Whitehead, at first doubtful, did much of the house-to-house detective work, and identified a five-month-old girl as the probable first case.",
+      "Snow's stronger evidence came from south London, where two water companies supplied neighboring houses. Over seven weeks in 1854, houses served by the Southwark and Vauxhall Company, which drew water from a sewage-laden stretch of the Thames, suffered 315 cholera deaths per 10,000 houses; houses supplied by the Lambeth Company, which had moved its intake upstream, suffered 37. Snow published both studies in the second edition of *On the Mode of Communication of Cholera* in 1855.",
+      "The same year, in Florence, Filippo Pacini saw vast numbers of curved bacteria in the intestines of cholera victims and named them *Vibrio cholerae*. Neither man was widely believed. Pacini's work was largely ignored until Robert Koch found the organism again in 1884, and Snow's two investigations were cited as conclusive only after he died in 1858."
+    ],
+    "myth": {
+      "tradition": "Snow removed the pump handle himself and thereby stopped the epidemic in its tracks, converting the authorities to his theory.",
+      "record": "The parish authorities removed the handle at Snow's urging, by which time the outbreak was already subsiding. The official inquiries of the time did not accept his waterborne theory, which won general acceptance only after his death."
+    },
+    "links": [
+      {
+        "to": "chadwick",
+        "kind": "see-also",
+        "note": "Sanitary reformers who blamed foul air were Snow's main opponents."
+      },
+      {
+        "to": "ether-anaesthesia",
+        "kind": "see-also",
+        "note": "Snow's other career was as London's leading anesthetist."
+      },
+      {
+        "to": "koch",
+        "kind": "led-to",
+        "note": "Koch's cholera bacillus of 1884 vindicated the waterborne theory."
+      }
+    ],
+    "sources": [
+      {
+        "title": "John Snow, Cholera, the Broad Street Pump; Waterborne Diseases Then and Now",
+        "author": "Theodore H. Tulchinsky",
+        "publisher": "Case Studies in Public Health (Elsevier)",
+        "year": 2018,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7150208/",
+        "type": "scholarly",
+        "supports": "Start of the outbreak on 31 August–1 September, Snow's quotations on the workhouse and brewery, removal of the handle the following day, the already declining epidemic, and the Southwark and Vauxhall versus Lambeth table.",
+        "quote": "He persuaded the doubtful civic authorities to remove the handle from the Broad Street pump, and the already subsiding epidemic disappeared within a few days."
+      },
+      {
+        "title": "The Ghost Map [book review]",
+        "author": "Ralph R. Frerichs",
+        "publisher": "Emerging Infectious Diseases (CDC)",
+        "year": 2007,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2878249/",
+        "type": "scholarly",
+        "supports": "Snow's description of 'upwards of five hundred fatal attacks of cholera in ten days' within 250 yards; the 'grand experiment'; Henry Whitehead's role.",
+        "quote": "Within two hundred and fifty yards of the spot where Cambridge Street joins Broad Street, there were upwards of five hundred fatal attacks of cholera in ten days."
+      },
+      {
+        "title": "Ending Epidemics: A History of Escape from Contagion [book review]",
+        "author": "Clyde Partin",
+        "publisher": "Emerging Infectious Diseases (CDC)",
+        "year": 2025,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11845135/",
+        "type": "scholarly",
+        "supports": "Whitehead identified the first case, a five-month-old girl; Pacini named the vibrio in 1854.",
+        "quote": "having recognized the ground zero cholera case in a 5-month-old girl"
+      },
+      {
+        "title": "About John Snow",
+        "publisher": "The John Snow Archive and Research Companion, Michigan State University",
+        "url": "https://johnsnow.matrix.msu.edu/aboutjohn.php",
+        "type": "institutional",
+        "supports": "Snow's ingestion theory from 1848–49; the two 1854 investigations, cited as conclusive only after his death in 1858.",
+        "quote": "he conducted two investigations that others would cite after his death as conclusively supporting his theory that cholera could be spread by sewage–contaminated water"
+      },
+      {
+        "title": "Milestones in Vibrio Science and their Contributions to Microbiology and Global Health",
+        "author": "Doni L et al.",
+        "publisher": "Annals of Global Health",
+        "year": 2025,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12082447/",
+        "type": "scholarly",
+        "supports": "Pacini's 1854 observations in Florence, his naming of Vibrio cholerae, its neglect, and Koch's 1884 isolation.",
+        "quote": "Pacini observed a close association between the rupture of the intestinal lining and millions of bacteria, which he named Vibrio cholerae"
+      }
+    ],
+    "further": [
+      "johnson-2006",
+      "snowden-2019"
+    ]
+  },
+  {
+    "id": "nightingale",
+    "title": "Florence Nightingale's statistics",
+    "stream": "bio-public",
+    "tier": 1,
+    "date": {
+      "year": 1858,
+      "display": "1858"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "Her reports and diagrams were printed in 1858 and survive, as do the army's mortality figures. How much of the fall in deaths at Scutari was due to sanitation rather than other changes was questioned at the time, and her reputation has been shaped by legend in both directions."
+    },
+    "place": "Scutari (Üsküdar, Istanbul) and London",
+    "people": [
+      "Florence Nightingale (1820–1910), nurse, statistician and reformer",
+      "William Farr, statistician at the General Register Office who advised her",
+      "John Sutherland and Robert Rawlinson, members of the Sanitary Commission",
+      "Mary Seacole, Jamaican-born nurse and businesswoman in the Crimea"
+    ],
+    "themes": [
+      "public-health",
+      "institutions",
+      "practice"
+    ],
+    "summary": "The 'Lady with the Lamp' did her most lasting work after the war, with tables and colored wedges that showed the British Army it had been killing its own men with dirt.",
+    "body": [
+      "Florence Nightingale reached Constantinople with her party of nurses on 3 November 1854 to run the nursing in the army hospital at Scutari. It was dirty, overcrowded and short of everything, and most of its patients were suffering from disease rather than wounds. Her nurses cleaned, cooked and washed linen. Yet by February 1855 the hospital's death rate had risen to 42 percent. Nightingale blamed poor nutrition; in fact the building sat on a broken sewer. In March 1855 a government Sanitary Commission led by Dr John Sutherland, with the engineer Robert Rawlinson, arrived, repaired drains and improved ventilation, and within weeks the death rate had fallen by half.",
+      "Back in England in August 1856, Nightingale drew her own lesson from the figures. With William Farr of the General Register Office she analyzed army mortality for a Royal Commission and in 1858 published the results, including in *Notes on Matters Affecting the Health, Efficiency and Hospital Administration of the British Army*. She showed that most of the army's deaths in the war came from sickness, that sanitation had reduced them, and that even soldiers stationed at home died at higher rates than civilian men of the same age. She also exposed the army's slack record-keeping, estimating that Crimean hospital returns might have shown only a seventh of the real deaths.",
+      "Her famous wedge diagrams were persuasion, not invention: William Playfair had published a pie chart in 1801. What was new was using graphics to argue for reform. She became the first female fellow of the Royal Statistical Society.",
+      "The public knew her as 'the Lady with the Lamp,' and in 1860 donations to the Nightingale Fund paid for a training school for nurses at St Thomas's Hospital in London. Another nurse of the war, the Jamaican-born Mary Seacole, was turned down by the War Office and by Nightingale's service, paid her own way to the Crimea and treated soldiers near the front line."
+    ],
+    "myth": {
+      "tradition": "Nightingale's nursing at Scutari slashed the death rate, and she invented the pie chart to prove it.",
+      "record": "Deaths at Scutari rose after her arrival and fell only after the Sanitary Commission repaired the sewers and ventilation, a cause she herself had at first misjudged. Statistical graphics, including pie charts, existed before her; her originality lay in using them to drive reform."
+    },
+    "links": [
+      {
+        "to": "graunt",
+        "kind": "built-on",
+        "note": "Counting the dead to find causes went back to Graunt's bills of mortality."
+      },
+      {
+        "to": "chadwick",
+        "kind": "built-on",
+        "note": "She shared the sanitarians' belief that filth and bad air caused disease."
+      },
+      {
+        "to": "snow-cholera",
+        "kind": "see-also",
+        "note": "In the same years Snow used death counts to trace cholera to water."
+      },
+      {
+        "to": "red-cross-geneva",
+        "kind": "see-also",
+        "note": "The Crimean War's suffering helped inspire organized care for wounded soldiers."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Florence Nightingale: The Lady with the Lamp",
+        "publisher": "National Army Museum",
+        "url": "https://www.nam.ac.uk/explore/florence-nightingale-lady-lamp",
+        "type": "institutional",
+        "supports": "Arrival 3 November 1854; conditions at Scutari; 42 per cent death rate in February 1855; her mistaken blame on nutrition; sewer; return in August 1856; nursing school at St Thomas's on 9 July 1860; the Lady with the Lamp.",
+        "quote": "by February 1855, the death rate at the hospital had risen to 42 per cent. Florence mistakenly blamed the high number of deaths on inadequate nutrition, not on poor sanitation."
+      },
+      {
+        "title": "Crimean War",
+        "publisher": "National Army Museum",
+        "url": "https://www.nam.ac.uk/explore/crimean-war",
+        "type": "institutional",
+        "supports": "The Sanitary Commission of Sutherland and Rawlinson, arriving March 1855, halved the Scutari death rate within weeks; Mary Seacole's background and rejection by the War Office and Nightingale.",
+        "quote": "They reached Constantinople in March 1855 and their work, alongside that of Florence Nightingale’s nurses, helped reduce the death rate in the hospital at Scutari by half within a matter of weeks."
+      },
+      {
+        "title": "Florence Nightingale (1820–1910): An Unexpected Master of Data",
+        "author": "Nathalie A. Bradshaw",
+        "publisher": "Patterns",
+        "year": 2020,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7660360/",
+        "type": "scholarly",
+        "supports": "Higher mortality among soldiers at home than civilian men; record-keeping failures and the one-seventh estimate; the 1858 Notes; first female fellow of the Royal Statistical Society.",
+        "quote": "she estimated that hospital records in the Crimea may have only shown one-seventh of the true number of deaths"
+      },
+      {
+        "title": "Florence Nightingale's Statistical Diagrams",
+        "author": "Hugh Small",
+        "publisher": "University of York, Department of Mathematics (paper to Florence Nightingale Museum conference, 1998)",
+        "year": 1998,
+        "url": "https://www.york.ac.uk/depts/maths/histstat/small.htm",
+        "type": "scholarly",
+        "supports": "Farr's help; the 1858 Royal Commission appendix and Mortality of the British Army; the diagrams showing sickness and the Sanitary Commission's effect; Playfair's 1801 pie chart; she was not the first to use diagrams.",
+        "quote": "It has been said that Florence Nightingale was the first to use diagrams for presenting statistical data. This is not true, of course"
+      }
+    ],
+    "further": [
+      "porter-1997",
+      "bynum-1994"
+    ]
+  }
+]
