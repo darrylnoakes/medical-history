@@ -223,7 +223,8 @@ export class RiverController {
   private resize() {
     const r = this.root.getBoundingClientRect();
     if (r.width < 10 || r.height < 10) return;
-    this.dpr = Math.min(window.devicePixelRatio || 1, 2);
+    // cap the backing store at ~4.5 megapixels: beyond that, fill-rate costs more than sharpness gains
+    this.dpr = Math.max(1, Math.min(window.devicePixelRatio || 1, 2, Math.sqrt(4.5e6 / (r.width * r.height))));
     this.canvas.width = Math.round(r.width * this.dpr);
     this.canvas.height = Math.round(r.height * this.dpr);
     this.canvas.style.width = `${r.width}px`;
@@ -300,14 +301,18 @@ export class RiverController {
       if (Math.abs(this.inertia) < 0.02) this.inertia = 0;
     }
     const animate = !this.reduced && document.visibilityState === 'visible';
-    if (!this.dirty && (!animate || now - this.lastDraw < 40)) return;
+    if (!this.dirty && (!animate || now - this.lastDraw < 66)) return;
     this.lastDraw = now;
     s.now = now;
     const zoomChanged = this.lastK !== this.cam.k;
     draw(this.ctx, s, this.dpr);
     if (this.dirty) {
+      const perf: Record<string, number> | undefined = (window as any).__perf;
+      const t0 = performance.now();
       if (zoomChanged || this.layoutDirty) { this.layoutLabels(); this.layoutDirty = false; this.lastK = this.cam.k; }
+      const t1 = performance.now();
       this.positionNodes();
+      if (perf) { perf.layout = (perf.layout ?? 0) + t1 - t0; perf.dom = (perf.dom ?? 0) + performance.now() - t1; }
       if (now - this.lastViewEmit > 120) { this.lastViewEmit = now; this.events.onView(this.cam.zoom, this.cam.uAt(this.cam.focusPx)); }
     }
     this.dirty = false;

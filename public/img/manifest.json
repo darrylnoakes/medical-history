@@ -398,5 +398,55 @@
   "license": "CC BY 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Title_page_%22Anatomie_Generale_Appliquee%22,_1801_Wellcome_L0015081.jpg"
+ },
+ "hippocratic-oath": {
+  "commons": "File:Papyrus text; fragment of Hippocratic oath. Wellcome L0034090.jpg",
+  "src": "/img/hippocratic-oath.webp",
+  "width": 620,
+  "height": 1300,
+  "credit": "Gallery: https://wellcomeimages.org/indexplus/image/L0034090.html",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Papyrus_text;_fragment_of_Hippocratic_oath._Wellcome_L0034090.jpg"
+ },
+ "ether-anaesthesia": {
+  "commons": "File:Ether inhaler, c. 1846, developed by William T. G. Morton - National Museum of American History - DSC06167.JPG",
+  "src": "/img/ether-anaesthesia.webp",
+  "width": 955,
+  "height": 1300,
+  "credit": "Daderot",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Ether_inhaler,_c._1846,_developed_by_William_T._G._Morton_-_National_Museum_of_American_History_-_DSC06167.JPG"
+ },
+ "semmelweis": {
+  "commons": "File:Ignaz Semmelweis 1860.jpg",
+  "src": "/img/semmelweis.webp",
+  "width": 961,
+  "height": 1300,
+  "credit": "After Jenő Doby's engravig",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Ignaz_Semmelweis_1860.jpg"
+ },
+ "snow-cholera": {
+  "commons": "File:Snow-cholera-map-1.jpg",
+  "src": "/img/snow-cholera.webp",
+  "width": 1000,
+  "height": 938,
+  "credit": "John Snow",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Snow-cholera-map-1.jpg"
+ },
+ "nightingale": {
+  "commons": "File:Nightingale-mortality.jpg",
+  "src": "/img/nightingale.webp",
+  "width": 1000,
+  "height": 547,
+  "credit": "Florence Nightingale",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Nightingale-mortality.jpg"
  }
 }

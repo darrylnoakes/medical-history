@@ -52,7 +52,8 @@ export interface Scene {
   flows: Flow[];
 }
 
-const IDEA_LANES = [-0.36, 0.36, -0.2, 0.2, -0.44, 0.44, 0, -0.28, 0.28];
+// lanes that fall between the lanes entries use, so currents do not run through labels
+const IDEA_LANES = [-0.05, 0.23, 0.46, -0.34, 0.09, -0.44, 0.32];
 
 export function buildScene(content: Content): Scene {
   const geoms = STREAMS.map(buildGeom);
@@ -112,7 +113,8 @@ export function buildScene(content: Content): Scene {
       const from = geomById.get(tr.from)!, to = geomById.get(tr.to)!;
       // keep the tributary inside both streams' lifetimes
       const u0 = Math.min(Math.max(yearToU(tr.start), from.u0 + 0.002), from.u1 - 0.002);
-      const u1 = Math.min(Math.max(yearToU(tr.end), to.u0 + 0.004, u0 + 0.004), to.u1 - 0.001);
+      // a long exchange is drawn as a short channel at its start rather than a band across the whole map
+      const u1 = Math.min(Math.max(Math.min(yearToU(tr.end), u0 + 0.045), to.u0 + 0.004, u0 + 0.004), to.u1 - 0.001);
       return { tr, from, to, u0, u1, screen: [] };
     });
 

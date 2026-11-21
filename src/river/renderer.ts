@@ -189,7 +189,7 @@ function drawFlows(ctx: CanvasRenderingContext2D, s: DrawState) {
     const tA = cam.tPx(f.u0), tB = cam.tPx(f.u1);
     if (tB < -60 || tA > cam.tLen + 60) continue;
     const pts = flowPoints(f, cam);
-    const hw = clamp(cam.crossLen * 0.0065, 2.6, 5);
+    const hw = clamp(cam.crossLen * 0.005, 2.2, 4);
     const active = s.hoverFlow === f.tr.id || s.selectedFlow === f.tr.id;
     const weak = f.tr.confidence.claim === 'disputed' || f.tr.confidence.claim === 'uncertain' || f.tr.confidence.claim === 'legendary';
     const fade = s.streamFocus && s.streamFocus !== f.from.def.id && s.streamFocus !== f.to.def.id ? 0.25 : 1;
@@ -209,7 +209,7 @@ function drawFlows(ctx: CanvasRenderingContext2D, s: DrawState) {
     ctx.closePath();
     const [x0, y0] = cam.xy(pts[0].t, pts[0].c), [x1, y1] = cam.xy(pts[pts.length - 1].t, pts[pts.length - 1].c);
     const grad = ctx.createLinearGradient(x0, y0, x1, y1);
-    const alpha = (weak ? 0.38 : 0.7) * fade;
+    const alpha = (weak ? 0.32 : 0.6) * fade;
     grad.addColorStop(0, rgba(f.from.def.color, alpha));
     grad.addColorStop(1, rgba(f.to.def.color, alpha));
     ctx.fillStyle = grad;
@@ -647,18 +647,23 @@ function drawAxis(ctx: CanvasRenderingContext2D, s: DrawState) {
 }
 
 export function draw(ctx: CanvasRenderingContext2D, s: DrawState, dpr: number) {
+  const perf: Record<string, number> | undefined = (window as any).__perf;
+  let t = performance.now();
+  const mark = (k: string) => { if (perf) { const n = performance.now(); perf[k] = (perf[k] ?? 0) + n - t; t = n; } };
   ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
-  drawPaper(ctx, s.cam);
-  drawRibbons(ctx, s);
-  drawStreaks(ctx, s);
+  drawPaper(ctx, s.cam); mark('paper');
+  drawRibbons(ctx, s); mark('ribbons');
+  drawStreaks(ctx, s); mark('streaks');
   if (s.showFlows) drawFlows(ctx, s); else for (const f of s.scene.flows) f.screen = [];
+  mark('flows');
   drawFog(ctx, s.cam);
-  drawFuture(ctx, s.cam);
-  drawStreamLabels(ctx, s);
+  drawFuture(ctx, s.cam); mark('fog');
+  drawStreamLabels(ctx, s); mark('labels');
   if (s.showIdeas) drawIdeas(ctx, s); else for (const i of s.scene.ideas) i.screen = [];
-  drawMarkers(ctx, s);
+  mark('ideas');
+  drawMarkers(ctx, s); mark('markers');
   drawLinks(ctx, s);
-  drawAxis(ctx, s);
+  drawAxis(ctx, s); mark('axis');
 }
 
 /** Nearest idea current or tributary to a screen point, within `tol` px. */
