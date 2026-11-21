@@ -100,7 +100,12 @@
     "further": [
       "fitzharris-2017",
       "porter-1997"
-    ]
+    ],
+    "image": {
+      "commons": "File:Ether inhaler, c. 1846, developed by William T. G. Morton - National Museum of American History - DSC06167.JPG",
+      "alt": "A glass globe with two necks and a mouthpiece, an early ether inhaler, in a museum case.",
+      "caption": "Ether inhaler of the type developed by William T. G. Morton, c. 1846. National Museum of American History, Washington, DC."
+    }
   },
   {
     "id": "semmelweis",
@@ -202,7 +207,12 @@
     "further": [
       "porter-1997",
       "bynum-1994"
-    ]
+    ],
+    "image": {
+      "commons": "File:Ignaz Semmelweis 1860.jpg",
+      "alt": "Portrait of Ignaz Semmelweis, a balding man with a mustache, in a dark coat.",
+      "caption": "Ignaz Semmelweis in 1860, after an engraving by Jenő Doby, while he was working in Pest."
+    }
   },
   {
     "id": "snow-cholera",
@@ -309,7 +319,12 @@
     "further": [
       "johnson-2006",
       "snowden-2019"
-    ]
+    ],
+    "image": {
+      "commons": "File:Snow-cholera-map-1.jpg",
+      "alt": "Street map of Soho with black bars stacked along streets marking cholera deaths, clustered around Broad Street.",
+      "caption": "John Snow's map of cholera deaths around the Broad Street pump, first exhibited in December 1854 and published in 1855. Each black bar is a death."
+    }
   },
   {
     "id": "nightingale",
@@ -411,6 +426,361 @@
     "further": [
       "porter-1997",
       "bynum-1994"
-    ]
+    ],
+    "image": {
+      "commons": "File:Nightingale-mortality.jpg",
+      "alt": "Two circular diagrams of colored wedges, one per month, showing deaths from disease, wounds and other causes.",
+      "caption": "Nightingale's 'Diagram of the causes of mortality in the army in the East,' 1858. Blue wedges, deaths from preventable disease, dwarf those from wounds."
+    }
+  },
+  {
+    "id": "virchow",
+    "title": "Virchow's cellular pathology",
+    "stream": "bio-lab",
+    "tier": 2,
+    "date": {
+      "year": 1858,
+      "display": "1858"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "*Die Cellularpathologie*, based on lectures Virchow gave at the Charité in Berlin, was published in 1858. His famous principle borrowed from others, notably Robert Remak, whose credit is still argued over; and the 'social science' slogan is usually quoted from his 1848 reform writings rather than from this book."
+    },
+    "place": "Berlin, Prussia (Germany)",
+    "people": [
+      "Rudolf Virchow (1821–1902), pathologist and politician",
+      "Robert Remak, embryologist whose work on cell division Virchow built on",
+      "Theodor Schwann (1810–1882) and Matthias Schleiden (1804–1881), founders of cell theory"
+    ],
+    "themes": [
+      "theory",
+      "public-health"
+    ],
+    "summary": "A Berlin pathologist told doctors to 'think microscopically': disease lives in cells. Ten years earlier he had blamed a typhus epidemic on poverty and politics.",
+    "body": [
+      "In 1858 Rudolf Virchow, the leading pathologist at Berlin's Charité hospital, published lectures he had given to doctors as *Die Cellularpathologie*. Schleiden and Schwann had argued in 1838–39 that plants and animals are built of cells. Virchow carried the idea into medicine: disease, he said, is a disturbance of cells, and can be diagnosed by looking at them under a microscope. His slogan *omnis cellula e cellula*, every cell comes from a cell, drew on the work of Robert Remak, whom he was slow to credit. The approach remains the basis of tissue diagnosis today.",
+      "Virchow was also a radical. Sent by the Prussian government to investigate typhus in Upper Silesia in 1847–48, he wrote a 190-page report blaming poverty and ignorance, and prescribed \"full and unlimited democracy\" and education rather than drugs. He joined the Berlin revolution of 1848, co-founded the weekly *Medical Reform*, and lost his post in 1849. Later a member of parliament and an opponent of Bismarck, he is quoted as saying that \"medicine is a social science, and politics is nothing else but medicine on a large scale.\""
+    ],
+    "links": [
+      {
+        "to": "cell-theory",
+        "kind": "built-on",
+        "note": "Virchow applied Schleiden and Schwann's cell theory to disease."
+      },
+      {
+        "to": "morgagni",
+        "kind": "built-on",
+        "note": "Morgagni located disease in organs; Virchow took it down to cells."
+      },
+      {
+        "to": "koch",
+        "kind": "see-also",
+        "note": "Virchow long doubted that germs alone explained disease."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Rudolf Virchow and the discovery of the Müller cell",
+        "author": "Helmut Kettenmann",
+        "publisher": "Graefe's Archive for Clinical and Experimental Ophthalmology",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11584505/",
+        "type": "scholarly",
+        "supports": "Cellularpathologie first published 1858; cell theory of Schleiden and Schwann in 1838–39; diagnosis by analyzing cells.",
+        "quote": "Virchow’s fame is linked to his seminal book Cellularpathologie published in its first edition in 1858."
+      },
+      {
+        "title": "Neuroglia at the crossroads of homoeostasis, metabolism and signalling: evolution of the concept",
+        "author": "Vladimir Parpura, Alexei Verkhratsky",
+        "publisher": "ASN Neuro",
+        "year": 2012,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3342593/",
+        "type": "scholarly",
+        "supports": "The book's content was delivered as lectures at the Charité in 1858.",
+        "quote": "delivering a lecture to medical students of Charite Hospital in Berlin on 3 April 1858"
+      },
+      {
+        "title": "Stanislaus Josef Mathias von Prowazek, Edler von Lanow, Rudolph Virchow, and the Upper Silesia Report",
+        "author": "Consolato M. Sergi",
+        "publisher": "Archives of Medical Science",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10895968/",
+        "type": "scholarly",
+        "supports": "Typhus investigation 1847–48, 190-page report, the 1848 revolution, founding of Medical Reform, opposition to Bismarck.",
+        "quote": "his extensive 190-page report on the Typhus outbreak in Upper Silesia in 1848 proved pivotal in German public health"
+      },
+      {
+        "title": "Rudolf Virchow: Integrating Medicine and Social Reform for Public Health",
+        "author": "Tawde PP et al.",
+        "publisher": "Cureus",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11439470/",
+        "type": "scholarly",
+        "supports": "'Full and unlimited democracy' and education as the cure; suspension in 1849; Remak and Schwann behind his cell doctrine.",
+        "quote": "Later, he was suspended from his official position in 1849, thus discontinuing the publication"
+      },
+      {
+        "title": "A prize for global health in the name of Rudolf Virchow",
+        "author": "Oni T et al.",
+        "publisher": "Journal of Public Health in Africa",
+        "year": 2023,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10615153/",
+        "type": "scholarly",
+        "supports": "The 'medicine is a social science' quotation and his parliamentary career.",
+        "quote": "famously stating that ‘Medicine is a social science, and politics is nothing else but medicine on a large scale.’"
+      },
+      {
+        "title": "Rudolf Virchow: 200th birth anniversary",
+        "author": "de Gouveia RH et al.",
+        "publisher": "Virchows Archiv",
+        "year": 2021,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8671055/",
+        "type": "scholarly",
+        "supports": "'Think microscopically' and omnis cellula e cellula.",
+        "quote": "Virchow encouraged the students to “think microscopically.”"
+      }
+    ],
+    "further": [
+      "porter-1997",
+      "bynum-1994"
+    ],
+    "image": {
+      "commons": "File:Rudolf Ludwig Karl Virchow. Photograph by J. C. Schaarwächte Wellcome L0002331.jpg",
+      "alt": "Photograph of an elderly Rudolf Virchow with spectacles and a white beard.",
+      "caption": "Rudolf Virchow, photographed by J. C. Schaarwächter in 1891, more than 30 years after *Die Cellularpathologie*. Wellcome Collection."
+    }
+  },
+  {
+    "id": "pasteur-germ-theory",
+    "title": "Pasteur and the germ theory",
+    "stream": "bio-lab",
+    "tier": 1,
+    "date": {
+      "year": 1857,
+      "end": 1865,
+      "display": "1857–1865"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "Pasteur's papers to the French Academy of Sciences fix the dates of his fermentation work (from 1857), the swan-necked flask experiments (published 1861) and his wine patent (1865). How much of the credit is his is contested: many predecessors and rivals made overlapping claims, and historians reading his notebooks have found him quick to claim priority."
+    },
+    "place": "Lille and Paris, France",
+    "people": [
+      "Louis Pasteur (1822–1895), chemist and microbiologist",
+      "Antoine-Jérôme Balard (1802–1876), chemist and mentor who devised the swan-necked flask experiment",
+      "Félix-Archimède Pouchet (1800–1872), naturalist who defended spontaneous generation",
+      "Antoine Béchamp (1816–1908), chemist and rival"
+    ],
+    "themes": [
+      "theory",
+      "technology"
+    ],
+    "summary": "A chemist asked to fix spoiled beet alcohol ended up showing that invisible living things ferment, spoil and rot, and that they come from other microbes, not from nowhere.",
+    "body": [
+      "Louis Pasteur came to microbes through industry. As dean of the science faculty at Lille in the mid-1850s he was approached by makers of beet alcohol whose fermentations kept going wrong. Beginning in 1857 with a report on lactic fermentation, he argued before the French Academy of Sciences that fermentation is the work of living microorganisms, not a purely chemical breakdown. He was not the first to suspect this: Schwann, Cagniard de Latour and others had tied yeast to fermentation in the 1830s, and Antoine Béchamp reached similar conclusions shortly before him. But Pasteur pressed the case relentlessly.",
+      "If microbes caused fermentation, where did they come from? Many respected naturalists held that they could arise spontaneously, and in 1858 Félix Pouchet published experiments claiming to prove it. Pasteur's answer, compiled in a prize-winning memoir of 1861, used flasks with long, curving necks, an idea of his mentor Antoine-Jérôme Balard. Broth boiled in them and kept from the outside air stayed lifeless for months; once dust from the air reached it, microbes appeared within two or three days. The air, he concluded, carries germs. Pouchet was not instantly silenced, and the argument rumbled on for years.",
+      "The practical results came fast. In 1865 Pasteur patented a way to keep wine from spoiling by heating it to 64 °C for 30 minutes, later called pasteurization (the idea of heating wine went back to Nicolas Appert, and it was first applied to milk by Franz von Soxhlet). He then spent years on the diseases of silkworms, at first wrongly denying that a parasite was to blame.",
+      "His work persuaded the surgeon Joseph Lister that microbes from the air infected wounds. But proving that a particular microbe causes a particular human or animal disease came later, and from Germany: Robert Koch's work on anthrax in 1876."
+    ],
+    "myth": {
+      "tradition": "Pasteur alone discovered that germs cause fermentation and disease, and a single elegant flask experiment instantly killed the idea of spontaneous generation.",
+      "record": "Others had linked microbes to fermentation before him, the flask design came from Balard, and the dispute over spontaneous generation continued into the 1870s. The first proof that a microbe causes a specific disease is usually credited to Koch in 1876."
+    },
+    "links": [
+      {
+        "to": "microscope",
+        "kind": "built-on",
+        "note": "Leeuwenhoek had seen yeast and 'animalcules' two centuries earlier."
+      },
+      {
+        "to": "semmelweis",
+        "kind": "see-also",
+        "note": "Germ theory explained why Semmelweis's chlorine washing had worked."
+      },
+      {
+        "to": "lister",
+        "kind": "led-to",
+        "note": "Lister read Pasteur and turned germ theory into antiseptic surgery."
+      },
+      {
+        "to": "koch",
+        "kind": "led-to",
+        "note": "Koch proved that specific microbes cause specific diseases."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Louis Pasteur: Between Myth and Reality",
+        "author": "Jean-Marc Cavaillon, Sandra Legout",
+        "publisher": "Biomolecules",
+        "year": 2022,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9027159/",
+        "type": "scholarly",
+        "supports": "Lille beet-alcohol producers; precursors on fermentation including Schwann, Cagniard de Latour and Béchamp; Balard's swan-neck flasks; Pouchet; 1865 wine patent at 64 °C for 30 min; Appert and Soxhlet; silkworm disease; spontaneous generation dispute 1861–1879.",
+        "quote": "Pasteur was helped by Balard, who conceived the experiments with the swan neck flasks, which were decisive in demonstrating that there are germs in the air"
+      },
+      {
+        "title": "Louis Pasteur, the father of immunology?",
+        "author": "Kendall A. Smith",
+        "publisher": "Frontiers in Immunology",
+        "year": 2012,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3342039/",
+        "type": "scholarly",
+        "supports": "Presentations beginning 1857 on lactic fermentation; Pouchet's 1858 paper; the 1861 prize-winning memoir; swan-necked flask results (months versus 2–3 days); Lister; Koch's 1876 proof.",
+        "quote": "Pouchet had published an influential paper in 1858 that claimed to offer experimental proof of spontaneous generation."
+      },
+      {
+        "title": "Louis Pasteur, Ignaz Semmelweis, Joseph Lister and the Link Between Their Works Toward the Development of Antisepsis",
+        "author": "Lepenos T et al.",
+        "publisher": "Cureus",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11254094/",
+        "type": "scholarly",
+        "supports": "Pasteur's fermentation and putrefaction work led Lister to antisepsis.",
+        "quote": "Lister, studying the works of Pasteur, realized that inflammation and effusion were phenomena analogous to that of fermentation"
+      }
+    ],
+    "further": [
+      "porter-1997",
+      "bynum-1994"
+    ],
+    "image": {
+      "commons": "File:Louis Pasteur by Nadar.jpg",
+      "alt": "Portrait photograph of Louis Pasteur, bearded, in a dark coat.",
+      "caption": "Louis Pasteur photographed by the Nadar studio in Paris; date unknown."
+    }
+  },
+  {
+    "id": "red-cross-geneva",
+    "title": "The Red Cross and the Geneva Convention",
+    "stream": "bio-public",
+    "tier": 3,
+    "date": {
+      "year": 1864,
+      "display": "22 August 1864"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "The founding meetings of 1863 and the signing of the Geneva Convention on 22 August 1864 are fully documented. Casualty figures for Solferino vary between accounts."
+    },
+    "place": "Solferino, Italy, and Geneva, Switzerland",
+    "people": [
+      "Henry Dunant (1828–1910), Swiss businessman and founder of the Red Cross"
+    ],
+    "themes": [
+      "institutions",
+      "ethics"
+    ],
+    "summary": "A Swiss businessman stumbled onto a battlefield strewn with untended wounded, wrote a book about it, and within five years a dozen states had signed a treaty to protect medics.",
+    "body": [
+      "On 24 June 1859 Henry Dunant, a Swiss businessman, reached Solferino in northern Italy after one of the century's bloodiest battles and helped tend the wounded in nearby Castiglione. His book *A Memory of Solferino* (1862) proposed volunteer relief societies in every nation. In February 1863 a Geneva committee of five, the future International Committee of the Red Cross, adopted it, and on 22 August 1864 twelve nations signed the first Geneva Convention, protecting medical staff under a red cross on white. Dunant went bankrupt in 1867 but shared the first Nobel Peace Prize in 1901."
+    ],
+    "links": [
+      {
+        "to": "nightingale",
+        "kind": "see-also",
+        "note": "The Crimean War had already exposed the neglect of wounded soldiers."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Henry Dunant – Biographical",
+        "publisher": "NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/peace/1901/dunant/biographical/",
+        "type": "institutional",
+        "supports": "Water-rights mission to Napoleon III, Solferino, Castiglione, the 1862 book, the committee of five (7 February 1863), the 1863 conference, twelve nations signing on 22 August 1864, bankruptcy in 1867.",
+        "quote": "On August 22, 1864, twelve nations signed an international treaty, commonly known as the Geneva Convention, agreeing to guarantee neutrality to sanitary personnel"
+      },
+      {
+        "title": "Founding and early years of the ICRC (1863-1914)",
+        "publisher": "International Committee of the Red Cross",
+        "url": "https://www.icrc.org/en/document/founding-and-early-years-icrc-1863-1914",
+        "type": "institutional",
+        "supports": "The Geneva working group of February 1863 as the embryo ICRC, the red cross emblem, the 1864 Convention, and the 1901 Nobel Prize shared with Passy.",
+        "quote": "In August 1864, delegates from a dozen countries adopted the first Geneva Convention"
+      },
+      {
+        "title": "Swiss flag or Red Cross emblem: why the confusion?",
+        "author": "Philip F. Stahel",
+        "publisher": "Patient Safety in Surgery",
+        "year": 2013,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3663670/",
+        "type": "scholarly",
+        "supports": "Date of the Battle of Solferino, 24 June 1859.",
+        "quote": "He accidentally witnessed the aftermath of the Battle of Solferino, a small town south to the Lake of Garda, in the evening of June 24, 1859"
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "mendel",
+    "title": "Mendel's peas",
+    "stream": "bio-lab",
+    "tier": 3,
+    "date": {
+      "year": 1866,
+      "display": "1865–1866"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "Mendel's lectures (1865) and paper (1866) survive in print. That his numbers fit his predicted ratios suspiciously well was argued by R. A. Fisher in 1936 and is still debated; the laws themselves are not in doubt."
+    },
+    "place": "Brünn (Brno), Moravia, Austrian Empire",
+    "people": [
+      "Gregor Mendel (1822–1884), Augustinian friar and later abbot",
+      "Carl Nägeli, Swiss botanist who corresponded with him",
+      "Ronald A. Fisher, statistician who questioned his data in 1936"
+    ],
+    "themes": [
+      "theory"
+    ],
+    "summary": "A friar crossing garden peas found that traits pass down as separate units in predictable ratios. Almost nobody noticed for 34 years.",
+    "body": [
+      "In February and March 1865 the friar Gregor Mendel read two lectures on his crosses of garden peas to the Natural History Society of Brünn (now Brno), which printed them in 1866. Following seven traits, each in two forms, he showed that they were inherited as separate units in predictable ratios. The botanist Carl Nägeli was unimpressed, Mendel became abbot in 1868, and the paper was little read until 1900, when Hugo De Vries and others rediscovered it. In 1936 the statistician R. A. Fisher argued that the results fit too well to be honest; pea geneticists still disagree."
+    ],
+    "links": [
+      {
+        "to": "dna-double-helix",
+        "kind": "led-to",
+        "note": "The units Mendel inferred turned out to be stretches of DNA."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Gregor Johann Mendel and the development of modern evolutionary biology",
+        "author": "Stenseth NC, Andersson L, Hoekstra HE",
+        "publisher": "Proceedings of the National Academy of Sciences",
+        "year": 2022,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9335310/",
+        "type": "scholarly",
+        "supports": "Lectures in February and March 1865; publication in 1866; abbot in 1868; rediscovery in 1900.",
+        "quote": "Elected abbot in the Saint Augustine monastery in Brno"
+      },
+      {
+        "title": "Mendel and Darwin",
+        "author": "Andrew Berry, Janet Browne",
+        "publisher": "Proceedings of the National Academy of Sciences",
+        "year": 2022,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9335214/",
+        "type": "scholarly",
+        "supports": "Nägeli's indifference, uncut copies of the paper, and De Vries reading it in 1900.",
+        "quote": "It is clear from correspondence from 1866 to 1873 that Nägeli was unimpressed by Mendel’s experiments"
+      },
+      {
+        "title": "Mendel: From genes to genome",
+        "author": "Sussmilch FC, Ross JJ, Reid JB",
+        "publisher": "Plant Physiology",
+        "year": 2022,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9706470/",
+        "type": "scholarly",
+        "supports": "Seven two-form characters; Fisher's 1936 claim of falsification and the continuing debate.",
+        "quote": "Fisher (1936) concluded that “the data of most, if not all, of the experiments have been falsified so as to agree closely with Mendel’s expectations.”"
+      }
+    ],
+    "further": []
   }
 ]

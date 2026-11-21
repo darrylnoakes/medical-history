@@ -1,0 +1,782 @@
+[
+  {
+    "id": "nuremberg-code",
+    "title": "The Nuremberg Code",
+    "stream": "bio-public",
+    "tier": 1,
+    "date": {
+      "year": 1947,
+      "display": "August 1947"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "The trial record and the judgment containing the ten principles are fully documented. Who actually wrote the code (the judges, or the advising physicians Andrew Ivy and Leo Alexander) is debated, as is how much it owed to German research guidelines of 1931."
+    },
+    "place": "Nuremberg, Germany",
+    "people": [
+      "Andrew Ivy, American physiologist who advised the prosecution",
+      "Leo Alexander, American physician who drafted six principles in April 1947",
+      "Henry Beecher, Harvard anesthesiologist whose 1966 exposé revived the issue"
+    ],
+    "themes": [
+      "ethics",
+      "institutions"
+    ],
+    "summary": "Judging Nazi doctors in 1947, American judges wrote ten rules for human experiments. The first was absolute: the subject's voluntary consent. Many researchers ignored it.",
+    "body": [
+      "On 9 December 1946 the prosecution opened its case before an American military tribunal at Nuremberg against 23 German doctors and administrators. They were charged over the \"euthanasia\" killings of disabled people and over experiments on concentration-camp prisoners: freezing, high-altitude, malaria and sterilization experiments among them. In August 1947 the judges convicted 16. Karl Brandt and six others were sentenced to death and executed; seven defendants were acquitted.",
+      "Several defendants had argued that no international law or statement drew a line between legal and illegal human experimentation. Two American doctors working with the prosecution, Andrew Ivy and Leo Alexander, disagreed. On 17 April 1947 Alexander sent the prosecutors a memorandum of six principles, and the verdict expanded them into ten under the heading \"Permissible Medical Experiments.\" The first became famous: \"The voluntary consent of the human subject is absolutely essential.\" Others demand that risks be justified by the importance of the problem, that only qualified scientists do the work, and that subjects be free to stop.",
+      "The rules were less new than they looked. Germany had issued detailed research guidelines in 1931 that were never repealed, and one critic argues that six of the ten principles derive from them. Nor did the code change much at first. Investigators tended to see it as \"a good code for barbarians,\" not for themselves, and it had little impact in the United States. The US Public Health Service syphilis study in Alabama ran for 25 more years with no sign that anyone weighed it against the code.",
+      "Change came by other routes. The World Medical Association adopted the Declaration of Helsinki in 1964, drawing heavily on the code, and has revised it repeatedly since. In 1966 the anesthesiologist Henry Beecher published \"Ethics and Clinical Research,\" describing 22 studies by respected investigators in prestigious journals that had put subjects at risk, often without consent. That article and the 1972 newspaper exposure of the syphilis study led to American legislation and, in 1974, a National Commission for the Protection of Human Subjects, whose Belmont Report of 1979 still frames research ethics."
+    ],
+    "myth": {
+      "tradition": "After Nuremberg, the code became the rulebook that governed human experiments.",
+      "record": "For two decades many researchers, especially in the United States, treated it as aimed at Nazi crimes rather than their own work. Binding rules came only after the Declaration of Helsinki, Beecher's 1966 article and the exposure of the syphilis study in 1972."
+    },
+    "links": [
+      {
+        "to": "tuskegee",
+        "kind": "see-also",
+        "note": "The American study that ran on for decades after the code was written."
+      },
+      {
+        "to": "eugenics",
+        "kind": "built-on",
+        "note": "The Nazi killing of disabled patients grew out of eugenic ideas."
+      },
+      {
+        "to": "henrietta-lacks",
+        "kind": "see-also",
+        "note": "Consent again, this time for cells taken in 1951."
+      },
+      {
+        "to": "streptomycin-rct",
+        "kind": "see-also",
+        "note": "The same years saw the modern clinical trial take shape."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Nuremberg Code: Directives for Human Experimentation",
+        "publisher": "Office of Research Integrity, US Department of Health and Human Services",
+        "url": "https://ori.hhs.gov/content/chapter-3-The-Protection-of-Human-Subjects-nuremberg-code-directives-human-experimentation",
+        "type": "institutional",
+        "supports": "The ten principles, including voluntary consent, risk proportionate to humanitarian importance, qualified scientists and the subject's freedom to end the experiment.",
+        "quote": "The voluntary consent of the human subject is absolutely essential."
+      },
+      {
+        "title": "NMT Case 1: U.S.A. v. Karl Brandt et al.: The Doctors' Trial",
+        "publisher": "Harvard Law School Library, Nuremberg Trials Project",
+        "url": "https://nuremberg.law.harvard.edu/nmt_1_intro",
+        "type": "institutional",
+        "supports": "23 defendants; the kinds of experiments charged; chronology (prosecution opening 9 December 1946); seven executed, nine imprisoned, seven acquitted.",
+        "quote": "Karl Brandt and six other defendants were convicted, sentenced to death, and executed; nine defendants were convicted and sentenced to terms in prison; and seven defendants were acquitted."
+      },
+      {
+        "title": "The Nuremberg Code: A critique",
+        "author": "R. B. Ghooi",
+        "publisher": "Perspectives in Clinical Research",
+        "year": 2011,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3121268/",
+        "type": "scholarly",
+        "supports": "The German guidelines of 1931 and the argument that six of the ten principles derive from them; debate over authorship.",
+        "quote": "Six of ten principles in Nuremberg Code are derived from the 1931 Guidelines"
+      },
+      {
+        "title": "Fiftieth Anniversary of Uncovering the Tuskegee Syphilis Study: The Story and Timeless Lessons",
+        "author": "M. J. Tobin",
+        "publisher": "American Journal of Respiratory and Critical Care Medicine",
+        "year": 2022,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9872801/",
+        "type": "scholarly",
+        "supports": "Limited early uptake: 'a good code for barbarians', little impact in the US; the syphilis study never weighed against the code.",
+        "quote": "Investigators looked on it as “a good code for barbarians” ( 86 ), and it had little impact in the United States"
+      },
+      {
+        "title": "Declaration of Helsinki",
+        "publisher": "World Medical Association",
+        "url": "https://www.wma.net/what-we-do/medical-ethics/declaration-of-helsinki/",
+        "type": "institutional",
+        "supports": "Adoption of the Declaration of Helsinki in 1964 and its later revisions.",
+        "quote": "The first version was adopted in 1964 and has been amended seven times since, most recently at the General Assembly in October 2024."
+      },
+      {
+        "title": "Historical Perspectives on Ethical and Regulatory Aspects of Human Participants Research: Implications for Oncology Clinical Trials in Africa",
+        "publisher": "JCO Global Oncology",
+        "year": 2020,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7392783/",
+        "type": "scholarly",
+        "supports": "Beecher's 1966 article and its 22 studies.",
+        "quote": "examined the ethical practices of 22 studies conducted by respected investigators and published in prestigious medical journals"
+      },
+      {
+        "title": "Why Human Subjects Research Protection Is Important",
+        "author": "M. G. White",
+        "publisher": "Ochsner Journal",
+        "year": 2020,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7122250/",
+        "type": "scholarly",
+        "supports": "Twenty-three indicted, sixteen guilty; the defense argument; Ivy and Alexander; Alexander's memorandum of 17 April 1947 and its expansion from six points to ten.",
+        "quote": "On April 17, 1947, Dr Alexander submitted a memorandum to the United States Counsel for War Crimes outlining 6 points defining legitimate medical research."
+      },
+      {
+        "title": "Evolution of informed consent in research: From the Hippocratic Oath to the tailored consent",
+        "publisher": "Open Research Europe",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11399764/",
+        "type": "scholarly",
+        "supports": "The 1972 newspaper exposure of the syphilis study; the 1974 National Commission and the 1979 Belmont Report.",
+        "quote": "The impact of both articles led to legislative changes in the United States and the creation in 1974 of the National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research."
+      }
+    ],
+    "further": [
+      "washington-2006"
+    ],
+    "image": {
+      "commons": "File:Brandt, Karl being sentenced - DPLA - 95a624190def9fe9bf49694a62116386.jpg",
+      "alt": "A man in a plain jacket stands in a wood-paneled courtroom dock wearing headphones, flanked by two helmeted American military policemen; robed defense lawyers with headphones sit in front.",
+      "caption": "Karl Brandt, the lead defendant in *USA v. Karl Brandt et al.*, hears his sentence at the Nuremberg Doctors' Trial, 1947. Photograph by the US Office of Chief of Counsel for War Crimes, now in the US National Archives."
+    }
+  },
+  {
+    "id": "streptomycin-rct",
+    "title": "Streptomycin and the randomised trial",
+    "stream": "bio-drugs",
+    "tier": 1,
+    "date": {
+      "year": 1948,
+      "display": "1948"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "The trial's design and results are documented in the Medical Research Council's 1948 report and participants' recollections. Calling it the first randomised trial is contested, since chance allocation had been used before; who deserves credit for discovering streptomycin was settled in court but is still argued over."
+    },
+    "place": "Rutgers University, New Jersey; London and other British hospitals",
+    "people": [
+      "Albert Schatz, Rutgers PhD student who isolated streptomycin",
+      "Selman Waksman, head of the Rutgers laboratory, Nobel laureate 1952",
+      "Austin Bradford Hill, medical statistician who designed the trial",
+      "Philip D'Arcy Hart (1900–2006), physician on the design team",
+      "John Crofton, Brompton Hospital registrar who coordinated patients"
+    ],
+    "themes": [
+      "drugs",
+      "practice"
+    ],
+    "summary": "A scarce American antibiotic, a Britain short of dollars and a statistician's sealed envelopes produced the model for how new treatments are tested.",
+    "body": [
+      "By 1943 Albert Schatz, a PhD student in Selman Waksman's soil-microbiology laboratory at Rutgers, had isolated streptomycin from the soil bacterium *Streptomyces griseus*. In 1944 William Feldman and Corwin Hinshaw at the Mayo Clinic showed that it worked against the tuberculosis germ. Waksman alone received the 1952 Nobel Prize, \"for his discovery of streptomycin, the first antibiotic effective against tuberculosis\"; Schatz later sued and won legal recognition as co-discoverer.",
+      "In postwar Britain the drug was expensive and paid for in scarce dollars, and the government bought only a little for testing. The statistician Austin Bradford Hill argued that it would be unethical not to use that small supply to find out properly what it added to the standard treatment, bed rest. The Medical Research Council enrolled young adults with acute, progressive tuberculosis of both lungs. Patients were assigned by random numbers whose sequence was hidden in sealed envelopes, and the specialists reading the monthly X-rays did not know who had received the drug.",
+      "In the first six months, 4 of 55 patients given streptomycin died, against 15 of 52 on bed rest alone. The trial also revealed the drug's weakness: tuberculosis bacteria in many patients became resistant, often after the fourth month, and they relapsed. That lesson pushed doctors toward combining drugs.",
+      "The trial is often called the first randomised controlled trial. It was not quite. In 1931 the American doctors James Amberson, B. T. McMahon and Max Pinner divided 24 patients into two matched groups and tossed a single coin to decide which group got a gold drug, sanocrysin; it did harm and no good. The MRC's own 1944 trial of patulin for the common cold was a carefully controlled multicentre study. What set the streptomycin report apart was its explicit concealment of allocation, which prevented doctors from steering patients into one group, and the clarity with which it said so. Alternation, not randomisation, remained the usual method for years afterwards."
+    ],
+    "myth": {
+      "tradition": "The 1948 streptomycin study was the first randomised controlled trial.",
+      "record": "Chance allocation had been used before, as in a 1931 sanocrysin trial decided by a coin toss. The streptomycin trial's real landmark was its concealed random allocation and the clear reporting of it."
+    },
+    "links": [
+      {
+        "to": "lind-scurvy",
+        "kind": "built-on",
+        "note": "A much older attempt at a fair comparison of treatments."
+      },
+      {
+        "to": "penicillin",
+        "kind": "built-on",
+        "note": "Penicillin's success set off the hunt for other antibiotics."
+      },
+      {
+        "to": "smoking-cancer",
+        "kind": "led-to",
+        "note": "Bradford Hill turned next to smoking and lung cancer."
+      },
+      {
+        "to": "evidence-based-medicine",
+        "kind": "led-to",
+        "note": "Randomised trials became the core of evidence-based medicine."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Medical Research Council (1948) Streptomycin treatment of pulmonary tuberculosis: a Medical Research Council investigation",
+        "publisher": "The James Lind Library",
+        "url": "https://www.jameslindlibrary.org/medical-research-council-1948/",
+        "type": "scholarly",
+        "supports": "Date of the MRC report; concealed random allocation.",
+        "quote": "concealed random allocation was used to generate comparison groups in the British Medical Research Council’s celebrated multicentre controlled trial of streptomycin in patients with pulmonary tuberculosis"
+      },
+      {
+        "title": "The MRC randomized trial of streptomycin and its legacy: a view from the clinical front line",
+        "author": "John Crofton",
+        "publisher": "The James Lind Library (first published in the Journal of the Royal Society of Medicine, 2006)",
+        "url": "https://www.jameslindlibrary.org/articles/the-mrc-randomized-trial-of-streptomycin-and-its-legacy-a-view-from-the-clinical-front-line/",
+        "type": "scholarly",
+        "supports": "Dollar shortage and limited supply; Bradford Hill's ethical argument; bed rest as control; blinded X-ray reading; deaths 4/55 vs 15/52; resistance after the fourth month.",
+        "quote": "there were 4 deaths among 55 patients who had been allocated streptomycin, compared with 15 among 52 patients allocated to bed rest alone"
+      },
+      {
+        "title": "Why the 1948 MRC trial of streptomycin used treatment allocation based on random numbers",
+        "author": "Iain Chalmers",
+        "publisher": "The James Lind Library",
+        "year": 2010,
+        "url": "https://www.jameslindlibrary.org/articles/why-the-1948-mrc-trial-of-streptomycin-used-treatment-allocation-based-on-random-numbers/",
+        "type": "scholarly",
+        "supports": "Sealed envelopes; the patulin trial; why the trial matters; alternation remained the usual method.",
+        "quote": "In spite of a few examples of random allocation during the 1920s and 1930s, alternation remained the principal method for unbiased prospective allocation to treatment comparison groups"
+      },
+      {
+        "title": "Lessons from using randomization to assess gold treatment for tuberculosis",
+        "author": "M. Diaz and D. Neuhauser",
+        "publisher": "The James Lind Library",
+        "url": "https://www.jameslindlibrary.org/articles/lessons-from-using-randomization-to-assess-gold-treatment-for-tuberculosis/",
+        "type": "scholarly",
+        "supports": "The 1931 Amberson sanocrysin trial: 24 patients, coin flip, harm without benefit.",
+        "quote": "they divided 24 patients into two pair-matched groups of 12, then used a single coin flip to assign all patients in a group (cluster) to receive either sanocrysin treatment or a control treatment"
+      },
+      {
+        "title": "Etymologia: Streptomycin",
+        "publisher": "Emerging Infectious Diseases (CDC)",
+        "year": 2019,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6390759/",
+        "type": "institutional",
+        "supports": "Schatz isolated streptomycin by 1943; Feldman and Hinshaw 1944; Waksman's Nobel and Schatz's lawsuit.",
+        "quote": "Schatz later successfully sued to be legally recognized as a co-discoverer of streptomycin"
+      },
+      {
+        "title": "The Nobel Prize in Physiology or Medicine 1952",
+        "publisher": "NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/medicine/1952/summary/",
+        "type": "institutional",
+        "supports": "Waksman's sole Nobel Prize and its citation.",
+        "quote": "for his discovery of streptomycin, the first antibiotic effective against tuberculosis"
+      }
+    ],
+    "further": [
+      "bynum-2008"
+    ]
+  },
+  {
+    "id": "who-founded",
+    "title": "The World Health Organization",
+    "stream": "bio-public",
+    "tier": 2,
+    "date": {
+      "year": 1948,
+      "display": "7 April 1948"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "The constitution's adoption, ratification and entry into force are documented in WHO's own records; the earlier international health bodies are well described by historians."
+    },
+    "place": "New York and Geneva",
+    "people": [],
+    "themes": [
+      "public-health",
+      "institutions"
+    ],
+    "summary": "Born with the United Nations, WHO defined health as complete physical, mental and social well-being, and inherited a century of cholera diplomacy.",
+    "body": [
+      "At the 1945 San Francisco conference that created the United Nations, Brazil and China proposed an international health organization. A conference in New York drafted its constitution, signed on 22 July 1946 by 51 UN members and 10 other nations. It came into force on 7 April 1948, when the 26th of the 61 signatories ratified it, a date now marked as World Health Day. The first World Health Assembly met in Geneva that June. The constitution's preamble set an ambitious bar: health is \"a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity,\" and its highest attainable standard is a fundamental right.",
+      "WHO was the heir of a long line. International health diplomacy began with the first International Sanitary Conference, called in Paris in 1851 over cholera and attended by only twelve states. The Office International d'Hygiène Publique followed in 1907 and the League of Nations Health Organisation after the First World War. WHO absorbed their work; the older Pan American organization survived alongside it as WHO's regional office for the Americas."
+    ],
+    "links": [
+      {
+        "to": "smallpox-eradication",
+        "kind": "led-to",
+        "note": "WHO's greatest campaign."
+      },
+      {
+        "to": "alma-ata",
+        "kind": "led-to",
+        "note": "WHO's 1978 call for health for all."
+      },
+      {
+        "to": "snow-cholera",
+        "kind": "see-also",
+        "note": "Cholera drove the first international health conferences."
+      }
+    ],
+    "sources": [
+      {
+        "title": "History of WHO",
+        "publisher": "World Health Organization",
+        "url": "https://www.who.int/about/history",
+        "type": "institutional",
+        "supports": "Brazil and China's proposal; signing on 22 July 1946 by 51 UN members and 10 others; entry into force on 7 April 1948 with the 26th ratification; first Health Assembly in June 1948.",
+        "quote": "The Constitution did not come into force until 7 April 1948, when the 26th of the 61 governments who had signed it ratified its signature."
+      },
+      {
+        "title": "Constitution of the World Health Organization",
+        "publisher": "World Health Organization",
+        "url": "https://www.who.int/about/governance/constitution",
+        "type": "primary",
+        "supports": "The definition of health and the right to the highest attainable standard of health.",
+        "quote": "Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity."
+      },
+      {
+        "title": "Applying Lessons from the Past in Haiti: Cholera, Scientific Knowledge, and the Longest-Standing Principle of International Health Law",
+        "author": "A. Houston",
+        "publisher": "Infectious Diseases in the New Millennium (Springer)",
+        "year": 2020,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7226900/",
+        "type": "scholarly",
+        "supports": "The 1851 Paris conference over cholera, its twelve states; the OIHP of 1907 and the League of Nations Health Organisation.",
+        "quote": "Only twelve states participated in the initial event"
+      },
+      {
+        "title": "World Health Organization",
+        "publisher": "International Encyclopedia of Public Health (Elsevier)",
+        "year": 2008,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7148621/",
+        "type": "reference",
+        "supports": "WHO taking over the functions of the OIHP, UNRRA and the League body; the Pan American organization as regional office.",
+        "quote": "The functions of the OIHP, UNRRA, and the League of Nations Health Organization were taken over by the WHO."
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "nhs",
+    "title": "Britain's National Health Service",
+    "stream": "bio-public",
+    "tier": 2,
+    "date": {
+      "year": 1948,
+      "display": "5 July 1948"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "The founding date, the nationalisation of the hospitals and the 1951 charges are documented in government records and standard histories."
+    },
+    "place": "United Kingdom",
+    "people": [
+      "Aneurin Bevan, Labour minister of health who created the service",
+      "William Beveridge, author of the 1942 report on social insurance",
+      "Nikolai Semashko (1874–1949), Soviet People's Commissar of Public Health, 1918–1930"
+    ],
+    "themes": [
+      "public-health",
+      "institutions"
+    ],
+    "summary": "On 5 July 1948 Britain made doctors, hospitals, spectacles and dentures free to everyone. Within three years it was charging for some of them.",
+    "body": [
+      "The National Health Service began on 5 July 1948, the \"Appointed Day\" for a package of reforms that effectively created the British welfare state. William Beveridge's 1942 report had proposed state funding for health care but not how a service should work. The Labour health minister, Aneurin Bevan, persuaded his government to nationalise the entire hospital system, so the new service inherited some 2,800 hospitals with more than 500,000 beds. Demand that had been held back for years poured in; older people rushed to get spectacles. Free care at the point of use did not survive intact: charges for dentures and spectacles began in May 1951, and Bevan resigned that year, partly in protest.",
+      "Britain was not alone in seeking care for all. In Soviet Russia, Nikolai Semashko, People's Commissar of Public Health from 1918, built a system funded from the national budget and, in theory, free to patients. New Zealand's Social Security Act of 1938 promised free health services for everyone, but doctors' opposition meant it was never fully implemented, and family doctors kept charging fees."
+    ],
+    "links": [
+      {
+        "to": "bismarck-insurance",
+        "kind": "see-also",
+        "note": "The other model: compulsory health insurance."
+      },
+      {
+        "to": "who-founded",
+        "kind": "see-also",
+        "note": "Founded the same year."
+      },
+      {
+        "to": "chadwick",
+        "kind": "built-on",
+        "note": "A century of British state involvement in health."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Overthrowing the market in health care: the achievements of the early National Health Service",
+        "author": "Charles Webster",
+        "publisher": "Journal of the Royal College of Physicians of London",
+        "year": 1995,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5401258/",
+        "type": "scholarly",
+        "supports": "Start date and the Appointed Day; Bevan's nationalisation of the hospitals; 2,800 hospitals and 500,000 beds.",
+        "quote": "it inherited some 2,800 hospitals with more than 500,000 beds"
+      },
+      {
+        "title": "1948–1957: Establishing the National Health Service",
+        "author": "Geoffrey Rivett",
+        "publisher": "Nuffield Trust",
+        "url": "https://www.nuffieldtrust.org.uk/chapter/1948-1957-establishing-the-national-health-service",
+        "type": "scholarly",
+        "supports": "Beveridge's 1942 report; pent-up demand for spectacles; 1951 charges and Bevan's resignation.",
+        "quote": "Bevan resigned in 1951, in part because of his opposition to charges"
+      },
+      {
+        "title": "The NHS is 50: the first 25 years",
+        "author": "G. Godber",
+        "publisher": "Journal of the Royal College of Physicians of London",
+        "year": 1998,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9663064/",
+        "type": "scholarly",
+        "supports": "The Appointed Day, 5 July 1948.",
+        "quote": "the run-up to the 'Appointed Day' for the NHS, 5 July 1948"
+      },
+      {
+        "title": "The Most Influential Scientists in the Development of Public Health (3): Nikolai Aleksandrovich Semashko (1874-1949)",
+        "author": "I. Masic",
+        "publisher": "Materia Socio-Medica",
+        "year": 2019,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6853735/",
+        "type": "scholarly",
+        "supports": "Semashko's life dates and his role as People's Commissar of Public Health, 1918–1930.",
+        "quote": "became People’s Commissar of Public Health in 1918 and served in that role until 1930"
+      },
+      {
+        "title": "Exporting Socialist Health Care: Soviet Humanitarianism in the Global South",
+        "author": "S. Hearne",
+        "publisher": "Journal of Contemporary History",
+        "year": 2026,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13252824/",
+        "type": "scholarly",
+        "supports": "Soviet health care funded from the national budget and in theory free to patients.",
+        "quote": "within which healthcare was funded by the national budget and accessing treatment was (in theory) free for the patient"
+      },
+      {
+        "title": "Recent developments in the funding and organisation of the New Zealand health system",
+        "author": "T. Ashton",
+        "publisher": "Australia and New Zealand Health Policy",
+        "year": 2005,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1142303/",
+        "type": "scholarly",
+        "supports": "New Zealand's Social Security Act 1938 and its partial implementation.",
+        "quote": "However widespread opposition from the medical profession meant that the Act was never implemented in full"
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "framingham",
+    "title": "The Framingham Heart Study",
+    "stream": "bio-public",
+    "tier": 3,
+    "date": {
+      "year": 1948,
+      "end": null,
+      "display": "1948 onward"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "The study's founding, enrolment and publications are documented by the National Heart, Lung, and Blood Institute and in its own archives."
+    },
+    "place": "Framingham, Massachusetts, USA",
+    "people": [
+      "Thomas Dawber, study director from 1950",
+      "William Kannel, later director, co-author of the 1961 'risk factors' paper"
+    ],
+    "themes": [
+      "public-health",
+      "theory"
+    ],
+    "summary": "A Massachusetts town volunteered for decades of check-ups, and gave medicine the idea of the 'risk factor'.",
+    "body": [
+      "By the 1940s cardiovascular disease caused about one in two deaths in the United States, and most Americans accepted early death from heart disease as unavoidable. In 1948 researchers recruited 5,209 men and women aged 30 to 62 in Framingham, Massachusetts, and examined them again and again to see who fell ill. In the 1960s the study linked smoking, cholesterol and high blood pressure to heart disease, and Thomas Dawber and William Kannel's 1961 paper popularised the term \"risk factor.\" The study survived a 1969 order to close it and now follows its participants' grandchildren."
+    ],
+    "links": [
+      {
+        "to": "statins",
+        "kind": "led-to",
+        "note": "Cholesterol as a risk factor set up the case for lowering it."
+      },
+      {
+        "to": "smoking-cancer",
+        "kind": "see-also",
+        "note": "The same years established smoking's other great harm."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Framingham Heart Study (FHS)",
+        "publisher": "National Heart, Lung, and Blood Institute",
+        "url": "https://www.nhlbi.nih.gov/science/framingham-heart-study-fhs",
+        "type": "institutional",
+        "supports": "Founding in 1948; 5,209 participants aged 30 to 62; 1960s findings; three generations.",
+        "quote": "When the FHS began in 1948, researchers recruited 5,209 men and women between the ages of 30 and 62 from the town of Framingham, Massachusetts."
+      },
+      {
+        "title": "The Framingham Heart Study and the epidemiology of cardiovascular disease: a historical perspective",
+        "author": "S. S. Mahmood, D. Levy, R. S. Vasan, T. J. Wang",
+        "publisher": "The Lancet",
+        "year": 2014,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4159698/",
+        "type": "scholarly",
+        "supports": "Heart disease as half of US deaths; the 1961 'risk factor' paper; the 1969 closure order.",
+        "quote": "the term “risk factor” was popularized in the medical lexicon by Thomas Dawber and William Kannel by their 1961 publication"
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "lithium",
+    "title": "Lithium for mania",
+    "stream": "bio-mind",
+    "tier": 3,
+    "date": {
+      "year": 1949,
+      "display": "September 1949"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "Cade's 1949 paper is on record. His guinea-pig reasoning was mistaken (the animals were probably poisoned), and lithium had been tried for mania in the 19th century, so 'discovery' is a generous word."
+    },
+    "place": "Bundoora Repatriation Mental Hospital, near Melbourne, Australia",
+    "people": [
+      "John Cade (died 1980), Australian psychiatrist",
+      "Mogens Schou (1918–2005), Danish physician who tested lithium in a controlled trial"
+    ],
+    "themes": [
+      "drugs",
+      "mind"
+    ],
+    "summary": "A psychiatrist in a makeshift lab injected guinea pigs with patients' urine, drew the wrong conclusion, and found a drug that still works.",
+    "body": [
+      "Working in a makeshift laboratory at a mental hospital near Melbourne, John Cade injected guinea pigs with urine from manic patients, then with lithium salts, which left the animals \"extremely lethargic,\" probably from poisoning. In September 1949 he reported dramatic improvement in ten manic patients. Lithium had been tried for mania as early as 1871, and within two years of Cade's paper a patient died of lithium poisoning. Acceptance was slow: the Dane Mogens Schou published a controlled trial in 1954, but the US approved lithium only in 1970, the 50th country to do so."
+    ],
+    "links": [
+      {
+        "to": "chlorpromazine",
+        "kind": "see-also",
+        "note": "The other new psychiatric drug of the early 1950s."
+      },
+      {
+        "to": "streptomycin-rct",
+        "kind": "see-also",
+        "note": "Schou borrowed the new method of random allocation."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Rise of a Legend: Lithium and the Extraordinary Story of Its Discovery",
+        "author": "K. N. Fountoulakis",
+        "publisher": "Pharmaceuticals",
+        "year": 2025,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12389268/",
+        "type": "scholarly",
+        "supports": "Cade's guinea-pig experiments; September 1949 paper on ten patients; Hammond 1871; Schou's 1954 trial; FDA approval in April 1970 as the 50th country.",
+        "quote": "In April 1970, with guidance from the lithium task force, the FDA authorized lithium for the treatment of manic episodes. By then, 49 countries had already approved lithium."
+      },
+      {
+        "title": "Lithium: current state of the art and future directions",
+        "author": "M. Gitlin and M. Bauer",
+        "publisher": "International Journal of Bipolar Disorders",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11604892/",
+        "type": "scholarly",
+        "supports": "Cade's 1949 paper and earlier psychiatric uses of lithium.",
+        "quote": "The use of lithium as a psychopharmacological agent is commonly believed to have originated with Cade’s 1949 paper detailing lithium’s antimanic effects"
+      }
+    ],
+    "further": [
+      "scull-2015"
+    ]
+  },
+  {
+    "id": "smoking-cancer",
+    "title": "Smoking causes lung cancer",
+    "stream": "bio-public",
+    "tier": 1,
+    "date": {
+      "year": 1950,
+      "display": "1950"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "The 1950 studies, the British Doctors Study and the 1964 Surgeon General's report are all published and dated. The causal link is no longer disputed by scientists; the industry's statements of doubt are on the record."
+    },
+    "place": "London, UK; St Louis and New York, USA",
+    "people": [
+      "Richard Doll, British epidemiologist",
+      "Austin Bradford Hill, British medical statistician",
+      "Ernst Wynder, co-author of the 1950 American study",
+      "Evarts Graham, co-author of the 1950 American study",
+      "Müller, author of a 1939 German case-control study",
+      "Luther Terry, US Surgeon General in 1964"
+    ],
+    "themes": [
+      "public-health",
+      "theory"
+    ],
+    "summary": "In 1950 two teams on two continents showed that lung-cancer patients were almost all smokers. Proving it, and getting people to act, took decades.",
+    "body": [
+      "Lung cancer was becoming steadily more common among men. In 1950 two large studies appeared almost together. In the United States, Ernst Wynder and Evarts Graham compared the smoking histories of 605 lung-cancer patients with those of other patients; in Britain, Richard Doll and Austin Bradford Hill did the same in a study later enlarged to 1,465 cases. Smoking was far more common among the cancer patients. To answer the obvious objection, that sick people might misremember their habits, Doll and Hill showed that men wrongly suspected of lung cancer reported smoking much like the controls.",
+      "They were not the first. A German doctor named Müller published a comparison of 86 lung-cancer patients and 86 controls in 1939, and Schairer and Schöniger another in 1943. These were noticed in Germany but little cited elsewhere.",
+      "Case-control studies could be dismissed as coincidence, so Doll and Hill began a prospective study in 1951, recording the habits of 34,439 male British doctors and following their deaths for fifty years. Men born between 1900 and 1930 who kept smoking cigarettes died on average about ten years earlier than lifelong non-smokers.",
+      "Resistance was fierce. The eminent statisticians R. A. Fisher and Joseph Berkson rejected the causal claim. In 1954 American tobacco companies publicly declared that they did not believe their products were harmful, and filter cigarettes were rushed out to reassure smokers. The Royal College of Physicians of London issued a strong report in 1962. In the United States, a committee convened by Surgeon General Luther Terry reviewed more than 7,000 articles, and he released its report on Saturday 11 January 1964, a day chosen to limit the effect on the stock market. About 42 percent of American adults smoked in 1965; fewer than 20 percent did by 2011."
+    ],
+    "myth": {
+      "tradition": "Doll and Hill discovered in 1950 that smoking causes lung cancer.",
+      "record": "German researchers had published case-control evidence in 1939 and 1943, and an American study appeared the same year as Doll and Hill's. Their distinctive contribution was the follow-up study of British doctors, which turned an association into convincing proof."
+    },
+    "links": [
+      {
+        "to": "streptomycin-rct",
+        "kind": "built-on",
+        "note": "Bradford Hill's previous landmark study."
+      },
+      {
+        "to": "framingham",
+        "kind": "see-also",
+        "note": "Long-term follow-up linked smoking to heart disease too."
+      },
+      {
+        "to": "eugenics",
+        "kind": "see-also",
+        "note": "Nazi Germany's anti-tobacco research was entangled with its racial hygiene."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The hazards of smoking and the benefits of cessation: a critical summation of the epidemiological evidence in high-income countries",
+        "author": "Prabhat Jha",
+        "publisher": "eLife",
+        "year": 2020,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7093109/",
+        "type": "scholarly",
+        "supports": "German case-control studies of 1939 and 1943 and their limited reach; the near-simultaneous 1950 studies; the recall-bias check.",
+        "quote": "Two studies published in German language in 1939 and 1943 used a ‘case-control’ methodology that examined the smoking histories of adults with lung cancer in contrast to cancer-free controls"
+      },
+      {
+        "title": "Research on smoking and lung cancer: a landmark in the history of chronic disease epidemiology",
+        "author": "C. White",
+        "publisher": "Yale Journal of Biology and Medicine",
+        "year": 1990,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2589239/",
+        "type": "scholarly",
+        "supports": "Case numbers (605; 1,465); Müller's 86 cases and controls; Fisher and Berkson; the 1954 industry statement; the Royal College of Physicians report of 1962.",
+        "quote": "The former was based on 605 cases and the latter was enlarged in 1952 to include 1,465."
+      },
+      {
+        "title": "Mortality in relation to smoking: 50 years' observations on male British doctors",
+        "author": "R. Doll, R. Peto, J. Boreham, I. Sutherland",
+        "publisher": "BMJ",
+        "year": 2004,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC437139/",
+        "type": "primary",
+        "supports": "The British Doctors Study from 1951: 34,439 men followed for 50 years; about ten years of life lost.",
+        "quote": "Men born in 1900-1930 who smoked only cigarettes and continued smoking died on average about 10 years younger than lifelong non-smokers."
+      },
+      {
+        "title": "The 1964 Report on Smoking and Health",
+        "publisher": "Reports of the Surgeon General, Profiles in Science, US National Library of Medicine",
+        "url": "https://profiles.nlm.nih.gov/spotlight/nn/feature/smoking",
+        "type": "institutional",
+        "supports": "Terry's committee, 7,000 articles, release on 11 January 1964, a Saturday.",
+        "quote": "Terry issued the commission's report on January 11, 1964, choosing a Saturday to minimize the effect on the stock market"
+      },
+      {
+        "title": "The Changing Public Image of Smoking in the United States: 1964–2014",
+        "author": "K. Michael Cummings and Robert N. Proctor",
+        "publisher": "Cancer Epidemiology, Biomarkers & Prevention",
+        "year": 2014,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3894634/",
+        "type": "scholarly",
+        "supports": "Filter cigarettes as a response to health fears; smoking prevalence in 1965 and 2011.",
+        "quote": "In the U.S. in 1965 approximately 42% of adults were current smokers (52% of men and 34% of women)"
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "henrietta-lacks",
+    "title": "HeLa: Henrietta Lacks's immortal cells",
+    "stream": "bio-lab",
+    "tier": 3,
+    "date": {
+      "year": 1951,
+      "display": "1951"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "The taking of her cells in 1951, their use in polio vaccine testing and the later agreements with her family are well documented."
+    },
+    "place": "Johns Hopkins Hospital, Baltimore, USA",
+    "people": [
+      "Henrietta Lacks (died 1951, aged 31), the patient whose tumor cells became HeLa",
+      "George Otto Gey, Johns Hopkins cell biologist who grew the cells"
+    ],
+    "themes": [
+      "ethics",
+      "technology"
+    ],
+    "summary": "Cells taken from a Black patient's tumor without her knowledge became the first immortal human cell line, and a lasting question about consent.",
+    "body": [
+      "In 1951 Henrietta Lacks, an African American woman, was treated for cervical cancer at Johns Hopkins, where researchers took tumor samples without her knowledge or consent. In George Gey's laboratory her cells kept dividing indefinitely: HeLa, the first immortal human cell line, which Gey gave away free. She died on 4 October 1951, aged 31. Mass-produced at the Tuskegee Institute, HeLa cells helped evaluate the 1954 Salk polio vaccine trial. In 2013 the National Institutes of Health agreed with her family on access to HeLa genome data, and in 2023 her descendants settled a lawsuit against Thermo Fisher Scientific."
+    ],
+    "links": [
+      {
+        "to": "polio-vaccine",
+        "kind": "led-to",
+        "note": "HeLa cells helped evaluate the Salk vaccine."
+      },
+      {
+        "to": "nuremberg-code",
+        "kind": "see-also",
+        "note": "The consent principle, ignored in ordinary hospital practice."
+      },
+      {
+        "to": "tuskegee",
+        "kind": "see-also",
+        "note": "Another case of Black patients used without informed consent."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Henrietta Lacks' family appointed World Health Organization Goodwill Ambassadors for cervical cancer elimination",
+        "publisher": "World Health Organization",
+        "year": 2022,
+        "url": "https://www.who.int/news/item/16-10-2022-henrietta-lacks--family-appointed-world-health-organization-goodwill-ambassadors-for-cervical-cancer-elimination",
+        "type": "institutional",
+        "supports": "Biopsies taken without knowledge or consent; first immortal cell line; her death on 4 October 1951 aged 31.",
+        "quote": "Despite treatment, it cut her life short on 4 October 1951. She was only 31 years old."
+      },
+      {
+        "title": "Who would own the HeLa cell line if the Henrietta Lacks case happened in present-day South Africa?",
+        "author": "D. W. Thaldar",
+        "publisher": "Journal of Law and the Biosciences",
+        "year": 2023,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10198699/",
+        "type": "scholarly",
+        "supports": "Gey's laboratory, indefinite growth, free distribution; the 2021 lawsuit.",
+        "quote": "Gey distributed the HeLa cell line widely and free of charge."
+      },
+      {
+        "title": "Between Simians and Cell Lines: Rhesus Monkeys, Polio Research, and the Geopolitics of Tissue Culture (1934-1954)",
+        "author": "T. Suri",
+        "publisher": "Journal of the History of Biology",
+        "year": 2022,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8887660/",
+        "type": "scholarly",
+        "supports": "HeLa production at Tuskegee Institute to evaluate the Salk vaccine trial.",
+        "quote": "sponsored a HeLa cell production project at Tuskegee Institute so that laboratories could use the cell line instead of monkey tissues to assess the Salk vaccine"
+      },
+      {
+        "title": "Biospecimen policy: Family matters",
+        "author": "Kathy L. Hudson and Francis S. Collins",
+        "publisher": "Nature",
+        "year": 2013,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5101952/",
+        "type": "primary",
+        "supports": "The 2013 NIH agreement with the Lacks family on HeLa genome data.",
+        "quote": "worked with the family of Henrietta Lacks, the unwitting source of the HeLa cell line, to craft an agreement for access to HeLa genome data"
+      },
+      {
+        "title": "HeLa Cases Prompt More Thinking on Ethics (abstract via Europe PMC)",
+        "publisher": "Cancer Discovery",
+        "year": 2023,
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:37615508&resultType=core&format=json",
+        "type": "news",
+        "supports": "The 2023 settlement with Thermo Fisher Scientific.",
+        "quote": "The descendants of Henrietta Lacks recently settled their lawsuit with Thermo Fisher Scientific"
+      }
+    ],
+    "further": [
+      "skloot-2010"
+    ]
+  }
+]

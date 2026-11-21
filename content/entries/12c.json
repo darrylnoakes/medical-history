@@ -1,0 +1,516 @@
+[
+  {
+    "id": "gene-therapy",
+    "title": "Gene therapy's long road",
+    "stream": "bio-lab",
+    "tier": 3,
+    "date": {
+      "year": 1990,
+      "end": 2017,
+      "display": "1990–2017"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "The 1990 NIH trial, Jesse Gelsinger's death in 1999, the leukemia cases reported in 2003 and the approvals of 2012 and 2017 are all well documented. Calling DeSilva's treatment the first successful gene therapy is conventional, but very few of the cells in those early trials were actually corrected."
+    },
+    "place": "National Institutes of Health, Bethesda, Maryland; Philadelphia; Europe",
+    "people": [
+      "Ashanthi DeSilva, the first patient treated in the 1990 ADA-SCID trial",
+      "W. French Anderson and R. Michael Blaese, NIH researchers who led the 1990 trial",
+      "Jesse Gelsinger (died 1999), 18-year-old volunteer who died in a gene therapy trial"
+    ],
+    "themes": [
+      "drugs",
+      "ethics",
+      "technology"
+    ],
+    "summary": "A corrected gene in a child's immune cells in 1990 promised cures; a death and a run of leukemias showed the risks, and approved treatments took until 2012.",
+    "body": [
+      "In 1990, at the National Institutes of Health, a team led by French Anderson and Michael Blaese gave Ashanthi DeSilva, who had the inherited immune disorder ADA-SCID, infusions of her own T cells carrying a working copy of the missing gene. Optimism collapsed in 1999, when 18-year-old Jesse Gelsinger died in a University of Pennsylvania trial after a reaction to the virus used to deliver the gene, and again in 2003, when leukemia appeared in children treated for another form of SCID. Europe approved its first gene therapy, Glybera, in 2012; the United States followed in 2017."
+    ],
+    "links": [
+      {
+        "to": "recombinant-dna",
+        "kind": "built-on",
+        "note": "Gene therapy depended on the tools for cutting and splicing DNA."
+      },
+      {
+        "to": "crispr",
+        "kind": "led-to",
+        "note": "Gene editing offered a way to repair genes rather than add them."
+      },
+      {
+        "to": "nuremberg-code",
+        "kind": "see-also",
+        "note": "Gelsinger's death renewed scrutiny of consent and conflicts of interest in research."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Viral vector platforms within the gene therapy landscape",
+        "author": "Jote T. Bulcha, Yi Wang, Hong Ma, Phillip W. L. Tai, Guangping Gao",
+        "publisher": "Signal Transduction and Targeted Therapy",
+        "year": 2021,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7868676/",
+        "type": "scholarly",
+        "supports": "Anderson, Blaese and colleagues treated Ashanthi DeSilva for ADA-SCID with retrovirally modified T cells; Gelsinger's 1999 death in an OTC trial using an adenovirus vector.",
+        "quote": "A trial led by French Anderson, Michael Blaese, and Steven Rosenburg also employed an ex vivo strategy in treating a patient named Ashanthi DeSilva"
+      },
+      {
+        "title": "Gene therapy then and now: A look back at changes in the field over the past 25 years",
+        "author": "Dan Wang, Grace Stevens, Terence R. Flotte",
+        "publisher": "Molecular Therapy",
+        "year": 2025,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12126805/",
+        "type": "scholarly",
+        "supports": "The 1990 ADA trial on the NIH campus; very low percentages of corrected cells; leukemia in five SCID patients reported in 2003.",
+        "quote": "the first therapeutic gene therapy for a primary immunodeficiency disorder was undertaken in 1990, also on the NIH campus"
+      },
+      {
+        "title": "The vicissitudes of gene therapy",
+        "author": "Christopher H. Evans",
+        "publisher": "Bone & Joint Research",
+        "year": 2019,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6825047/",
+        "type": "scholarly",
+        "supports": "Gelsinger's death in 1999 and the SCID leukemias as the field's two great setbacks; Glybera approved in Europe in 2012; Luxturna and Kymriah approved in the United States in 2017.",
+        "quote": "Approval of a gene therapy by Western countries did not occur until 2012, when the European Medicines Association (EMA) authorized Glybera"
+      },
+      {
+        "title": "Legal liabilities in research: early lessons from North America",
+        "author": "Randi Zlotnik Shaul, Shelley Birenbaum, Megan Evans",
+        "publisher": "BMC Medical Ethics",
+        "year": 2005,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1182131/",
+        "type": "scholarly",
+        "supports": "Jesse Gelsinger was 18 and died in a University of Pennsylvania gene study.",
+        "quote": "an eighteen year-old who had volunteered to participate in a corrective gene study died during the course of the study"
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "evidence-based-medicine",
+    "title": "Evidence-based medicine",
+    "stream": "bio-public",
+    "tier": 2,
+    "date": {
+      "year": 1992,
+      "earliest": 1991,
+      "latest": 1993,
+      "display": "1991–1993"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "The 1991 editorial, the 1992 JAMA article and the 1993 founding of the Cochrane Collaboration are documented in print. The story of how Guyatt chose the name comes from later accounts, and how much the movement has improved care remains argued."
+    },
+    "place": "McMaster University, Hamilton, Ontario; Oxford, England",
+    "people": [
+      "Archie Cochrane (1909–1988), Scottish epidemiologist and author of *Effectiveness and Efficiency*",
+      "David Sackett, McMaster clinical epidemiologist who taught critical appraisal",
+      "Gordon Guyatt, McMaster physician who coined the term"
+    ],
+    "themes": [
+      "practice",
+      "theory",
+      "institutions"
+    ],
+    "summary": "A Canadian residency program gave a name to an old demand, that treatments be judged by fair trials rather than habit, and it reshaped medicine in a decade.",
+    "body": [
+      "In 1972 the Scottish epidemiologist Archie Cochrane published *Effectiveness and Efficiency*, a short book arguing that randomized trials should decide which health services do more good than harm. At McMaster University in Canada, David Sackett and colleagues taught doctors to appraise research critically. In 1990 Gordon Guyatt, McMaster's residency coordinator, called his bedside teaching method \"scientific medicine\"; colleagues bristled at the suggestion that their own practice was unscientific, so he renamed it. \"Evidence-based medicine\" appeared in a 1991 editorial, and in 1992 an international working group announced it in *JAMA* as a new paradigm. In 1993 the Cochrane Collaboration was founded to review trials systematically, building on an Oxford database of trials in pregnancy and childbirth.",
+      "The approach transformed guidelines, journals and medical teaching. Critics argued from the start that it turned clinical judgment into an algorithm that fits individual patients poorly. In 2014 Trisha Greenhalgh and colleagues warned of a movement in crisis: the evidence-based label taken over by drug and device makers, more guidelines than anyone could use, and rules that map badly onto patients with several diseases at once."
+    ],
+    "links": [
+      {
+        "to": "streptomycin-rct",
+        "kind": "built-on",
+        "note": "The randomized controlled trial is the method the movement ranks highest."
+      },
+      {
+        "to": "lind-scurvy",
+        "kind": "see-also",
+        "note": "An early comparison of treatments, often claimed as a forerunner."
+      }
+    ],
+    "sources": [
+      {
+        "title": "History of evidence-based medicine",
+        "author": "Roger L. Sur, Philipp Dahm",
+        "publisher": "Indian Journal of Urology",
+        "year": 2011,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3263217/",
+        "type": "scholarly",
+        "supports": "Guyatt's 'scientific medicine' in 1990 and the renaming; the 1991 ACP Journal Club editorial; Sackett and critical appraisal; the 1993 Cochrane Collaboration and the Oxford perinatal database; criticisms of the approach.",
+        "quote": "The coined term appeared in a subsequent 1991 ACP Journal Club editorial"
+      },
+      {
+        "title": "Cochrane AL (1972) Effectiveness and Efficiency: random reflections on health services",
+        "publisher": "The James Lind Library",
+        "url": "https://www.jameslindlibrary.org/cochrane-al-1972/",
+        "type": "scholarly",
+        "supports": "Cochrane's 1972 book and its argument for randomized trials; Cochrane's life dates.",
+        "quote": "the importance of using randomized trials to identify which health service interventions are more likely to do good than harm"
+      },
+      {
+        "title": "Evidence based medicine: a movement in crisis?",
+        "author": "Trisha Greenhalgh, Jeremy Howick, Neal Maskrey",
+        "publisher": "BMJ",
+        "year": 2014,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4056639/",
+        "type": "scholarly",
+        "supports": "The working group's 'new paradigm'; the 2014 critique: misappropriation by vested interests, unmanageable guidelines, poor fit to multimorbidity.",
+        "quote": "The evidence based “quality mark” has been misappropriated by vested interests"
+      },
+      {
+        "title": "Evidence-Based Medicine: History, Review, Criticisms, and Pitfalls",
+        "author": "Iqbal Ratnani, Sahar Fatima, Muhammad Mohsin Abid, Zehra Surani, Salim Surani",
+        "publisher": "Cureus",
+        "year": 2023,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10035760/",
+        "type": "scholarly",
+        "supports": "Sackett's 1981 critical appraisal work and the 1992 Evidence-Based Medicine Working Group.",
+        "quote": "In 1981, Dr. David Sackett and his colleagues introduced the term \"critical appraisal,\" a method for understanding literature and its application at the bedside"
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "opioid-crisis",
+    "title": "OxyContin and the opioid epidemic",
+    "stream": "bio-public",
+    "tier": 3,
+    "date": {
+      "year": 1996,
+      "display": "1996"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "OxyContin's approval and 1996 launch, the 2007 guilty pleas and the CDC's three-wave pattern are documented. How much of the epidemic marketing caused, rather than wider changes in pain treatment, is the subject of continuing litigation and research."
+    },
+    "place": "United States",
+    "people": [],
+    "themes": [
+      "drugs",
+      "public-health",
+      "ethics"
+    ],
+    "summary": "A slow-release painkiller sold on the claim that addiction was rare helped set off an American overdose epidemic that came in three waves.",
+    "body": [
+      "Purdue Pharma launched OxyContin, a slow-release oxycodone taken every 12 hours, in 1996; sales reached $1.1 billion by 2001. Its promotion leaned on the claim that addiction in pain patients was rare, citing among other things a five-sentence 1980 letter by Porter and Jick reporting 4 cases of addiction among 11,882 patients, later quoted hundreds of times without noting that those patients were in hospital. US overdose deaths came in three waves: prescription opioids from 1999, heroin from 2010 and illicit fentanyl from 2013. Purdue's parent company pleaded guilty to misbranding in 2007."
+    ],
+    "myth": {
+      "tradition": "Studies in the 1980s showed that fewer than 1% of patients given opioids for pain become addicted.",
+      "record": "The figure rested largely on a brief 1980 letter about patients treated in hospital, not on any study of long-term use outside it."
+    },
+    "links": [
+      {
+        "to": "morphine",
+        "kind": "built-on",
+        "note": "The opioid painkillers descend from morphine."
+      },
+      {
+        "to": "patent-medicines",
+        "kind": "see-also",
+        "note": "An earlier era of drugs sold with misleading claims."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Pain Therapy Guided by Purpose and Perspective in Light of the Opioid Epidemic",
+        "author": "Amie L. Severino, Arash Shadfar, Joshua K. Hakimian, et al.",
+        "publisher": "Frontiers in Psychiatry",
+        "year": 2018,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5925443/",
+        "type": "scholarly",
+        "supports": "OxyContin's 1996 release and $1.1 billion sales by 2001; Purdue's claim of under 1% addiction; Porter and Jick's 4 of 11,882 patients in a 5-sentence letter; the 2007 misbranding pleas.",
+        "quote": "In the first study, Porter and Jick found iatrogenic addiction in 4 of 11,882 patients"
+      },
+      {
+        "title": "Risk Attenuation and Amplification in the U.S. Opioid Crisis",
+        "author": "Robin Cantor, Hampton Bates, Christina MacKoul",
+        "publisher": "Risk Analysis",
+        "year": 2022,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9542889/",
+        "type": "scholarly",
+        "supports": "The CDC's three waves (1999, 2010, 2013); the 1980 letter cited hundreds of times, mostly without noting the patients were hospitalized.",
+        "quote": "The second wave begins in 2010 and reflects a rise in heroin overdose deaths. The third and steepest wave begins in 2013"
+      },
+      {
+        "title": "Timeline of Selected FDA Activities and Significant Events Addressing Opioid Misuse and Abuse",
+        "publisher": "US Food and Drug Administration",
+        "url": "https://www.fda.gov/drugs/information-drug-class/timeline-selected-fda-activities-and-significant-events-addressing-opioid-misuse-and-abuse",
+        "type": "institutional",
+        "supports": "OxyContin approved December 1995 as a 12-hour controlled-release oxycodone.",
+        "quote": "first formulation of oxycodone that allowed dosing every 12 hours instead of every 4 to 6 hours"
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "dolly",
+    "title": "Dolly the sheep",
+    "stream": "bio-lab",
+    "tier": 3,
+    "date": {
+      "year": 1996,
+      "display": "5 July 1996"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "Dolly's birth on 5 July 1996 and the method are recorded by the Roslin Institute and in the February 1997 paper in *Nature*. Whether cloning shortened her life was long debated; later studies of her clones suggest it did not."
+    },
+    "place": "Roslin Institute, near Edinburgh, Scotland",
+    "people": [
+      "Ian Wilmut (1944–2023), embryologist who led the team",
+      "Keith Campbell (died 2012), cell biologist and key member of the team"
+    ],
+    "themes": [
+      "technology",
+      "ethics"
+    ],
+    "summary": "A sheep made from a single udder cell proved that an adult, specialized cell still holds the instructions for a whole animal.",
+    "body": [
+      "On 5 July 1996 a white-faced lamb was born to a black-faced Scottish Blackface ewe at the Roslin Institute near Edinburgh. Dolly had been made by fusing a cell from the mammary gland of a six-year-old Finn Dorset ewe with an egg cell, and she was named after Dolly Parton. Sheep had been cloned from embryo cells before; Dolly was the first mammal cloned from an adult cell. Announced in February 1997, she set off worldwide argument about human cloning, and the proof that adult cells could be reset fed later stem cell research."
+    ],
+    "myth": {
+      "tradition": "Dolly aged prematurely and died young because she was a clone.",
+      "record": "She was put down at six because of a virus-induced lung tumor that also struck other Roslin sheep, and four ewes cloned from the same cell line were still healthy at about eight."
+    },
+    "links": [
+      {
+        "to": "stem-cells",
+        "kind": "led-to",
+        "note": "Showing that adult cells could be reprogrammed encouraged work on induced stem cells."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Life of Dolly",
+        "publisher": "The Roslin Institute, University of Edinburgh",
+        "url": "https://www.ed.ac.uk/roslin/about/history/dolly/facts/life-of-dolly",
+        "type": "institutional",
+        "supports": "Birth on 5 July 1996; mammary cell from a six-year-old Finn Dorset; Scottish Blackface surrogate; named after Dolly Parton; earlier embryo clones; announcement in February 1997; lung tumor from JSRV and death in February 2003.",
+        "quote": "Dolly was cloned from a cell taken from the mammary gland of a six-year-old Finn Dorset sheep and an egg cell taken from a Scottish Blackface sheep"
+      },
+      {
+        "title": "Viable offspring derived from fetal and adult mammalian cells",
+        "author": "I. Wilmut, A. E. Schnieke, J. McWhir, A. J. Kind, K. H. S. Campbell",
+        "publisher": "Nature",
+        "year": 1997,
+        "url": "https://www.nature.com/articles/385810a0",
+        "type": "primary",
+        "supports": "The original report, published February 1997, of a lamb derived from an adult mammary gland cell.",
+        "quote": "The fact that a lamb was derived from an adult cell confirms that differentiation of that cell did not involve the irreversible modification of genetic material"
+      },
+      {
+        "title": "Healthy ageing of cloned sheep",
+        "author": "K. D. Sinclair, S. A. Corr, C. G. Gutierrez, et al.",
+        "publisher": "Nature Communications",
+        "year": 2016,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4963533/",
+        "type": "scholarly",
+        "supports": "Four clones from Dolly's cell line examined at about eight years old were healthy; concern over Dolly's osteoarthritis.",
+        "quote": "including four created from the same cells as Dolly, and find they are healthy and seem to age normally"
+      },
+      {
+        "title": "Dolly the Sheep pioneer Ian Wilmut dies",
+        "publisher": "The Roslin Institute, University of Edinburgh",
+        "year": 2023,
+        "url": "https://www.ed.ac.uk/roslin/news-events/archive/2023/dolly-the-sheep-pioneer-ian-wilmut-dies",
+        "type": "institutional",
+        "supports": "Wilmut led the team and died in 2023 aged 79.",
+        "quote": "Professor Sir Ian Wilmut, whose research was central to the creation of Dolly the Sheep, has died at the age of 79"
+      }
+    ],
+    "further": [],
+    "image": {
+      "commons": "File:Dolly the Sheep National Museum of Scotland.jpg",
+      "alt": "The preserved body of Dolly the sheep standing in a glass case in a museum gallery.",
+      "caption": "Dolly, preserved after her death in 2003, on display at the National Museum of Scotland in Edinburgh."
+    }
+  },
+  {
+    "id": "wakefield-mmr",
+    "title": "The MMR scare",
+    "stream": "bio-public",
+    "tier": 2,
+    "date": {
+      "year": 1998,
+      "end": 2010,
+      "display": "1998–2010"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "The 1998 paper, the 2004 partial retraction, the 2010 full retraction and the findings against Wakefield are matters of record, and very large studies have found no link between MMR and autism."
+    },
+    "place": "London, England",
+    "people": [
+      "Andrew Wakefield, British gastroenterologist and lead author of the 1998 paper",
+      "Brian Deer, journalist whose investigation exposed the fraud"
+    ],
+    "themes": [
+      "public-health",
+      "ethics"
+    ],
+    "summary": "A 12-child case series in *The Lancet* linked the MMR vaccine to autism; it was retracted and shown to be fraudulent, but vaccination rates fell and measles returned.",
+    "body": [
+      "In 1998 the gastroenterologist Andrew Wakefield and 12 coauthors published a case series of 12 children in *The Lancet*, suggesting that the measles, mumps and rubella (MMR) vaccine might predispose children to bowel inflammation and developmental regression. The study was tiny and uncontrolled, but it drew wide publicity, MMR vaccination rates in Britain fell, and parents demanded single vaccines. Epidemiological studies followed almost at once and found no link; a 2021 Cochrane review drawing on studies of nearly 1.2 million children found that MMR does not cause autism.",
+      "In 2004 ten of the coauthors withdrew the paper's interpretation, and the journal acknowledged that Wakefield had been funded by lawyers acting for parents suing vaccine makers. In 2010 *The Lancet* retracted the paper entirely after Britain's General Medical Council found ethical violations and that the children had been selected, not consecutively referred; Wakefield was struck off the medical register. By 2011 the *BMJ* had published the journalist Brian Deer's evidence of deliberate fraud. Measles came back as coverage fell, with outbreaks in Britain in 2008 and 2009 and more than 300 confirmed cases in Liverpool in 2012."
+    ],
+    "myth": {
+      "tradition": "The MMR vaccine causes autism.",
+      "record": "The claim began with a 12-child study later found to be fraudulent, and large studies covering more than a million children have found no link."
+    },
+    "links": [
+      {
+        "to": "measles-vaccine",
+        "kind": "see-also",
+        "note": "The measles vaccine whose uptake the scare undermined."
+      },
+      {
+        "to": "jenner",
+        "kind": "see-also",
+        "note": "Opposition to vaccination is as old as vaccination itself."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The MMR vaccine and autism: Sensation, refutation, retraction, and fraud",
+        "author": "T. S. Sathyanarayana Rao, Chittaranjan Andrade",
+        "publisher": "Indian Journal of Psychiatry",
+        "year": 2011,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3136032/",
+        "type": "scholarly",
+        "supports": "The 1998 Lancet case series of 12 children; falling vaccination; prompt refuting studies; partial retraction by 10 of 12 coauthors and undisclosed funding by lawyers; full retraction in February 2010; deliberate fraud exposed by Brian Deer in the BMJ; UK outbreaks in 2008 and 2009.",
+        "quote": "the paper received wide publicity, and MMR vaccination rates began to drop because parents were concerned about the risk of autism after vaccination"
+      },
+      {
+        "title": "Vaccine Hesitancy: Contemporary Issues and Historical Background",
+        "author": "Rina Fajri Nuwarda, Iqbal Ramzan, Lynn Weekes, Veysel Kayser",
+        "publisher": "Vaccines (Basel)",
+        "year": 2022,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9612044/",
+        "type": "scholarly",
+        "supports": "Wakefield refused to join the 10 coauthors' 2004 retraction; the GMC found the subjects were carefully chosen and the research partly funded by litigants' lawyers; link to inflammatory bowel disease.",
+        "quote": "in 2004, he refused to join 10 of his co-authors in retracting the paper"
+      },
+      {
+        "title": "A short clinical review of vaccination against measles",
+        "author": "Louis K. Tannous, Gavin Barlow, Neil H. Metcalfe",
+        "publisher": "JRSM Open",
+        "year": 2014,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4012664/",
+        "type": "scholarly",
+        "supports": "Wakefield struck off the medical register; demand for single vaccines; the 2012 Liverpool outbreak with 301 confirmed cases.",
+        "quote": "he has now been struck off the General Medical Council medical register in the UK"
+      },
+      {
+        "title": "Vaccines for measles, mumps, rubella, and varicella in children",
+        "author": "Carlo Di Pietrantonj, Alessandro Rivetti, Pasquale Marchione, Maria Grazia Debalini, Vittorio Demicheli",
+        "publisher": "Cochrane Database of Systematic Reviews",
+        "year": 2021,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8607336/",
+        "type": "scholarly",
+        "supports": "Studies of 1,194,764 children found MMR does not cause autism.",
+        "quote": "the studies found that MMR, MMRV and MMR+V vaccines did not cause autism (2 studies 1,194,764 children)"
+      }
+    ],
+    "further": [],
+    "image": {
+      "commons": "File:Measlesvirus.jpg",
+      "alt": "A colorized electron micrograph showing a round measles virus particle in red.",
+      "caption": "A measles virus particle, colorized transmission electron micrograph from the US Centers for Disease Control and Prevention."
+    }
+  },
+  {
+    "id": "stem-cells",
+    "title": "Stem cells, embryonic and induced",
+    "stream": "bio-lab",
+    "tier": 2,
+    "date": {
+      "year": 1998,
+      "end": 2012,
+      "display": "1998–2012"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "The 1998 and 2006–07 papers, the Hwang fraud and the 2012 Nobel Prize are fully documented. What remains open is how many treatments will reach routine use; most are still in clinical trials."
+    },
+    "place": "Madison, Wisconsin; Kyoto, Japan; Seoul, South Korea",
+    "people": [
+      "James A. Thomson, Wisconsin biologist who derived human embryonic stem cells",
+      "Shinya Yamanaka, Kyoto researcher who created induced pluripotent stem cells",
+      "John B. Gurdon, British biologist who reprogrammed frog cells in 1962",
+      "Woo Suk Hwang, Seoul researcher whose cloned-embryo stem cell claims were fraudulent"
+    ],
+    "themes": [
+      "technology",
+      "ethics"
+    ],
+    "summary": "Human embryonic stem cells arrived in 1998 amid ethical alarm; in 2006 a Kyoto lab learned to turn ordinary adult cells back into their equivalent.",
+    "body": [
+      "In 1998 a team led by James Thomson in Wisconsin reported the first lines of human embryonic stem cells. From 36 embryos donated by IVF patients they established five lines of pluripotent cells, able in principle to become any tissue of the body. Using embryos raised ethical concerns. In 2005 the field suffered its worst scandal, when Woo Suk Hwang of Seoul National University, who had claimed in two *Science* papers to have made patient-specific stem cells from cloned human embryos, was found to have fabricated images and obtained human eggs unethically.",
+      "In 2006 Shinya Yamanaka's laboratory in Kyoto showed that four genes could reprogram adult mouse cells into a pluripotent state, and within a year the method worked on human cells. These induced pluripotent stem (iPS) cells needed no embryos, and they won Yamanaka the 2012 Nobel Prize, shared with John Gurdon, who had shown in 1962 that the nucleus of a frog's intestinal cell could direct a normal tadpole. Clinical use has come slowly: the first study using iPS-derived cells began in 2014, and by the late 2010s about 30 trials were testing embryonic stem cell products for conditions such as macular degeneration and spinal cord injury."
+    ],
+    "links": [
+      {
+        "to": "dolly",
+        "kind": "built-on",
+        "note": "Dolly showed that an adult cell's nucleus could be reset to make a whole animal."
+      },
+      {
+        "to": "ivf",
+        "kind": "built-on",
+        "note": "The first human embryonic stem cells came from embryos left over from IVF."
+      },
+      {
+        "to": "crispr",
+        "kind": "see-also",
+        "note": "Gene editing is now combined with stem cells to model and treat disease."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Two decades of embryonic stem cells: a historical overview",
+        "author": "C. Eguizabal, B. Aran, S. M. Chuva de Sousa Lopes, et al.",
+        "publisher": "Human Reproduction Open",
+        "year": 2019,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6396646/",
+        "type": "scholarly",
+        "supports": "Thomson's 1998 Science paper: 36 IVF embryos, five hESC lines; Wisconsin primate center; Yamanaka's 2006 mouse and 2007 human iPS cells alleviating ethical concerns; first iPS clinical study in 2014; about 30 hESC trials.",
+        "quote": "The researchers used 36 embryos from patients who underwent IVF, who donated their embryos after completing their treatment"
+      },
+      {
+        "title": "The Nobel Prize in Physiology or Medicine 2012: Press release",
+        "publisher": "NobelPrize.org",
+        "year": 2012,
+        "url": "https://www.nobelprize.org/prizes/medicine/2012/press-release/",
+        "type": "institutional",
+        "supports": "The 2012 prize to Gurdon and Yamanaka; Gurdon's 1962 frog experiment; Yamanaka's 2006 discovery with four genes.",
+        "quote": "Shinya Yamanaka discovered more than 40 years later, in 2006, how intact mature cells in mice could be reprogrammed to become immature stem cells"
+      },
+      {
+        "title": "Making matters of fraud: Sociomaterial technology in the case of Hwang and Schatten",
+        "author": "Buhm Soon Park",
+        "publisher": "History of Science",
+        "year": 2020,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7731643/",
+        "type": "scholarly",
+        "supports": "The Hwang case of 2005: claims in two Science papers, fabricated images, unethical egg procurement.",
+        "quote": "It was revealed, however, that Hwang had not only committed ethical violations in procuring human eggs but also used fabricated experimental images"
+      }
+    ],
+    "further": [],
+    "image": {
+      "commons": "File:Human embryonic stem cells.png",
+      "alt": "Two microscope images: a colony of human embryonic stem cells above, and branching neurons grown from them below.",
+      "caption": "Human embryonic stem cells (top) and neurons derived from them (bottom), seen under the microscope."
+    }
+  }
+]

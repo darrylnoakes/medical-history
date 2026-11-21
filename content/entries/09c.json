@@ -1,0 +1,744 @@
+[
+  {
+    "id": "kraepelin",
+    "title": "Kraepelin sorts the psychoses",
+    "stream": "bio-mind",
+    "tier": 3,
+    "date": {
+      "year": 1899,
+      "display": "1899"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "The split appears in the sixth edition of Kraepelin's textbook, published in 1899. That it underlies modern classification is widely accepted; whether his two disease groups are natural entities is increasingly questioned."
+    },
+    "place": "Germany",
+    "people": [
+      "Emil Kraepelin (1856–1926), German psychiatrist"
+    ],
+    "themes": [
+      "mind",
+      "theory"
+    ],
+    "summary": "A German psychiatrist sorted madness by how it unfolded over years, splitting the psychoses into two great families that still shape diagnosis.",
+    "body": [
+      "In the sixth edition of his psychiatry textbook, published in 1899, Emil Kraepelin divided the major psychoses in two. *Dementia praecox*, a term borrowed from the French psychiatrist Bénédict Morel, gathered catatonia, hebephrenia and chronic delusional states into one illness with a steady downhill course. Manic-depressive insanity absorbed the recurrent and circular mood illnesses, which carried a better outlook. Kraepelin classified by symptoms, course and outcome rather than by unproven theories about causes, drawing on records of thousands of patients. Today's diagnostic manuals still follow his lead, though critics doubt his two categories are natural kinds."
+    ],
+    "links": [
+      {
+        "to": "asylum-era",
+        "kind": "built-on",
+        "note": "Kraepelin's long-term case records came from asylum patients."
+      },
+      {
+        "to": "freud",
+        "kind": "see-also",
+        "note": "Born the same year, Freud classified by hidden causes, Kraepelin by visible course."
+      },
+      {
+        "to": "dsm-rosenhan",
+        "kind": "led-to",
+        "note": "Neo-Kraepelinians carried his descriptive approach into modern diagnostic manuals."
+      }
+    ],
+    "sources": [
+      {
+        "title": "The Kraepelinian tradition",
+        "author": "Paul Hoff",
+        "publisher": "Dialogues in Clinical Neuroscience",
+        "year": 2015,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4421898/",
+        "type": "scholarly",
+        "supports": "The dichotomy first proposed in the sixth edition of 1899; manic-depressive insanity as an overarching concept; growing criticism of the dichotomy.",
+        "quote": "The main clinical result of this period—first proposed in the sixth edition of 1899—was the well-known dichotomy of endogenous psychoses"
+      },
+      {
+        "title": "The Evolution of Approaches to Schizophrenia Diagnostics: from Kraepelin to ICD-11",
+        "publisher": "Consortium Psychiatricum",
+        "year": 2021,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11272318/",
+        "type": "scholarly",
+        "supports": "Term borrowed from Morel; catatonia, hebephrenia and chronic delusion combined; classification by aetiology, course and outcome; contrast with manic-depressive psychosis.",
+        "quote": "Thus, the identification of this clinical entity was based on the combination of the disease aetiology, course and outcome."
+      },
+      {
+        "title": "Footnotes to Kraepelin: changes in the classification of mood disorders with DSM-5",
+        "author": "Nicola J. Kalk and Allan H. Young",
+        "publisher": "BJPsych Open",
+        "year": 2017,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5425931/",
+        "type": "scholarly",
+        "supports": "Classification by clinical presentation and natural history rather than causal theory; data from over 8,000 patients; continuing influence; born the same year as Freud.",
+        "quote": "he believed that mental disorders should be characterised according to clinical presentation and natural history, rather than unproven theories about causation"
+      }
+    ],
+    "further": [
+      "scull-2015",
+      "harrington-2019"
+    ]
+  },
+  {
+    "id": "freud",
+    "title": "Freud and the talking cure",
+    "stream": "bio-mind",
+    "tier": 2,
+    "date": {
+      "year": 1900,
+      "earliest": 1895,
+      "latest": 1900,
+      "display": "1895–1900"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "disputed",
+      "note": "Both books are firmly dated (*The Interpretation of Dreams* came out at the turn of 1899 and 1900, and sources give either year). Freud's influence is not in doubt; whether his theory is science, and how well the founding cases went, has been contested from the start."
+    },
+    "place": "Vienna, Austria",
+    "people": [
+      "Sigmund Freud (born 1856), Viennese neurologist, founder of psychoanalysis",
+      "Josef Breuer, Viennese physician",
+      "Bertha Pappenheim (1859–1936), Breuer's patient 'Anna O.', later a social worker and feminist leader"
+    ],
+    "themes": [
+      "mind",
+      "practice",
+      "theory"
+    ],
+    "summary": "A young Viennese woman named the 'talking cure'; Sigmund Freud turned it into psychoanalysis, the most influential and most contested theory of the mind.",
+    "body": [
+      "In 1895 the Viennese physicians Josef Breuer and Sigmund Freud published *Studies on Hysteria*. Its best-known case, \"Anna O.,\" was Bertha Pappenheim, whom Breuer had treated for partial paralysis and hallucinations; describing her traumatic experiences seemed to bring relief, and she named the process the \"talking cure.\" Freud, who had found the effects of hypnosis short-lived, took up Breuer's method and argued that many neuroses grew from forgotten traumatic experiences that could be recalled and discharged.",
+      "Breuer balked at Freud's growing emphasis on sex, and Freud went on alone. *The Interpretation of Dreams*, published at the turn of 1899 and 1900, argued that dreams express hidden desires and became the founding text of psychoanalysis, the first systematic theory and technique of psychotherapy.",
+      "Its scientific standing was contested from the start. The philosopher Karl Popper argued that a genuine scientific theory must be testable, and critics charged that psychoanalysis could explain any behavior and so ruled nothing out. In 1952 the psychologist Hans Eysenck challenged whether psychotherapy worked at all, pushing the field toward controlled trials."
+    ],
+    "myth": {
+      "tradition": "Breuer's talking cure freed Anna O. of her hysteria, proving the method.",
+      "record": "Breuer's treatment was not nearly as successful as he and Freud claimed. Bertha Pappenheim recovered only later, and went on to become an innovative social worker and a leader of the German women's movement."
+    },
+    "links": [
+      {
+        "to": "kraepelin",
+        "kind": "see-also",
+        "note": "The rival way of ordering mental illness: by visible course, not hidden cause."
+      },
+      {
+        "to": "asylum-era",
+        "kind": "see-also",
+        "note": "Psychoanalysis grew in private consulting rooms, far from the asylums."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sigmund Freud: Conflict and Culture — From the Individual to Society",
+        "publisher": "Library of Congress",
+        "url": "https://www.loc.gov/exhibits/freud/freud02.html",
+        "type": "institutional",
+        "supports": "Bertha Pappenheim as Anna O.; her symptoms and relief; the treatment's limited success; her later career; *Studies on Hysteria*, Vienna 1895.",
+        "quote": "Although Breuer's treatment was not nearly as successful as he and Freud claimed, Pappenheim eventually overcame her symptoms to become an innovative social worker"
+      },
+      {
+        "title": "Editorial: Talking and Cure - What's Really Going On in Psychotherapy",
+        "publisher": "Frontiers in Psychology",
+        "year": 2021,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8458817/",
+        "type": "scholarly",
+        "supports": "Pappenheim coined the term 'talking cure' while treated by Breuer.",
+        "quote": "Nearly 130 years ago Bertha Pappenheim coined the term “talking cure” while she was in hypnotic treatment with Dr. Joseph Breuer in Vienna."
+      },
+      {
+        "title": "Sigmund Freud (1856–1939)",
+        "publisher": "Internet Encyclopedia of Philosophy",
+        "url": "https://iep.utm.edu/freud/",
+        "type": "reference",
+        "supports": "Hypnosis short-lived, Breuer's method, forgotten traumatic experiences; split with Breuer over sex; *Interpretation of Dreams* in 1900; Popper's falsifiability critique.",
+        "quote": "every genuine scientific theory must be testable, and therefore falsifiable , at least in principle"
+      },
+      {
+        "title": "An Introduction and Brief Overview of Psychoanalysis",
+        "publisher": "Cureus",
+        "year": 2023,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10575551/",
+        "type": "scholarly",
+        "supports": "*The Interpretation of Dreams* dated to 1899 (cited from the Deuticke edition of 1900); dreams as hidden desires.",
+        "quote": "In 1899, Sigmund Freud released his groundbreaking book “The Interpretation of Dreams.”"
+      },
+      {
+        "title": "The evolution of psychotherapy: from Freud to prescription digital therapeutics",
+        "publisher": "Frontiers in Psychiatry",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11537913/",
+        "type": "scholarly",
+        "supports": "Freud's as the first major systematic psychotherapy; Eysenck's 1952 challenge leading to controlled trials.",
+        "quote": "Hans Eysenck’s 1952 paper challenging the effectiveness of psychotherapy initiated more rigorous research methods in the field."
+      }
+    ],
+    "further": [
+      "scull-2015",
+      "harrington-2019"
+    ],
+    "image": {
+      "commons": "File:Die Traumdeutung.jpg",
+      "alt": "Printed title page of Freud's book Die Traumdeutung.",
+      "caption": "Title page of *Die Traumdeutung* (*The Interpretation of Dreams*), published in Vienna by Franz Deuticke."
+    }
+  },
+  {
+    "id": "xrays",
+    "title": "Röntgen sees through skin",
+    "stream": "bio-surgery",
+    "tier": 1,
+    "date": {
+      "year": 1895,
+      "display": "8 November 1895"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "The date, the paper and the prints Röntgen mailed out are all documented. Others had produced X-rays without recognizing them, but there is no serious dispute that Röntgen was the first to identify and describe them."
+    },
+    "place": "University of Würzburg, Germany",
+    "people": [
+      "Wilhelm Conrad Röntgen (1845–1923), physicist",
+      "Anna Bertha Röntgen, née Ludwig, his wife, whose hand was radiographed"
+    ],
+    "themes": [
+      "technology",
+      "practice"
+    ],
+    "summary": "A physicist noticed a screen glowing across a darkened room. Within weeks, the whole world had seen the bones inside a living hand.",
+    "body": [
+      "Late on Friday 8 November 1895, in his laboratory at the University of Würzburg, Wilhelm Conrad Röntgen was passing an electric discharge through a vacuum tube shrouded in black card when a paper screen coated with barium platinocyanide, as far as two meters away, began to glow. Something invisible was escaping the tube and passing through the card. Not knowing what it was, he called it X-rays.",
+      "For about six weeks he kept the discovery to himself, testing what the rays could pass through. On 22 December he placed the hand of his wife, Anna Bertha, over a photographic plate; the print shows her bones and a ring, with the flesh a faint shadow. At the end of December his paper \"On a New Kind of Rays\" appeared in the proceedings of Würzburg's Physical-Medical Society, and on 1 January 1896 he mailed reprints and prints to physicists including Lord Kelvin, Henri Poincaré and Hendrik Lorentz. The Vienna newspaper *Die Presse* broke the story on 5 January.",
+      "The news spread fast because almost every physics laboratory had the tubes to repeat the experiment. Within weeks an X-ray located a bullet in a patient's leg in Canada; within a year Glasgow Royal Infirmary had a radiology department imaging kidney stones and a penny lodged in a child's throat. Röntgen never patented the discovery. In 1901 he received the first Nobel Prize in Physics.",
+      "The cost came almost as quickly. Thomas Edison reported sore eyes in March 1896, and the *British Medical Journal* described burned hands in April. One study of the radiologists' book of honor estimates that a beginner in 1896 ran perhaps a 10–25 percent risk of eventually dying from the work, falling to 1–2 percent a few years later."
+    ],
+    "myth": {
+      "tradition": "Someone else, usually Nikola Tesla, really discovered X-rays before Röntgen.",
+      "record": "Several researchers produced X-rays unknowingly: Arthur Goodspeed in Philadelphia recorded a shadow image of coins in 1890 without understanding it, and Tesla's early work cannot be checked because much was lost when his laboratory burned in March 1895. Röntgen was the first to identify the rays, investigate them and describe their properties."
+    },
+    "links": [
+      {
+        "to": "radiotherapy",
+        "kind": "led-to",
+        "note": "Within months doctors were treating patients with the new rays."
+      },
+      {
+        "to": "ct-scanner",
+        "kind": "led-to",
+        "note": "Computed tomography rebuilt X-ray shadows into slices."
+      },
+      {
+        "to": "halsted",
+        "kind": "see-also",
+        "note": "Surgery of the 1890s gained a way to see before cutting."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Wilhelm Conrad Röntgen – Biographical",
+        "publisher": "NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/physics/1901/rontgen/biographical/",
+        "type": "institutional",
+        "supports": "Evening of 8 November 1895; fluorescent barium platinocyanide screen up to two metres away; image of his wife's hand with ring; name X-rays.",
+        "quote": "On the evening of November 8, 1895, he found that, if the discharge tube is enclosed in a sealed, thick black carton to exclude all light"
+      },
+      {
+        "title": "Claims of priority – The scientific path to the discovery of X-rays",
+        "author": "Uwe Busch",
+        "publisher": "Zeitschrift für Medizinische Physik",
+        "year": 2023,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10311274/",
+        "type": "scholarly",
+        "supports": "Friday 8 November 1895 at Würzburg; Goodspeed's 1890 coin image; Tesla's lost work; Röntgen first to identify and describe the rays; first Nobel Prize in Physics.",
+        "quote": "It is true that Röntgen was not the first to generate and observe X-rays but it was him who got to the bottom of the observations"
+      },
+      {
+        "title": "Spectacular rediscovery of the original prints of radiographs Roentgen sent to Lorentz in 1896",
+        "publisher": "Insights into Imaging",
+        "year": 2020,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7054508/",
+        "type": "scholarly",
+        "supports": "Prints and reprints mailed 1 January 1896 to Kelvin, Poincaré, Lorentz and others; the hand radiograph taken 22 December 1895.",
+        "quote": "The most impressive radiographic image is the one taken on December 22nd, 1895 of Bertha’s hand"
+      },
+      {
+        "title": "Wilhelm Conrad Röntgen: Finding X",
+        "publisher": "Indian Journal of Ophthalmology",
+        "year": 2021,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8597495/",
+        "type": "scholarly",
+        "supports": "Six weeks of secret work; paper 'On a New Kind of Rays' at end of December; laboratories could repeat it; never patented.",
+        "quote": "First, almost all the laboratories had the cathode tubes to reproduce the experiment"
+      },
+      {
+        "title": "Father and Son Jointly Announced the Discovery of Röntgen Rays in Two Consecutive Press Articles - Revisited",
+        "publisher": "Journal of the Belgian Society of Radiology",
+        "year": 2023,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9818045/",
+        "type": "scholarly",
+        "supports": "First press announcement in *Die Presse*, Vienna, 5 January 1896.",
+        "quote": "the announcement of the discovery of X-rays was published by the general press for the first time in the morning edition of the Viennese daily journal Die Presse"
+      },
+      {
+        "title": "Radiation in medicine: Origins, risks and aspirations",
+        "publisher": "Global Cardiology Science and Practice",
+        "year": 2014,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4355517/",
+        "type": "scholarly",
+        "supports": "Bullet located in Canada within weeks; Glasgow Royal Infirmary radiology department within a year; kidney stones and a penny.",
+        "quote": "a few weeks later an X-ray was used in Canada to find a bullet in a patient's leg"
+      },
+      {
+        "title": "Priority for radium therapy of benign conditions and cancer",
+        "publisher": "Current Oncology",
+        "year": 2007,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1899356/",
+        "type": "scholarly",
+        "supports": "Edison's sore eyes March 1896; burns reported in the BMJ April 1896.",
+        "quote": "Thomas Edison 5 reported in March 1896 that his eyes were sore after he experimented with X-rays"
+      },
+      {
+        "title": "Early X-ray workers: an effort to assess their numbers, risk, and most common (skin) affliction",
+        "publisher": "Insights into Imaging",
+        "year": 2016,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4805624/",
+        "type": "scholarly",
+        "supports": "Estimated risk of eventual radiation death: 10–25 percent for 1896 beginners, 1–2 percent a few years later.",
+        "quote": "The risk for a beginning user eventually to die from radiation was 1–2 % in these years, but up to 10–25 % in 1896."
+      }
+    ],
+    "further": [
+      "bynum-1994",
+      "porter-1997"
+    ],
+    "image": {
+      "commons": "File:First medical X-ray by Wilhelm Röntgen of his wife Anna Bertha Ludwig's hand - 18951222.jpg",
+      "alt": "Early X-ray print showing the bones of a left hand, with a dark ring on one finger.",
+      "caption": "*Hand mit Ringen* (Hand with Rings): Röntgen's radiograph of his wife Anna Bertha's left hand, taken on 22 December 1895."
+    }
+  },
+  {
+    "id": "radiotherapy",
+    "title": "Radium and the first radiotherapy",
+    "stream": "bio-surgery",
+    "tier": 3,
+    "date": {
+      "year": 1896,
+      "end": 1898,
+      "earliest": 1896,
+      "latest": 1898,
+      "display": "1896–1898"
+    },
+    "confidence": {
+      "date": "agreed",
+      "claim": "disputed",
+      "note": "Each early treatment is dated by contemporary reports, but who counts as the first radiotherapist is still argued. Grubbe's long-repeated claim to priority has been judged unconvincing by historians of radiotherapy."
+    },
+    "place": "Hamburg, southeastern France, Vienna and Paris",
+    "people": [
+      "Victor Despeignes (1866–1937), French physician",
+      "Leopold Freund (1868–1943), Viennese physician",
+      "Emil Grubbe (1875–1960), Chicago practitioner who later claimed priority"
+    ],
+    "themes": [
+      "technology",
+      "practice"
+    ],
+    "summary": "Within months of Röntgen's discovery, doctors were aiming the rays at tumors and birthmarks. Who was first is still argued over.",
+    "body": [
+      "Within months of Röntgen's announcement, doctors turned the rays on disease. Before February 1896 a Hamburg doctor named Voigt reported easing the pain of an inoperable throat cancer. In July 1896 Victor Despeignes, a Lyon-trained country doctor, irradiated a stomach tumor and saw it shrink. From November 1896 Leopold Freund in Vienna treated a five-year-old girl's hairy birthmark. The Chicago practitioner Emil Grubbe later claimed to have been first, but historians largely discount him. After the Curies found radium in 1898, sources could be placed directly on or into tumors."
+    ],
+    "links": [
+      {
+        "to": "xrays",
+        "kind": "built-on",
+        "note": "The first treatments came months after Röntgen's discovery."
+      },
+      {
+        "to": "chemotherapy-origins",
+        "kind": "see-also",
+        "note": "The next great weapon against cancer."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Priority for radium therapy of benign conditions and cancer",
+        "publisher": "Current Oncology",
+        "year": 2007,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1899356/",
+        "type": "scholarly",
+        "supports": "Freund's patient, a five-year-old girl with a hairy nevus, treated from 24 November 1896; Curies' discoveries of 1898.",
+        "quote": "His patient, a 5-year-old girl with a hairy nevus 36 cm in length, started treatment on November 24, 1896"
+      },
+      {
+        "title": "125 years of head and neck radiotherapy",
+        "publisher": "Strahlentherapie und Onkologie",
+        "year": 2022,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8940810/",
+        "type": "scholarly",
+        "supports": "Voigt in Hamburg treated pharyngeal carcinoma for pain relief before 3 February 1896.",
+        "quote": "the first treatment of head and neck cancer was performed by Dr Voigt in Hamburg before 3 February 1896"
+      },
+      {
+        "title": "[Victor Despeignes (1866-1937): how a hygienist became the first radiation oncologist] (abstract)",
+        "author": "Nicolas Foray",
+        "publisher": "Cancer/Radiothérapie (abstract via Europe PMC)",
+        "year": 2013,
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:23522857%20AND%20SRC:MED&resultType=core&format=json",
+        "type": "scholarly",
+        "supports": "Despeignes's treatment of 4–23 July 1896; trained in Lyon, then a district physician.",
+        "quote": "Between the 4th and 23rd July 1896, Victor Despeignes has performed the first anticancer radiotherapy that has been validated by undeniable publications and practical facts."
+      },
+      {
+        "title": "[The dawn of radiotherapy, between strokes of genius, dramas and controversies] (abstract)",
+        "author": "Jean-Marc Cosset",
+        "publisher": "Cancer/Radiothérapie (abstract via Europe PMC)",
+        "year": 2016,
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:27614525%20AND%20SRC:MED&resultType=core&format=json",
+        "type": "scholarly",
+        "supports": "Grubbe's claim disqualified; Despeignes treated a gastric cancer with marked regression; priority debated.",
+        "quote": "Although often proposed, Emil Grubbé from Chicago seems to have been disqualified."
+      },
+      {
+        "title": "Evolution of Medical Approaches and Prominent Therapies in Breast Cancer",
+        "publisher": "Cancers",
+        "year": 2022,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9140094/",
+        "type": "scholarly",
+        "supports": "Radium could be delivered locally, topically and interstitially, unlike X-rays.",
+        "quote": "radium could be delivered locally, topically (via radium salts), and interstitially (via radium emanating rods)"
+      }
+    ],
+    "further": [
+      "mukherjee-2010"
+    ]
+  },
+  {
+    "id": "aspirin",
+    "title": "Aspirin",
+    "stream": "bio-drugs",
+    "tier": 2,
+    "date": {
+      "year": 1897,
+      "display": "10 August 1897"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "disputed",
+      "note": "Hoffmann's synthesis of 10 August 1897 and Bayer's 1899 trademark are documented. Who directed the work is contested: Eichengrün's claim, made decades later, is supported by the historian Walter Sneader but not by Bayer."
+    },
+    "place": "Bayer laboratories, Wuppertal (then Elberfeld), Germany",
+    "people": [
+      "Edward Stone, Oxfordshire clergyman",
+      "Felix Hoffmann (1868–1946), Bayer chemist",
+      "Arthur Eichengrün, Bayer chemist who claimed to have directed the work"
+    ],
+    "themes": [
+      "drugs"
+    ],
+    "summary": "A country parson tested willow bark on fevers; 134 years later a Bayer chemist made a stable cousin of its active ingredient. Who deserves the credit is still disputed.",
+    "body": [
+      "In 1763 Edward Stone, a clergyman in Chipping Norton, Oxfordshire, wrote to the Royal Society that dried, powdered willow bark cured the \"agues\" (fevers) of about 50 people. Searching earlier books, he had found only mentions of the tree's name. Chemists later isolated willow's active principle, and from 1874 synthetic salicylic acid was on sale, but it irritated the stomach.",
+      "On 10 August 1897 Felix Hoffmann, a chemist at Bayer, described making acetylsalicylic acid in a pure, stable form fit for medicine; others had made the compound before, but not usably. Bayer registered the trademark Aspirin on 6 March 1899. Within a fortnight of the aspirin work Hoffmann also made heroin.",
+      "Credit is disputed. Arthur Eichengrün, who directed Hoffmann's work, later said aspirin had been produced and tested under him and that his role was erased in the Nazi period; the historian Walter Sneader found his case persuasive. Bayer continued to credit Hoffmann."
+    ],
+    "myth": {
+      "tradition": "Felix Hoffmann invented aspirin to ease his father's rheumatism.",
+      "record": "The father story is a legend told since the 1930s. Evidence suggests Arthur Eichengrün, Hoffmann's Jewish superior, played a significant role and was written out of the account."
+    },
+    "links": [
+      {
+        "to": "cinchona",
+        "kind": "built-on",
+        "note": "Stone tried willow as a cheap rival to Peruvian bark for agues."
+      },
+      {
+        "to": "patent-medicines",
+        "kind": "see-also",
+        "note": "Hoffmann's other acetylation product, heroin, was sold as a cough remedy."
+      }
+    ],
+    "sources": [
+      {
+        "title": "From plant extract to molecular panacea: a commentary on Stone (1763)",
+        "author": "John N. Wood",
+        "publisher": "Philosophical Transactions of the Royal Society B",
+        "year": 2015,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4360122/",
+        "type": "scholarly",
+        "supports": "Stone's 1763 letter, his search finding only the tree's name, about 50 patients; Hoffmann's 10 August 1897 synthesis; Eichengrün's claim and Sneader's support; Bayer's continued credit to Hoffmann.",
+        "quote": "On 10 August 1897, Hoffmann described the synthesis of acetylsalicylic acid (ASA) in a pure form suitable for medical use."
+      },
+      {
+        "title": "Felix Hoffmann",
+        "publisher": "Science History Institute",
+        "url": "https://www.sciencehistory.org/education/scientific-biographies/felix-hoffmann/",
+        "type": "institutional",
+        "supports": "Aspirin and heroin synthesized within two weeks; synthetic salicylic acid from 1874 and its side effects; father legend; Eichengrün omitted since the 1930s; earlier impure syntheses.",
+        "quote": "It has been suggested that he was left out of the story as it has been told since the 1930s because he was Jewish."
+      },
+      {
+        "title": "The 125th Anniversary of Aspirin—The Story Continues",
+        "publisher": "Pharmaceuticals",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11054228/",
+        "type": "scholarly",
+        "supports": "Trademark 'Aspirin' registered 6 March 1899; Bayer laboratory in Wuppertal.",
+        "quote": "was entered in the trademark register of the Imperial Patent Office in Berlin, Germany, on 6 March 1899"
+      }
+    ],
+    "further": [],
+    "image": {
+      "commons": "File:Aspirin-Fläschchen.jpg",
+      "alt": "Small glass bottle labelled Aspirin.",
+      "caption": "A bottle of Bayer's Aspirin from 1899, the year the trademark was registered (Bayer Archives)."
+    }
+  },
+  {
+    "id": "insect-vectors",
+    "title": "Mosquitoes, malaria and yellow fever",
+    "stream": "bio-public",
+    "tier": 2,
+    "date": {
+      "year": 1897,
+      "display": "20 August 1897"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "The key experiments are documented in letters and publications. The facts are agreed; how credit should be shared between Ross and the Italian team led by Grassi was bitterly disputed at the time."
+    },
+    "place": "India, Rome and Cuba",
+    "people": [
+      "Patrick Manson, physician in London",
+      "Ronald Ross (1857–1932), Indian Medical Service surgeon",
+      "Giovanni Battista Grassi (1854–1925), Italian zoologist",
+      "Carlos Finlay, Cuban physician",
+      "Walter Reed, head of the US Army Yellow Fever Commission"
+    ],
+    "themes": [
+      "public-health",
+      "ethics"
+    ],
+    "summary": "Within four years, doctors proved that mosquitoes carry malaria and yellow fever, and the Reed Commission asked its volunteers to sign consent contracts.",
+    "body": [
+      "In 1877 Patrick Manson showed that the worms that cause lymphatic filariasis pass through mosquitoes. From 1881 the Cuban physician Carlos Finlay tried to show that mosquitoes spread yellow fever; his experiments failed because he left too little time between a mosquito's two bites. In India, Ronald Ross, coached by letter from Manson, dissected thousands of mosquitoes. On 20 August 1897, his \"mosquito day,\" he found malaria parasites growing in the stomach wall of a dapple-winged mosquito fed on a patient. Moved to Calcutta, he traced the full cycle of bird malaria through common grey (culicine) mosquitoes instead.",
+      "In 1898 Giovanni Battista Grassi, with Amico Bignami and Giuseppe Bastianelli, proved that Anopheles mosquitoes carry human malaria, infecting a volunteer on 1 November. Ross alone received the 1902 Nobel Prize, and the rivalry between the two camps was intense.",
+      "In Cuba in 1900, Walter Reed's commission showed that mosquitoes transmit yellow fever. Its volunteers signed contracts setting out the risks and paying $100, doubled for anyone who fell ill, a document often cited as a prototype of informed consent."
+    ],
+    "links": [
+      {
+        "to": "cinchona",
+        "kind": "see-also",
+        "note": "The older answer to malaria: bark, then quinine."
+      },
+      {
+        "to": "nuremberg-code",
+        "kind": "led-to",
+        "note": "Reed's contracts are an early landmark in research consent."
+      },
+      {
+        "to": "artemisinin",
+        "kind": "see-also",
+        "note": "A later chapter in the fight against malaria."
+      }
+    ],
+    "sources": [
+      {
+        "title": "History of the discovery of the malaria parasites and their vectors",
+        "author": "Francis E. G. Cox",
+        "publisher": "Parasites & Vectors",
+        "year": 2010,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2825508/",
+        "type": "scholarly",
+        "supports": "Manson's 1877 filaria work; Ross guided by Manson; thousands of mosquitoes; 'mosquito day' 20 August 1897; bird malaria in Calcutta; Grassi, Bignami and Bastianelli's 1898 proof with Anopheles.",
+        "quote": "Ross had now made the crucial break-through and had found developmental stages of human malaria parasites in anopheline mosquitoes"
+      },
+      {
+        "title": "Ronald Ross – Biographical",
+        "publisher": "NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/medicine/1902/ross/biographical/",
+        "type": "institutional",
+        "supports": "Ross's dates and service; investigation of the Laveran–Manson mosquito hypothesis; demonstrating the parasite life cycle in mosquitoes.",
+        "quote": "After two and a half years’ failure, Ross succeeded in demonstrating the life-cycle of the parasites of malaria in mosquitoes"
+      },
+      {
+        "title": "Giovanni Battista Grassi and Malaria",
+        "author": "Stefano Pozzi and Michele A. Riva",
+        "publisher": "Emerging Infectious Diseases",
+        "year": 2026,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13094824/",
+        "type": "scholarly",
+        "supports": "Grassi's experimental infection of 1 November 1898; Ross's 1902 Nobel Prize and the rivalry.",
+        "quote": "on November 1, 1898, he produced the first experimentally induced case of malaria in a healthy volunteer bitten by an Anopheles claviger mosquito"
+      },
+      {
+        "title": "History of Human Challenge Studies",
+        "publisher": "Human Challenge Studies in Endemic Settings (Springer)",
+        "year": 2020,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7431914/",
+        "type": "scholarly",
+        "supports": "Finlay's failed experiments from 1881 and why; the Reed commission's 1900 results; contracts with risks and $100/$200 payments as a prototype of informed consent.",
+        "quote": "Reed is frequently credited for establishing a prototype of informed consent for research because subjects in these (what would now be described as) yellow fever challenge studies were asked to sign a contract"
+      }
+    ],
+    "further": [
+      "snowden-2019"
+    ],
+    "image": {
+      "commons": "File:Ronald Ross.jpg",
+      "alt": "Photographic portrait of Ronald Ross in a suit.",
+      "caption": "Ronald Ross, who received the 1902 Nobel Prize for showing how malaria develops in mosquitoes."
+    }
+  },
+  {
+    "id": "viruses-discovered",
+    "title": "Something smaller than bacteria",
+    "stream": "bio-lab",
+    "tier": 3,
+    "date": {
+      "year": 1898,
+      "display": "1892–1898"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "agreed",
+      "note": "The 1892 and 1898 papers are documented. What each discoverer understood is a matter of interpretation; Beijerinck's 'living fluid' was wrong in detail, and the particulate nature of viruses was settled only in the 1930s."
+    },
+    "place": "Russia, the Netherlands and Germany",
+    "people": [
+      "Dmitry Ivanovsky, plant researcher",
+      "Martinus Beijerinck, Dutch microbiologist",
+      "Friedrich Loeffler and Paul Frosch, German bacteriologists"
+    ],
+    "themes": [
+      "theory",
+      "technology"
+    ],
+    "summary": "Sap from sick tobacco plants passed through filters that stopped every known germ and still spread disease. Something smaller was at work.",
+    "body": [
+      "In 1892 Dmitry Ivanovsky pushed sap from diseased tobacco plants through a porcelain Chamberland filter, fine enough to hold back bacteria, and found the filtered sap still caused mosaic disease. In 1898 Martinus Beijerinck repeated the experiment in the Netherlands and drew a bolder conclusion: the agent was neither bacterium nor fungus but a *contagium vivum fluidum*, a contagious living fluid, which he called a virus. The same year Friedrich Loeffler and Paul Frosch showed that foot-and-mouth disease of cattle was also filterable and judged its agent particulate, which proved closer to the truth."
+    ],
+    "links": [
+      {
+        "to": "koch",
+        "kind": "built-on",
+        "note": "Germ theory had taught doctors to look for microbes a filter could catch."
+      },
+      {
+        "to": "influenza-1918",
+        "kind": "see-also",
+        "note": "In 1918 the cause of influenza was still unknown."
+      }
+    ],
+    "sources": [
+      {
+        "title": "From Contagium vivum fluidum to Riboviria: A Tobacco Mosaic Virus-Centric History of Virus Taxonomy",
+        "author": "F. Murilo Zerbini and Elliot W. Kitajima",
+        "publisher": "Biomolecules",
+        "year": 2022,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9599303/",
+        "type": "scholarly",
+        "supports": "Ivanovsky's Chamberland filtration; Beijerinck's contagium vivum fluidum and the name virus; Loeffler and Frosch's particulate agent of foot-and-mouth disease.",
+        "quote": "Beijerinck concluded that the causal agent of tobacco mosaic was not a fungus or a bacterium, but rather something entirely different"
+      },
+      {
+        "title": "Evolution of Virology: Science History through Milestones and Technological Advancements",
+        "publisher": "Viruses",
+        "year": 2024,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10975421/",
+        "type": "scholarly",
+        "supports": "Ivanovsky's 1892 filtration experiment; Beijerinck in 1898; fluid theory later discredited.",
+        "quote": "Dmitry Ivanovsky’s 1892 filtration experiment with a Chamberland filter demonstrated the contagious nature of the disease postfiltration"
+      },
+      {
+        "title": "General Introduction to Volume 1. Emergent and Reemergent Viruses: Modern Important Issues",
+        "publisher": "Emerging and Reemerging Viral Pathogens (Elsevier)",
+        "year": 2019,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7149692/",
+        "type": "scholarly",
+        "supports": "Loeffler and Frosch applied filtration to foot-and-mouth disease in 1898.",
+        "quote": "Then, in 1898 Friedrich Loeffler and Paul Frosch applied the filtration criteria to a disease in cattle known as foot and mouth disease"
+      }
+    ],
+    "further": []
+  },
+  {
+    "id": "patent-medicines",
+    "title": "Patent medicines and the first drug laws",
+    "stream": "bio-drugs",
+    "tier": 3,
+    "date": {
+      "year": 1906,
+      "display": "30 June 1906"
+    },
+    "confidence": {
+      "date": "firm",
+      "claim": "firm",
+      "note": "The act and its provisions are documented in the statute and in FDA's own histories; its limits were exposed in court within five years."
+    },
+    "place": "Washington, D.C., United States",
+    "people": [
+      "Harvey W. Wiley, chief chemist of the US Department of Agriculture",
+      "Samuel Hopkins Adams, muckraking journalist"
+    ],
+    "themes": [
+      "drugs",
+      "institutions",
+      "public-health"
+    ],
+    "summary": "Microbe Killer and heroin cough syrup were legal until 1906, when the US began to police what medicine labels said, though not whether medicines worked.",
+    "body": [
+      "Around 1900 anyone could sell a cure in the United States: William Radam's Microbe Killer faced no federal check, and Bayer marketed its new drug heroin, launched in 1898, to suppress coughs. Journalists such as Samuel Hopkins Adams exposed the trade, and on 30 June 1906 President Theodore Roosevelt signed the Food and Drugs Act. It regulated labels, not safety: alcohol, heroin, cocaine and eight other dangerous ingredients had to be declared. In 1911 the Supreme Court ruled that false curative claims fell outside it."
+    ],
+    "links": [
+      {
+        "to": "aspirin",
+        "kind": "see-also",
+        "note": "Heroin came out of the same Bayer acetylation work as aspirin."
+      },
+      {
+        "to": "thalidomide",
+        "kind": "led-to",
+        "note": "Later disasters pushed US law from labels toward proof of safety and efficacy."
+      }
+    ],
+    "sources": [
+      {
+        "title": "Part I: The 1906 Food and Drugs Act and Its Enforcement",
+        "publisher": "US Food and Drug Administration",
+        "url": "https://www.fda.gov/about-fda/changes-science-law-and-regulatory-authorities/part-i-1906-food-and-drugs-act-and-its-enforcement",
+        "type": "institutional",
+        "supports": "Signing on 30 June 1906; Adams and the muckrakers; regulation by labeling; eleven dangerous ingredients including alcohol, heroin and cocaine; Supreme Court ruling on false therapeutic claims.",
+        "quote": "the presence and amount of eleven dangerous ingredients, including alcohol, heroin, and cocaine, had to be listed"
+      },
+      {
+        "title": "Promoting Safe and Effective Drugs for 100 Years",
+        "publisher": "US Food and Drug Administration",
+        "url": "https://www.fda.gov/about-fda/histories-product-regulation/promoting-safe-effective-drugs-100-years",
+        "type": "institutional",
+        "supports": "No federal drug regulation around 1900; Radam's Microbe Killer; U.S. v. Johnson (1911) on false claims.",
+        "quote": "It was a menacing marketplace filled with products such as William Radam's Microbe Killer"
+      },
+      {
+        "title": "Felix Hoffmann",
+        "publisher": "Science History Institute",
+        "url": "https://www.sciencehistory.org/education/scientific-biographies/felix-hoffmann/",
+        "type": "institutional",
+        "supports": "Heroin sold by Bayer to suppress coughs before its addictiveness was recognized.",
+        "quote": "it was widely sold by Bayer and other companies to suppress heavy coughs"
+      },
+      {
+        "title": "Heroin by Dreser x Eroica by Beethoven",
+        "author": "Claudio Pinho",
+        "publisher": "Arquivos Brasileiros de Cardiologia",
+        "year": 2021,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8133724/",
+        "type": "scholarly",
+        "supports": "Heroin launched on the market in 1898.",
+        "quote": "In 1898, the drug was launched in the market and it was called Heroin."
+      }
+    ],
+    "further": []
+  }
+]

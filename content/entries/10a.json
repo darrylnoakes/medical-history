@@ -96,7 +96,12 @@
     ],
     "further": [
       "porter-1997"
-    ]
+    ],
+    "image": {
+      "commons": "File:Karl Landsteiner nobel.jpg",
+      "alt": "Portrait photograph of the pathologist Karl Landsteiner.",
+      "caption": "Karl Landsteiner, photographed around the time of his 1930 Nobel Prize, nearly thirty years after he first sorted human blood into groups in Vienna."
+    }
   },
   {
     "id": "hormones",

@@ -378,5 +378,25 @@
   "license": "CC BY 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Edward_Jenner._Line_engraving_after_J._R._Smith,_1800._Wellcome_V0003071.jpg"
+ },
+ "plague-doctor-costume": {
+  "commons": "File:Doctor Schnabel von Rom (BM 1876,0510.512).jpg",
+  "src": "/img/plague-doctor-costume.webp",
+  "width": 1185,
+  "height": 1500,
+  "credit": "Wikimedia Commons contributor",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Doctor_Schnabel_von_Rom_(BM_1876,0510.512).jpg"
+ },
+ "paris-clinic": {
+  "commons": "File:Title page \"Anatomie Generale Appliquee\", 1801 Wellcome L0015081.jpg",
+  "src": "/img/paris-clinic.webp",
+  "width": 974,
+  "height": 1500,
+  "credit": "Gallery: https://wellcomeimages.org/indexplus/image/L0015081.html",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Title_page_%22Anatomie_Generale_Appliquee%22,_1801_Wellcome_L0015081.jpg"
  }
 }
