@@ -376,7 +376,12 @@
         "quote": "two additional medical texts edited by Lin Yi (fl. 1057-68), based on the 'Shang han za bing lun'"
       }
     ],
-    "further": ["unschuld-1985"]
+    "further": ["unschuld-1985"],
+    "image": {
+      "commons": "File:Chinese woodcut, Famous medical figures; Zhang Zhongjing Wellcome L0039319.jpg",
+      "alt": "A woodcut portrait of the physician Zhang Zhongjing.",
+      "caption": "Zhang Zhongjing in a woodcut from a Wanli-era (1573–1620) Ming edition of *Bencao mengquan*. It is a later artist's portrait of a physician who lived some 1,400 years earlier, not a likeness."
+    }
   },
   {
     "id": "hua-tuo",
