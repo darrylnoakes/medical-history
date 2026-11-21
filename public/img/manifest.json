@@ -908,5 +908,65 @@
   "license": "Public domain",
   "licenseUrl": "",
   "page": "https://commons.wikimedia.org/wiki/File:Goldberger,_Joseph.jpg"
+ },
+ "tuskegee": {
+  "commons": "File:Tuskegee syphilis experiment venipuncture.jpg",
+  "src": "/img/tuskegee.webp",
+  "width": 600,
+  "height": 440,
+  "credit": "Centers for Disease Control and Prevention",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Tuskegee_syphilis_experiment_venipuncture.jpg"
+ },
+ "sulfa": {
+  "commons": "File:Elixir Sulfanilamide, 1937.jpg",
+  "src": "/img/sulfa.webp",
+  "width": 1000,
+  "height": 750,
+  "credit": "The U.S. Food and Drug Administration",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Elixir_Sulfanilamide,_1937.jpg"
+ },
+ "lobotomy": {
+  "commons": "File:Watts-Freeman lobotomy instruments. Wellcome L0026980.jpg",
+  "src": "/img/lobotomy.webp",
+  "width": 1000,
+  "height": 1283,
+  "credit": "Gallery: https://wellcomeimages.org/indexplus/image/L0026980.html",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Watts-Freeman_lobotomy_instruments._Wellcome_L0026980.jpg"
+ },
+ "nhs": {
+  "commons": "File:Anenurin Bevan, Minister of Health, on the first day of the National Health Service, 5 July 1948 at Park Hospital, Davyhulme, near Manchester (14465908720).jpg",
+  "src": "/img/nhs.webp",
+  "width": 1000,
+  "height": 699,
+  "credit": "University of Liverpool Faculty of Health & Life Sciences",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Anenurin_Bevan,_Minister_of_Health,_on_the_first_day_of_the_National_Health_Service,_5_July_1948_at_Park_Hospital,_Davyhulme,_near_Manchester_(14465908720).jpg"
+ },
+ "heart-lung-machine": {
+  "commons": "File:Heart-lung machine, London, England, c. 1955-1960 Wellcome L0057824.jpg",
+  "src": "/img/heart-lung-machine.webp",
+  "width": 867,
+  "height": 1300,
+  "credit": "Gallery: https://wellcomeimages.org/indexplus/image/L0057824.html Wellcome Collection gallery…",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Heart-lung_machine,_London,_England,_c._1955-1960_Wellcome_L0057824.jpg"
+ },
+ "polio-vaccine": {
+  "commons": "File:Salk headlines.jpg",
+  "src": "/img/polio-vaccine.webp",
+  "width": 308,
+  "height": 397,
+  "credit": "March of Dimes",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Salk_headlines.jpg"
  }
 }
