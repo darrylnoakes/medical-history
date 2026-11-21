@@ -1,7 +1,7 @@
 [
   {
     "id": "mihintale-hospital",
-    "title": "The monastery hospitals of Sri Lanka",
+    "title": "The monastery hospital at Mihintale",
     "stream": "india",
     "tier": 3,
     "date": {
@@ -18,11 +18,11 @@
     "confidence": {
       "date": "uncertain",
       "claim": "agreed",
-      "note": "Excavation and the ground plan identify the Mihintale ruins as a monastic hospital; archaeological descriptions date it to the 9th century, though a site sign at Polonnaruwa calls it an 8th-century prototype. The far earlier royal hospitals rest only on a chronicle composed around 500 CE."
+      "note": "The ground plan of the Mihintale ruins, with rows of cells and a stone bath trough, is read as a monastic hospital; a university library's catalog dates it to the 9th century, while a site sign at Polonnaruwa calls the Mihintale design an 8th-century prototype. The far earlier royal hospitals rest only on a chronicle composed around 500 CE."
     },
     "place": "Mihintale, near Anuradhapura, Sri Lanka",
     "people": [
-      "Pandukabhaya (4th century BCE by the chronicle's reckoning), king credited by tradition with the island's first hospitals"
+      "Pandukabhaya (4th century BCE by the chronicle's reckoning), king the *Mahavamsa* credits with a lying-in house and a hall for the sick"
     ],
     "themes": [
       "institutions",
@@ -30,11 +30,11 @@
     ],
     "summary": "A Buddhist hospital with cells for patients and a stone trough for medicinal baths — and a chronicle claiming hospitals 1,200 years older.",
     "body": [
-      "On the sacred hill of Mihintale, near Sri Lanka's ancient capital Anuradhapura, excavators uncovered a monastery hospital: rows of separate cells for patients and a large stone trough used as a medicinal bath, for a community of perhaps 2,000 monks. The ruins date from around the 9th century, and the design was copied at a 12th-century hospital in Polonnaruwa, where patients were immersed in herbal oil. The chronicle known as the *Mahavamsa* claims far more: that King Pandukabhaya built a lying-in house and a hall for the sick in the 4th century BCE. But it was composed around 500 CE, centuries later."
+      "On the sacred hill of Mihintale, near Sri Lanka's ancient capital Anuradhapura, stand the ruins of a monastery hospital. Its ground plan shows rows of separate cells and a large stone trough used as a medicinal bath, serving a community reported to number about 2,000 monks. The ruins are dated to around the 9th century, and a 12th-century hospital at Polonnaruwa, where patients were immersed in herbal oil, more or less followed its plan. The *Mahavamsa* chronicle claims far more: that King Pandukabhaya built a lying-in house and a hall for the sick in the 4th century BCE. But it was composed around 500 CE, centuries later."
     ],
     "myth": {
-      "tradition": "Sri Lanka had public hospitals in the 4th century BCE, and Mihintale is the oldest hospital in the world.",
-      "record": "The 4th-century BCE hospitals are known only from the *Mahavamsa*, written about 900 years later. The Mihintale ruins themselves date from roughly the 8th–9th century CE."
+      "tradition": "Sri Lanka had public hospitals as early as the 4th century BCE, built by King Pandukabhaya.",
+      "record": "The 4th-century BCE lying-in house and hall for the sick are known only from the *Mahavamsa*, written about 900 years later. The Mihintale ruins themselves date from roughly the 8th–9th century CE."
     },
     "links": [
       {
@@ -61,7 +61,7 @@
         "year": 2005,
         "url": "https://calisphere.org/item/2038a831dcae5749cb8c1ae26a386422/",
         "type": "institutional",
-        "supports": "Ground plan with cells and a medicinal-bath trough; about 2,000 monks at Mihintale; 9th-century date.",
+        "supports": "Ground plan with rows of cells and a medicinal-bath trough; about 2,000 monks reported at Mihintale; the cataloger's 9th-century date.",
         "quote": "The ground plan indicates that there were separate cells in rows at one end of which was a large trough, which was used as a medicinal bath."
       },
       {
@@ -71,7 +71,7 @@
         "year": 2016,
         "url": "https://calisphere.org/item/36af70f4335669189147f13bdb1cd1c2/",
         "type": "institutional",
-        "supports": "The 12th-century Polonnaruwa hospital copied the Mihintale design (dated there to the 8th century); its trough was used to immerse patients in herbal oil; excavation confirmed hospital use.",
+        "supports": "The 12th-century Polonnaruwa hospital more or less follows the design of the Mihintale prototype (dated by the sign to the 8th century); its trough was used to immerse patients in herbal oil; excavation confirmed hospital use at Polonnaruwa.",
         "quote": "This 12th century hospital more or less follows the 8th century Mihintale prototype in having two distinct units built together, namely living and treatment sections."
       },
       {
@@ -112,13 +112,13 @@
       "traditional": {
         "year": 750,
         "display": "8th century",
-        "note": "Tradition holds that the Buddha, as the Medicine Buddha, taught the text, and links its arrival in Tibet to an 8th-century physician, Yuthok the Elder."
+        "note": "Tradition traces Tibetan medicine to the Buddha teaching as the Medicine Buddha, with an 8th-century physician, Yuthok Yönten Gönpo the Elder, whom the Los Angeles County Museum of Art calls legendary."
       }
     },
     "confidence": {
       "date": "uncertain",
       "claim": "agreed",
-      "note": "Museum and scholarly sources credit the text to the 12th-century physician Yuthok Yönten Gönpo the Younger, and scholars place the formation of the tradition between the 7th and 12th centuries. The earlier history of the text, and how much of it he composed rather than edited, is debated; the Buddha's authorship is religious tradition."
+      "note": "Museum and scholarly sources credit the text to the 12th-century physician Yuthok Yönten Gönpo the Younger, and scholars place the formation of the medical tradition between the 7th and 12th centuries. The sources do not say how much of the text he composed rather than gathered from earlier material, which is why the date is a range; the Buddha's authorship is religious tradition."
     },
     "place": "Central Tibet",
     "people": [
@@ -130,17 +130,17 @@
     ],
     "summary": "One book underlies the medicine of Tibet, Mongolia, Bhutan and the Himalaya — and tradition says the Buddha himself dictated it.",
     "body": [
-      "The *rGyud bzhi*, or Four Tantras, is the single standard treatise on which Tibetan medicine rests, together with its Mongolian, Bhutanese and Himalayan offshoots. The tradition it codified took shape in Central Tibet between the 7th and 12th centuries out of Tibetan, Indian, Chinese, Persian and Central Asian medical knowledge. The text is credited to the physician Yuthok Yönten Gönpo the Younger (1127–1203), honored as Tibet's physician king. Tradition tells a grander story, shown in paintings: one sage asks the Medicine Buddha to explain the Four Tantras and another recites the answers, which is why the book is written as questions and answers."
+      "The *rGyud bzhi*, or Four Tantras, is the single standard treatise on which Tibetan medicine rests, together with its Mongolian, Bhutanese and Himalayan offshoots. The medical tradition behind it took shape in Central Tibet between the 7th and 12th centuries out of Tibetan, Indian, Chinese, Persian and Central Asian knowledge. The text is credited to the physician Yuthok Yönten Gönpo the Younger (1127–1203), honored as Tibet's physician king. Tradition tells a grander story, shown in a 1970 painting: one sage asks the Medicine Buddha to explain the Four Tantras and another recites the answers, and the book is written as their questions and answers."
     ],
     "myth": {
-      "tradition": "The Four Tantras are the Buddha's own teaching, carried to Tibet in the 8th century and handed down unchanged.",
-      "record": "This is religious tradition. Historians credit the text to Yuthok the Younger in the 12th century and trace its contents to several medical traditions; an 8th-century Yuthok the Elder is regarded as legendary."
+      "tradition": "The Four Tantras are the Buddha's own teaching, handed down unchanged.",
+      "record": "This is religious tradition. The museum and scholarly sources here credit the text to Yuthok the Younger in the 12th century, and the medical tradition it serves drew on several earlier sources. An 8th-century Yuthok the Elder is described as legendary."
     },
     "links": [
       {
         "to": "vagbhata",
         "kind": "built-on",
-        "note": "Indian Ayurvedic learning was one of the sources Tibetan medicine drew on."
+        "note": "Indian medical learning, of which Vagbhata's work is a classic example, was one source Tibetan medicine drew on."
       },
       {
         "to": "charaka-samhita",
@@ -156,7 +156,7 @@
         "year": 2019,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6983943/",
         "type": "scholarly",
-        "supports": "The Four Tantras as the single standard treatise of Tibetan, Mongolian, Bhutanese and Himalayan medicine; formation between the 7th and 12th centuries from Tibetan, Indian, Chinese, Persian and Central Asian knowledge.",
+        "supports": "The Four Tantras as the single standard treatise of Tibetan, Mongolian, Bhutanese and Himalayan medicine; formation of the tradition between the 7th and 12th centuries from Tibetan, Indian, Chinese, Persian and Central Asian knowledge.",
         "quote": "Sowa Rigpa emerged in Central Tibet between the seventh and twelfth century CE from Tibetan, Indian, Chinese, Persian, and Central Asian medical knowledge"
       },
       {
@@ -172,7 +172,7 @@
         "publisher": "Wellcome Collection (catalogue record)",
         "url": "https://api.wellcomecollection.org/catalogue/v2/works/vdbuahzg",
         "type": "institutional",
-        "supports": "The traditional account of the Medicine Buddha's teaching, the two sages, and the question-and-answer form of the text.",
+        "supports": "The traditional account (as painted in 1970) of the Medicine Buddha's teaching, the two sages, and the question-and-answer form of the text; the 8th-century physician Yuthok the Elder.",
         "quote": "The rGyud-bzhi is written in the form of questions-and-answers between these two sages"
       }
     ],
@@ -203,7 +203,7 @@
     "place": "Delhi and other Muslim courts of northern India",
     "people": [
       "Firuz Shah Tughlaq (born 1309), sultan of Delhi who endowed a hospital",
-      "Hakim Ajmal Khan, Delhi physician and founder of the Tibbia College"
+      "Hakim Ajmal Khan, Delhi physician under whose aegis the Tibbia College was established"
     ],
     "themes": [
       "institutions",
@@ -212,18 +212,18 @@
     ],
     "summary": "A sultan's free hospital in Delhi, Persian doctors at the Mughal court, and a Greek-rooted medicine that is still taught across India.",
     "body": [
-      "Greek medicine, recast in Arabic and Persian, reached India with its Muslim rulers. At the Delhi Sultanate and the later Muslim courts, its physicians practiced *tibb* alongside Ayurvedic colleagues and borrowed Indian drugs. In the 14th century Sultan Firuz Shah Tughlaq recorded that he endowed a hospital where physicians diagnosed the sick, regulated their diet and gave medicines at his expense, to \"residents and travelers, gentle and simple, bond and free.\" Only in the late 18th century did the tradition take the name *Unani*, \"Greek.\" It outlasted British rule: Hakim Ajmal Khan's Tibbia College in Delhi taught it outside the colonial system, and it remains a state-recognized medicine today."
+      "Greek medicine, recast in Arabic and Persian, reached India with its Muslim rulers. At the Delhi Sultanate and the later Muslim courts, its physicians practiced *tibb* alongside Ayurvedic colleagues. In the 14th century Sultan Firuz Shah Tughlaq recorded that he endowed a hospital where physicians diagnosed the sick, regulated their diet and gave medicines at his expense, to \"residents and travelers, gentle and simple, bond and free.\" The name *Unani*, \"Greek,\" is first recorded only in the late 18th century; before that the medicine was simply *tibb*. It outlasted British rule: Hakim Ajmal Khan's Tibbia College in Delhi taught it outside the colonial system, and it is state-recognized in India today."
     ],
     "links": [
       {
         "to": "ibn-sina-canon",
         "kind": "built-on",
-        "note": "Avicenna's *Canon* was the core text carried to Indian courts."
+        "note": "Avicenna's *Canon* was the premier medical text of the Islamic world on which Greco-Arabic medicine rested."
       },
       {
         "to": "bimaristans",
         "kind": "built-on",
-        "note": "The Islamic endowed hospital that Delhi's sultans copied."
+        "note": "Endowed hospitals of the Islamic world; Firuz Shah's is a later Indian example."
       },
       {
         "to": "reserpine",
@@ -247,7 +247,7 @@
         "year": 2014,
         "url": "https://archive.aramcoworld.com/issue/201402/unani.medicine.s.greco-islamic.synthesis.htm",
         "type": "news",
-        "supports": "Muslim doctors at the Delhi Sultanate and later courts worked alongside Ayurvedic colleagues; the name Unani appears only in the late 18th century; Unani is state-recognized and taught in India today.",
+        "supports": "Muslim doctors at the Delhi Sultanate and later courts worked alongside Ayurvedic colleagues; the earliest known references to the name Unani are late 18th century; Unani was formally recognized in India in 1985 and is taught there today.",
         "quote": "Until the late 18th century, Greco–Islamic medicine had been known in India simply by the Arabic word tibb"
       },
       {
@@ -287,11 +287,11 @@
     ],
     "summary": "Traveling Brahmin inoculators, a smallpox goddess and a strict diet: Bengal's way of beating smallpox as reported to London in 1767.",
     "body": [
-      "In 1767 J. Z. Holwell told London's College of Physicians how Bengal protected itself against smallpox. Every year, he wrote, small parties of Brahmin inoculators set out from religious centers such as Benares to reach the villages before the smallpox season. Patients were prepared with a diet free of fish, milk and ghee; after inoculation, cold water was poured over their heads and offerings made to Sitala, goddess of smallpox. A vaccination official found the account still broadly true in 1805. Holwell claimed the practice had \"the sanction of remotest antiquity,\" but nobody has shown how old it was."
+      "In 1767 J. Z. Holwell told London's College of Physicians how Bengal protected itself against smallpox. Every year, he wrote, small parties of Brahmin inoculators set out from religious colleges such as Benares to reach the villages before the smallpox season. Patients were prepared with a diet free of fish, milk and ghee; after inoculation, cold water was poured over their heads and offerings made to Sitala, goddess of smallpox. A vaccination official found the account still broadly accurate in 1805, though some details had changed. Holwell claimed the practice had \"the sanction of remotest antiquity,\" but its real age is undocumented."
     ],
     "myth": {
-      "tradition": "Indian inoculation, or even vaccination itself, goes back thousands of years and is described in ancient Sanskrit texts.",
-      "record": "The age of Bengali inoculation is undocumented; colonial writers' 'time immemorial' was a stock phrase for customs of unknown origin. The supposed ancient Sanskrit account of vaccination first appeared in the *Madras Courier* in 1819 and may have been deliberate propaganda."
+      "tradition": "Indian inoculation, or even vaccination itself, goes back thousands of years and was known in ancient India.",
+      "record": "No source cited here documents the age of Bengali inoculation; colonial writers' 'time immemorial' was a standard phrase for usage of unidentifiable origin. Supposed evidence that vaccination was known in ancient India was published in the *Madras Courier* in 1819, in what may have been conscious propaganda."
     },
     "links": [
       {
@@ -328,7 +328,7 @@
         "year": 2004,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC546339/",
         "type": "scholarly",
-        "supports": "Holwell's 1767 account and its importance; itinerant Brahmin inoculators; the diet; cold water and offerings to Sitala; Shoolbred's 1805 confirmation; 'time immemorial' as a stock phrase; the 1819 Madras Courier claim.",
+        "supports": "Holwell's 1767 account and its importance; itinerant Brahmin inoculators; the diet; cold water and offerings to Sitala; Shoolbred's 1805 comparison ('in general pretty nearly') and the modification of the cold-water step; 'time immemorial' as the standard colonial phrase.",
         "quote": "One of the most influential accounts of variolation as practised in India was published by J Z Holwell in 1767 and described the practice in mid-eighteenth-century Bengal."
       },
       {
@@ -351,7 +351,7 @@
   },
   {
     "id": "indian-rhinoplasty-1794",
-    "title": "An Indian nose job astonishes London",
+    "title": "An Indian nose reconstruction reaches London",
     "stream": "india",
     "tier": 2,
     "date": {
@@ -361,21 +361,21 @@
     "confidence": {
       "date": "firm",
       "claim": "agreed",
-      "note": "The *Gentleman's Magazine* letter of October 1794 survives and was reprinted by Carpue in 1816. Sources differ slightly on when the operation itself took place (1793 or after a year without a nose following capture in 1792), and the operator is never named."
+      "note": "The *Gentleman's Magazine* letter of October 1794 survives and was reprinted by Carpue in 1816. Sources differ slightly on when the operation itself took place (the Science Museum says 1793; the letter says Cowasjee went more than a year without a nose after capture in 1792), and the operator is never named."
     },
     "place": "Near Poona (Pune), India; reported in London",
     "people": [
       "Cowasjee, bullock driver with the British army and the patient",
-      "Thomas Cruso and James Findlay, Bombay surgeons who witnessed the operation",
+      "Thomas Cruso and James Findlay, Bombay surgeons the letter cites as having seen the operation performed",
       "Joseph Constantine Carpue (1764–1846), London surgeon who adopted the method"
     ],
     "themes": [
       "surgery",
       "practice"
     ],
-    "summary": "A mutilated bullock driver, a new nose cut from his forehead by a nameless craftsman near Poona, and a letter that revived plastic surgery in Europe.",
+    "summary": "A mutilated bullock driver, a new nose cut from his forehead by a nameless craftsman near Poona, and a letter that rekindled interest in nose reconstruction in Europe.",
     "body": [
-      "In October 1794 London's *Gentleman's Magazine* printed a letter, signed only \"B. L.,\" about a man named Cowasjee. A bullock driver with the British army in the war of 1792 against Tipu Sultan of Mysore, he had been taken prisoner and had his nose and one hand cut off. After more than a year without a nose he was given a new one by \"a Mahratta surgeon, a Kumar\" near Poona, while two Bombay surgeons, Thomas Cruso and James Findlay, watched.",
+      "In October 1794 London's *Gentleman's Magazine* printed a letter, signed only \"B. L.,\" about a man named Cowasjee. A bullock driver with the British army in the war of 1792 against Tipu Sultan of Mysore, he had been taken prisoner and had his nose and one hand cut off. After more than a year without a nose he was given a new one by \"a Mahratta surgeon, a Kumar\" near Poona. Two Bombay surgeons, Thomas Cruso and James Findlay, were cited as having seen the operation performed.",
       "A wax model of a nose was flattened and traced on the forehead. The skin was cut free except for a narrow bridge between the eyes, which kept its blood supply, then turned down and fixed to the stump. The letter said the operation was \"not uncommon in India.\" Engravings of Cowasjee were published in London.",
       "Europe had once had its own flap operations, from 16th-century Italy, but they had fallen out of use. In London, Joseph Constantine Carpue studied the reports, practiced on cadavers and in 1814 rebuilt an officer's nose; his 1816 book spread what became known as the Indian method. The Indian surgeon's name was never recorded."
     ],
@@ -431,7 +431,7 @@
         "publisher": "Science Museum Group Collection",
         "url": "https://collection.sciencemuseumgroup.org.uk/objects/co67130/a-singular-operation",
         "type": "institutional",
-        "supports": "Engravings of Cowasjee published in London; witnessed by English doctors in India; the method's reception as the 'Hindu method'.",
+        "supports": "Engravings of Cowasjee published in London; English doctors said to have witnessed the operation (dated there to 1793); the method's reception as the 'Hindu method'.",
         "quote": "Cowasjee, who is pictured, was a bullock driver for the British Army. He was taken prisoner by the enemy and his nose and one hand were cut off."
       },
       {
@@ -464,7 +464,7 @@
     "confidence": {
       "date": "firm",
       "claim": "agreed",
-      "note": "CIBA's 1952 isolation and launch of reserpine are well documented. Accounts differ on minor points, such as who first isolated the alkaloid and in which year, and on how far back the root's medical use can be traced."
+      "note": "CIBA's 1952 isolation and launch of reserpine are well documented. Credit is contested: one scholarly account argues that earlier Indian work has been under-recognized, and the antiquity of the root's medical use is disputed."
     },
     "place": "Calcutta and Bombay, India; Basel, Switzerland",
     "people": [
@@ -479,11 +479,11 @@
     ],
     "summary": "A root sold in Indian bazaars to calm the insane became, via Calcutta doctors and a Swiss firm, a blood-pressure pill and an early drug for psychosis.",
     "body": [
-      "The root of *Rauwolfia serpentina*, sarpagandha, was sold across India above all as a remedy for insanity. In 1931 two Calcutta physicians, Gananath Sen and Kartick Chandra Bose, reported that 20 to 30 grains of the powder twice daily calmed violent patients and lowered blood pressure. After Rustom Jal Vakil's 1949 paper in the *British Heart Journal*, the Swiss firm CIBA isolated the active alkaloid, reserpine, in 1952 and sold it as Serpasil for high blood pressure. Nathan Kline then showed it worked in psychosis, and in 1957 he and Vakil shared Lasker honors with chlorpromazine's pioneers."
+      "The root of *Rauwolfia serpentina*, sarpagandha, was sold in Indian bazaars above all as a remedy for insanity. In 1931 two Calcutta physicians, Gananath Sen and Kartick Chandra Bose, reported that 20 to 30 grains of the powder twice daily calmed violent patients and lowered blood pressure. Rustom Jal Vakil's 1949 paper in the *British Heart Journal* drew Western attention to it, and in 1952 CIBA chemists isolated reserpine, sold as Serpasil for high blood pressure. Nathan Kline showed it worked in psychosis, and in 1957 he and Vakil won Lasker awards alongside chlorpromazine's pioneers."
     ],
     "myth": {
       "tradition": "Reserpine is an ancient Ayurvedic drug, recorded in Indian texts for some 3,000 years.",
-      "record": "The root was widely used in Indian folk and bazaar medicine, but Bose wrote in 1932 that no drug matching it could be found in the classical Ayurvedic lexicons, and called the 'Ayurvedic' names misnomers."
+      "record": "Sources disagree. One reviewer says the *Sushruta Samhita* mentions a root called sarpagandha, used against snakebite, though the plant was identified as *Rauwolfia* only centuries later. Bose wrote in 1932 that no drug matching it could be found in the classical Ayurvedic lexicons, and a 2018 review calls the 'Ayurvedic' label not entirely appropriate. Its use in bazaar and folk medicine is better documented."
     },
     "links": [
       {
@@ -505,7 +505,7 @@
         "year": 2018,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5836351/",
         "type": "scholarly",
-        "supports": "Sen and Bose's 1931 paper and dose; Sen's Ayurvedic background; 1952 isolation by CIBA chemists; Kline's work at Rockland State Hospital; the 1957 Lasker awards including Vakil; Bose's 1932 statement on Ayurvedic texts; use for insanity.",
+        "supports": "Sen and Bose's 1931 paper and dose; Sen's Ayurvedic background; 1952 isolation by CIBA chemists; Kline's work at Rockland State Hospital; the 1957 Lasker awards including Vakil; Bose's 1932 statement on Ayurvedic texts; principal use in India for insanity.",
         "quote": "doses of 20 to 30 grains of powder twice daily produce not only hypnotic effect but also a reduction of blood pressure and violent symptoms."
       },
       {
@@ -534,8 +534,17 @@
         "publisher": "Medical History (Cambridge University Press)",
         "url": "https://cambridge.org/core/services/aop-cambridge-core/content/view/52C3E4348053FA2E50DFF6E64993EA03/S0025727300023498a.pdf/notes-on-rauwolfia-and-ancient-medical-writings-of-india.pdf",
         "type": "scholarly",
-        "supports": "Vakil's 1949 British Heart Journal paper drew Western attention to rauwolfia.",
+        "supports": "Vakil's 1949 British Heart Journal paper drew Western attention to rauwolfia; the root sold in bazaars; the reviewer's statement that the Sushruta Samhita mentions it as Sarpagandha.",
         "quote": "it was largely the published observations of Rustom Jal Vakil in the British Heart jrournal (Vakil, I949) that drew the attention of the scientific world to the value of rauwolfia."
+      },
+      {
+        "title": "Notes on Rauwolfia and Ancient Medical Writings of India (on the Sushruta Samhita)",
+        "author": "K. Somers",
+        "publisher": "Medical History (Cambridge University Press)",
+        "url": "https://cambridge.org/core/services/aop-cambridge-core/content/view/52C3E4348053FA2E50DFF6E64993EA03/S0025727300023498a.pdf/notes-on-rauwolfia-and-ancient-medical-writings-of-india.pdf",
+        "type": "scholarly",
+        "supports": "The reviewer's statement that the Sushruta Samhita mentions a plant under the name Sarpagandha (the other side of the 'ancient Ayurvedic drug' dispute).",
+        "quote": "serpentina is mentioned by the name Sarpagandha. The Sanskrit name is derived from two words, Sarpa"
       }
     ],
     "further": [

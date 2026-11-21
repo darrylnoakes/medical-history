@@ -618,5 +618,35 @@
   "license": "CC BY-SA 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:MRI_Scanner_Mark_One.jpg"
+ },
+ "smallpox-eradication": {
+  "commons": "File:Rahima Banu.jpg",
+  "src": "/img/smallpox-eradication.webp",
+  "width": 843,
+  "height": 1300,
+  "credit": "CDC/ World Health Organization Stanley O. Foster M.D., M.P.H.",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Rahima_Banu.jpg"
+ },
+ "hiv-aids": {
+  "commons": "File:HIV-budding-Color.jpg",
+  "src": "/img/hiv-aids.webp",
+  "width": 1000,
+  "height": 664,
+  "credit": "Photo Credit: C. Goldsmith Content Providers: CDC/ C. Goldsmith, P. Feorino, E. L. Palmer, W. R. McManus",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:HIV-budding-Color.jpg"
+ },
+ "keyhole-surgery": {
+  "commons": "File:US Navy 081117-N-7526R-568 Cmdr. Thomas Nelson and Lt. Robert Roadfuss discuss proper procedures while performing a laparoscopic cholecystectomy surgery.jpg",
+  "src": "/img/keyhole-surgery.webp",
+  "width": 1000,
+  "height": 664,
+  "credit": "U.S. Navy photo by Mass Communication Specialist 2nd Class Marc Rockwell-Pate",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:US_Navy_081117-N-7526R-568_Cmdr._Thomas_Nelson_and_Lt._Robert_Roadfuss_discuss_proper_procedures_while_performing_a_laparoscopic_cholecystectomy_surgery.jpg"
  }
 }

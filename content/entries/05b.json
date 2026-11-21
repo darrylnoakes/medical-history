@@ -13,7 +13,7 @@
     "confidence": {
       "date": "uncertain",
       "claim": "agreed",
-      "note": "The goat experiment is known only from Ibn Zuhr's own account in the *Taysir*, which is undated; it was composed late in his life, sometime before his death in 1162 (one source puts it between 1121 and 1162). His birth year is estimated at 1091–1095 by modern scholars."
+      "note": "The goat experiment is known only from Ibn Zuhr's own account in the *Taysir*, which is undated; it was composed late in his life, sometime before his death in 1162 (Al-Rubaye puts it between 1121 and 1162). The experiment itself dates from his training, earlier still. His birth year is estimated at 1091–1095 by modern scholars. The story rests on his own report alone."
     },
     "place": "Seville, al-Andalus (Spain)",
     "people": [
@@ -22,7 +22,7 @@
       "Ibn Rushd, 'Averroes', philosopher-physician of Córdoba, about thirty years younger, who admired the *Taysir*"
     ],
     "themes": ["surgery", "practice"],
-    "summary": "Hearing doctors dispute whether a cut windpipe could be survived, a 12th-century Seville physician, by his own account, tried it on a goat first.",
+    "summary": "Having read the quarrel over whether a cut windpipe could be survived, a 12th-century Seville physician, by his own account, tried it on a goat first.",
     "body": [
       "Surgeons had argued for centuries over whether opening the windpipe of a choking patient was safe. In the *Taysir*, his manual of treatments and diets, the Seville physician Abu Marwan Ibn Zuhr (Avenzoar) recalls testing it while still in training: he cut into a goat's windpipe, cut away a patch of it just smaller than a lupine seed, and washed the wound with water and honey until the animal recovered and lived a long time. The book, dedicated to the Almohad ruler Abd al-Mu'min, was called the finest work of its day on experience-based medicine by Ibn Rushd (Averroes), who was some thirty years younger. It also set apart a parasitic form of scabies."
     ],
@@ -56,7 +56,7 @@
         "publisher": "TDV İslâm Ansiklopedisi",
         "url": "https://islamansiklopedisi.org.tr/ibn-zuhr",
         "type": "reference",
-        "supports": "Death in 557/1162; birth estimated 1091 or 1094; the Taysir dedicated to Abd al-Mu'min; Ibn Rushd's praise of the book.",
+        "supports": "Death in 557/1162; birth estimated 1091 or 1094; the Taysir dedicated to Abd al-Mu'min (whose vizier he became); Ibn Rushd, thirty years younger, calls it the most perfect work of experimental medicine of his time.",
         "quote": "ondan büyük saygı ve yardım gördüğü için de en meşhur eseri Kitâbü’t-Teysîr ’i kendisine ithaf etmiştir"
       }
     ],
@@ -88,15 +88,15 @@
     "themes": ["practice", "texts"],
     "summary": "The greatest rabbi of his age made his living as a court doctor in Cairo, writing advice on asthma, diet and sex for wealthy Muslim patients.",
     "body": [
-      "Moses Maimonides, the leading rabbinic authority of his time, settled in Fustat (Old Cairo) and earned his living as a physician. He served al-Qadi al-Fadil, the top official of Sultan Saladin, and later Saladin's son al-Malik al-Afdal. Most of his ten medical books date from the last two decades of his life: short pieces of advice for wealthy Muslim patients on asthma, hemorrhoids and sex, a health regimen built on diet, exercise and clean air, and a large anthology of aphorisms drawn from Hippocrates and Galen, whose views he respected but did not accept wholesale."
+      "Moses Maimonides, the leading rabbinic authority of his time, settled in Fustat (Old Cairo) and earned his living as a physician. He served al-Qadi al-Fadil, the top official of Sultan Saladin, and later Saladin's son al-Malik al-Afdal. Most of his ten medical books date from the last two decades of his life: short pieces of advice for wealthy Muslim patients on asthma, hemorrhoids and sex, a health regimen, written for al-Afdal in 1198, that stresses moderate diet, exercise and clean air, and a large anthology of aphorisms drawn from Hippocrates and Galen, whose views he respected but did not accept wholesale."
     ],
     "myth": {
       "tradition": "Maimonides was Saladin's personal physician.",
-      "record": "The patrons historians of his medicine name are Saladin's chief official, al-Qadi al-Fadil, and later Saladin's son al-Afdal; the popular phrase compresses this."
+      "record": "Some modern writers say so flatly, but the patrons that the biographical sources used here name are Saladin's chief official, al-Qadi al-Fadil, and later Saladin's son al-Afdal. None of them records him treating Saladin himself."
     },
     "links": [
       { "to": "galen", "kind": "built-on", "note": "Galen was the authority he cited most, and argued with." },
-      { "to": "ibn-zuhr", "kind": "see-also", "note": "He drew on the physicians of al-Andalus, where he was born." }
+      { "to": "ibn-zuhr", "kind": "see-also", "note": "Ibn Zuhr was among the Muslim physicians he quoted often." }
     ],
     "sources": [
       {
@@ -116,6 +116,16 @@
         "type": "scholarly",
         "supports": "Medical writing concentrated in his last two decades; ten medical books; asthma and hemorrhoids; doubts about Galen; exercise and clean air; birth given as 1135; death in Fustat 1204.",
         "quote": "Although Maimonides only devoted time to medical writing during the last two decades of his life, he impacted the philosophy and medical practice"
+      },
+      {
+        "title": "Moses Maimonides: Biographic Outlines",
+        "author": "Fred Rosner",
+        "publisher": "Rambam Maimonides Medical Journal 1 (1)",
+        "year": 2010,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3721660/",
+        "type": "scholarly",
+        "supports": "The Regimen of Health written in 1198 for al-Afdal, Saladin's eldest son; death 13 December 1204; Ibn Zuhr among the Muslim authors he quoted often; ten medical works.",
+        "quote": "Maimonides wrote it in 1198 during the first year of the reign of Sultan Al Malik Al Afdal, eldest son of Saladin the Great."
       },
       {
         "title": "Maimonides",

@@ -30,7 +30,7 @@
       "In 1901 Karl Landsteiner, an assistant in the department of pathological anatomy at the University of Vienna, mixed red blood cells from some people with blood serum from others. Some combinations clumped and some did not, and the pattern was regular. Landsteiner sorted people into three groups, which he labeled A, B and C, the last later renamed O. In 1902 his colleague Alfred von Decastello and Adriano Sturli found the rarer fourth group, AB.",
       "The finding answered an old puzzle. Physicians had known since the 1870s that animal blood transfused into a human was clumped and destroyed. Landsteiner suggested that the same clash between two people's blood explained the shock, jaundice and hemoglobin in the urine that had followed some human transfusions, and that because the groups are inherited they might help settle disputed paternity. For years these suggestions received little attention.",
       "Typing was only one obstacle. In 1907 Ludvig Hektoen proposed cross-matching donor and recipient blood, and Reuben Ottenberg performed a transfusion using typing and cross-matching. Blood still clotted within minutes until 1914–15, when Luis Agote and Richard Lewisohn used sodium citrate to keep it liquid and Richard Weil showed that citrated blood could be refrigerated. On the Western Front in 1917 the American physician Oswald Hope Robertson collected blood from group O donors into glass bottles with anticoagulant, kept it on ice for up to 28 days, and took it where the wounded needed it.",
-      "Civilian banking followed. In 1937 Bernard Fantus set up a blood bank at Cook County Hospital in Chicago, storing blood in a refrigerator for up to ten days. In 1940 Landsteiner, by then at the Rockefeller Institute in New York, and Alexander Wiener described the Rh factor, which explained hemolytic disease of the newborn. That year the African American surgeon Charles Drew directed the Blood for Britain program, setting uniform standards for collecting blood and processing plasma. As the national program expanded, the armed forces at first barred Black donors and then required their blood to be segregated, policies Drew criticized as unscientific and insulting.",
+      "Civilian banking followed. In 1937 Bernard Fantus set up a blood bank at Cook County Hospital in Chicago, storing blood in a refrigerator for up to ten days. In 1940 Landsteiner, by then at the Rockefeller Institute in New York, and Alexander Wiener described the Rh factor, which proved central to understanding hemolytic disease of the newborn. That year the African American surgeon Charles Drew directed the Blood for Britain program, setting uniform standards for collecting blood and processing plasma. As the national program expanded, the armed forces at first barred Black donors and then required their blood to be segregated, policies Drew criticized as unscientific and insulting.",
       "Landsteiner received the Nobel Prize in 1930, almost three decades after his discovery."
     ],
     "myth": {
@@ -74,7 +74,7 @@
         "year": 2024,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11458791/",
         "type": "scholarly",
-        "supports": "Decastello and Sturli found AB in 1902; Rh system described with Wiener in 1940 and its link to hemolytic disease of the newborn.",
+        "supports": "Decastello and Sturli found AB in 1902; Rh system described in 1940 and its link to hemolytic disease of the newborn (Wiener's part in the 1940 work is from the Nobel biography and Red Cross timeline).",
         "quote": "In 1902, Alfred von Decastello, one of Landsteiner's colleagues, and his student Adriano Sturli discovered the fourth blood group, AB"
       },
       {
@@ -100,7 +100,7 @@
     "image": {
       "commons": "File:Karl Landsteiner nobel.jpg",
       "alt": "Portrait photograph of the pathologist Karl Landsteiner.",
-      "caption": "Karl Landsteiner, photographed around the time of his 1930 Nobel Prize, nearly thirty years after he first sorted human blood into groups in Vienna."
+      "caption": "Karl Landsteiner in a portrait published in 1930, the year of his Nobel Prize, nearly thirty years after he first sorted human blood into groups in Vienna."
     }
   },
   {
@@ -127,9 +127,9 @@
     "themes": [
       "theory"
     ],
-    "summary": "Physiologists thought nerves ran the body. Then two Londoners found a chemical messenger carried in the blood, and Starling gave such substances a name: hormones.",
+    "summary": "Physiologists explained the body's coordination by its nerves. Then two Londoners found a chemical messenger carried in the blood, and Starling gave such substances a name: hormones.",
     "body": [
-      "Until 1902 physiologists assumed that the organs were coordinated by nerves alone. That year William Bayliss and Ernest Starling in London showed that the gut releases a messenger into the blood, secretin, which drives secretion by the pancreas. In his Croonian Lectures of 1905 Starling introduced the word hormone, proposed by W. B. Hardy, for such blood-borne messengers. One was already on sale: in 1900 Keizo Uenaka, working for Jokichi Takamine in New York, crystallized the active principle of the adrenal glands, and Parke, Davis distributed it as Adrenalin from early 1901."
+      "Until 1902 physiologists largely explained the coordination of organs by nerves. That year William Bayliss and Ernest Starling in London showed that the gut releases a messenger into the blood, secretin, which drives secretion by the pancreas. In his Croonian Lectures of 1905 Starling introduced the word hormone, proposed by W. B. Hardy, for such blood-borne messengers. One was already on sale: in 1900 Keizo Uenaka, working for Jokichi Takamine in New York, crystallized the active principle of the adrenal glands, and Parke, Davis distributed it as Adrenalin from early 1901."
     ],
     "links": [
       {
@@ -146,7 +146,7 @@
         "year": 2021,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8052576/",
         "type": "scholarly",
-        "supports": "Bayliss and Starling's 1902 demonstration of a blood-borne messenger, secretin; the word hormone proposed by Hardy and introduced by Starling in his 1905 Croonian Lectures; neural regulation previously assumed to be the only kind.",
+        "supports": "Bayliss and Starling's 1902 demonstration of a blood-borne messenger, secretin; the word hormone proposed by Hardy and introduced by Starling in his 1905 Croonian Lectures; blood-borne regulation as a paradigm shift beside neural regulation.",
         "quote": "discovery of the first hormone in history, secretin"
       },
       {
@@ -188,7 +188,7 @@
     ],
     "summary": "A Dutch physiologist hung a silvered quartz thread between two magnets and turned the heartbeat into a clean, readable trace: the electrocardiogram.",
     "body": [
-      "Augustus Waller recorded the heart's electrical activity from a person in 1887 with a capillary electrometer, a sluggish mercury-filled tube. Willem Einthoven, professor of physiology at Leiden, at first corrected its traces mathematically, then built a better instrument: the string galvanometer, a thin silver-coated quartz filament between two electromagnets whose movements were magnified and photographed. Refining it took three years; by 1902 it recorded the P, Q, R, S and T waves directly. Einthoven had a cable laid to the hospital to record patients at a distance, and received the 1924 Nobel Prize."
+      "Augustus Waller recorded the heart's electrical activity from a person in 1887 with a capillary electrometer, a sluggish mercury-filled tube. Willem Einthoven, professor of physiology at Leiden, at first corrected its traces mathematically, then built a better instrument: the string galvanometer, a thin silver-coated quartz filament between two electromagnets whose movements were magnified and photographed. Refining it took three years; by 1902 it recorded the P, Q, R, S and T waves directly. Einthoven had a telephone cable laid to the hospital to record patients at a distance, and received the 1924 Nobel Prize."
     ],
     "links": [
       {
@@ -225,6 +225,16 @@
         "type": "scholarly",
         "supports": "Direct recording of the P, Q, R, S and T waves in 1902; the telephone cable linking laboratory and clinic.",
         "quote": "The application of the string galvanometer eventually made it possible to directly record the P, Q, R, S, and T deflections in humans in 1902"
+      },
+      {
+        "title": "A brief review: history to understand fundamentals of electrocardiography",
+        "author": "Majd AlGhatrif, Joseph Lindsay",
+        "publisher": "Journal of Community Hospital Internal Medicine Perspectives, via PubMed Central",
+        "year": 2012,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3714093/",
+        "type": "scholarly",
+        "supports": "Einthoven developed the sensitive string galvanometer in 1901, the start of the 1901-1903 range.",
+        "quote": "In 1901, he successfully developed a new string galvanometer with very high sensitivity, which he used in his electrocardiograph."
       }
     ],
     "further": []
@@ -243,7 +253,7 @@
       "claim": "firm",
       "note": "Alzheimer's 1907 paper and Kraepelin's 1910 textbook are in print, and the patient's file survives. Modern accounts disagree on the exact day of the Tübingen lecture, giving 3 or 6 November 1906."
     },
-    "place": "Frankfurt and Tübingen, Germany",
+    "place": "Frankfurt, Munich and Tübingen, Germany",
     "people": [
       "Alois Alzheimer (1864–1915), psychiatrist and neuropathologist",
       "Auguste Deter, his patient",
@@ -255,7 +265,7 @@
     ],
     "summary": "A 51-year-old Frankfurt woman lost her memory and her bearings. After her death her doctor found strange tangles and deposits in her brain, and the disease took his name.",
     "body": [
-      "In November 1901 Alois Alzheimer, a physician at the municipal asylum in Frankfurt, examined Auguste Deter, a 51-year-old woman with failing memory, disorientation and delusions. When she died in 1906 he examined her brain and, at a meeting of psychiatrists in Tübingen that November, described altered fibrils inside nerve cells and deposits of a peculiar substance in the cortex. The talk drew no comment. Emil Kraepelin named Alzheimer's disease in his 1910 textbook, treating it as a rare presenile illness separate from ordinary senile dementia, a division later abandoned."
+      "In November 1901 Alois Alzheimer, a physician at the municipal asylum in Frankfurt, examined Auguste Deter, a 51-year-old woman with failing memory, disorientation and delusions. When she died in 1906 he, by then working in Munich under Kraepelin, examined her brain and, at a meeting of psychiatrists in Tübingen that November, described altered fibrils inside nerve cells and deposits of a peculiar substance in the cortex. The talk drew no comment. Emil Kraepelin named Alzheimer's disease in his 1910 textbook, treating it as a rare presenile illness separate from ordinary senile dementia, a division later abandoned."
     ],
     "links": [
       {
@@ -297,7 +307,7 @@
         "year": 2016,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6428020/",
         "type": "scholarly",
-        "supports": "Admission on 25 November 1901 and a lecture date of 3 November 1906 (differing from Nitrini).",
+        "supports": "Admission on 25 November 1901 and a lecture date of 3 November 1906 (differing from Nitrini). Also the brain sent from Frankfurt to Munich after her death.",
         "quote": "Auguste entered the Frankfurt mental hospital on November 25th 1901"
       }
     ],
@@ -316,7 +326,7 @@
     "confidence": {
       "date": "firm",
       "claim": "agreed",
-      "note": "Health department records and George Soper's own accounts document her detention. Case and death counts attributed to her come from Soper and vary between retellings, and whether an autopsy found the bacteria in her gallbladder is disputed."
+      "note": "Health department records and George Soper's own accounts document her detention. Counts of cases and deaths attributed to her come mostly from Soper and later retellings and vary between them, and whether an autopsy found the bacteria in her gallbladder is disputed."
     },
     "place": "New York City, United States",
     "people": [
@@ -327,13 +337,13 @@
       "public-health",
       "ethics"
     ],
-    "summary": "A cook who never felt ill was linked to typhoid outbreaks and held on an island for most of her last 26 years, while hundreds of other carriers stayed free.",
+    "summary": "A cook who never felt ill was linked to typhoid outbreaks and held on an island for 26 years, while hundreds of other healthy carriers stayed free.",
     "body": [
       "Mary Mallon, an Irish-born cook, felt perfectly well. After typhoid struck a household at Oyster Bay, Long Island, in 1906, the sanitary engineer George Soper traced the illness to her, and in 1907 New York officials forced her to give samples, found typhoid bacteria and confined her on North Brother Island. Released in 1910 on condition that she stop cooking, she was found in 1915 working in a maternity hospital kitchen under another name and was confined until her death in 1938. Hundreds of other healthy carriers were identified; none was held as she was."
     ],
     "myth": {
       "tradition": "Typhoid Mary was a reckless woman who knowingly spread typhoid and killed scores of people.",
-      "record": "Soper's count was at least 122 cases and five deaths. The idea of a healthy carrier was new and was rarely explained to her, and the press portrait of a defiant woman reflected prejudice against an Irish working-class immigrant."
+      "record": "Soper traced typhoid to seven of the eight households she had cooked for, about 22 cases, and at least 25 people fell ill at Sloane Maternity in 1915, two of whom died; later tallies run higher and differ. Nobody had explained to her what a healthy carrier was, and the press portrait of a defiant woman reflected prejudice against an Irish working-class immigrant."
     },
     "links": [
       {
@@ -350,7 +360,7 @@
         "year": 2013,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3959940/",
         "type": "scholarly",
-        "supports": "Oyster Bay outbreak of 1906, her capture in 1907, release in 1910, Sloane Maternity, death in 1938, 122 cases and five deaths, 400 other carriers not confined, disputed autopsy.",
+        "supports": "Oyster Bay outbreak of 1906, her capture in 1907, release in 1910, Sloane Maternity under the name Mary Brown, 22 cases in earlier households and at least 25 at Sloane, nobody explaining carriers to her, 26 years confined in all, death in 1938, 400 other carriers not confined, disputed autopsy.",
         "quote": "By the time she died New York health officials had identified more than 400 other healthy carriers"
       },
       {
@@ -378,7 +388,7 @@
   },
   {
     "id": "salvarsan",
-    "title": "Salvarsan, the first 'magic bullet'",
+    "title": "Salvarsan and the 'magic bullet'",
     "stream": "bio-drugs",
     "tier": 2,
     "date": {
@@ -400,14 +410,14 @@
       "drugs",
       "theory"
     ],
-    "summary": "Hundreds of arsenic compounds, a shelved bottle labeled 606 and a Japanese bacteriologist's rabbits gave syphilis its first targeted cure.",
+    "summary": "Hundreds of arsenic compounds, a shelved bottle labeled 606 and a Japanese bacteriologist's rabbits gave syphilis an effective targeted treatment.",
     "body": [
       "Syphilis in 1900 was treated with mercury salts, which were toxic and worked poorly. Paul Ehrlich, director of the Royal Institute of Experimental Therapy in Frankfurt, argued that a chemical might be made to strike a microbe while sparing the patient, a 'magic bullet'. With the chemist Alfred Bertheim his laboratory made hundreds of arsenic compounds derived from the drug Atoxyl. In 1909 Sahachiro Hata, sent from Japan by Shibasaburo Kitasato and able to infect rabbits with syphilis, tested compound 606, set aside in 1907 as ineffective, and found that it cured them.",
       "Hoechst marketed it as Salvarsan in 1910. The injections were tedious and the side effects real, and Ehrlich had to fight opposition, but Salvarsan and the more soluble Neosalvarsan became the most frequently prescribed drugs until penicillin replaced them in the 1940s. They made Ehrlich one of the founders of chemotherapy."
     ],
     "myth": {
       "tradition": "The name 606 records Ehrlich's persistence through 605 failed compounds before he found the cure.",
-      "record": "606 was a laboratory number, read by one historian as the sixth compound of the 600 series. The compound had already been made and shelved as useless in 1907; its power emerged only when Hata retested it on syphilitic rabbits."
+      "record": "Sources differ on the number: Ehrlich's Nobel biography calls it the 606th of the series tested, while another history reads 606 as the sixth compound of the 600 series, a catalog number rather than a count of failures. Either way, the compound had been made and set aside as ineffective in 1907, and its power emerged only when Hata retested it on syphilitic rabbits."
     },
     "links": [
       {
@@ -437,7 +447,7 @@
         "year": 2010,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3109405/",
         "type": "scholarly",
-        "supports": "Mercury treatment; magic bullet idea; hundreds of organoarsenic compounds; 1909 rabbit cures; Hoechst marketing; most frequently prescribed drug until penicillin; reading of 606 as sixth in the 600 series.",
+        "supports": "Mercury treatment; magic bullet idea; hundreds of organoarsenic compounds; 1909 rabbit cures; Hoechst marketing; most frequently prescribed drug until penicillin; reading of 606 as sixth in the 600 series. (Aminov and Ehrlich's Nobel biography differ on what 606 means.)",
         "quote": "In 1909 they came across the sixth compound in the 600th series tested, thus numbered 606, which cured syphilis-infected rabbits"
       },
       {
@@ -453,7 +463,12 @@
     ],
     "further": [
       "porter-1997"
-    ]
+    ],
+    "image": {
+      "commons": "File:Results of the treatment of mice with '606' . Wellcome M0013357.jpg",
+      "alt": "Photograph of a printed table of experimental results, with columns for mice infected with relapsing-fever spirilla and their treatment with compound 606.",
+      "caption": "A table of Sahachiro Hata's experiments treating mice infected with relapsing-fever spirilla with '606', reproduced in Paul Ehrlich's *The Experimental Chemotherapy of Spirilloses* (London, 1911)."
+    }
   },
   {
     "id": "flexner-report",
@@ -481,7 +496,7 @@
     ],
     "summary": "A schoolteacher who had never set foot in a medical school graded 155 of them, remade American medical education, and helped close five of the seven Black medical schools.",
     "body": [
-      "In 1908 the American Medical Association's Council on Medical Education commissioned the Carnegie Foundation to survey North America's medical schools, which ranged from fine universities to dismal for-profit schools. The Foundation chose Abraham Flexner, a former Louisville schoolteacher who had never been inside a medical school, precisely because it saw the problem as one of education. He visited 155 schools, and his 1910 report held up Johns Hopkins and German universities as the model: science before admission, laboratories, and teaching in hospitals.",
+      "In 1908 the American Medical Association's Council on Medical Education commissioned the Carnegie Foundation to survey North America's medical schools, which ranged from fine universities to dismal for-profit schools. The Foundation chose Abraham Flexner, a former Louisville schoolteacher who had never been inside a medical school, precisely because it saw the problem as one of education. He visited 155 schools, and his 1910 report held up Johns Hopkins and the German university as the model: science before admission, laboratories, and teaching in hospitals.",
       "Backed by large Rockefeller and Carnegie gifts, the model became the American standard. One history counts 120 of 162 schools closing in the following years, though reform was already under way before Flexner set out. The costs fell unevenly. Flexner accepted segregation and recommended that, of the Black medical schools he reviewed, only Howard and Meharry remain open; the other five closed. A 2020 study estimated that they might have trained some 27,000 to 35,000 more physicians by 2019."
     ],
     "myth": {
@@ -503,7 +518,7 @@
         "year": 2011,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3178858/",
         "type": "scholarly",
-        "supports": "Flexner's background as a Louisville schoolteacher with no medical training, Pritchett's choice of an educator, the Hopkins model and Welch's influence, Rockefeller and Carnegie funding.",
+        "supports": "Flexner's background as a Louisville schoolteacher with no medical training, Pritchett's choice of an educator, the Hopkins model and Welch's influence, Rockefeller and Carnegie funding. The 'never been in a medical school' detail and Pritchett's reason for choosing an educator are also from Duffy.",
         "quote": "Abraham Flexner, a former school teacher and expert on educational practices whose background and training made him an outlier in the Circle"
       },
       {
@@ -538,12 +553,14 @@
     "tier": 2,
     "date": {
       "year": 1912,
-      "display": "1912"
+      "earliest": 1897,
+      "latest": 1915,
+      "display": "1890s–1912"
     },
     "confidence": {
-      "date": "firm",
+      "date": "agreed",
       "claim": "agreed",
-      "note": "The key papers are dated and in print. Credit is contested: the 1929 Nobel Prize went to Eijkman and Hopkins, while Grijns, who first read the evidence as a deficiency, and Funk, who named vitamins, were passed over."
+      "note": "The key papers are dated and in print, but 'the discovery of vitamins' has no single date: it runs from Eijkman's hens in the 1890s to Hopkins's full paper and Funk's name in 1912, with Goldberger's pellagra trials in 1914–15. Credit is contested: the 1929 Nobel Prize went to Eijkman and Hopkins, while Grijns, who first read the evidence as a deficiency, and Funk, who named vitamins, were passed over."
     },
     "place": "Batavia (Jakarta), Cambridge and the American South",
     "people": [
@@ -560,11 +577,11 @@
     "summary": "Sick hens fed polished rice, rats that grew only with a few drops of milk, and orphans cured of pellagra by better meals revealed that disease could come from something missing.",
     "body": [
       "In the 1890s, in a military laboratory in Batavia in the Dutch East Indies, Christiaan Eijkman was looking for a germ behind beriberi when the laboratory's hens developed a similar paralysis. He traced it not to a microbe but to their feed of boiled polished rice; rice bran prevented it. Eijkman thought the bran neutralized a poison. His successor, Gerrit Grijns, argued in 1901 that it supplied something the body itself needed.",
-      "In Cambridge, Frederick Hopkins found that young rats on a purified diet of lard, starch, casein and salts stopped growing until given two or three cubic centimeters of milk a day. He hinted at this in 1906 and published in full in 1912, the year Casimir Funk called the antineuritic substance a 'vitamine'. In the American South from 1914, Joseph Goldberger of the Public Health Service showed that pellagra, widely blamed on infection, disappeared when two orphanages and an asylum improved their diets. Eijkman and Hopkins shared the 1929 Nobel Prize."
+      "In Cambridge, Frederick Hopkins found that young rats on a purified diet of lard, starch, casein and salts stopped growing until given two or three cubic centimeters of milk a day. He hinted at this in 1906 and published in full in 1912; between 1910 and 1912 Casimir Funk called the antineuritic substance a 'vitamine'. In the American South from 1914, Joseph Goldberger of the Public Health Service showed that pellagra, widely blamed on infection, disappeared when two orphanages and an asylum improved their diets. Eijkman and Hopkins shared the 1929 Nobel Prize."
     ],
     "myth": {
       "tradition": "Eijkman discovered that beriberi is caused by a vitamin deficiency.",
-      "record": "Eijkman showed that polished rice caused the disease and bran prevented it, but he believed the bran counteracted a poison. The deficiency explanation came from his successor Grijns."
+      "record": "Eijkman showed that polished rice caused the disease and bran prevented it, but he believed the bran counteracted a poison. The 1929 Nobel presentation credits the deficiency explanation to his successor Grijns, although the Nobel biography of Eijkman is worded as if he had found it."
     },
     "links": [
       {
@@ -609,8 +626,21 @@
         "type": "institutional",
         "supports": "Eijkman's laboratory in the Military Hospital in Batavia.",
         "quote": "the laboratory which had been temporarily set up for the Commission in the Military Hospital in Batavia should be made permanent"
+      },
+      {
+        "title": "Frederick Gowland Hopkins – Biographical",
+        "publisher": "NobelPrize.org",
+        "url": "https://www.nobelprize.org/prizes/medicine/1929/hopkins/biographical/",
+        "type": "institutional",
+        "supports": "Hopkins's move to Cambridge in 1898 to develop biochemistry there.",
+        "quote": "he was invited by Sir Michael Foster to move to Cambridge to develop there the chemical aspects of physiology"
       }
     ],
-    "further": []
+    "further": [],
+    "image": {
+      "commons": "File:Goldberger, Joseph.jpg",
+      "alt": "Black-and-white portrait photograph of Joseph Goldberger.",
+      "caption": "Joseph Goldberger of the US Public Health Service, photographed in 1914, the year he took over the investigation of pellagra."
+    }
   }
 ]
