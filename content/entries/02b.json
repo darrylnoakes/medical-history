@@ -252,7 +252,12 @@
     ],
     "further": [
       "nutton-2013"
-    ]
+    ],
+    "image": {
+      "commons": "File:Ostia antica - Forica (5156172544).jpg",
+      "alt": "A brick-walled room with a stone bench running around the walls, pierced by keyhole-shaped seat openings, and a paved floor.",
+      "caption": "A public latrine (forica) at Ostia Antica, the port of Rome. Stone seating survives around the walls; this one was probably installed in the 4th century CE in a former pair of shops near the Forum Baths."
+    }
   },
   {
     "id": "galen",
@@ -341,7 +346,12 @@
     "further": [
       "nutton-2013",
       "porter-1997"
-    ]
+    ],
+    "image": {
+      "commons": "File:Galen-Pig-Vivisection.jpg",
+      "alt": "Black-and-white woodcut of a bearded man in a long robe bending over a pig tied to a table, watched by rows of onlookers labeled with names.",
+      "caption": "Galen demonstrating on a bound pig before onlookers, from the title page of the 1541 Giunta edition of his works. A 16th-century picture of his famous demonstration that cutting the laryngeal nerves leaves an animal voiceless, not a record made in his lifetime."
+    }
   },
   {
     "id": "antonine-plague",
