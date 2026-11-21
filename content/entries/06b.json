@@ -16,7 +16,7 @@
     },
     "place": "Old Calabar (southeastern Nigeria) and Edinburgh",
     "people": [
-      "Robert Christison, Edinburgh professor and toxicologist who ate part of a bean",
+      "Robert Christison, Edinburgh toxicologist who ate part of a bean",
       "Thomas R. Fraser, Edinburgh physician who described the ordeal and the bean's action",
       "Ludwig Laqueur (1839–1909), ophthalmologist who introduced it for glaucoma",
       "Percy Lavon Julian (1899–1975), chemist who synthesized physostigmine"
@@ -25,7 +25,7 @@
       "drugs",
       "ethics"
     ],
-    "summary": "A poison used to try the accused in Old Calabar became, via a Scottish professor who ate one, a glaucoma drug and a landmark of chemistry.",
+    "summary": "A poison used to try the accused in Old Calabar became, via an Edinburgh toxicologist who ate one, a glaucoma drug and a milestone in synthetic chemistry.",
     "body": [
       "In Old Calabar, in today's southeastern Nigeria, people accused of witchcraft or crimes were made to eat the seeds of a local vine, called *esere*: vomiting declared them innocent, death proved them guilty. Missionaries who arrived in 1846 estimated it killed some 120 people a year, and beans soon reached Scotland. In 1855 the Edinburgh toxicologist Robert Christison ate part of one and recorded the effects. Its alkaloid, physostigmine, was isolated in 1864, and from 1876 it was used to lower the pressure in eyes with glaucoma. In 1935 the Black chemist Percy Julian synthesized it."
     ],
@@ -101,7 +101,7 @@
     "confidence": {
       "date": "firm",
       "claim": "agreed",
-      "note": "The operation is known only from Robert Felkin's own report, published five years later in an Edinburgh journal; no other witness or local record describes it. Later writers place it in the Bunyoro kingdom, while Felkin's phrasing, as quoted, speaks of 'Uganda'."
+      "note": "The operation is known from Robert Felkin's own report, published five years later in an Edinburgh journal; none of the sources consulted cites a second witness. Felkin's phrasing, as paraphrased, speaks of 'Uganda', while later writers place the operation in the Bunyoro kingdom."
     },
     "place": "Kahura, kingdom of Bunyoro (western Uganda)",
     "people": [
@@ -114,7 +114,7 @@
     ],
     "summary": "In 1879 a British medical student watched an African healer deliver a baby by Caesarean section, and saw the mother recover.",
     "body": [
-      "In 1879 Robert Felkin, a British medical student traveling with a missionary expedition, watched a healer at Kahura, in the kingdom of Bunyoro in western Uganda, deliver a baby by Caesarean section. The woman was sedated with banana wine, which was also used to wash her belly and the operator's hands; bleeding was seared with a red-hot iron, and the wound closed with seven iron pins. Felkin followed mother and child for 11 days and found the wound healed. His report, published in 1884, describes a practiced technique, yet it remains the only eyewitness account."
+      "In 1879 Robert Felkin, a British medical student traveling with a missionary expedition, watched a healer at Kahura, in the kingdom of Bunyoro in western Uganda, deliver a baby by Caesarean section. The woman was sedated with banana wine, which was also used to wash her belly and the operator's hands; bleeding was seared with a red-hot iron, and the wound closed with seven iron pins. Felkin followed mother and child for 11 days and found the wound healed. In his report, published in 1884, Felkin described the operation as well established in Uganda rather than a rarity; the details here all come from that account."
     ],
     "links": [
       {
@@ -151,6 +151,16 @@
         "type": "scholarly",
         "supports": "Publication of Felkin's account in 1884.",
         "quote": "Robert Felkin. “Notes on labour in Central Africa,” Edinburgh Med Journ , 29(10), 1884."
+      },
+      {
+        "title": "A cesarean section in Uganda in 1879",
+        "author": "Howard Fischer",
+        "publisher": "Hektoen International",
+        "year": 2023,
+        "url": "https://hekint.org/2023/05/17/a-cesarean-section-in-uganda-in-1879/",
+        "type": "scholarly",
+        "supports": "Felkin's own description of the operation as a well-established procedure in Uganda.",
+        "quote": "There, it was a well-established procedure, not a rarity."
       }
     ],
     "further": []
@@ -183,7 +193,7 @@
     ],
     "summary": "\"Before all things, care must be taken of the sick\": how sixth-century monks made nursing a duty and kept Greek medical books in circulation.",
     "body": [
-      "The Rule written by Benedict of Nursia, who died at Monte Cassino in 543, gave the sick a chapter of their own: \"Before all things and above all things, care must be taken of the sick.\" Sick monks got a separate room, a dedicated attendant, baths and meat. Cassiodorus, whose monastery of Vivarium imitated Benedict's, went further. His *Institutions*, written between 543 and 555, told monks who nursed the sick to learn the properties of herbs and read Dioscorides, Hippocrates and Galen in Latin, but not to put their hope in medicines. Five centuries later Monte Cassino would become a center of medical translation."
+      "The Rule written by Benedict of Nursia, who died at Monte Cassino about 543, gave the sick a chapter of their own: \"Before all things and above all things, care must be taken of the sick.\" Sick monks got a separate room, an attendant, baths and meat. Cassiodorus, whose monastery of Vivarium imitated Benedict's, went further. His *Institutions*, written in the 540s or 550s, told monks who nursed the sick to learn the properties of herbs and to read Dioscorides, Hippocrates and Galen (the last two in Latin translation), but not to put their hope in medicines. Five centuries later Monte Cassino would become a center of medical translation."
     ],
     "links": [
       {
@@ -193,13 +203,13 @@
       },
       {
         "to": "arabic-into-latin",
-        "kind": "led-to",
-        "note": "Monte Cassino became the base of Constantine the African's translations."
+        "kind": "see-also",
+        "note": "Monte Cassino later became the base of Constantine the African's translations."
       }
     ],
     "sources": [
       {
-        "title": "The Rule of Benedict, chapter 36: On the Sick",
+        "title": "The Rule of Benedict, chapter 36: On the Sick (Doyle translation, as adapted for a women's community)",
         "author": "Benedict of Nursia, trans. Leonard J. Doyle",
         "publisher": "Order of Saint Benedict",
         "url": "https://archive.osb.org/rb/text/rbemjo1.html",
@@ -221,7 +231,7 @@
         "publisher": "Catholic Encyclopedia (1908), New Advent",
         "url": "https://www.newadvent.org/cathen/03405c.htm",
         "type": "reference",
-        "supports": "Vivarium modeled on Monte Cassino; date of the Institutions.",
+        "supports": "Vivarium modeled on Monte Cassino; the Institutions dated to 543–555 (an older reference estimate).",
         "quote": "it was undoubtedly in imitation of Benedict's institution that Cassiodorus erected the monastery of Vivarium on his own estate"
       },
       {
@@ -229,7 +239,7 @@
         "publisher": "Catholic Encyclopedia (1907), New Advent",
         "url": "https://www.newadvent.org/cathen/02467b.htm",
         "type": "reference",
-        "supports": "Benedict's dates and the thinness of the biographical evidence.",
+        "supports": "Benedict's traditional dates (c. 480–543) and the thinness of the biographical evidence; the article itself notes that 543, the year of King Totila's visit, is the only certain date in his life.",
         "quote": "Founder of western monasticism , born at Nursia, c. 480; died at Monte Cassino , 543. The only authentic life of Benedict of Nursia is that contained in the second book of St. Gregory's"
       }
     ],
@@ -265,9 +275,9 @@
       "texts",
       "practice"
     ],
-    "summary": "A town on Italy's Tyrrhenian coast became Latin Europe's most famous home of medicine, and of a woman healer later garbled into the legend of \"Trotula\".",
+    "summary": "A town on Italy's Tyrrhenian coast became one of Latin Europe's most famous homes of medicine, and of a woman healer later garbled into the legend of \"Trotula\".",
     "body": [
-      "Salerno, on the Tyrrhenian coast of southern Italy, was famous for its physicians by the 10th century, though records of the early school are very poor. It was not a religious foundation and not a university, since none yet existed. In the 11th and 12th centuries it became the most celebrated center of medical learning in Latin Europe, fed by new texts: Alfanus, archbishop of Salerno (died 1085), was a patron of the translator Constantine the African.",
+      "Salerno, on the Tyrrhenian coast of southern Italy, was famous for its physicians by the 10th century, though records of the early school are very poor. It was not a religious foundation and not a university, since none yet existed. In the 11th and 12th centuries it reached its full scientific standing as one of the best-known centers of medical learning in Latin Europe, fed by new texts: Alfanus, archbishop of Salerno (died 1085), was a patron of the translator Constantine the African.",
       "Salerno also had women healers, mentioned more than five dozen times in 12th- and early 13th-century sources. One, Trota, who lived in the early decades of the 12th century, wrote a *Practica* of cures and is credited with a treatise on treating women. Late in that century the treatise and two anonymous texts were bundled as the *Trotula*, a title later mistaken for a woman's name. The verse health guide *Regimen sanitatis Salernitanum* carried the town's name across Europe in more than 300 editions."
     ],
     "myth": {
@@ -389,13 +399,13 @@
     "summary": "A Tunisian emigrant monk and an Italian scholar in Toledo turned Arabic medicine into Latin, giving Europe the textbooks it used for 400 years.",
     "body": [
       "Around 1076 an Arabic-speaking emigrant from Ifriqiya, roughly modern Tunisia, arrived at the Benedictine abbey of Monte Cassino in southern Italy. Constantine the African, as he signed himself, became a monk there, and before his death, sometime before 1098 or 1099, he became the first person known to render a major body of Arabic medical writing into Latin. His largest project, the *Pantegni*, was a version of al-Majusi's *Complete Book of the Medical Art*; among his patrons was Alfanus, archbishop of Salerno.",
-      "As far as scholars can tell, Constantine knew only Arabic and Latin, and needed an editor to polish his Latin. Unlike later translators, he tended to disguise the Arabic origins of his texts, and in the 1120s Stephen of Antioch, who re-translated al-Majusi, accused him of plagiarism. Yet a bundle of short texts assembled at Monte Cassino, including Hunayn ibn Ishaq's *Isagoge*, an introduction to Galenic medicine, became the core of medical teaching across Europe for some 400 years.",
+      "As far as scholars can tell, Constantine knew only Arabic and Latin, and needed an editor to polish his Latin. Unlike later translators, he tended to disguise the Arabic origins of his texts, and the main charge of plagiarism against him comes from Stephen of Antioch, who re-translated al-Majusi in the 1120s. Yet a bundle of short texts assembled at Monte Cassino, including Hunayn ibn Ishaq's *Isagoge*, an introduction to Galenic medicine, became the core of medical teaching across Europe for some 400 years.",
       "A second, larger wave came from Spain. Toledo, taken by Alfonso VI of Castile in 1085, offered Arabic manuscripts and an archbishop willing to sponsor translation, and in the second half of the 12th century it became the center of the work. Gerard of Cremona had come to learn Arabic and was there by 1144; by his death in 1187 he had translated somewhere between 68 and about 80 works. Through him Latin readers met most of the major Arabic medical writings, including those of al-Razi and Avicenna, whose *Canon of Medicine* in Latin became the basis of university medical teaching until the 17th century.",
       "This was not simply the recovery of lost Greek learning. Much of what arrived was Arabic synthesis and commentary, and Greek authors often reached Latin through Arabic versions. After about 1300 translation from Arabic almost stopped, resuming only after 1480."
     ],
     "myth": {
       "tradition": "Constantine was a learned physician who spent years traveling through the East before teaching at Salerno, and the books under his name were his own original works.",
-      "record": "The travel stories come from his monastery's admiring biographers, whose praise modern scholars call over-the-top; another early account calls him a merchant. His major books were translations from Arabic whose authors he often left unnamed."
+      "record": "The travel stories come from his monastery's admiring biographers, whose appraisal of his learning one modern scholar calls over-the-top; another early account calls him a merchant. His major books were translations from Arabic whose authors he often left unnamed."
     },
     "links": [
       {
@@ -532,7 +542,7 @@
     "confidence": {
       "date": "agreed",
       "claim": "agreed",
-      "note": "Both works are dated to 1150–1158 by the abbey that preserves her legacy, but no copy in Hildegard's own hand survives. Scholars debate how much of *Causae et curae* she wrote: its modern editor argues that its most astrological parts came from others in her circle."
+      "note": "Both works are dated to 1150–1158 by the abbey that preserves her legacy. Authorship of *Causae et curae* is not fully settled: its modern editor, Laurence Moulinier, has suggested that its most blatant astrological passages were not written by Hildegard herself, though known to her and used in her convent."
     },
     "place": "Rupertsberg, near Bingen on the Rhine",
     "people": [
@@ -552,7 +562,7 @@
       {
         "to": "monastic-medicine",
         "kind": "built-on",
-        "note": "Her healing writing grew out of Benedictine monastic care."
+        "note": "Written by a Benedictine abbess."
       },
       {
         "to": "salerno",
@@ -627,7 +637,7 @@
     ],
     "summary": "St Bartholomew's in London began in 1123 as a religious house offering the poor food and shelter. Nine centuries later it is still a hospital.",
     "body": [
-      "Many medieval hospitals were religious communities that offered the poor shelter and food at least as much as medical treatment. St Bartholomew's in London, founded with its priory by Rahere and dated to 1123, is the oldest hospital in Britain still on its original site. Its first proctor begged food door to door and in the markets for the poor it sheltered, and in 1316 the bishop of London had to remind its brothers and sisters to look after the sick. In Florence, Folco Portinari founded Santa Maria Nuova in 1288; it claims to be the world's oldest hospital still working."
+      "Many medieval hospitals were religious communities that offered the poor shelter and food at least as much as medical treatment. St Bartholomew's in London, founded with its priory by Rahere and dated to 1123, is the UK's oldest hospital still on its original site. Its first proctor, Alfune, probably spent his days begging food door to door and in the city's markets for the poor it sheltered, and in 1316 the bishop of London reminded its brothers and sisters to look after the sick. In Florence, Folco Portinari founded Santa Maria Nuova in 1288; it claims to be the world's oldest hospital still working."
     ],
     "links": [
       {

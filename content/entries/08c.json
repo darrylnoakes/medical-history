@@ -6,19 +6,21 @@
     "tier": 1,
     "date": {
       "year": 1816,
+      "earliest": 1816,
+      "latest": 1817,
       "display": "1816"
     },
     "confidence": {
-      "date": "firm",
+      "date": "agreed",
       "claim": "firm",
-      "note": "Laennec dated the paper-tube episode to 1816 in his own treatise, published in 1819 and translated into English in 1821. What is softer is the popular emphasis on his shyness: his own account gives the patient's weight as the first reason the usual methods failed."
+      "note": "The paper-tube episode is known from Laennec's own account in his 1819 treatise, written about three years later, and a modern summary places it in the fall of 1816; no one disputes the year, but there is no contemporaneous record of the day. That he devised the stethoscope and used it to correlate chest sounds with autopsy findings is not in doubt, while the popular emphasis on his shyness is softer: his account gives the patient's fatness as the first reason the usual methods failed."
     },
     "place": "Necker Hospital, Paris, France",
     "people": [
       "René-Théophile-Hyacinthe Laennec (1781–1826), physician at the Necker Hospital",
       "Leopold Auenbrugger, Viennese physician who described chest percussion in 1761",
       "Jean-Nicolas Corvisart, Laennec's teacher, who revived percussion in France",
-      "John Forbes, English physician who translated Laennec's treatise in 1821"
+      "John Forbes, British physician who translated Laennec's treatise in 1821"
     ],
     "themes": [
       "technology",
@@ -28,8 +30,8 @@
     "body": [
       "In 1816 René Laennec, a physician at the Necker Hospital in Paris, was consulted by a young woman with the symptoms of heart disease. Tapping her chest and feeling it with his hand told him little, he later wrote, because of “the great degree of fatness,” and putting his ear to her chest was ruled out by her age and sex. He remembered that sound carries well through solid bodies, as when the scratch of a pin at one end of a piece of wood is heard at the other. So he rolled a quire of paper into a cylinder, set one end over her heart and the other at his ear, and heard the heart more clearly than he ever had with his bare ear.",
       "Laennec worked in the Paris hospitals where doctors were learning to match what they found at the bedside with what they found at autopsy. One bedside technique already existed. In 1761 the Viennese physician Leopold Auenbrugger had published *Inventum novum*, on judging the state of the chest from the sound it made when tapped. The method was largely ignored until Laennec's teacher Jean-Nicolas Corvisart translated it into French and took it up.",
-      "Over the next three years Laennec listened to patients and checked what he heard against what dissection showed after death. He replaced the paper with a bored wooden cylinder that came apart for carrying and named it the stethoscope. His *De l'Auscultation médiate* of 1819 coined terms still in use, such as pectoriloquy and egophony, and taught doctors to tell apart diseases such as bronchiectasis, emphysema and pneumothorax in the living patient.",
-      "The two-volume book caused little stir at first, but John Forbes's English translation appeared in 1821 and the instrument spread. The real change was that diagnosis moved inside the body: a physician could now infer a damaged lung or valve before death rather than relying on the patient's account of symptoms. Laennec himself died of tuberculosis, the disease he had studied most closely, in August 1826, aged 45."
+      "Over the following years Laennec listened to patients and checked what he heard against what dissection showed after death. He replaced the paper with a bored wooden cylinder that came apart for carrying and called it the stethoscope. His *De l'Auscultation médiate* of 1819 coined terms still in use, such as pectoriloquy and egophony, and taught doctors to tell apart diseases such as bronchiectasis, emphysema and pneumothorax in the living patient.",
+      "The two-volume book caused little stir at first. John Forbes's English translation appeared in 1821, and the instrument gradually won acceptance among practicing physicians. The real change was that diagnosis moved inside the body: a physician could now infer a damaged lung or valve before death rather than relying on the patient's account of symptoms. Laennec himself died of tuberculosis in August 1826, aged 45."
     ],
     "myth": {
       "tradition": "Laennec invented the stethoscope because he was too shy or too proper to press his ear to a young woman's chest.",
@@ -49,7 +51,7 @@
       {
         "to": "xrays",
         "kind": "see-also",
-        "note": "Eighty years later, another way to examine the inside of a living body."
+        "note": "Nearly eighty years later, another way to examine the inside of a living body."
       }
     ],
     "sources": [
@@ -60,7 +62,7 @@
         "year": 1821,
         "url": "https://archive.org/stream/treatiseondiseas00laen/treatiseondiseas00laen_djvu.txt",
         "type": "primary",
-        "supports": "Laennec's own account of the 1816 consultation: fatness defeating percussion and touch, direct listening ruled out by age and sex, the pin-and-wood analogy, the rolled quire of paper, and the later wooden cylinder that came apart; English translation of 1821.",
+        "supports": "Laennec's own account of the 1816 consultation: fatness defeating percussion and touch, direct listening ruled out by age and sex, the pin-and-wood analogy, the rolled quire of paper, the later wooden cylinder that came apart, his use of the names Cylinder and Stethoscope, and the English translation by John Forbes of 1821 (title page).",
         "quote": "In 1816, I was consulted by a young woman labouring under general symptoms of diseased heart"
       },
       {
@@ -70,7 +72,7 @@
         "year": 2016,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5336737/",
         "type": "scholarly",
-        "supports": "Laennec's post at the Necker, study under Corvisart, neglect of Auenbrugger's percussion until the early 1800s, the naming of the stethoscope, the diseases he distinguished, the 1819 book's slow reception, and his death from tuberculosis in August 1826 aged 45.",
+        "supports": "Laennec's post at the Necker, study under Corvisart, neglect of Auenbrugger's percussion until the early 1800s, the fall-of-1816 date, the wooden tube replacing paper, the choice of the name stethoscope, the diseases he distinguished, the 1819 book's slow reception and gradual acceptance, and his death from tuberculosis on 13 August 1826 aged 45.",
         "quote": "the two-volume book hardly caused a stir in the medical world"
       },
       {
@@ -102,23 +104,18 @@
         "type": "scholarly",
         "supports": "Laennec matched chest sounds to findings at autopsy.",
         "quote": "correlated the sounds heard from his patients’ chests with specific pathological findings identified at autopsy"
-      },
-      {
-        "title": "Physical Diagnostic Examinations of Cavernous Pulmonary Tuberculosis in the 19th and 21st Centuries",
-        "author": "Volodymyr Berezutskyi",
-        "publisher": "Infectious Diseases & Immunity",
-        "year": 2024,
-        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13277514/",
-        "type": "scholarly",
-        "supports": "The 1819 treatise made physical examination an effective diagnostic tool; Laennec's own tuberculosis was diagnosed by physical examination.",
-        "quote": "Physical examination was first introduced as an effective diagnostic tool in pulmonology after the publication of the 1819 treatise"
       }
     ],
     "further": [
       "porter-1997",
       "duffin-2021",
       "bynum-1994"
-    ]
+    ],
+    "image": {
+      "commons": "File:Rene-Theophile-Hyacinthe Laennec Drawings stethoscope 1819.jpg",
+      "alt": "Engraved plate from Laennec's treatise showing drawings of his wooden stethoscope and its parts.",
+      "caption": "Laennec's first published drawings of the stethoscope, from *De l'auscultation médiate* (Paris, 1819)."
+    }
   },
   {
     "id": "beaumont",
@@ -133,7 +130,7 @@
     "confidence": {
       "date": "firm",
       "claim": "firm",
-      "note": "Beaumont's 1833 book gives the dates of the wound and the experiments, and Osler examined the signed contracts and family correspondence. Whether St. Martin, poor and unable to write, could freely consent is a modern ethical judgment rather than a factual dispute."
+      "note": "Beaumont's 1833 book gives the dates of the wound and the experiments, and Osler's 1908 essay describes the signed agreements, the letters signed with St. Martin's mark and the family's handling of his burial. Whether St. Martin, who signed with a mark, could freely consent is a modern ethical judgment rather than a factual dispute; his age is also uncertain, since Beaumont's 'about eighteen' sits oddly with Osler's report that he was 83 at death in 1880."
     },
     "place": "Fort Mackinac, Michigan Territory, and later Plattsburgh and Washington",
     "people": [
@@ -146,13 +143,13 @@
     ],
     "summary": "A gunshot left a young voyageur with a hole into his stomach, and an army surgeon spent years watching digestion through it.",
     "body": [
-      "On 6 June 1822 a musket fired from about a yard away tore open the side of Alexis St. Martin, an eighteen-year-old French-Canadian voyageur at Fort Mackinac. The army surgeon William Beaumont saved him, but the wound healed around an opening into the stomach. From 1825 Beaumont lowered food on silk strings through it and drew out gastric juice, showing that digestion was chemical as well as mechanical; his book appeared in 1833. St. Martin, who signed with a mark, was bound by contract as Beaumont's servant and subject. When he died in 1880, his family let the body decay before burying it eight feet deep, to keep doctors away."
+      "On 6 June 1822 a musket fired from about a yard away tore open the side of Alexis St. Martin, a young voyageur at Fort Mackinac. The army surgeon William Beaumont saved him, but the wound healed around an opening into the stomach. From 1825 Beaumont lowered food on silk strings through it and drew off gastric juice, helping to show that digestion was chemical as well as mechanical. St. Martin, who signed with a mark, was bound by contract as Beaumont's servant and test subject. When he died in 1880, his family let the body decay and buried it eight feet deep to keep doctors out."
     ],
     "links": [
       {
         "to": "tuskegee",
         "kind": "see-also",
-        "note": "A later and far graver case of research on a dependent subject."
+        "note": "A later case of research on people with little power to refuse."
       }
     ],
     "sources": [
@@ -163,7 +160,7 @@
         "year": 1833,
         "url": "https://archive.org/stream/b33280356/b33280356_djvu.txt",
         "type": "primary",
-        "supports": "The wound of 6 June 1822 at Michilimackinac, St. Martin's age and occupation, the musket fired at close range, the first experiments in 1825, and the 1833 publication.",
+        "supports": "The wound of 6 June 1822 at Michilimackinac, St. Martin's age (given as about eighteen) and occupation, the musket fired at close range, the first experiments in 1825 with food on a silk string, and the 1833 publication.",
         "quote": "The charge, consisting of powder and duck shot, was received in the left side of the youth"
       },
       {
@@ -173,7 +170,7 @@
         "year": 1908,
         "url": "https://archive.org/stream/cu31924011944620/cu31924011944620_djvu.txt",
         "type": "scholarly",
-        "supports": "The 1833 articles of agreement binding St. Martin as Beaumont's covenant servant, letters signed with his mark, his death in 1880, and his family's refusal of an autopsy and eight-foot grave.",
+        "supports": "The 1833 agreements binding St. Martin to Beaumont as covenant servant and experimental subject, letters written for him and signed with his mark, his death in 1880 at 83, and his family's refusal of an autopsy and eight-foot grave.",
         "quote": "They had also the grave dug eight feet below the surface of the ground in order to prevent any attempt at a resurrection"
       },
       {
@@ -201,7 +198,7 @@
     "confidence": {
       "date": "firm",
       "claim": "firm",
-      "note": "The Act, the Burke trial and the London murders are documented in court and parliamentary records. Modern sources date the earlier Murder Act to 1751 or 1752, and Burke and Hare's toll of at least 16 is the usual figure."
+      "note": "The Act, the Burke trial and the London murders are documented in court and parliamentary records. Modern sources date the earlier Murder Act to 1751 or 1752, and one legal history notes that bodies from coroners' inquests were also a lawful supply, so 'executed murderers' describes the main source rather than the only one."
     },
     "place": "Edinburgh and London, United Kingdom",
     "people": [
@@ -215,7 +212,7 @@
     ],
     "summary": "Murders committed to supply anatomy classes pushed Parliament to hand anatomists a new source of bodies: the poor who died in workhouses.",
     "body": [
-      "British anatomy schools in the 1820s needed far more corpses than the law supplied, since only executed murderers could legally be dissected, so grave-robbers filled the gap. In Edinburgh in 1828 William Burke and William Hare went further, killing at least 16 people and selling the bodies to the anatomist Robert Knox. Hare turned against Burke, who was hanged in 1829 and publicly dissected. After copycat killings in London in 1831, Parliament passed the Anatomy Act of 1832. It ended dissection as a punishment and gave licensed schools the unclaimed bodies of people who died in workhouses and hospitals, making dissection the fate of the poor."
+      "British anatomy schools in the 1820s needed far more corpses than the law supplied, since the legal supply was largely limited to executed murderers, so grave-robbers filled the gap. In Edinburgh William Burke and William Hare, tried in 1828, killed at least 16 people and sold the bodies to the anatomist Robert Knox. Hare turned against Burke, who was hanged in 1829 and publicly dissected. After copycat killings in London in 1831, Parliament passed the Anatomy Act of 1832. It ended dissection as a punishment and gave licensed schools the unclaimed bodies of people who died in workhouses and hospitals, making dissection the fate of the poor."
     ],
     "links": [
       {
@@ -232,7 +229,7 @@
         "year": 2015,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4582158/",
         "type": "scholarly",
-        "supports": "Murder Act limiting dissection to executed murderers; Burke and Hare killing at least 16 and selling to Knox; Burke's execution and dissection; the London Burkers of 1831; the 1832 Act's provision for unclaimed bodies from workhouses and hospitals.",
+        "supports": "Murder Act limiting dissection to executed murderers; Burke and Hare selling the bodies of at least 16 people to Knox; Burke's execution and dissection; the London Burkers of 1831; the 1832 Act's provision for unclaimed bodies from workhouses and charitable hospitals.",
         "quote": "murdered and sold the bodies of at least 16 men and women to Robert Knox as dissection material for his anatomy classes"
       },
       {
@@ -242,7 +239,7 @@
         "year": 2025,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11825383/",
         "type": "scholarly",
-        "supports": "The 1832 Act repealed dissection as punishment and regulated anatomy schools; Burke executed in 1829; the alternative dating of the Murder Act to 1751.",
+        "supports": "The 1832 Act repealed dissection as punishment and regulated anatomy schools; Burke executed in 1829; the alternative dating of the Murder Act to 1751; the point that other lawful sources of bodies (post-mortems after coroners' inquests) were argued over in court.",
         "quote": "which repealed the Murder Act 1751 to the extent that it allowed dissection as punishment"
       },
       {
@@ -299,17 +296,17 @@
     "summary": "Plants and animals turned out to be built from the same units, though the men who said so misunderstood where new cells came from.",
     "body": [
       "In 1838 the botanist Matthias Schleiden argued that plant tissue was made of cells that formed around a nucleus, and he described his findings to Theodor Schwann before publishing them. Schwann, working in Johannes Müller's Berlin laboratory, found the same structures in animal tissues. In his *Microscopic Investigations* of 1839 he concluded that one principle of development, the cell, held for all living things.",
-      "They were wrong, though, about where cells came from. Schwann thought new cells condensed out of a structureless fluid he called the cytoblastema, a reasonable reading of the microscopes of the day and close to Müller's own teaching about a formative fluid. In the early 1850s Robert Remak and Rudolf Virchow, both Müller's students, replaced this with cell division. Remak supplied much of the evidence, but it was Virchow's slogan *omnis cellula e cellula*, every cell from a cell, that settled the matter and became the basis of his cellular pathology."
+      "They were wrong, though, about where cells came from. Schwann thought new cells condensed out of a structureless fluid he called the cytoblastema, in terms not far from Müller's own descriptions of a formative fluid. In the early 1850s Robert Remak and Rudolf Virchow, both Müller's students, replaced this with cell division. Remak supplied much of the evidence, but it was Virchow's slogan *omnis cellula e cellula*, every cell from a cell, that settled the matter and became the basis of his cellular pathology."
     ],
     "myth": {
       "tradition": "Schleiden and Schwann established that all cells come from pre-existing cells.",
-      "record": "They believed new cells crystallized out of a fluid. Division as the source of all cells came from Remak's and Virchow's work in the 1850s."
+      "record": "They believed new cells formed freely in a structureless fluid around a nucleus, not by division of existing cells. Division as the source of all cells came from Remak's and Virchow's work in the 1850s."
     },
     "links": [
       {
         "to": "microscope",
         "kind": "built-on",
-        "note": "Cells had been seen and named since the 1660s."
+        "note": "Better microscopes made the cell visible in animal tissue."
       },
       {
         "to": "virchow",
@@ -391,13 +388,13 @@
     "body": [
       "In July 1842 Edwin Chadwick, a lawyer who had helped design the harsh New Poor Law of 1834, published his *Report on the Sanitary Condition of the Labouring Population of Great Britain*. Drawing on local reports from across the country, it blamed epidemic disease on “atmospheric impurities produced by decomposing animal and vegetable substances,” damp, filth and overcrowding, and claimed that filth killed more people each year than any modern war. Good wages, it argued, gave no protection.",
       "Chadwick's interest was partly financial: sick breadwinners pushed families onto poor relief. His answer was engineering rather than higher wages: drainage, sewers and abundant piped water. The Public Health Act of 1848 let local boards tax property owners to pay for them.",
-      "The theory was wrong. Cholera and typhoid spread through contaminated water, not foul air. Removing waste and supplying clean water still cut those routes, but not at once. Early sewers often emptied into rivers that also supplied drinking water, and in some towns they made pollution worse."
+      "The theory was wrong. Cholera and typhoid spread largely through contaminated water, not foul air. Removing waste and supplying clean water still cut those routes, but not at once. Early sewers often emptied into rivers that also supplied drinking water, and in some towns they made pollution worse."
     ],
     "links": [
       {
         "to": "snow-cholera",
         "kind": "see-also",
-        "note": "Snow showed in 1854 that cholera travelled in water, not air."
+        "note": "Snow's 1854 work pointed to water, not air, as the route of cholera."
       },
       {
         "to": "roman-public-health",
@@ -407,7 +404,7 @@
       {
         "to": "nightingale",
         "kind": "see-also",
-        "note": "Another sanitary reformer who believed in miasma."
+        "note": "Another sanitary reformer of the same era."
       }
     ],
     "sources": [
@@ -469,29 +466,29 @@
     "confidence": {
       "date": "firm",
       "claim": "firm",
-      "note": "Blackwell's 1849 degree, Crumpler's 1864 degree and the British milestones are well documented. The story of the Geneva students voting her in as a joke comes from later accounts but is consistently reported; Erxleben's 1754 doctorate is documented here only in secondary sources."
+      "note": "Blackwell's 1849 degree, Crumpler's 1864 degree and the British milestones are documented in NLM and journal sources. The story of the Geneva students voting her in as a joke comes from later accounts but is consistently reported; Erxleben's 1754 doctorate and the effect of the 1876 Medical Act are documented here only in secondary sources."
     },
     "place": "Geneva, New York, United States",
     "people": [
       "Elizabeth Blackwell (1821–1910), first woman to earn an M.D. from an American medical school",
-      "Rebecca Lee Crumpler (born 1831), first African American woman to earn an M.D.",
-      "James Barry, born Margaret Bulkley, army surgeon who graduated from Edinburgh in 1812",
-      "Elizabeth Garrett Anderson (1836–1917), first woman to qualify as a doctor in the United Kingdom",
+      "Rebecca Lee Crumpler (1831–1895), first African American woman to earn an M.D.",
+      "James Barry (born Margaret Bulkley), army surgeon who graduated from Edinburgh in 1812",
+      "Elizabeth Garrett Anderson (1836–1917), first woman to qualify as a medical practitioner in the United Kingdom",
       "Sophia Jex-Blake, leader of the Edinburgh Seven"
     ],
     "themes": [
       "institutions",
       "ethics"
     ],
-    "summary": "Elizabeth Blackwell's 1849 degree came after rejections, a students' joke and a long line of women who had found other ways in.",
+    "summary": "Elizabeth Blackwell's 1849 degree came after rejections, a students' joke and earlier women who had found other ways in.",
     "body": [
-      "In 1849 Elizabeth Blackwell graduated from Geneva Medical College in upstate New York, the first woman to earn an M.D. from an American medical school. Every school in New York and Philadelphia, and twelve more in the Northeast, had turned her down. Geneva's faculty, sure the all-male students would refuse, let them vote on her admission. They voted yes, reportedly as a joke.",
-      "She was not the first woman to practise medicine with a degree. Dorothea Erxleben took a doctorate at Halle in 1754 with the favor of Frederick the Great, and Margaret Bulkley graduated from Edinburgh in 1812 as James Barry, living as a man through a long army career. In 1864 Rebecca Lee Crumpler, a nurse for eight years, became the first African American woman to earn an M.D.",
+      "In 1849 Elizabeth Blackwell graduated from Geneva Medical College in upstate New York, the first woman to earn an M.D. from an American medical school. She had applied to every medical school in New York and Philadelphia and twelve more in the Northeast before Geneva accepted her in 1847. Its faculty, sure the all-male students would refuse, let them vote on her admission. They voted yes, as a joke.",
+      "She was not the first woman to hold a medical degree. Dorothea Erxleben took a doctorate at Halle in 1754 with the favor of Frederick the Great, and Margaret Bulkley graduated from Edinburgh in 1812 as James Barry, living as a man through a long army career. In 1864 Rebecca Lee Crumpler, a nurse for eight years, became the first African American woman to earn an M.D.",
       "Britain moved slowly. Elizabeth Garrett qualified in 1865 through the examinations of the Society of Apothecaries. Sophia Jex-Blake and the other “Edinburgh Seven” enrolled at Edinburgh in 1869 but were later shut out, and only the Medical Act of 1876 opened qualifying examinations to women."
     ],
     "myth": {
       "tradition": "Elizabeth Blackwell was the first woman doctor.",
-      "record": "She was the first woman to earn an M.D. from an American medical school. Women had long worked as healers and midwives, Dorothea Erxleben took a German medical doctorate in 1754, and James Barry graduated from Edinburgh in 1812."
+      "record": "She was the first woman to earn an M.D. from an American medical school. Dorothea Erxleben took a German medical doctorate in 1754, and Margaret Bulkley graduated from Edinburgh in 1812 as James Barry."
     },
     "links": [
       {
@@ -511,7 +508,7 @@
         "publisher": "U.S. National Library of Medicine, Changing the Face of Medicine",
         "url": "https://www.nlm.nih.gov/exhibition/changing-the-face-of-medicine/physicians/biography_elizabeth_blackwell.html",
         "type": "institutional",
-        "supports": "Blackwell's 1849 M.D. from Geneva Medical College; rejections by schools in New York, Philadelphia and twelve more; the students' vote taken as a joke; her life dates.",
+        "supports": "Blackwell's 1849 M.D. from Geneva Medical College; her applications to every school in New York and Philadelphia and twelve more, and acceptance at Geneva in 1847; the students' vote taken as a joke; her life dates.",
         "quote": "The faculty, assuming that the all-male student body would never agree to a woman joining their ranks, allowed them to vote on her admission"
       },
       {
@@ -584,22 +581,22 @@
     ],
     "summary": "A small syringe built to treat birthmarks and aneurysms became the way to put morphine straight into the body.",
     "body": [
-      "In 1844 the Irish physician Francis Rynd used a hollow needle to relieve a patient's facial pain. In 1853 Charles-Gabriel Pravaz in France built a piston syringe to inject coagulant into aneurysms. That November in Edinburgh, Alexander Wood used a small syringe made in London for treating birthmarks to inject morphine beside the painful nerve of an elderly woman with neuralgia, and she slept through the night. Wood believed the drug acted locally. The London surgeon Charles Hunter showed it worked wherever it was injected. By 1870 Clifford Allbutt was warning about patients injecting themselves every day."
+      "In 1844 the Irish physician Francis Rynd used a hollow needle to relieve a patient's facial pain. In 1853 Charles-Gabriel Pravaz in France built a piston syringe to inject coagulant into aneurysms. That November in Edinburgh, Alexander Wood used a small London-made syringe, meant for treating birthmarks, to inject morphine beside the nerve of an elderly woman with neuralgia, and she slept deeply and woke free of pain. Wood believed the drug acted locally; the London surgeon Charles Hunter showed it worked wherever it was injected. By 1870 Clifford Allbutt was warning about patients injecting themselves daily."
     ],
     "myth": {
-      "tradition": "Wood's first injection was given to his own dying wife, who became the first person addicted to injected morphine.",
-      "record": "Wood's published account describes his first patient as an elderly unmarried woman with neuralgia. The story about his wife is repeated in modern reviews but does not appear in his own report."
+      "tradition": "Wood's first injection was given to his own dying wife.",
+      "record": "Wood's published account describes his first patient as an elderly unmarried woman with neuralgia. The wife story is repeated in modern reviews but does not appear in his own report."
     },
     "links": [
       {
         "to": "morphine",
         "kind": "built-on",
-        "note": "Morphine had been isolated half a century earlier."
+        "note": "The drug the syringe was first used to deliver."
       },
       {
         "to": "opioid-crisis",
         "kind": "see-also",
-        "note": "Doctors' fears about opioid dependence began with the syringe."
+        "note": "Allbutt's 1870 worry about daily self-injection foreshadows later concern about dependence."
       }
     ],
     "sources": [
@@ -610,7 +607,7 @@
         "year": 1855,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5846403/",
         "type": "primary",
-        "supports": "Wood's syringe made by Ferguson of London for injecting naevi; his first case, an elderly unmarried woman with neuralgia, injected with morphia on 28 November 1853, who then slept.",
+        "supports": "Wood's syringe made by Ferguson of London for injecting naevi; his first case, an old lady ('Miss') with neuralgia, injected with morphia on 28 November 1853, who then slept so deeply she was hard to rouse and whose pain did not return.",
         "quote": "an old lady, who had long laboured under gastric and nervous symptoms, had suffered severely for four days from cervico-brachial neuralgia"
       },
       {

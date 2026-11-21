@@ -16,15 +16,29 @@
       "note": "The book survives and is conventionally dated 652; the historian Yan Liu dates it more cautiously to the 650s. Sun's birth year is uncertain (581 is given with a question mark), but the ethical teaching in the text is not in doubt."
     },
     "place": "Tang China",
-    "people": ["Sun Simiao (581?–682), physician and author"],
-    "themes": ["ethics", "texts", "drugs"],
+    "people": [
+      "Sun Simiao (581?–682), physician and author"
+    ],
+    "themes": [
+      "ethics",
+      "texts",
+      "drugs"
+    ],
     "summary": "A 7th-century Chinese formulary sets out what a great physician must know and be: deeply read, compassionate to all, aware that a life is worth more than gold.",
     "body": [
       "In the 650s the Tang physician Sun Simiao, who had taught himself medicine after a sickly youth, completed *Essential Formulas Worth a Thousand in Gold for Emergencies* (*Beiji qianjin yaofang*), thirty scrolls of remedies chosen so that help could be found fast in a crisis. He also laid down what a great physician must be. The reading list ran from the medical classics to history, Laozi and even divination, and the doctor was bound by rules of conduct: treat every patient with compassion, whatever their rank. The title carried the point. Human life, he wrote, is more precious than a thousand pieces of gold."
     ],
     "links": [
-      { "to": "hippocratic-oath", "kind": "see-also", "note": "Another founding statement of a physician's duties, from a different tradition." },
-      { "to": "tang-pharmacopoeia", "kind": "see-also", "note": "Sun's later Supplement copied drug descriptions from the state materia medica." }
+      {
+        "to": "hippocratic-oath",
+        "kind": "see-also",
+        "note": "Another founding statement of a physician's duties, from a different tradition."
+      },
+      {
+        "to": "tang-pharmacopoeia",
+        "kind": "see-also",
+        "note": "Sun's later Supplement copied drug descriptions from the state materia medica."
+      }
     ],
     "sources": [
       {
@@ -57,7 +71,9 @@
         "quote": "Human life is of paramount importance,more precious than a thousand pieces of gold; to save it with one prescription is to show your great virtue."
       }
     ],
-    "further": ["unschuld-1985"]
+    "further": [
+      "unschuld-1985"
+    ]
   },
   {
     "id": "tang-pharmacopoeia",
@@ -71,19 +87,38 @@
     "confidence": {
       "date": "firm",
       "claim": "agreed",
-      "note": "The completion in early 659 is well recorded and a copy dated 731 survives in Japan. Sources differ on details (22 or 23 compilers, 54 or 55 scrolls), and Chinese popular sources call it the world's first pharmacopoeia, whereas the scholarly sources consulted claim priority only within China."
+      "note": "The completion in early 659 is well recorded and a copy dated 731 survives in Japan. Sources differ on details (22 or 23 compilers, 54 or 55 scrolls), and a Chinese government site calls it the world's first pharmacopoeia, whereas the scholarly sources consulted claim priority only within China."
     },
     "place": "Tang China",
-    "people": ["Su Jing (fl. 657), official who proposed the revision", "Emperor Gaozong (reigned 649–683), sponsor"],
-    "themes": ["drugs", "texts", "institutions"],
+    "people": [
+      "Su Jing (fl. 657), official who proposed the revision",
+      "Emperor Gaozong (reigned 649–683), sponsor"
+    ],
+    "themes": [
+      "drugs",
+      "texts",
+      "institutions"
+    ],
     "summary": "In 659 the Tang court issued a revised, illustrated drug book for the whole empire. Within ten years a copy had reached Dunhuang; by 731 another was in Japan.",
     "body": [
-      "In 657 the official Su Jing told Emperor Gaozong that the standard drug book, compiled by Tao Hongjing a century and a half earlier, was riddled with errors. Twenty-odd officials, twelve of them court medical specialists, gathered medicines from across the empire, and early in 659 they delivered the *Newly Revised Materia Medica* (*Xinxiu bencao*): about 850 substances, 114 of them new, with fresh descriptions and illustrations. It was the first materia medica sponsored by a Chinese government, and the state pushed it outward. Prefectural teachers of medicine used it as a guidebook, a copy reached Dunhuang by 669, and another survives in Japan dated 731."
+      "In 657 the official Su Jing told Emperor Gaozong that the standard drug book, compiled by Tao Hongjing a century and a half earlier, was riddled with errors. Twenty-two officials, twelve of them court medical specialists, gathered medicines from across the empire, and early in 659 they delivered the *Newly Revised Materia Medica* (*Xinxiu bencao*): about 850 substances, 114 of them new, with fresh descriptions and illustrations. It was the first materia medica sponsored by a Chinese government, and the state pushed it outward. Prefectural teachers of medicine used it as a guidebook, a copy reached Dunhuang by 669, and another survives in Japan dated 731."
     ],
     "links": [
-      { "to": "shennong-bencao", "kind": "built-on", "note": "It revised Tao Hongjing's annotated edition of the Divine Farmer's classic." },
-      { "to": "bencao-gangmu", "kind": "see-also", "note": "Li Shizhen's compendium, nine centuries later, reorganized the same tradition." },
-      { "to": "dioscorides", "kind": "see-also", "note": "The Mediterranean world's standard drug book." }
+      {
+        "to": "shennong-bencao",
+        "kind": "built-on",
+        "note": "It revised Tao Hongjing's annotated edition of the Divine Farmer's classic."
+      },
+      {
+        "to": "bencao-gangmu",
+        "kind": "see-also",
+        "note": "Li Shizhen's compendium, nine centuries later, reorganized the same tradition."
+      },
+      {
+        "to": "dioscorides",
+        "kind": "see-also",
+        "note": "The Mediterranean world's standard drug book."
+      }
     ],
     "sources": [
       {
@@ -121,11 +156,13 @@
         "year": 2013,
         "url": "https://en.chinaculture.org/info/2013-04/25/content_456651.htm",
         "type": "institutional",
-        "supports": "Compiled in 659 by a team headed by Su Jing (given as 23 people); 114 substances new compared with Tao Hongjing; called the world's first pharmacopoeia in China.",
+        "supports": "Compiled in 659 by a team headed by Su Jing (this site says 23 people); 114 substances new compared with Tao Hongjing; called the world's first pharmacopoeia by this site.",
         "quote": "Twenty-three people headed by Su Jing of the Tang Dynasty (618-907) compiled the book in 659."
       }
     ],
-    "further": ["unschuld-1985"]
+    "further": [
+      "unschuld-1985"
+    ]
   },
   {
     "id": "bronze-acupuncture-man",
@@ -144,14 +181,24 @@
       "note": "A university museum dates the figure to 1027 (the fifth year of the Tiansheng era); another account places it only within the Tiansheng reign, 1023–1031. The wax-and-water examination is told as fact in museum and government accounts, but none of the sources consulted cites a Song-period description of it."
     },
     "place": "Northern Song China",
-    "people": ["Wang Weiyi, Song court medical officer"],
-    "themes": ["technology", "practice", "institutions"],
+    "people": [
+      "Wang Weiyi, Song court medical officer"
+    ],
+    "themes": [
+      "technology",
+      "practice",
+      "institutions"
+    ],
     "summary": "In 1027 a Song medical officer cast a life-sized bronze man studded with 657 named acupuncture points, a teaching model and a national standard.",
     "body": [
-      "In 1027 the Song court medical officer Wang Weiyi produced a life-sized bronze human figure, about 170 centimeters tall, with 657 acupuncture points carved into its surface, each about 1.2 centimeters deep and labeled with its name. It served as the first national standard for where the points lay, alongside Wang's *Illustrated Manual of Acupoints on the Bronze Man*. Accounts say it doubled as an exam: coated in wax and filled with water, it let liquid out only when a student's needle found the right point. By the Ming Zhengtong period the points had worn illegible, and a new figure was cast."
+      "In 1027 the Song court medical officer Wang Weiyi produced a life-sized bronze human figure, about 170 centimeters tall, with 657 acupuncture points carved into its surface, each about 1.2 centimeters deep and labeled with its name. A university museum calls it the first national standard for where the points lay. Wang's *Illustrated Manual of Acupoints on the Bronze Man* was reprinted in 1443. Accounts say the figure doubled as an exam: coated in wax and filled with water, it let liquid out only when a student's needle found the right point. By the Ming Zhengtong period the points had become unrecognizable, and a new figure was cast."
     ],
     "links": [
-      { "to": "huangdi-neijing", "kind": "built-on", "note": "Rules in Wang's manual go back to the Inner Classic." }
+      {
+        "to": "huangdi-neijing",
+        "kind": "built-on",
+        "note": "Rules in Wang's manual go back to the Inner Classic."
+      }
     ],
     "sources": [
       {
@@ -176,11 +223,13 @@
         "publisher": "Wellcome Collection",
         "url": "https://wellcomecollection.org/works/ru2wgufk",
         "type": "institutional",
-        "supports": "Wang Weiyi's manual on the bronze man and its Ming reprint of 1443; rules drawn from the Huangdi Neijing.",
+        "supports": "Wang Weiyi as author of the Illustrated Manual of Acupoints on the Bronze Man, in a Ming woodcut edition published in 1443; the rules drawn from the Huangdi Neijing.",
         "quote": "Woodcut from Tong ren shu xue zhen jiu tu jing (Illustrated Manual of Acupoints on the Bronze Man) by Wang Weiyi, published in 1443"
       }
     ],
-    "further": ["unschuld-1985"]
+    "further": [
+      "unschuld-1985"
+    ]
   },
   {
     "id": "song-ci-forensics",
@@ -196,14 +245,20 @@
     "confidence": {
       "date": "agreed",
       "claim": "agreed",
-      "note": "All sources consulted date the book to 1247, and its content and later spread are well attested. The famous case of flies gathering on a murderer's sickle is omitted here because no source that could be opened in this session confirmed its wording."
+      "note": "Most sources date the book to 1247, though one scholarly editorial says 1248; its content and later spread are well attested. The claim to be the earliest such book comes from Chinese government and review sources and has not been tested here against earlier texts. The famous case of flies gathering on a murderer's sickle is omitted because no source opened here confirmed its wording."
     },
     "place": "Southern Song China",
-    "people": ["Song Ci (1186–1249), judicial official and author"],
-    "themes": ["practice", "texts", "institutions"],
-    "summary": "A 13th-century Chinese judge wrote the earliest known systematic handbook for examining bodies: hanging versus strangling, suicide versus murder.",
+    "people": [
+      "Song Ci (1186–1249), judicial official and author"
+    ],
+    "themes": [
+      "practice",
+      "texts",
+      "institutions"
+    ],
+    "summary": "A 13th-century Chinese judge wrote a systematic handbook for examining bodies, long treated as the earliest of its kind: hanging versus strangling, suicide versus murder.",
     "body": [
-      "In 1247 Song Ci, a Southern Song official from Fujian who had four times served as a senior judge in criminal courts, completed *Collected Writings on the Washing Away of Wrongs* (*Xiyuan jilu*), the earliest known systematic guide to examining bodies in suspicious deaths. Drawing on his cases, it set out the laws on inquests, the changes a corpse goes through, and how to tell hanging from strangulation, suicide from murder, and wounds made before death from those made after. It even noted how lividity could show that a body had been moved. Dozens of later Chinese manuals followed it, and it spread to Korea, Japan and Vietnam."
+      "In 1247 Song Ci, a Southern Song official from Fujian who had four times served as a senior judge in criminal courts, completed *Collected Writings on the Washing Away of Wrongs* (*Xiyuan jilu*), a systematic guide to examining bodies in suspicious deaths ranked in Chinese accounts as the earliest of its kind. Drawing on his cases, it covered inquest law, the changes a corpse goes through, and how to tell hanging from strangulation, suicide from murder, and wounds made before death from those made after. It even noted how lividity could show that a body had been moved. Dozens of later Chinese manuals followed it, and it spread to Korea, Japan and Vietnam."
     ],
     "links": [],
     "sources": [
@@ -229,10 +284,19 @@
         "title": "Livor Mortis and Forensic Dermatology: A Review of Death-Related Gravity-Dependent Lividity and Postmortem Hypostasis",
         "publisher": "Cureus (full text via Europe PMC)",
         "year": 2025,
-        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12450430/fullTextXML",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12450430/",
         "type": "scholarly",
         "supports": "Song Ci's dates (1186–1249), the 1247 date, and his observation that lividity could show a body had been moved.",
         "quote": "He also described how the patterns of lividity could reveal whether the body had been moved after death"
+      },
+      {
+        "title": "Forensic science: defending justice",
+        "publisher": "Forensic Sciences Research (PubMed Central)",
+        "year": 2016,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6197096/",
+        "type": "scholarly",
+        "supports": "Song Ci's dates (1186–1249); one scholarly source dates the book to 1248 rather than 1247; the book's advice on telling murder, suicide and accident apart.",
+        "quote": "which was written in Chinese by Song Ci (1186–1249) in 1248, during the Song Dynasty."
       }
     ],
     "further": []
@@ -246,29 +310,52 @@
       "year": 1549,
       "earliest": 1465,
       "latest": 1572,
-      "display": "by the mid-16th century (earliest clear text 1549)"
+      "display": "by the mid-16th century (earliest clear text 1549)",
+      "traditional": {
+        "year": 1000,
+        "display": "c. 1000 CE",
+        "note": "An oral tradition credits a Taoist or Buddhist monk or nun with inventing inoculation around 1000 CE, though Joseph Needham found no firmer evidence than that it was widely accepted."
+      }
     },
     "confidence": {
       "date": "uncertain",
       "claim": "agreed",
-      "note": "Wan Quan's treatise of 1549 is the earliest clear written reference usually cited; a 2026 review of Chinese sources places the practice's establishment in Jiangxi somewhere between 1465 and 1572. Stories placing its invention in the Tang or Song dynasties lack corroboration, and whether China or India came first remains open."
+      "note": "Wan Quan's treatise of 1549 is the earliest clear written reference usually cited; a 2026 review of Chinese sources places the practice's establishment in Jiangxi somewhere between 1465 and 1572. Stories placing its invention in the Tang or Song dynasties lack corroboration. The earliest detailed records known are Chinese, but where and when variolation began is still uncertain."
     },
     "place": "Jiangxi and Anhui, Ming China",
-    "people": ["Wan Quan, 16th-century Ming physician, author of *Douzhen xinfa*", "Kangxi Emperor (reigned 1662–1722), smallpox survivor who had his children inoculated"],
-    "themes": ["public-health", "practice"],
-    "summary": "Ming doctors gave children a mild dose of smallpox, often blown up the nose as powdered scab, nearly two centuries before inoculation reached Europe.",
+    "people": [
+      "Wan Quan, 16th-century Ming physician, author of *Douzhen xinfa*",
+      "Kangxi Emperor (reigned 1662–1722), smallpox survivor who had his children inoculated"
+    ],
+    "themes": [
+      "public-health",
+      "practice"
+    ],
+    "summary": "Ming doctors gave children a mild dose of smallpox, often blown up the nose as powdered scab, well over a century before inoculation reached Europe.",
     "body": [
       "Long before Europe heard of it, healers in China were deliberately giving children a mild case of smallpox to spare them a deadly one. The earliest clear written mention usually cited is in Wan Quan's *Douzhen xinfa*, a treatise on pox diseases published in 1549. Records then place inoculators in Jiangxi and in Taiping County, Anhui, during the Longqing reign (1567–1572), and a 2026 review concludes that the practice took hold in Jiangxi between 1465 and 1572 before spreading through the Yangtze basin.",
       "Chinese texts describe four methods: dressing a child in a sufferer's clothes; plugging a nostril with cotton soaked in pustule fluid; inserting a damp pellet of ground scab; or blowing dried scab powder into the nose through a silver or bamboo tube. Inoculators chose donors with mild cases and refined their material by repeated passage to lower the risk. Under the Qing the practice won imperial backing. The Kangxi Emperor, himself a smallpox survivor, had his own children inoculated and sent inoculators from Jiangxi to Mongolia."
     ],
     "myth": {
-      "tradition": "Inoculation was invented around 1000 CE, by a hermit physician of Mount Emei who treated the son of a Song chief minister, or by a Taoist or Buddhist monk or nun.",
-      "record": "These origin stories appear only in Qing-dynasty texts written centuries later and lack independent corroboration; well-attested evidence begins in the 16th century."
+      "tradition": "Inoculation was invented around 1000 CE, by a physician of Mount Emei who treated the son of a Song prime minister, or by a Taoist or Buddhist monk or nun.",
+      "record": "The Mount Emei and Tang-era origin stories appear in Qing-dynasty texts written centuries later and lack independent corroboration; the monk-or-nun version is an oral tradition for which Needham found no firm evidence. Well-attested evidence begins in the 16th century."
     },
     "links": [
-      { "to": "bengal-inoculation", "kind": "see-also", "note": "India's inoculation tradition, documented mainly from the 18th century." },
-      { "to": "montagu-variolation", "kind": "see-also", "note": "The Ottoman form of inoculation reaches England in the 1720s." },
-      { "to": "jenner", "kind": "see-also", "note": "Jenner's cowpox work grew out of a world that already practiced variolation." }
+      {
+        "to": "bengal-inoculation",
+        "kind": "see-also",
+        "note": "India's inoculation tradition, documented mainly from the 18th century."
+      },
+      {
+        "to": "montagu-variolation",
+        "kind": "see-also",
+        "note": "The Ottoman form of inoculation reaches England in the 1720s."
+      },
+      {
+        "to": "jenner",
+        "kind": "see-also",
+        "note": "Jenner's cowpox work grew out of a world that already practiced variolation."
+      }
     ],
     "sources": [
       {
@@ -310,7 +397,9 @@
         "quote": "Needham can give no firmer evidence for this version than the fact that it was a widely accepted tradition."
       }
     ],
-    "further": ["porter-1997"]
+    "further": [
+      "porter-1997"
+    ]
   },
   {
     "id": "bencao-gangmu",
@@ -326,20 +415,39 @@
     "confidence": {
       "date": "agreed",
       "claim": "firm",
-      "note": "Completion in 1578 is agreed. The first printing is dated 1590 (Wellcome Collection, for the Nanjing engraving), 1593 (Paul Unschuld) and 1596 (a 2026 study), probably reflecting the start of engraving, its completion and later presentation, but the sources consulted do not reconcile them."
+      "note": "Completion in 1578 is agreed. The first printing is dated 1590 (Wellcome Collection, for the Nanjing engraving), 1593 (Paul Unschuld) and 1596 (a 2026 study, which calls it posthumous). The differences may reflect the start of engraving, its completion and later circulation, but the sources consulted do not reconcile them."
     },
     "place": "Qizhou (in modern Hubei) and Nanjing, Ming China",
-    "people": ["Li Shizhen (1518–1593), physician and naturalist", "Hu Chenglong, Nanjing publisher of the first edition"],
-    "themes": ["drugs", "texts", "theory"],
+    "people": [
+      "Li Shizhen (1518–1593), physician and naturalist",
+      "Hu Chenglong, Nanjing publisher of the first edition"
+    ],
+    "themes": [
+      "drugs",
+      "texts",
+      "theory"
+    ],
     "summary": "One physician spent 27 years on a drug encyclopedia of 1,892 substances, from waters and minerals to the human body, with 11,096 prescriptions.",
     "body": [
       "Li Shizhen (1518–1593), born into a family of physicians in Qizhou, in what is now Hubei, spent 27 years reading, collecting and checking before he finished the *Bencao gangmu* (*Compendium of Materia Medica*) in 1578, at the age of 60. It crowned some 1,600 years of Chinese writing on drugs, but Li broke with the habit of piling new notes on old ones. He gave each substance one correct name as its heading, sorted what was known under up to ten standard subheadings, and flagged his predecessors' errors.",
-      "The result described 1,892 substances, ordered from waters, fires, soils and metals through plants and animals up to the human body, with 11,096 prescriptions and 1,109 illustrations in roughly 1.6 to 2 million characters. The first edition was engraved at Nanjing by Hu Chenglong from 1590; Li died in 1593, around the time it appeared. Modern scholars admire its systematic classification, though one recent study stresses that its parallels with Linnaeus are functional, not formal."
+      "The result described 1,892 substances, ordered from waters, fires, soils and metals through plants and animals up to the human body, with 11,096 prescriptions and 1,109 illustrations in roughly 1.6 to 2 million characters. The first edition was engraved at Nanjing by Hu Chenglong in 1590 and Li died in 1593; one recent study calls the book posthumous, and sources date its publication anywhere from 1590 to 1596. Modern scholars admire its systematic classification, though one recent study stresses that its parallels with Linnaeus are functional, not formal."
     ],
     "links": [
-      { "to": "shennong-bencao", "kind": "built-on", "note": "The culmination of the tradition that began with the Divine Farmer's classic." },
-      { "to": "tang-pharmacopoeia", "kind": "see-also", "note": "The earlier state-sponsored revision of the same tradition." },
-      { "to": "artemisinin", "kind": "see-also", "note": "Modern researchers mined classical Chinese drug texts for leads." }
+      {
+        "to": "shennong-bencao",
+        "kind": "built-on",
+        "note": "The culmination of the tradition that began with the Divine Farmer's classic."
+      },
+      {
+        "to": "tang-pharmacopoeia",
+        "kind": "see-also",
+        "note": "The earlier state-sponsored revision of the same tradition."
+      },
+      {
+        "to": "artemisinin",
+        "kind": "see-also",
+        "note": "Tu Youyou's team later searched the classical Chinese drug literature for leads."
+      }
     ],
     "sources": [
       {
@@ -369,7 +477,9 @@
         "quote": "In all, Li Shizhen wrote down ca. 1.6 million characters to describe 1892 pharmaceutical substances."
       }
     ],
-    "further": ["unschuld-1985"],
+    "further": [
+      "unschuld-1985"
+    ],
     "image": {
       "commons": "File:First edition of Bencao Gangmu; Chinese, 1590 Wellcome L0039328.jpg",
       "alt": "A woodblock-printed page of Chinese characters in vertical columns, the opening of the first chapter of the Bencao gangmu.",
@@ -391,14 +501,25 @@
       "note": "Copies of the 1613 government printing survive and are designated National Treasures in South Korea; the stages of compilation (ordered 1596, completed 1610) are recorded in Korean historical sources summarized by the Korea Institute of Oriental Medicine."
     },
     "place": "Joseon Korea",
-    "people": ["Heo Jun (1539–1615), royal physician and compiler", "King Seonjo of Joseon (died 1608), who ordered the work"],
-    "themes": ["texts", "public-health", "theory"],
+    "people": [
+      "Heo Jun (1539–1615), royal physician and compiler",
+      "King Seonjo of Joseon (died 1608), who ordered the work"
+    ],
+    "themes": [
+      "texts",
+      "public-health",
+      "theory"
+    ],
     "summary": "Ordered by a king after a war and finished in exile, a Korean royal physician's medical encyclopedia was reprinted across East Asia for centuries.",
     "body": [
       "In 1596 King Seonjo of Joseon ordered his physician Heo Jun to compile a new medical encyclopedia; Heo had won the king's trust escorting him north during the Japanese invasion of 1592. When Seonjo died in 1608, Heo took responsibility and was exiled, and he used the exile to finish the book in 1610. Printed by the government in 1613, the *Donguibogam* (*Treasured Mirror of Eastern Medicine*) drew on about 180 earlier works and was republished dozens of times in China, Japan and Vietnam. UNESCO added it to the Memory of the World Register in 2009, citing its ideal of state-led preventive medicine and public health."
     ],
     "links": [
-      { "to": "bencao-gangmu", "kind": "see-also", "note": "A near-contemporary Chinese encyclopedia of drugs." }
+      {
+        "to": "bencao-gangmu",
+        "kind": "see-also",
+        "note": "A near-contemporary Chinese encyclopedia of drugs."
+      }
     ],
     "sources": [
       {

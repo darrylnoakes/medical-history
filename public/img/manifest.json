@@ -448,5 +448,145 @@
   "license": "Public domain",
   "licenseUrl": "",
   "page": "https://commons.wikimedia.org/wiki/File:Nightingale-mortality.jpg"
+ },
+ "pasteur-germ-theory": {
+  "commons": "File:Louis Pasteur by Nadar.jpg",
+  "src": "/img/pasteur-germ-theory.webp",
+  "width": 1000,
+  "height": 1228,
+  "credit": "Felix Nadar",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Louis_Pasteur_by_Nadar.jpg"
+ },
+ "lister": {
+  "commons": "File:Use of the Lister carbolic spray, Antiseptic surgery, 1882. Wellcome M0003436.jpg",
+  "src": "/img/lister.webp",
+  "width": 1000,
+  "height": 813,
+  "credit": "Gallery: https://wellcomeimages.org/indexplus/image/M0003436.html Wellcome Collection gallery…",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Use_of_the_Lister_carbolic_spray,_Antiseptic_surgery,_1882._Wellcome_M0003436.jpg"
+ },
+ "koch": {
+  "commons": "File:Robert Koch's original paper in which he Wellcome M0012584.jpg",
+  "src": "/img/koch.webp",
+  "width": 814,
+  "height": 1300,
+  "credit": "Gallery: https://wellcomeimages.org/indexplus/image/M0012584.html Wellcome Collection gallery…",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Robert_Koch%27s_original_paper_in_which_he_Wellcome_M0012584.jpg"
+ },
+ "freud": {
+  "commons": "File:Die Traumdeutung.jpg",
+  "src": "/img/freud.webp",
+  "width": 320,
+  "height": 420,
+  "credit": "Sigmund Freud",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Die_Traumdeutung.jpg"
+ },
+ "xrays": {
+  "commons": "File:First medical X-ray by Wilhelm Röntgen of his wife Anna Bertha Ludwig's hand - 18951222.jpg",
+  "src": "/img/xrays.webp",
+  "width": 904,
+  "height": 1300,
+  "credit": "Wilhelm Röntgen",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:First_medical_X-ray_by_Wilhelm_R%C3%B6ntgen_of_his_wife_Anna_Bertha_Ludwig%27s_hand_-_18951222.jpg"
+ },
+ "aspirin": {
+  "commons": "File:Aspirin-Fläschchen.jpg",
+  "src": "/img/aspirin.webp",
+  "width": 939,
+  "height": 1300,
+  "credit": "Bayer AG",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Aspirin-Fl%C3%A4schchen.jpg"
+ },
+ "insect-vectors": {
+  "commons": "File:Ronald Ross.jpg",
+  "src": "/img/insect-vectors.webp",
+  "width": 837,
+  "height": 1189,
+  "credit": "Unknown author Unknown author",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Ronald_Ross.jpg"
+ },
+ "blood-groups": {
+  "commons": "File:Karl Landsteiner nobel.jpg",
+  "src": "/img/blood-groups.webp",
+  "width": 280,
+  "height": 396,
+  "credit": "Bachrach Studios",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Karl_Landsteiner_nobel.jpg"
+ },
+ "influenza-1918": {
+  "commons": "File:Emergency hospital during Influenza epidemic, Camp Funston, Kansas - NCP 1603.jpg",
+  "src": "/img/influenza-1918.webp",
+  "width": 1000,
+  "height": 749,
+  "credit": "Otis Historical Archives, National Museum of Health and Medicine",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Emergency_hospital_during_Influenza_epidemic,_Camp_Funston,_Kansas_-_NCP_1603.jpg"
+ },
+ "eugenics": {
+  "commons": "File:Carrie and Emma Buck, 1924.jpg",
+  "src": "/img/eugenics.webp",
+  "width": 1000,
+  "height": 934,
+  "credit": "Arthur Estabrook",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Carrie_and_Emma_Buck,_1924.jpg"
+ },
+ "penicillin": {
+  "commons": "File:Sample of penicillin mould presented by Alexander Fleming to Douglas Macleod, 1935 (9672239344).jpg",
+  "src": "/img/penicillin.webp",
+  "width": 1000,
+  "height": 810,
+  "credit": "Science Museum London / Science and Society Picture Library",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Sample_of_penicillin_mould_presented_by_Alexander_Fleming_to_Douglas_Macleod,_1935_(9672239344).jpg"
+ },
+ "nuremberg-code": {
+  "commons": "File:Brandt, Karl being sentenced - DPLA - 95a624190def9fe9bf49694a62116386.jpg",
+  "src": "/img/nuremberg-code.webp",
+  "width": 1000,
+  "height": 815,
+  "credit": "Department of Defense. European Command. Office of Military Government for Germany (U.S.). Office of the…",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Brandt,_Karl_being_sentenced_-_DPLA_-_95a624190def9fe9bf49694a62116386.jpg"
+ },
+ "chlorpromazine": {
+  "commons": "File:Largactil Chlorpromazine 30ml 4%.jpg",
+  "src": "/img/chlorpromazine.webp",
+  "width": 1000,
+  "height": 1141,
+  "credit": "Mystrixo",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Largactil_Chlorpromazine_30ml_4%25.jpg"
+ },
+ "dna-double-helix": {
+  "commons": "File:Template from Crick and Watson’s DNA molecular model, 1953. (9660573227).jpg",
+  "src": "/img/dna-double-helix.webp",
+  "width": 1000,
+  "height": 777,
+  "credit": "Science Museum, London / Science and Society Picture Library",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Template_from_Crick_and_Watson%E2%80%99s_DNA_molecular_model,_1953._(9660573227).jpg"
  }
 }
