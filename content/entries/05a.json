@@ -5,15 +5,20 @@
     "stream": "islamic",
     "tier": 3,
     "date": {
-      "year": 550,
+      "year": 260,
       "earliest": 260,
       "latest": 765,
-      "display": "c. 6th century (traditional)"
+      "display": "Founded c. 260; academy traditionally c. 555",
+      "traditional": {
+        "year": 555,
+        "display": "c. 555",
+        "note": "Later Arabic writers credit the Sasanian king Khosrow I with founding a university, medical school and hospital at Gondishapur around 555."
+      }
     },
     "confidence": {
       "date": "uncertain",
       "claim": "disputed",
-      "note": "The city's founding by Shapur I is secure, and its Christian doctors were prized in 8th-century Baghdad. But almost everything said about a school or hospital there comes from Arabic writers of the 12th and 13th centuries, and historians disagree over whether a formal academy ever existed."
+      "note": "The city's founding by Shapur I and the 8th-century careers of its Christian doctors in Baghdad are reasonably documented. Almost everything said about a school or hospital there comes from Arabic writers of the 12th and 13th centuries, and scholars disagree over whether a formal academy ever existed."
     },
     "place": "Gondishapur (Beth Lapat), Khuzestan, southwest Iran",
     "people": [
@@ -27,17 +32,17 @@
     ],
     "summary": "A Persian city of Christian doctors that later writers turned into a legendary medical university. How much of the legend is true is still argued.",
     "body": [
-      "Shapur I built Gondishapur, known in Syriac as Beth Lapat, as a planned city in southwest Iran and settled it with Graeco-Syrian prisoners captured from the Romans in 260. By the 8th century its Christian doctors were famous: in 765, later biographers say, Jurjis ibn Bakhtishu left the hospital he ran there for the caliph's court in Baghdad, where his family served for generations. The grander picture, of a university and teaching hospital founded by Khosrow I, rests on writers of the 12th and 13th centuries. Some historians call it a family myth; others defend it from Syriac church sources."
+      "Shapur I built Gondishapur, known in Syriac as Beth Lapat, as a planned city in southwest Iran and settled it with Graeco-Syrian prisoners taken in his victory over the Roman emperor Valerian in 260. By the 8th century its Christian doctors were famous: in 765, later biographers say, Jurjis ibn Bakhtishu left the hospital he ran there for the caliph's court in Baghdad. The grander picture, of a university and teaching hospital founded by Khosrow I, rests on writers of the 12th and 13th centuries. Some Western historians call it a myth promoted by the Bakhtishu family; Touraj Nayernouri defends it from Syriac Christian texts."
     ],
     "myth": {
-      "tradition": "Gondishapur was a great medical university and teaching hospital founded by Khosrow I around 555, the model for every later Islamic hospital.",
-      "record": "No contemporary Persian or Greek source describes such an academy. Its Christian doctors and some kind of hospital are well attested, but the school's size, founding and role as a model are reconstructions from much later Arabic histories."
+      "tradition": "Gondishapur was a great medical university and teaching hospital founded by Khosrow I around 555, the model for later Islamic hospitals.",
+      "record": "Contemporary texts about the place are scarce, and the accounts of a university and teaching hospital were written centuries later. Even sceptics generally accept that a hospital existed, but its founding, size and role as a model for Baghdad's hospital are disputed; Nayernouri argues from earlier Syriac texts that a medical school did exist."
     },
     "links": [
       {
         "to": "translation-movement",
         "kind": "led-to",
-        "note": "Gondishapur families such as the Bakhtishus and Ibn Masawayh trained Baghdad's translators."
+        "note": "Physicians from Gondishapur, such as the Bakhtishus and Ibn Masawayh, moved to Baghdad, where Ibn Masawayh taught Hunayn."
       },
       {
         "to": "bimaristans",
@@ -53,7 +58,7 @@
         "year": 2010,
         "url": "https://sites.uci.edu/sasanika/files/2020/01/e-sasanika-GP1-Taylor.pdf",
         "type": "scholarly",
-        "supports": "Founding by Shapur I with Roman captives in 260; the doubt over an academy versus a hospital; the lateness (12th–13th century) of the sources.",
+        "supports": "Founding by Shapur I with Roman captives in 260 (Nayernouri gives 256-260); the doubt over an academy versus a hospital; the lateness (12th-13th century) of the sources; Khosrow I as founder or enlarger of the hospital in Elgood's view.",
         "quote": "Some scholars doubt the existence of a learning academy or medical school at Jundishapur and, although they do not question the establishment of a hospital"
       },
       {
@@ -83,7 +88,7 @@
         "year": 2006,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1676324/",
         "type": "scholarly",
-        "supports": "The traditional account of a university, school and hospital founded by Khosrow I about 555 (cited here as an example of the tradition).",
+        "supports": "The traditional account of a university, school and hospital founded by Khosrow I about 555 (cited here as an example of the tradition); the date 555 is the tradition's.",
         "quote": "a university, medical school and hospital was established by Khusraw (Chosroes) Anushirawan in about 555 AD"
       }
     ],
@@ -100,13 +105,13 @@
       "year": 754,
       "earliest": 750,
       "latest": 775,
-      "end": 1000,
-      "display": "c. 754–1000"
+      "end": 950,
+      "display": "c. 750–950"
     },
     "confidence": {
       "date": "agreed",
       "claim": "firm",
-      "note": "The translations themselves survive, and Hunayn ibn Ishaq described his own work in a letter that still exists. The start under al-Mansur and the fading after about two centuries are scholarly consensus; the role of the 'House of Wisdom' is the part that is contested."
+      "note": "The translations themselves survive, and Hunayn ibn Ishaq described his own method in a letter that still exists. That translation began under al-Mansur and blossomed in the first two Abbasid centuries is the scholarly consensus; the exact end point is a convention, and the role of the 'House of Wisdom' is the part that is contested."
     },
     "place": "Baghdad, Iraq",
     "people": [
@@ -121,14 +126,14 @@
     ],
     "summary": "For two centuries Baghdad's scholars turned Greek, Persian and Indian learning into Arabic. Almost all of Galen came through one Christian translator's workshop.",
     "body": [
-      "Between the mid-8th and the 10th century, scholars in Abbasid Iraq turned a large part of Greek medicine, science and philosophy into Arabic. The first translations of the Abbasid era were made under al-Mansur (r. 754–775), the caliph who founded Baghdad in 762, and the work blossomed over the next two centuries. Many translators were Syriac-speaking Christians, heirs to a late antique habit of studying Greek texts in Syriac, and their patrons ranged from caliphs to court physicians and rich officials who competed to acquire manuscripts.",
+      "Between the mid-8th and the 10th century, scholars in Abbasid Iraq turned a large part of Greek medicine, science and philosophy into Arabic. The first translations of the Abbasid era were made under al-Mansur (r. 754–775), the caliph who founded Baghdad in 762, and the work blossomed over the next two centuries. Many translators were Syriac-speaking Christians, heirs to a late antique habit of studying Greek texts in Syriac, and their patrons ranged from caliphs to court physicians and wealthy lords who competed to acquire manuscripts.",
       "The central figure was Hunayn ibn Ishaq (808–873), a Christian from al-Hira whose father was a pharmacist. Trained in Baghdad under the physician Yuhanna ibn Masawayh, he and his circle, including his son Ishaq and his nephew Hubaysh, put well over a hundred Greek medical works into Syriac or Arabic: Hippocrates, Dioscorides and almost the entire corpus of Galen. In a letter listing his Galen translations, Hunayn describes searching Mesopotamia, Syria, Palestine and Egypt for manuscripts, collating several copies of a work, and translating for sense rather than word for word. He helped create the technical vocabulary of scientific Arabic.",
-      "Greek was not the only source. Al-Mansur's secretary Ibn al-Muqaffa' translated from Middle Persian, and Indian medicine arrived too: al-Razi's vast notebook, the *Hawi*, preserves fragments of the Sanskrit authorities Sushruta and Caraka. A 9th-century hospital formulary from Gondishapur mixed Greek, Indian and Persian ingredients in single recipes.",
-      "The best-known image of the movement is the 'House of Wisdom' (*Bayt al-hikma*), pictured as a state academy of translators. It was a real court library, but historians no longer see it as the institutional engine of translation, which had many sponsors and began decades before it. What is not in doubt is the reach of the result: it was largely through Arabic that medieval Europe later recovered Galen and Hippocrates."
+      "Greek was not the only source. Ibn al-Muqaffa', secretary under al-Mansur, is credited with Arabic versions of Middle Persian works, though the attribution of one, a compendium of logic, is disputed. Indian medicine arrived too: al-Razi's vast compilation, the *Hawi*, preserves fragments of Sanskrit authorities such as Sushruta and Caraka. The formulary of Sabur ibn Sahl, compiled at Gondishapur in the 9th century and used in Baghdad's hospitals, shows Persian, Greek and Indian medicine blended.",
+      "The best-known image of the movement is the 'House of Wisdom' (*Bayt al-hikma*), pictured as a state academy of translators. It was a real court library, but it cannot be viewed as an institutional center of translation, which had many sponsors and began decades before it. What is not in doubt is the reach of the result: it was largely through Arabic that medieval Europe later recovered Galen and Hippocrates."
     ],
     "myth": {
-      "tradition": "The House of Wisdom, which flourished under the caliph al-Ma'mun (r. 813–833), was an academy built to translate Greek science, and the movement was run from there.",
-      "record": "The House of Wisdom was a court library. Translation had begun under al-Mansur decades earlier and was paid for by many patrons, from caliphs to physicians and officials; historians doubt the library was ever a translation institute."
+      "tradition": "The House of Wisdom, under the caliph al-Ma'mun in the early 9th century, was an academy built to translate Greek science, and the movement was run from there.",
+      "record": "The House of Wisdom was a court library. Translation had begun under al-Mansur decades earlier and was paid for by many patrons, from caliphs to physicians and lords; the library cannot be viewed as an institutional center of translation."
     },
     "links": [
       {
@@ -139,7 +144,7 @@
       {
         "to": "gondishapur",
         "kind": "built-on",
-        "note": "Many Baghdad physicians and translators came from Gondishapur families."
+        "note": "Physicians from Gondishapur, including the Bakhtishu family and Ibn Masawayh, moved to Baghdad; Ibn Masawayh taught Hunayn."
       },
       {
         "to": "arabic-into-latin",
@@ -168,7 +173,7 @@
         "publisher": "Stanford Encyclopedia of Philosophy",
         "url": "https://plato.stanford.edu/entries/arabic-islamic-greek/",
         "type": "reference",
-        "supports": "The House of Wisdom as a court library, not the institutional centre of translation; Ibn al-Muqaffa' translating from Middle Persian.",
+        "supports": "The House of Wisdom as a court library, not the institutional center of translation; Ibn al-Muqaffa' (d. 756) credited with a logic compendium whose authorship, and hence Middle Persian source, is disputed.",
         "quote": "cannot be viewed as an institutional center for the translations of Greek works into Arabic"
       },
       {
@@ -184,7 +189,7 @@
         "publisher": "MacTutor History of Mathematics, University of St Andrews (reprint of the DSB article)",
         "url": "https://mathshistory.st-andrews.ac.uk/DSB/Hunayn.pdf",
         "type": "reference",
-        "supports": "Hunayn's role in creating scientific Arabic; rich patrons competing for manuscripts.",
+        "supports": "Hunayn's role in creating scientific Arabic; rich lords competing to acquire manuscripts and have them translated.",
         "quote": "Hunayn may be considered one of the creators of the philosophical and scientific idiom of classical Arabic"
       },
       {
@@ -203,7 +208,7 @@
         "year": 2010,
         "url": "https://sites.uci.edu/sasanika/files/2020/01/e-sasanika-GP1-Taylor.pdf",
         "type": "scholarly",
-        "supports": "Sabur ibn Sahl's 9th-century formulary blending Persian, Greek and Indian ingredients.",
+        "supports": "Sabur ibn Sahl's 9th-century formulary compiled at Jundishapur and used in Baghdad, showing a synthesis of Persian, Greek and Indian medicine.",
         "quote": "Sabur’s pharmacopoeia demonstrates the ongoing synthesis of Persian, Greek, and Indian"
       },
       {
@@ -236,7 +241,7 @@
     "stream": "islamic",
     "tier": 1,
     "date": {
-      "year": 805,
+      "year": 800,
       "earliest": 786,
       "latest": 809,
       "display": "c. 800 (first Baghdad hospital)"
@@ -267,14 +272,14 @@
       "It is easy to make these institutions sound more modern than they were. Teaching is documented at some great hospitals, but how many held formal classes is unknown, and the bimaristans were charitable foundations that rose and fell with their endowments. Their real novelty was scale and permanence: a non-sectarian, endowed public institution where the sick of every faith could be housed, fed and treated."
     ],
     "myth": {
-      "tradition": "Every bimaristan was a teaching hospital with its own medical school, licensing board and records office, much like a modern academic medical center.",
-      "record": "Teaching is documented at a few great hospitals such as the 'Adudi, the Tulunid and the Nuri, but the evidence does not show how many hospitals held formal classes, and claims of systematic medical schools in most hospitals go beyond the sources."
+      "tradition": "Every bimaristan was a teaching hospital with its own medical school, licensing board and student-kept patient records, the forerunner of the modern academic medical center.",
+      "record": "Teaching is documented at a few great hospitals such as the 'Adudi, the Tulunid and the Nuri, but the evidence does not show how many hospitals held formal classes, and claims of systematic medical schools, records offices and licensing in most hospitals go beyond the sources."
     },
     "links": [
       {
         "to": "gondishapur",
         "kind": "built-on",
-        "note": "Baghdad's first hospital was run by physicians from Gondishapur."
+        "note": "Baghdad's first hospital was headed by a physician from a Gondishapur family."
       },
       {
         "to": "basileias",
@@ -310,7 +315,7 @@
         "year": 2006,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1676324/",
         "type": "scholarly",
-        "supports": "Jibrail ibn Bakhtishu heading the new Baghdad hospital; the disputed Damascus hospital of 707; the 'Adudi hospital of 981.",
+        "supports": "Jibrail ibn Bakhtishu heading the new Baghdad hospital; the disputed Damascus hospital of 707 (which some call a leper house); the 'Adudi hospital of 981.",
         "quote": "There is some controversy as to the events surrounding the construction of the first permanent Islamic bimaristan"
       },
       {
@@ -350,8 +355,28 @@
         "year": 2013,
         "url": "https://www.ioa.uni-bonn.de/isl/de/forschung/publikationen/pdf-dateien-ask/ask-wp-12-northrup.pdf/@@download/file/ask-wp-12-northrup.pdf",
         "type": "scholarly",
-        "supports": "The 'Adudi, Tulunid and Nuri hospitals as renowned teaching hospitals; Nur al-Din's patronage of a 12th-century hospital revival.",
+        "supports": "The 'Adudi, Tulunid and Nuri hospitals as renowned teaching hospitals.",
         "quote": "Several hospitals, even before the Mamluk period, were renowned as teaching hospitals with which some of the most famous physicians were affiliated"
+      },
+      {
+        "title": "Jundi-Shapur, bimaristans, and the rise of academic medical centres",
+        "author": "Andrew C. Miller",
+        "publisher": "Journal of the Royal Society of Medicine",
+        "year": 2006,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1676324/",
+        "type": "scholarly",
+        "supports": "The tradition side of the myth: a modern article crediting bimaristans with medical records, physician licensure and academic medical education.",
+        "quote": "The complex structure and hierarchy of these hospitals, advent of medical records, physician licensure, government oversight and universal access to care set the example"
+      },
+      {
+        "title": "Al-Bīmāristān al-Manṣūrī Explorations: The Interface Between Medicine, Politics and Culture in Early Mamluk Egypt (ASK Working Paper 12)",
+        "author": "Linda S. Northrup",
+        "publisher": "Annemarie Schimmel Kolleg, University of Bonn",
+        "year": 2013,
+        "url": "https://www.ioa.uni-bonn.de/isl/de/forschung/publikationen/pdf-dateien-ask/ask-wp-12-northrup.pdf/@@download/file/ask-wp-12-northrup.pdf",
+        "type": "scholarly",
+        "supports": "Yasser Tabbaa's description of a 12th-century revival of medicine centered on hospitals and Nur al-Din's patronage.",
+        "quote": "speaks of a revival of medicine in the twelfth century"
       }
     ],
     "further": [
@@ -361,7 +386,7 @@
   },
   {
     "id": "islamic-pharmacy",
-    "title": "The pharmacist becomes a profession",
+    "title": "The druggist's trade takes shape",
     "stream": "islamic",
     "tier": 3,
     "date": {
@@ -373,7 +398,7 @@
     "confidence": {
       "date": "uncertain",
       "claim": "agreed",
-      "note": "Druggists, hospital formularies and market inspection of drugs are all attested from the 9th century on, but no single date marks pharmacy becoming a separate trade; it emerged gradually, and how far practice matched the inspectors' manuals is not known."
+      "note": "Druggists, a 408-recipe formulary and drugs new to Greek medicine are attested from the 9th century, but no single date marks pharmacy becoming a separate trade. Inspectors' manuals mention the medical trade only briefly before the 12th century, so how far market oversight of drugs matched practice is not known."
     },
     "place": "Baghdad and Gondishapur; later throughout the Islamic world",
     "people": [
@@ -385,9 +410,9 @@
       "drugs",
       "institutions"
     ],
-    "summary": "In 9th-century Iraq the druggist became a recognized trade, with hospital formularies, new drugs from far-off lands and market inspectors checking the scales.",
+    "summary": "By the 9th century Iraq had druggists with their own word for the trade, hospital formularies and drugs the Greeks never knew; inspectors' manuals show markets policed for drugs and weights.",
     "body": [
-      "By the 9th century the druggist (*saydalani*) was a recognized trade in Iraq. Hunayn ibn Ishaq's father was a pharmacist at al-Hira, and Ibn Masawayh learned pharmacy from his father before running a hospital. Sabur ibn Sahl's formulary from Gondishapur gave instructions for 408 compound drugs, and other formularies were written for hospital use, drawing on drugs the Greeks never knew, such as camphor and musk. Market inspectors (*muhtasib*) checked drugs, weights and measures. Around 1050 al-Biruni opened his book on pharmacy by explaining the Arabic word for druggist."
+      "By the 9th century druggists (*saydalani*) were at work in Iraq. Hunayn ibn Ishaq's father was a pharmacist at al-Hira, and Ibn Masawayh learned pharmacy from his father before directing a hospital. Sabur ibn Sahl's formulary from Gondishapur gave instructions for 408 compound drugs, and physicians were using medicines unknown to the Greeks, such as camphor and musk. Manuals for the market inspector (*muhtasib*), even before the 12th century, mentioned the medical trade mostly in relation to drugs, weights and measures. Around 1050 al-Biruni opened his book on pharmacy with the origin of the Arabic word for druggist."
     ],
     "links": [
       {
@@ -417,7 +442,7 @@
         "year": 2010,
         "url": "https://sites.uci.edu/sasanika/files/2020/01/e-sasanika-GP1-Taylor.pdf",
         "type": "scholarly",
-        "supports": "Ibn Masawayh trained in pharmacy by his father; Sabur ibn Sahl's dispensatory of 408 compounds.",
+        "supports": "Ibn Masawayh (d. 857) learned pharmacy from his father; Sabur ibn Sahl's dispensatory of 408 compounds.",
         "quote": "Dispensatory, includes the instructions for making 408 pharmacological compounds"
       },
       {
@@ -425,7 +450,7 @@
         "publisher": "U.S. National Library of Medicine",
         "url": "https://www.nlm.nih.gov/hmd/arabic/pharmaceutics1.html",
         "type": "institutional",
-        "supports": "New drugs unknown to Greek medicine by the 9th century; formularies prepared for hospitals.",
+        "supports": "New drugs unknown to Greek medicine by the 9th century (camphor, musk, sal ammoniac); formularies, some prepared for hospitals.",
         "quote": "It is evident that many medicaments were being used by the ninth century that were unknown in Hellenistic medicine, including camphor, musk, and sal ammoniac"
       },
       {
@@ -435,7 +460,7 @@
         "year": 1994,
         "url": "https://archive.org/download/9439902.nlm.nih.gov/9439902.pdf",
         "type": "institutional",
-        "supports": "The muhtasib's oversight of drugs, weights and measures.",
+        "supports": "Inspectors' manuals before the 12th century mentioning the medical profession mostly in relation to drugs, weights and measures.",
         "quote": "and then mostly in relation to matters of drugs, weights, and measures"
       },
       {
@@ -465,7 +490,7 @@
     "confidence": {
       "date": "agreed",
       "claim": "agreed",
-      "note": "Al-Razi's life (865–c. 925) and his surviving works are well attested; the smallpox treatise and *Doubts about Galen* cannot be dated more closely than his working life. The control-group comparison is reported in his own notes as compiled by students, so its details are thin."
+      "note": "Al-Razi's life (865–c. 925) and his surviving works are well attested, though his hospital posts are reported by later biographers; the smallpox treatise and *Doubts about Galen* cannot be dated more closely than his working life. The control-group comparison is a single example in the *Comprehensive Book*, compiled after his death, so its details are thin."
     },
     "place": "Rayy (near Tehran, Iran) and Baghdad",
     "people": [
@@ -478,8 +503,8 @@
     ],
     "summary": "A Persian hospital director separated smallpox from measles, picked holes in Galen and counted how often patients failed to follow the textbook.",
     "body": [
-      "Abu Bakr al-Razi (865–c. 925), known in Latin as Rhazes, ran hospitals in his home town of Rayy and in Baghdad and was one of the most innovative clinicians of the medieval world. His short, celebrated treatise on the difference between smallpox and measles taught physicians to tell two rash fevers apart. In *Doubts about Galen* he criticized the master, arguing that Galen's own habit of challenging his predecessors licensed it, while his working notes, compiled after his death as the *Comprehensive Book* (*al-Hawi*), mixed reading with cases from his practice.",
-      "He tried to test treatments against experience. He reported that in roughly 300 of 2,000 hospital patients the illness ran contrary to Galen's predictions, and he compared patients with 'brain fever' who were and were not bled, an early use of a control group. Yet his own theory stayed broadly Galenic. One popular story, that he chose the site of Harun al-Rashid's hospital by hanging meat around Baghdad, cannot be true: Harun died in 809."
+      "Abu Bakr al-Razi (865–c. 925), known in Latin as Rhazes, was a hospital director in his home town of Rayy and in Baghdad and one of the most innovative clinicians of the medieval world. His celebrated treatise on the difference between smallpox and measles taught physicians to tell two rash fevers apart. In *Doubts about Galen* he criticized the master, arguing that Galen's own habit of challenging his predecessors licensed it, while his working notes, compiled by his students after his death as the *Comprehensive Book* (*al-Hawi*), mixed reading with cases from his practice.",
+      "He tried to test treatments against experience. In *Doubts about Galen* he cited roughly 300 of 2,000 patients whose illness developed contrary to what the Galenic method led him to expect, and in one case he compared patients with 'brain fever' who were and were not bled, an early use of a control group. Yet his own theory stayed broadly Galenic. One popular story, that he chose the site of Harun al-Rashid's hospital by hanging meat around Baghdad, cannot be true: Harun died in 809."
     ],
     "myth": {
       "tradition": "Caliph Harun al-Rashid asked al-Razi to site Baghdad's hospital, and he hung pieces of meat around the city and chose the spot where they rotted slowest.",
@@ -536,7 +561,7 @@
         "publisher": "The James Lind Library",
         "url": "https://www.jameslindlibrary.org/al-razi-10th-century-ce/",
         "type": "primary",
-        "supports": "Al-Razi's own report (translated by Peter Pormann) of about 300 of 2,000 patients contradicting expectations.",
+        "supports": "Al-Razi's own report (translated by Peter Pormann) of about 300 of 2,000 patients whose state developed contrary to what the method predicted.",
         "quote": "For there were approximately three hundred out of two thousand patients"
       },
       {
@@ -560,7 +585,12 @@
     ],
     "further": [
       "pormann-savage-smith-2007"
-    ]
+    ],
+    "image": {
+      "commons": "File:Rhazes Kitab al-Hawi traduction en latin folio1v.jpg",
+      "alt": "An illuminated opening page of a medieval Latin manuscript of Rhazes' medical compendium, with decorated initials and borders.",
+      "caption": "Folio 1 verso of a Latin translation of al-Razi's *Hawi* (*Liber Elhavy*), translated by Faraj ben Salim; Bibliotheque nationale de France, Latin 6912."
+    }
   },
   {
     "id": "al-zahrawi",
@@ -576,7 +606,7 @@
     "confidence": {
       "date": "uncertain",
       "claim": "agreed",
-      "note": "The *Tasrif* survives in manuscripts and in a medieval Latin translation, so its content is secure. Its author's life is poorly documented: he worked in Cordoba in the 10th century, his dates are usually given as 936–1013, and the book's completion around 1000 is an estimate."
+      "note": "The *Tasrif* survives in manuscripts and in a medieval Latin translation, so its content is secure. Its author's life is poorly documented, and sources conflict: a catalogue gives his dates as 936–1013 and the book as written about 1000, while a National Library of Medicine brochure places his work in Cordoba under 'Abd al-Rahman III, who ruled 912–961."
     },
     "place": "Cordoba, al-Andalus (Spain)",
     "people": [
@@ -591,8 +621,8 @@
     ],
     "summary": "A Cordoban physician's encyclopedia contained an illustrated manual of surgery that taught European surgeons for centuries.",
     "body": [
-      "Abu al-Qasim al-Zahrawi, known in Latin as Albucasis, worked in Cordoba under the Umayyad rulers of Spain and around 1000 completed the *Kitab al-Tasrif*, a medical encyclopedia in 30 books. Its surgical section divides the craft into three parts, on cautery, on incision and bloodletting, and on setting bones, and it draws the instruments it describes. His 19th-century French translator Lucien Leclerc judged him the first author to describe surgical instruments with figures, or at least the first whose illustrated work survives. The book is practical down to the teeth: it explains that tartar causes gum disease and how to scrape it away.",
-      "Gerard of Cremona translated the surgery into Latin in Toledo in the 12th century, and it became the leading surgical textbook of medieval Europe until later Latin surgeries, such as Saliceto's, replaced it. It was printed at Venice in 1500–1501 in a volume led by Guy de Chauliac's surgery, while a book of the *Tasrif* on drugs had already been printed there in 1471. He leaned on Greek authors, above all Paul of Aegina, but Leclerc found him writing again and again from his own practice."
+      "Abu al-Qasim al-Zahrawi, known in Latin as Albucasis, worked in Cordoba under the Umayyad rulers of Spain and, by one catalogue's dating, completed the *Kitab al-Tasrif*, a medical encyclopedia in 30 books, around 1000. Its surgical section divides the craft into three parts, on cautery, on incision and bloodletting, and on setting bones, and it draws the instruments it describes. His 19th-century French translator Lucien Leclerc judged him the first author to describe surgical instruments with figures, or at least the first whose illustrated work survives. It was also important for dentistry, with chapters on gum growths and one of the earliest discussions of tooth prostheses.",
+      "Gerard of Cremona translated the surgery into Latin in Toledo in the 12th century, and it became the leading surgical textbook of medieval Europe until later Latin surgeries, such as Saliceto's, replaced it. It was printed at Venice in 1500–1501 in a volume led by Guy de Chauliac's surgery, while a book of the *Tasrif* on drugs had already been printed there in 1471. He leaned on Greek authors, above all Paul of Aegina, but Leclerc found him less of an imitator, speaking more often from his own experience."
     ],
     "links": [
       {
@@ -607,13 +637,13 @@
       },
       {
         "to": "guy-de-chauliac",
-        "kind": "led-to",
-        "note": "Its first printed edition appeared with Guy de Chauliac's surgery."
+        "kind": "see-also",
+        "note": "Its first printed edition, at Venice in 1500–1501, was issued with Guy de Chauliac's surgery."
       },
       {
         "to": "sabuncuoglu",
-        "kind": "led-to",
-        "note": "Ottoman illustrated surgery drew on the same tradition."
+        "kind": "see-also",
+        "note": "Another illustrated surgical treatise from the Islamic world, centuries later."
       }
     ],
     "sources": [
@@ -652,7 +682,7 @@
         "publisher": "Garrison-Morton-Norman History of Medicine",
         "url": "https://historyofmedicine.com/id/5371",
         "type": "reference",
-        "supports": "Leading surgical textbook of the Middle Ages; Latin translation by Gerard of Cremona; 1500–1501 printing with Guy de Chauliac; dental tartar and scaling.",
+        "supports": "Leading surgical textbook of the Middle Ages until superseded by Saliceto; Latin translation by Gerard of Cremona; 1500–1501 printing with Guy de Chauliac; importance for dentistry and early tooth prostheses.",
         "quote": "During the Middle Ages this was the leading textbook on surgery until it was superseded by Saliceto"
       },
       {
@@ -662,6 +692,32 @@
         "type": "reference",
         "supports": "The Tasrif as a 30-book encyclopedia written about 1000; book 28 on drugs printed in 1471.",
         "quote": "a 30-volume Arabic encyclopaedia on medicine and surgery, written ca. 1000 CE by Abulcasis"
+      },
+      {
+        "title": "Chirurgia cum formis instrumentorum (Venice, 1500–1501)",
+        "publisher": "Garrison-Morton-Norman History of Medicine",
+        "url": "https://historyofmedicine.com/id/5371",
+        "type": "reference",
+        "supports": "Importance of the surgery for dentistry; one of the earliest discussions of tooth prostheses.",
+        "quote": "Chapter 33 contains one of the earliest discussions of tooth prostheses, and describes some oral surgery procedures"
+      },
+      {
+        "title": "La chirurgie d'Abulcasis, translated by Lucien Leclerc (Paris, 1861)",
+        "publisher": "Garrison-Morton-Norman History of Medicine",
+        "url": "https://historyofmedicine.com/id/12653",
+        "type": "reference",
+        "supports": "Leclerc's translation (1861) as the first into French; Leclerc's dates 1816–1893 are given on the same record.",
+        "quote": "Paris: J.-B. Baillière, 1861. First translation into French. Digital facsimile from the Internet Archive"
+      },
+      {
+        "title": "Islamic Culture and the Medical Arts (exhibition brochure)",
+        "author": "Emilie Savage-Smith",
+        "publisher": "U.S. National Library of Medicine (archived at Internet Archive)",
+        "year": 1994,
+        "url": "https://archive.org/download/9439902.nlm.nih.gov/9439902.pdf",
+        "type": "institutional",
+        "supports": "Al-Zahrawi worked in Cordoba under the Spanish Umayyads, in the reign of 'Abd al-Rahman III in this account.",
+        "quote": "who worked in Cordoba sometime during the reign of"
       }
     ],
     "further": [
@@ -677,7 +733,7 @@
       "year": 1025,
       "earliest": 1011,
       "latest": 1038,
-      "display": "early 11th century"
+      "display": "c. 1011–1038"
     },
     "confidence": {
       "date": "uncertain",
@@ -695,7 +751,7 @@
     ],
     "summary": "A Cairo mathematician argued that sight works by light entering the eye, not rays leaving it, and Europe learned optics from his book.",
     "body": [
-      "Ibn al-Haytham (965–c. 1040), known in Latin as Alhazen, wrote his seven-book *Optics* in Cairo in the early 11th century. Against the mathematicians' theory that visual rays stream out of the eye, he argued that light and color radiate from every point of an object and enter it, and he backed geometry with experiments. For the eye he used Galen's anatomy, taking the crystalline humor (the lens) as the seat of sight. A medieval Latin version, *Perspectiva*, shaped European optics; Risner printed it in 1572, and Kepler used it."
+      "Ibn al-Haytham (965–c. 1040), known in Latin as Alhazen, wrote his seven-book *Optics* in the early decades of the 11th century, during the years he spent in Fatimid Egypt. Against the mathematicians' theory that visual rays stream out of the eye, he argued that light and color radiate from every point of an object and enter it, and he backed geometry with experiments. For the eye he used Galen's anatomy, taking the crystalline humor (the lens) as the seat of sight. A medieval Latin version, *Perspectiva*, shaped European optics; Risner printed it in 1572, and Kepler knew it."
     ],
     "links": [
       {
@@ -716,7 +772,7 @@
         "publisher": "MacTutor History of Mathematics, University of St Andrews (reprint of the DSB article)",
         "url": "https://mathshistory.st-andrews.ac.uk/DSB/Al-Haytham.pdf",
         "type": "reference",
-        "supports": "His dates; the seven-book Optics; intromission against visual rays; radiation from every point; crystalline humor as the sensitive organ, from Galen; the Latin Perspectiva; dating via the work lists.",
+        "supports": "His dates; the seven-book Optics; intromission against visual rays; radiation from every point; crystalline humor as the sensitive organ, from Galen; the Latin Perspectiva; Roger Bacon and Witelo's reliance on it; the work lists used for dating.",
         "quote": "His solution assumed the crystalline humor to be the organ in which visual sensation first occurs—an assumption which had been current since Galen"
       },
       {
@@ -763,7 +819,7 @@
     "confidence": {
       "date": "uncertain",
       "claim": "firm",
-      "note": "The *Canon* survives complete, and its Latin career is documented by dozens of printed editions. Its completion date is not recorded: it was begun in Gurgan and finished in Hamadan, where Ibn Sina lived from about 1015 to about 1024, so the familiar date of 1025 is an approximation."
+      "note": "The *Canon* survives complete, and its Latin career is documented by dozens of printed editions. Its completion date is not recorded: it was begun in Gurgan and finished in Hamadan, where Ibn Sina lived from about 1015 to about 1024 (his own moves are only roughly dated), so completion in that window is an inference."
     },
     "place": "Gurgan, Rayy and Hamadan, Iran",
     "people": [
@@ -778,10 +834,10 @@
     ],
     "summary": "A Persian philosopher's five-book encyclopedia became the standard medical textbook of the Islamic world and of Europe's universities for five centuries.",
     "body": [
-      "Ibn Sina (c. 980–1037), known in Europe as Avicenna, was the leading philosopher of the Islamic world and a physician who began practising medicine at 16. Moving from court to court across Iran as a scholar, administrator and vizier, he began his *Canon of Medicine* (*al-Qanun fi al-tibb*) in Gurgan, continued it in Rayy and finished it in Hamadan, where he lived from about 1015 to 1024.",
+      "Ibn Sina (c. 980–1037), known in Europe as Avicenna, was a philosopher whose work shaped medieval Islamic and Latin thought, and a physician who began practicing medicine at 16. Moving from court to court across Iran as a scholar, administrator and vizier, he began his *Canon of Medicine* (*al-Qanun fi al-tibb*) in Gurgan, continued it in Rayy and finished it in Hamadan, where he lived from about 1015 to 1024.",
       "The *Canon* runs to about a million words in five books: general principles; simple drugs in alphabetical order; diseases of each part of the body from head to toe; diseases not confined to one part, such as fevers; and compound remedies. It was not new medicine so much as superbly organized medicine, systematizing Galen and borrowing heavily from al-Razi's *Hawi*. Its orderly presentation, and even its title, *Qanun*, 'canon' or 'code of law', gave it an authority that physicians preferred to al-Razi and even to Galen.",
       "One celebrated passage sets out conditions for learning a drug's strength by experiment rather than by analogy: the drug must be free of acquired qualities, tried on a simple disease, compared on opposite conditions, given in a dose matched to the illness, watched for the timing of its effect, shown to act consistently, and tested on people rather than animals, since a lion or a horse might respond differently.",
-      "Translated into Latin by Gerard of Cremona in the 12th century, the *Canon* became the backbone of European university medicine. Some sixty editions of all or part of it were printed between 1500 and 1674, and it was still a set text at Montpellier and Louvain in 1650. It was also commented on for centuries in Arabic, notably by Ibn al-Nafis, whose commentary contains his account of the pulmonary circulation."
+      "Translated into Latin by Gerard of Cremona in the 12th century, the *Canon* became the backbone of European university medicine. Some sixty editions of all or part of it were printed between 1500 and 1674, and it was still a set text at Montpellier and Louvain in 1650. It was also commented on in Arabic, notably by Ibn al-Nafis, whose commentary on its anatomy contains his account of the pulmonary circulation, three centuries before Servetus and Colombo."
     ],
     "myth": {
       "tradition": "Ibn Sina invented the clinical trial: his rules for testing drugs are the first modern controlled trial.",
@@ -806,7 +862,7 @@
       {
         "to": "ibn-al-nafis",
         "kind": "led-to",
-        "note": "Ibn al-Nafis described the pulmonary circulation in a commentary on the *Canon*."
+        "note": "Ibn al-Nafis described the pulmonary circulation in a commentary on the anatomy of the *Canon*."
       }
     ],
     "sources": [
@@ -858,11 +914,24 @@
         "type": "primary",
         "supports": "The humoral purpose of the tests (myth record).",
         "quote": "an experiment would be of no help in deciding whether [the drug] is hot or cold"
+      },
+      {
+        "title": "Islamic Medical Manuscripts at the National Library of Medicine: Kitab al-Qanun fi al-tibb (MS A 53)",
+        "publisher": "U.S. National Library of Medicine",
+        "url": "https://www.nlm.nih.gov/hmd/arabic/E8.html",
+        "type": "institutional",
+        "supports": "Ibn al-Nafis's commentary on the anatomy of the Canon and its statement of the pulmonary circulation.",
+        "quote": "must reach the left ventricle by way of the lungs and not through a passage connecting the ventricles, as Galen had maintained"
       }
     ],
     "further": [
       "siraisi-1990",
       "pormann-savage-smith-2007"
-    ]
+    ],
+    "image": {
+      "commons": "File:Avicenna canon 1597.jpg",
+      "alt": "Decorated opening page of a manuscript of Avicenna's Canon of Medicine, with gold and colored geometric ornament around Arabic text.",
+      "caption": "Opening page, with ornament and an invocation, of a copy of Ibn Sina's *Canon of Medicine* made in 1006 AH (1597–98 CE)."
+    }
   }
 ]

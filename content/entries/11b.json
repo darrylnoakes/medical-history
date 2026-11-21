@@ -11,7 +11,7 @@
     "confidence": {
       "date": "firm",
       "claim": "agreed",
-      "note": "The 1952 trials in Paris are documented day by day in the published record. That the drug changed ward life is accepted; how much it contributed to emptying mental hospitals is contested, since the steepest fall came in the 1970s and followed changes in policy and funding."
+      "note": "The 1952 trials in Paris are documented day by day in the published record. That the drug changed ward life is accepted; how much it contributed to emptying mental hospitals is contested, since most patients left American state hospitals in the 1970s, after changes in policy and funding."
     },
     "place": "Val-de-Grâce and Sainte-Anne hospitals, Paris, France",
     "people": [
@@ -20,21 +20,40 @@
       "Jean Delay, head of the psychiatry department at Sainte-Anne",
       "Pierre Deniker, psychiatrist who ran the Sainte-Anne trials"
     ],
-    "themes": ["drugs", "mind"],
-    "summary": "A French anesthesia aid that calmed agitated patients became the first modern antipsychotic. The story that it emptied the asylums is only partly true.",
+    "themes": [
+      "drugs",
+      "mind"
+    ],
+    "summary": "A French anesthesia aid that calmed agitated patients became the first widely used antipsychotic. The story that it emptied the asylums is only partly true.",
     "body": [
-      "Chlorpromazine was made on 11 December 1951 by the chemist Paul Charpentier at the French drug company Rhône-Poulenc and released for testing as an aid to anesthesia. Henri Laborit, an army surgeon experimenting with \"artificial hibernation\" against surgical shock, found that it left patients detached and indifferent without putting them to sleep, and persuaded psychiatrists at the Val-de-Grâce military hospital in Paris to try it. On 19 January 1952 a 24-year-old man in a state of manic agitation became the first psychiatric patient to receive it. From March, Jean Delay and Pierre Deniker tested it systematically at Sainte-Anne hospital, and their papers sent it around the world. It went on sale in France that November and was approved in the United States as Thorazine in 1954.",
-      "Disturbed wards grew quieter. But the popular story that it emptied the asylums is too simple. American state hospitals held more than 550,000 patients at their peak in 1955 and were already shrinking, yet they discharged most of them only between 1970 and 1980, after the 1963 Community Mental Health Act and the promise of saving money made deinstitutionalization official policy. Studying California, the historian Joel Braslow argues that the drugs, of limited efficacy, at first changed little in how psychiatrists treated psychotic patients."
+      "Chlorpromazine was made on 11 December 1951 by the chemist Paul Charpentier at the French drug company Rhône-Poulenc and released for testing as an aid to anesthesia. Henri Laborit, an army surgeon experimenting with \"artificial hibernation\" against surgical shock, found that it left patients detached and indifferent without putting them to sleep, and persuaded psychiatrists at the Val-de-Grâce military hospital in Paris to try it. On 19 January 1952 a 24-year-old man in a state of manic agitation became the first psychiatric patient to receive it. From 24 March, Jean Delay and Pierre Deniker tested it at Sainte-Anne hospital, and their papers that year set the stage for its wide use in psychiatry. It went on sale in France that November and was approved in the United States as Thorazine in 1954.",
+      "Disturbed wards grew quieter. But the popular story that it emptied the asylums is too simple. American state hospitals held more than 550,000 patients at their peak in 1955, the year after Thorazine's approval, and discharged most of them only between 1970 and 1980, after the 1963 Community Mental Health Act and the promise of saving money made deinstitutionalization official policy. Studying California, the historian Joel Braslow argues that the drugs, of limited efficacy, had little overall effect on how psychiatrists understood and treated psychotic patients."
     ],
     "myth": {
       "tradition": "Chlorpromazine emptied the mental hospitals almost overnight.",
-      "record": "Hospital populations were already falling and dropped steeply only in the 1970s, under new policies and funding such as the 1963 Community Mental Health Act. The drug made discharge easier but was one cause among several."
+      "record": "US state hospital populations peaked in 1955, the year after the drug's approval, and most patients left only between 1970 and 1980, under new policies and funding such as the 1963 Community Mental Health Act. The drug made discharge easier but was one cause among several."
     },
     "links": [
-      { "to": "asylum-era", "kind": "built-on", "note": "The vast state hospitals the drug was supposed to empty." },
-      { "to": "lobotomy", "kind": "overturned", "note": "Drug treatment displaced psychosurgery for psychosis." },
-      { "to": "lithium", "kind": "see-also", "note": "Another early drug for serious mental illness." },
-      { "to": "prozac", "kind": "led-to", "note": "Its success launched the age of psychiatric drugs." }
+      {
+        "to": "asylum-era",
+        "kind": "built-on",
+        "note": "The vast state hospitals the drug was supposed to empty."
+      },
+      {
+        "to": "lobotomy",
+        "kind": "overturned",
+        "note": "Drug treatment displaced psychosurgery for psychosis."
+      },
+      {
+        "to": "lithium",
+        "kind": "see-also",
+        "note": "Another early drug for serious mental illness."
+      },
+      {
+        "to": "prozac",
+        "kind": "led-to",
+        "note": "Its success launched the age of psychiatric drugs."
+      }
     ],
     "sources": [
       {
@@ -68,11 +87,14 @@
         "quote": "The promise of reducing the number of patients in state mental hospitals and saving money promoted a policy of deinstitutionalization."
       }
     ],
-    "further": ["harrington-2019", "scull-2015"],
+    "further": [
+      "harrington-2019",
+      "scull-2015"
+    ],
     "image": {
       "commons": "File:Largactil Chlorpromazine 30ml 4%.jpg",
-      "alt": "A small brown glass bottle labelled Largactil, chlorpromazine 4 percent, 30 ml.",
-      "caption": "A bottle of Largactil, one of the brand names under which chlorpromazine was sold."
+      "alt": "A small glass bottle labeled Largactil, chlorpromazine 4 percent, 30 ml.",
+      "caption": "A modern bottle of Largactil (chlorpromazine, 4 percent, 30 ml), photographed in 2024. Largactil was the name Rhône-Poulenc gave the drug when it went on sale in France in 1952."
     }
   },
   {
@@ -88,7 +110,7 @@
     "confidence": {
       "date": "firm",
       "claim": "agreed",
-      "note": "The Copenhagen epidemic and Ibsen's first case are well documented. Accounts differ on the numbers: the student volunteers are given as 1,000 or 1,500, and the fall in mortality as from 87% to about 40% or to under 15%."
+      "note": "The Copenhagen epidemic and Ibsen's first case are well documented. Accounts differ on the numbers: the student volunteers are given as 1,000 or 1,500, and the fall in mortality as from 87% to about 40% or to under 15%. Sources also disagree on whether the first unit was at Blegdam in 1952 or at the Municipal Hospital in 1953."
     },
     "place": "Blegdam Hospital, Copenhagen, Denmark",
     "people": [
@@ -96,14 +118,26 @@
       "Vivi Ebert, 12-year-old polio patient",
       "Hans Christian Lassen, chief physician at Blegdam Hospital"
     ],
-    "themes": ["practice", "institutions", "technology"],
+    "themes": [
+      "practice",
+      "institutions",
+      "technology"
+    ],
     "summary": "In a 1952 polio epidemic, Copenhagen kept paralysed patients breathing by hand, around the clock. Out of the crisis came the intensive care unit.",
     "body": [
-      "When polio struck Copenhagen in 1952, Blegdam Hospital had one iron lung and six cuirass respirators, and about four in five patients with paralysed breathing died. In late August the anesthetist Bjørn Ibsen saved a 12-year-old girl, Vivi Ebert, with a tracheostomy and a hand-squeezed bag. Hundreds of medical and dental students then ventilated patients in shifts, up to 70 at once, and mortality fell sharply. In 1953 Ibsen opened what is often called the first multidisciplinary intensive care unit, at Copenhagen's Municipal Hospital."
+      "When polio struck Copenhagen in 1952, Blegdam Hospital had one iron lung and six cuirass respirators, and about four in five patients with paralysed breathing died. In late August the anesthetist Bjørn Ibsen saved a 12-year-old girl, Vivi Ebert, with a tracheostomy and a hand-squeezed bag. Hundreds of medical and dental students then ventilated patients in shifts, up to 70 at once, and mortality fell sharply. In 1953 Ibsen moved to Copenhagen's Municipal Hospital, where he set up what is often called the first multidisciplinary intensive care unit."
     ],
     "links": [
-      { "to": "iron-lung", "kind": "overturned", "note": "Positive-pressure ventilation replaced the tank respirator." },
-      { "to": "polio-vaccine", "kind": "see-also", "note": "The vaccines soon ended such epidemics." }
+      {
+        "to": "iron-lung",
+        "kind": "overturned",
+        "note": "Positive-pressure ventilation replaced the tank respirator."
+      },
+      {
+        "to": "polio-vaccine",
+        "kind": "see-also",
+        "note": "The vaccines soon ended such epidemics."
+      }
     ],
     "sources": [
       {
@@ -161,23 +195,42 @@
       "Maurice Wilkins (1916–2004), biophysicist at King's College London",
       "Raymond Gosling, Franklin's graduate student"
     ],
-    "themes": ["theory", "technology"],
-    "summary": "Two strands, paired bases, and an obvious way to copy genes. The DNA double helix came from four scientists, not two, and its most famous photograph is half the story.",
+    "themes": [
+      "theory",
+      "technology"
+    ],
+    "summary": "Two strands, paired bases, and an obvious way to copy genes. Watson and Crick built on King's College data, and the famous Photograph 51 was only one piece of it.",
     "body": [
       "On 25 April 1953 *Nature* published a short letter from James Watson and Francis Crick of Cambridge proposing a structure for DNA: two long strands running in opposite directions and spiralling around each other, held together by specific pairs of bases. They added, with deliberate understatement, \"It has not escaped our notice that the specific pairing that we have postulated immediately suggests a possible copying mechanism for the genetic material.\" The order of the bases could carry information; the pairing explained how it could be copied.",
-      "In 1953 it was not settled that genes were made of DNA. In 1944 Oswald Avery and his colleagues at the Rockefeller Institute in New York had reported that purified DNA could permanently and heritably change one kind of pneumococcus bacterium into another, but many scientists still thought proteins were likelier carriers of heredity. At King's College London, Maurice Wilkins, Rosalind Franklin and her student Raymond Gosling were studying DNA fibers by X-ray diffraction, and Franklin was precise about its dimensions and symmetry.",
+      "In 1953 it was not settled that genes were made of DNA. In 1944 Oswald Avery and his colleagues at the Rockefeller Institute in New York had reported that purified DNA could permanently and heritably change one kind of pneumococcus bacterium into another, but many scientists still thought proteins were likelier carriers of heredity. At King's College London, Maurice Wilkins, Rosalind Franklin and her student Raymond Gosling were studying DNA fibers by X-ray diffraction, and had found that it took two forms, which they called A and B.",
       "The Cambridge model rested on their data. In early 1953 Wilkins showed Watson \"Photograph 51\", an unusually clear image of one form of DNA that Franklin and Gosling had taken eight months before, and Crick's supervisor Max Perutz passed the pair an informal report from the King's unit that included a page on Franklin's work. The same issue of *Nature* carried papers by Wilkins's group and by Franklin and Gosling, but Watson and Crick acknowledged only that they had been \"stimulated\" by the general nature of the King's results.",
       "Watson, Crick and Wilkins shared the 1962 Nobel Prize in Physiology or Medicine. Franklin had died of ovarian cancer in 1958, aged 37, and the prize cannot be awarded posthumously. Watson's 1968 bestseller *The Double Helix* fixed her in memory as a scientist who could not read her own data. In 2023 the historians Matthew Cobb and Nathaniel Comfort, drawing on her notebooks and an unpublished 1953 news article written with her help, argued that she was an equal member of a quartet that solved the structure."
     ],
     "myth": {
       "tradition": "Watson stole Rosalind Franklin's Photograph 51, which handed him the secret of DNA, while she never grasped what her own data showed.",
-      "record": "Gosling had passed the image to Wilkins, he says with Franklin's knowledge, and it was one clue among several. The bigger lapse was using King's data without asking. Franklin's own work had taken her far toward the structure."
+      "record": "Gosling gave the image to Wilkins, who showed it to Watson. Gosling says he did so with Franklin's knowledge, while the U.S. National Library of Medicine's account says it was without. It confirmed a helix but was one clue among several, and Perutz's report was as important. The clearer lapse was using King's data without asking. Franklin and Gosling already took the B form to be helical and had drafted their own paper before they saw the Cambridge model."
     },
     "links": [
-      { "to": "mendel", "kind": "built-on", "note": "The physical basis of Mendel's units of heredity." },
-      { "to": "recombinant-dna", "kind": "led-to", "note": "Knowing the molecule made it possible to cut and splice it." },
-      { "to": "human-genome-project", "kind": "led-to", "note": "Reading the base sequence of a whole human genome." },
-      { "to": "henrietta-lacks", "kind": "see-also", "note": "Another story of credit withheld in 1950s biology." }
+      {
+        "to": "mendel",
+        "kind": "built-on",
+        "note": "The physical basis of Mendel's units of heredity."
+      },
+      {
+        "to": "recombinant-dna",
+        "kind": "led-to",
+        "note": "Knowing the molecule made it possible to cut and splice it."
+      },
+      {
+        "to": "human-genome-project",
+        "kind": "led-to",
+        "note": "Reading the base sequence of a whole human genome."
+      },
+      {
+        "to": "henrietta-lacks",
+        "kind": "see-also",
+        "note": "Another story of credit withheld in 1950s biology."
+      }
     ],
     "sources": [
       {
@@ -197,7 +250,7 @@
         "year": 2023,
         "url": "https://www.nature.com/articles/d41586-023-01313-5",
         "type": "scholarly",
-        "supports": "Photograph 51 taken eight months earlier by Franklin and Gosling and shown to Watson by Wilkins; Gosling's account of passing it on; Perutz's report; the three Nature papers; Watson and Crick's 'stimulated' acknowledgment; Franklin's death at 37; The Double Helix (1968); the 'equal member' argument.",
+        "supports": "Photograph 51 taken eight months earlier by Franklin and Gosling and shown to Watson by Wilkins; Gosling's account of passing it on; Perutz's report; the three Nature papers; Watson and Crick's 'stimulated' acknowledgment; Franklin's death at 37; The Double Helix (1968); the 'equal member' argument. Gosling says he passed the photograph to Wilkins with Franklin's knowledge.",
         "quote": "it strengthens our case that Franklin was an equal member in a group of four scientists working on the structure of DNA"
       },
       {
@@ -205,7 +258,7 @@
         "publisher": "U.S. National Library of Medicine, Profiles in Science",
         "url": "https://profiles.nlm.nih.gov/spotlight/kr/feature/dna",
         "type": "institutional",
-        "supports": "Many scientists still favored protein as the hereditary material; Franklin and Gosling's paper appeared alongside Watson and Crick's on 25 April.",
+        "supports": "Many scientists still favored protein as the hereditary material; Franklin and Gosling's paper appeared alongside Watson and Crick's on 25 April; Franklin and Gosling found two forms of DNA; the account that Wilkins showed Photograph 51 to Watson without Franklin's knowledge; Franklin never argued the B form was not helical and drafted her own paper before seeing the Watson-Crick model.",
         "quote": "Though Oswald T. Avery had proposed that DNA was the key chemical substance of heredity, many scientists believed that proteins were more likely candidates."
       },
       {
@@ -241,7 +294,9 @@
         "quote": "two long strands of DNA run in opposite directions and spiral around one another in the shape of a double helix"
       }
     ],
-    "further": ["porter-1997"],
+    "further": [
+      "porter-1997"
+    ],
     "image": {
       "commons": "File:Template from Crick and Watson’s DNA molecular model, 1953. (9660573227).jpg",
       "alt": "A flat cut-out aluminium plate shaped like the chemical outline of the base thymine.",
@@ -269,17 +324,36 @@
       "C. Walton Lillehei (1918–1999), Minnesota surgeon who used cross-circulation",
       "John W. Kirklin (1917–2004), Mayo Clinic surgeon who made bypass reliable"
     ],
-    "themes": ["surgery", "technology"],
+    "themes": [
+      "surgery",
+      "technology"
+    ],
     "summary": "To mend the inside of a heart, surgeons had to stop it. A machine that breathed and pumped for the patient, built over two decades, made that possible.",
     "body": [
       "On 6 May 1953 the Philadelphia surgeon John Gibbon closed a hole between the upper chambers of an 18-year-old patient's heart, an atrial septal defect, while a machine took over the work of heart and lungs. The patient recovered completely. Gibbon had been chasing the idea since the early 1930s, when he watched a young woman die of a massive pulmonary embolism. With his wife Mary and engineers from IBM he built a device that spread blood in thin films over screens in oxygen and pumped it back with rollers.",
-      "Gibbon's next attempts went badly, and he gave up. The lead passed to Minnesota. On 26 March 1954 C. Walton Lillehei closed a ventricular septal defect using cross-circulation, with a parent's circulation, lungs included, acting as the child's heart-lung machine. In March 1955 John Kirklin at the Mayo Clinic did the same repair with a modified Gibbon pump, and in 1955 the world's open-heart operations were all being done in Minnesota. Within a few years, improved pumps and Richard DeWall's bubble oxygenator had made open-heart surgery routine."
+      "Gibbon's next attempts went badly, and he gave up. The lead passed to Minnesota. On 26 March 1954 C. Walton Lillehei closed a ventricular septal defect using cross-circulation, with a parent's circulation, lungs included, acting as the child's heart-lung machine. On 25 March 1955 John Kirklin at the Mayo Clinic did the same repair with a modified Gibbon pump. Through 1955 nearly all open-heart operations were done in Minnesota, by Lillehei or Kirklin, though by year's end surgeons in Cleveland, São Paulo and elsewhere had begun. Improved pumps and Richard DeWall's bubble oxygenator soon helped make open-heart surgery routine."
     ],
     "links": [
-      { "to": "blalock-taussig-thomas", "kind": "built-on", "note": "Earlier heart surgery that worked from outside the heart." },
-      { "to": "heart-transplant", "kind": "led-to", "note": "Bypass made the 1967 transplant possible." },
-      { "to": "dialysis", "kind": "see-also", "note": "Another machine that took over an organ's work." },
-      { "to": "pacemaker", "kind": "see-also", "note": "Open-heart surgery left some patients needing pacing." }
+      {
+        "to": "blalock-taussig-thomas",
+        "kind": "built-on",
+        "note": "Earlier heart surgery that worked from outside the heart."
+      },
+      {
+        "to": "heart-transplant",
+        "kind": "led-to",
+        "note": "Bypass made the 1967 transplant possible."
+      },
+      {
+        "to": "dialysis",
+        "kind": "see-also",
+        "note": "Another machine that took over an organ's work."
+      },
+      {
+        "to": "pacemaker",
+        "kind": "see-also",
+        "note": "Open-heart surgery left some patients needing pacing."
+      }
     ],
     "sources": [
       {
@@ -289,7 +363,7 @@
         "year": 2015,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4462970/",
         "type": "scholarly",
-        "supports": "Date of Gibbon's atrial septal defect repair, 6 May 1953; screen (film) oxygenators.",
+        "supports": "Date of Gibbon's atrial septal defect repair, 6 May 1953; screen (film) oxygenators. First on-pump open-heart operation in Brazil, October 1955.",
         "quote": "On May 6, 1953, Gibbon - who devoted his life's work to obtaining a working heart-lung machine - performed an atrial septal defect repair"
       },
       {
@@ -309,7 +383,7 @@
         "year": 2021,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8691783/",
         "type": "scholarly",
-        "supports": "Lillehei's cross-circulation repair on 26 March 1954; Kirklin's pump repair on 25 March 1955; all open-heart surgery in 1955 done in Minnesota.",
+        "supports": "Lillehei's cross-circulation repair on 26 March 1954; Kirklin's pump repair on 25 March 1955; Austin's statement that all open-heart surgery in 1955 was done in Minnesota (other sources show operations elsewhere began late that year).",
         "quote": "Lillehei was the first to successfully close a ventricular septal defect on March 26, 1954, using cross-circulation with a parent for support."
       }
     ],
@@ -327,7 +401,7 @@
     "confidence": {
       "date": "firm",
       "claim": "firm",
-      "note": "The operation was reported by the surgical team in 1956 and retold by Murray in his Nobel lecture. Calling it the first successful organ transplant is fair if success means lasting function: earlier kidney grafts had all failed."
+      "note": "The operation was reported by the surgical team in 1956 and retold by Murray in his Nobel lecture. Calling it the first successful organ transplant is fair if success means lasting function: earlier kidney grafts failed within months."
     },
     "place": "Peter Bent Brigham Hospital, Boston, Massachusetts, USA",
     "people": [
@@ -336,18 +410,33 @@
       "J. Hartwell Harrison, urologist who removed the donor kidney",
       "Richard Herrick, recipient, and Ronald Herrick (1931–2010), donor"
     ],
-    "themes": ["surgery", "ethics"],
+    "themes": [
+      "surgery",
+      "ethics"
+    ],
     "summary": "A dying man received a kidney from his identical twin, and it worked. Twins sidestepped rejection; beating it for everyone else took drugs and decades.",
     "body": [
       "On 23 December 1954, at the Peter Bent Brigham Hospital in Boston, a surgical team took a healthy kidney from Ronald Herrick and placed it in his identical twin, Richard, who was dying of kidney failure. Joseph Murray did the transplant; the urologist J. Hartwell Harrison removed the donor kidney, probably the riskier of the two operations. The kidney worked. Richard Herrick lived another eight years, married his recovery-room nurse and had two children.",
-      "Kidneys had been transplanted before, and all had failed. At the Brigham itself, in 1945, a kidney was joined to the blood vessels in a woman's arm to tide her over acute kidney failure; in the early 1950s David Hume placed donor kidneys in the thighs of patients. The obstacle was rejection, which Peter Medawar showed in the 1950s to be an immune response to genetically foreign tissue. Identical twins avoided it: skin grafts exchanged between such twins had been known since 1937 to survive. The Boston team proved the Herricks identical with cross skin grafts and even fingerprints taken at a police station, while John Merrill's artificial kidney kept Richard alive for the operation.",
+      "Kidneys had been transplanted before, but none had worked for more than a few months. At the Brigham itself, in 1945, a kidney was joined to the blood vessels in a woman's arm to tide her over acute kidney failure; in the early 1950s David Hume placed donor kidneys in the thighs of patients. The obstacle was rejection, which Peter Medawar showed in the 1950s to be an immune response to genetically foreign tissue. Identical twins avoided it: skin grafts exchanged between such twins had been known since 1937 to survive. The Boston team proved the Herricks identical with cross skin grafts and even fingerprints taken at a police station, while John Merrill's artificial kidney kept Richard alive for the operation.",
       "The case also raised a question medicine had not faced: for the first time a healthy person would undergo major surgery purely for someone else's benefit. The team consulted physicians and clergy of all denominations before going ahead.",
       "Twins are rare, so the real prize was beating rejection. After grim trials of whole-body irradiation, the Brigham group turned to the drug azathioprine. In April 1962 a patient given a kidney from an unrelated dead donor and treated with it survived more than a year, the first such success. Azathioprine with steroids, and later cyclosporine, made transplants between strangers routine. Murray shared the 1990 Nobel Prize in Physiology or Medicine."
     ],
     "links": [
-      { "to": "dialysis", "kind": "built-on", "note": "Dialysis kept the recipient alive long enough to operate." },
-      { "to": "heart-transplant", "kind": "led-to", "note": "Other organs followed once rejection could be controlled." },
-      { "to": "xenotransplantation", "kind": "led-to", "note": "The shortage of human organs drove the search for animal ones." }
+      {
+        "to": "dialysis",
+        "kind": "built-on",
+        "note": "Dialysis kept the recipient alive long enough to operate."
+      },
+      {
+        "to": "heart-transplant",
+        "kind": "led-to",
+        "note": "Other organs followed once rejection could be controlled."
+      },
+      {
+        "to": "xenotransplantation",
+        "kind": "led-to",
+        "note": "The shortage of human organs drove the search for animal ones."
+      }
     ],
     "sources": [
       {
@@ -367,7 +456,7 @@
         "year": 2025,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12206869/",
         "type": "scholarly",
-        "supports": "Harrison's donor operation, probably riskier than the transplant; Merrill's dialysis; fingerprinting to confirm identity; irradiation trials 1958–1962.",
+        "supports": "Harrison's donor operation, probably riskier than the transplant; Merrill's dialysis; fingerprinting to confirm identity; irradiation trials 1958–1962. Earlier unmodified grafts at the Brigham were all rejected, one lasting months.",
         "quote": "Quinby trained J. Hartwell Harrison, who later performed the high-risk kidney removal from the donor twin, probably riskier than Joseph Murray's transplant procedure on the diseased twin"
       },
       {
@@ -389,7 +478,9 @@
         "quote": "was awarded jointly to Joseph E. Murray and E. Donnall Thomas \"for their discoveries concerning organ and cell transplantation in the treatment of human disease\""
       }
     ],
-    "further": ["porter-1997"]
+    "further": [
+      "porter-1997"
+    ]
   },
   {
     "id": "polio-vaccine",
@@ -413,19 +504,39 @@
       "John Enders (1897–1985), with Thomas Weller and Frederick Robbins, who grew poliovirus in tissue culture",
       "Mikhail Chumakov, Soviet virologist who ran mass trials of Sabin's vaccine"
     ],
-    "themes": ["drugs", "public-health", "ethics"],
-    "summary": "Nearly two million children joined the trial; a nation cheered the result; then a bad batch paralysed hundreds. The polio vaccines rewrote how vaccines are made and tested.",
+    "themes": [
+      "drugs",
+      "public-health",
+      "ethics"
+    ],
+    "summary": "Nearly two million children joined the trial; a nation cheered the result; then a bad batch paralyzed nearly 200. The polio vaccines rewrote how vaccines are made and tested.",
     "body": [
-      "On 12 April 1955 the results of one of the largest public-health trials ever mounted were made public in the United States: Jonas Salk's polio vaccine worked. The field trial, run in 1954 by Thomas Francis Jr., had enrolled about 1.8 million children, and the vaccine went into use at once. That day the broadcaster Edward Murrow asked Salk who owned the patent. \"Well, the people, I would say,\" Salk answered. \"There is no patent. Could you patent the sun?\"",
-      "The vaccine rested on a laboratory advance. John Enders, Thomas Weller and Frederick Robbins at Harvard had shown that poliovirus could be grown in cultures of ordinary tissue, work that won the 1954 Nobel Prize and made it possible to produce virus in bulk. Salk, at the University of Pittsburgh, used all three types of the virus, killed with formaldehyde and given by injection.",
-      "Within weeks came disaster. Two lots made by Cutter Laboratories of Berkeley, California, contained live virus that had survived the killing step. By one count 192 cases of paralytic polio followed among vaccinated children and their contacts, and 11 people died. The program was suspended while the government checked other manufacturers. Courts later held Cutter liable even though it had not been negligent, a ruling that made drug companies wary of making vaccines at all.",
+      "On 12 April 1955 the results of one of the largest public-health trials ever mounted were made public in the United States: Jonas Salk's polio vaccine worked. The field trial, run in 1954 by Thomas Francis Jr., had enrolled about 1.8 million children, and the vaccine went into use at once. Asked on CBS television by the broadcaster Edward Murrow who owned the patent, Salk is recorded as answering: \"Well, the people, I would say. There is no patent. Could you patent the sun?\"",
+      "The vaccine rested on a laboratory advance. John Enders, Thomas Weller and Frederick Robbins at Harvard had shown that poliovirus could be grown in cultures of ordinary tissue, work that won the 1954 Nobel Prize. Salk, at the University of Pittsburgh, used all three types of the virus, killed with formaldehyde and given by injection.",
+      "Within weeks came disaster. Two lots made by Cutter Laboratories of Berkeley, California, contained live virus that had survived the killing step. By one count 192 cases of paralytic polio followed among vaccinated children and their contacts, and 11 people died. The program was suspended while the government checked other manufacturers. Courts later held Cutter liable even though it had not been negligent, a ruling that, one historian notes, led some drug companies to stop making vaccine.",
       "Albert Sabin of Cincinnati took a different path: live, weakened virus swallowed rather than injected. Barred from a large American trial, he tested it with Mikhail Chumakov in the Soviet Union, where 77 million people received it between 1959 and 1961. It was licensed in the United States in 1961 and replaced Salk's injection through the 1960s, because it was easy to give and also produced immunity in the gut. Like Salk, Sabin declined to patent his vaccine."
     ],
     "links": [
-      { "to": "iron-lung", "kind": "overturned", "note": "Vaccination ended the epidemics that filled the respirator wards." },
-      { "to": "intensive-care", "kind": "see-also", "note": "Intensive care was born in a 1952 polio epidemic." },
-      { "to": "measles-vaccine", "kind": "led-to", "note": "Tissue-culture methods opened the way to other virus vaccines." },
-      { "to": "pasteur-vaccines", "kind": "built-on", "note": "Killed and weakened microbes as vaccines go back to Pasteur." }
+      {
+        "to": "iron-lung",
+        "kind": "overturned",
+        "note": "Vaccination ended the epidemics that filled the respirator wards."
+      },
+      {
+        "to": "intensive-care",
+        "kind": "see-also",
+        "note": "Intensive care was born in a 1952 polio epidemic."
+      },
+      {
+        "to": "measles-vaccine",
+        "kind": "led-to",
+        "note": "Tissue-culture methods opened the way to other virus vaccines."
+      },
+      {
+        "to": "pasteur-vaccines",
+        "kind": "built-on",
+        "note": "Killed and weakened microbes as vaccines go back to Pasteur."
+      }
     ],
     "sources": [
       {
@@ -454,7 +565,7 @@
         "year": 2021,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8155454/",
         "type": "scholarly",
-        "supports": "Salk's reply to Edward Murrow on 12 April 1955.",
+        "supports": "Salk's reply to Edward Murrow, recorded as given on 12 April 1955 on CBS's See It Now.",
         "quote": "he replied “Well, the people, I would say. There is no patent. Could you patent the sun?”"
       },
       {
@@ -476,7 +587,9 @@
         "quote": "for their discovery of the ability of poliomyelitis viruses to grow in cultures of various types of tissue"
       }
     ],
-    "further": ["snowden-2019"]
+    "further": [
+      "snowden-2019"
+    ]
   },
   {
     "id": "ultrasound",
@@ -498,15 +611,30 @@
       "Tom Brown, engineer who co-designed the scanner",
       "John McVicar, obstetrician and co-author"
     ],
-    "themes": ["technology", "practice"],
+    "themes": [
+      "technology",
+      "practice"
+    ],
     "summary": "A Glasgow obstetrician borrowed a machine built to find cracks in metal, and in 1958 published the first ultrasound pictures of a fetus.",
     "body": [
-      "In 1958 the Glasgow obstetrician Ian Donald, with John McVicar and the engineer Tom Brown, published in *The Lancet* the first ultrasound images of a fetus and of gynecological tumors. Donald had started in 1955 with a borrowed industrial flaw detector, built to find cracks in metal. With Brown and a local engineering firm he developed a contact scanner, later named the Diasonograph. The pictures were crude and static, with no shades of gray, but obstetric sonography dates from that paper."
+      "In 1958 the Glasgow obstetrician Ian Donald, with John McVicar and the engineer Tom Brown, published in *The Lancet* the first ultrasound images of a fetus and of gynecological tumors. Donald had started in 1955 with a borrowed industrial flaw detector, built to find cracks in metal. With Brown and a local engineering firm he developed a contact scanner, the Diasonograph. The pictures were crude and static, with no shades of gray, but obstetric sonography dates from that paper."
     ],
     "links": [
-      { "to": "xrays", "kind": "see-also", "note": "Another way to see inside the body, without radiation this time." },
-      { "to": "ct-scanner", "kind": "see-also", "note": "The next leap in imaging." },
-      { "to": "ivf", "kind": "led-to", "note": "Ultrasound became essential to fertility treatment." }
+      {
+        "to": "xrays",
+        "kind": "see-also",
+        "note": "Another way to see inside the body, without radiation this time."
+      },
+      {
+        "to": "ct-scanner",
+        "kind": "see-also",
+        "note": "The next leap in imaging."
+      },
+      {
+        "to": "ivf",
+        "kind": "led-to",
+        "note": "Ultrasound became essential to fertility treatment."
+      }
     ],
     "sources": [
       {
@@ -553,14 +681,25 @@
       "Åke Senning, thoracic surgeon",
       "Rune Elmqvist, physician and engineer who built the device"
     ],
-    "themes": ["technology", "surgery"],
-    "summary": "A desperate wife told a surgeon to make a pacemaker for her husband. The first lasted eight hours; he lived another 43 years.",
+    "themes": [
+      "technology",
+      "surgery"
+    ],
+    "summary": "A desperate wife pleaded with a surgeon to make a pacemaker for her husband. The first lasted eight hours; he lived another 43 years.",
     "body": [
       "On the evening of 8 October 1958 at the Karolinska Hospital in Stockholm, the surgeon Åke Senning implanted a pacemaker built by the physician-engineer Rune Elmqvist in Arne Larsson, a 43-year-old engineer suffering 20 to 30 blackouts a day from heart block. Larsson's wife had pushed them to make one. The first device lasted eight hours, the second about a week, but Larsson lived another 43 years on 22 pulse generators. In June 1960 William Chardack implanted a self-powered pacemaker in the United States."
     ],
     "links": [
-      { "to": "ecg", "kind": "built-on", "note": "Recording the heart's electricity came first." },
-      { "to": "heart-lung-machine", "kind": "see-also", "note": "Open-heart surgery made pacing urgent." }
+      {
+        "to": "ecg",
+        "kind": "built-on",
+        "note": "Recording the heart's electricity came first."
+      },
+      {
+        "to": "heart-lung-machine",
+        "kind": "see-also",
+        "note": "Open-heart surgery made pacing urgent."
+      }
     ],
     "sources": [
       {

@@ -208,7 +208,12 @@
         "quote": "eviyle kütüphanesini Sultan Kalavun tarafından 1284 yılında kurulmuş olan Bîmâristânü’l-Mansûrî’ye bağışladığı bilinmektedir"
       }
     ],
-    "further": ["pormann-savage-smith-2007"]
+    "further": ["pormann-savage-smith-2007"],
+    "image": {
+      "commons": "File:Ibn an-Nafis, Commentary on Avicenna's Wellcome L0011502.jpg",
+      "alt": "A page of Arabic manuscript text under a gold, blue and red illuminated headpiece, with a floral border down the right-hand margin.",
+      "caption": "Illuminated opening page of a manuscript of a commentary by Ibn al-Nafis on Avicenna's *Canon*, Wellcome Collection MS Or. 51. The catalog does not say which of his commentaries it is, or when the copy was made."
+    }
   },
   {
     "id": "mansuri-hospital",

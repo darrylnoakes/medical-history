@@ -90,7 +90,7 @@
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7314216/",
         "type": "scholarly",
         "supports": "Prior estimates of 50–100 million and the lower reanalysis of 17.4 million deaths.",
-        "quote": "Our results suggest the global death impact of the 1918 pandemic was important"
+        "quote": "the global death impact of the 1918 pandemic was important but not as severe as most frequently cited estimates"
       },
       {
         "title": "Reconstruction of the 1918 Influenza Virus: Unexpected Rewards from the Past",
@@ -130,7 +130,7 @@
     "place": "University of Toronto and Toronto General Hospital, Canada",
     "people": [
       "Frederick Banting (1891–1941), surgeon who proposed the research",
-      "Charles Best, medical student and Banting's assistant",
+      "Charles Best (1899–1978), recent physiology graduate and Banting's assistant",
       "James Bertram Collip, biochemist who purified the extract",
       "J. J. R. Macleod, professor of physiology who directed the laboratory",
       "Leonard Thompson, the first patient treated",
@@ -143,10 +143,10 @@
     "summary": "In a Toronto winter a starving diabetic boy got a pancreas extract that worked. Four men made it happen, two got the Nobel, and the credit fight never quite ended.",
     "body": [
       "Before insulin, a child with what is now called type 1 diabetes faced a slow death that doctors could only delay by near-starvation. When Leonard Thompson was admitted to Toronto General Hospital in December 1921 he weighed only 65 pounds and was being fed 450 calories a day.",
-      "The idea behind his rescue came from Frederick Banting, a surgeon and part-time demonstrator in London, Ontario, who persuaded J. J. R. Macleod, a leading expert on carbohydrate metabolism at the University of Toronto, to give him space, dogs and an assistant, the student Charles Best. In December 1921 Macleod brought in James Collip, a biochemist on leave from the University of Alberta, to help purify the extracts they were making from the pancreas.",
+      "The idea behind his rescue came from Frederick Banting, a surgeon and part-time demonstrator in London, Ontario, who persuaded J. J. R. Macleod, a leading expert on carbohydrate metabolism at the University of Toronto, to give him space, dogs and an assistant, Charles Best, a recent physiology graduate. In December 1921 James Collip, a biochemist on sabbatical from the University of Alberta, joined them to help purify the extracts they were making from the pancreas.",
       "On 11 January 1922 Thompson received Banting and Best's extract. Nothing improved, and an abscess formed where it went in. Collip, in a burst of work between 12 December and 19 January, found how to trap the hormone in a purer form using alcohol, and on 23 January his extract brought Thompson's blood sugar down dramatically. Production was soon handed to the Connaught Laboratories and Eli Lilly, and the patent was sold to the University of Toronto for a token $1.",
       "The 1923 Nobel Prize went to Banting and Macleod. Banting, furious at sharing it with Macleod, announced that he would split his money with Best; Macleod then split his with Collip. Historians, following Michael Bliss's 1982 account, now credit all four.",
-      "Toronto was not alone. Macleod reckoned there had been about 400 earlier attempts at a pancreatic treatment, and Nicolae Paulescu in Bucharest had published results with an extract he called pancreine in 1921. Toronto's achievement was an extract safe and reliable enough to keep people alive. Paulescu's claim has been complicated by his record as a leading antisemitic agitator, which led to the cancellation of a planned tribute to him in Paris in 2003."
+      "Toronto was not alone. Macleod reckoned there had been about 400 earlier attempts at a pancreatic treatment, and Nicolae Paulescu in Bucharest had published results with a pancreatic extract he called pancreina in 1921. Toronto's achievement was an extract safe and reliable enough to keep people alive. Paulescu's claim has been complicated by his role in founding far-right, antisemitic political organizations; a tribute to his scientific work planned for Paris in 2003 was cancelled after the Simon Wiesenthal Center accused him of antisemitism."
     ],
     "myth": {
       "tradition": "Banting and Best discovered insulin.",
@@ -225,6 +225,14 @@
         "type": "scholarly",
         "supports": "Paulescu's extract 'pancreina' and his priority claim; his antisemitic political activity and the cancelled 2003 Paris tribute.",
         "quote": "Paulescu participated in the creation of political organizations of the most radical extreme right that played a fundamental role in the spread of antisemitism"
+      },
+      {
+        "title": "Biography: Best — The Discovery and Early Development of Insulin",
+        "publisher": "University of Toronto Libraries",
+        "url": "https://collections.library.utoronto.ca/explore/insulin/about/best",
+        "type": "institutional",
+        "supports": "Best graduated in physiology and biochemistry in spring 1921 and worked as Macleod's research assistant (not a medical student).",
+        "quote": "In the spring of 1921, Best and Noble graduated from the Physiology and Biochemistry course."
       }
     ],
     "further": [
@@ -261,7 +269,7 @@
     ],
     "summary": "Two Pasteur Institute scientists tamed a cattle germ over 13 years to make a tuberculosis vaccine. A deadly mix-up in Lübeck nearly sank it.",
     "body": [
-      "At the Pasteur Institute, Albert Calmette and Camille Guérin spent 13 years passing a strain of *Mycobacterium bovis*, the agent of cattle tuberculosis, through more than 200 subcultures containing bile until it no longer caused disease. In July 1921 the first newborn was vaccinated: a baby whose mother had died of tuberculosis and who faced being raised by an infected grandmother. In 1930 in Lübeck, 251 babies were given vaccine accidentally contaminated with virulent human tuberculosis from the laboratory; 72 died of it. Investigators showed the fault was the contamination, not BCG."
+      "At the Pasteur Institute, Albert Calmette and Camille Guérin spent 13 years passing a strain of *Mycobacterium bovis*, the agent of cattle tuberculosis, through more than 200 subcultures containing bile until it no longer caused disease. In July 1921 the first newborn was vaccinated: a baby whose mother had died of tuberculosis and who faced being raised by an infected grandmother. In 1930 in Lübeck, 251 babies were given vaccine accidentally contaminated with virulent human tuberculosis bacilli cultured in the vaccine laboratory; 72 died of it. Investigators showed the fault was the contamination, not BCG."
     ],
     "links": [
       {
@@ -319,7 +327,7 @@
     "confidence": {
       "date": "firm",
       "claim": "agreed",
-      "note": "Berger's 1929 paper and his laboratory records fix the dates. That his were the first human recordings is accepted, but electrical activity had been recorded from animal brains since 1875."
+      "note": "Berger's 1929 paper fixes the publication date, and a modern biographical account gives 6 July 1924 for his first recorded current, so the 1924 date rests on later retelling of his lab records. Electrical activity had been recorded from animal brains since Caton in 1875."
     },
     "place": "Jena, Germany",
     "people": [
@@ -330,9 +338,9 @@
       "technology",
       "mind"
     ],
-    "summary": "A Jena psychiatrist chasing the physics of telepathy picked up faint electrical waves from the human head and spent five years doubting them.",
+    "summary": "A Jena psychiatrist chasing the physics of telepathy picked up faint electrical waves from the human head, then worked in near-isolation for five years before publishing.",
     "body": [
-      "Hans Berger, a psychiatrist in Jena who had long hoped to find a physical basis for what he called telepathy, detected a feeble current from electrodes around a scar on a patient's scalp on 6 July 1924. Working alone in the evenings, he refined the method for five years before publishing in 1929. He described the alpha rhythm and its blocking when the eyes open. Animal brain currents had been recorded since Richard Caton in 1875, but few believed Berger's human traces until Edgar Adrian in Cambridge, expecting to expose them as noise, reproduced them."
+      "Hans Berger, a psychiatrist in Jena who had long hoped to find a physical basis for what he called telepathy, detected a feeble current from electrodes around a scar on a patient's scalp on 6 July 1924. Working alone in the evenings, he refined the method for five years before publishing in 1929. He described the alpha rhythm and its blocking when the eyes open. Animal brain currents had been recorded since Richard Caton in 1875, but Berger's human traces gained little acknowledgment until 1934, when Edgar Adrian and Brian Matthews, who had set out to show they were artifacts, reproduced them."
     ],
     "links": [
       {
@@ -381,7 +389,7 @@
     "place": "United States, Germany and Scandinavia",
     "people": [
       "Francis Galton, English scientist and Darwin's cousin, credited with the word eugenics",
-      "Carrie Buck, the first woman sterilized under Virginia's law",
+      "Carrie Buck, the first person sterilized under Virginia's law",
       "Oliver Wendell Holmes Jr., Supreme Court justice who wrote the Buck v. Bell opinion"
     ],
     "themes": [
@@ -391,7 +399,7 @@
     "summary": "Mainstream science once held that the 'unfit' should be stopped from having children. Courts agreed, states sterilized, and Nazi Germany went on to murder.",
     "body": [
       "The word \"eugenics\" is credited to Francis Galton, Darwin's cousin, and by the early twentieth century the movement had spread across Europe and North America as respectable science. Indiana passed the first compulsory sterilization law in 1907; by 1937 thirty-two American states had them. In *Buck v. Bell*, decided on 2 May 1927, the US Supreme Court upheld Virginia's law by eight votes to one, Justice Oliver Wendell Holmes writing that \"three generations of imbeciles are enough.\" Carrie Buck was sterilized. The historian Paul Lombardo later found she had done adequately at school and had become pregnant after being raped by her foster mother's nephew.",
-      "Germany's sterilization law of 14 July 1933 was followed by the sterilization of some 400,000 people before the Second World War. From 1939 the regime moved to killing: under Aktion T4, almost 70,000 disabled people had been murdered by the time the program was officially halted in August 1941, and the killing continued unofficially until the end of the war. Denmark, Finland, Iceland, Norway and Sweden also passed sterilization laws in the 1930s; their victims have since been compensated."
+      "Germany's sterilization law of 14 July 1933 was followed by the sterilization of some 400,000 people before the Second World War. From 1939 the regime moved to killing: under Aktion T4, almost 70,000 disabled people had been murdered by the time the program was officially halted in August 1941, and the killing continued unofficially until the end of the war. Denmark, Finland, Iceland, Norway and Sweden also passed sterilization laws in the 1930s; compensation has since been paid to victims."
     ],
     "myth": {
       "tradition": "Carrie Buck was feeble-minded, the daughter of a feeble-minded mother and the mother of a feeble-minded child, as the Supreme Court said.",
@@ -411,7 +419,7 @@
       {
         "to": "nuremberg-code",
         "kind": "led-to",
-        "note": "The trial of Nazi doctors, including T4 organizers, produced the Code."
+        "note": "The Nazi doctors' trial, which grew out of the regime's medical crimes, produced the Code."
       }
     ],
     "sources": [
@@ -501,7 +509,7 @@
       "In 1928 Alexander Fleming, a bacteriologist at St Mary's Hospital in London, noticed that a mold contaminating one of his staphylococcus plates had cleared a zone around itself where bacteria would not grow. He identified it as a *Penicillium*, named its active substance penicillin and published in 1929. But he could not purify the unstable compound, and for a decade almost nothing happened.",
       "In 1939 Howard Florey assembled a team at Oxford. Ernst Chain purified penicillin, and Norman Heatley found ways to grow the mold in bulk. In their key experiment, eight mice were infected with streptococci and four were given penicillin; by morning the untreated mice were dead and the treated ones alive. The results appeared in *The Lancet* in August 1940. In February 1941 an Oxford policeman with abscesses all over his body became the first patient; he improved startlingly, but the supply ran out and he died weeks later.",
       "Wartime Britain could not manufacture the drug, so in June 1941 Florey and Heatley took the mold to the US Department of Agriculture laboratory in Peoria, Illinois. There Andrew Moyer suggested growing it in corn steep liquor, a cheap waste product of cornstarch making, and a strain from a moldy cantaloupe proved six times more productive than Fleming's. At the end of 1942 there was enough penicillin for fewer than 100 patients; by September 1943, enough for the Allied armed forces.",
-      "Fleming became the public face of the drug after treating a dying patient in 1942 with Oxford-made penicillin and talking freely to the press, while Florey forbade his team to give interviews. The 1945 Nobel Prize went jointly to Fleming, Chain and Florey. Fleming was also not the first to notice that molds can kill bacteria: in 1895 the Italian naval physician Vincenzo Tiberio had reported the antibacterial effects of mold extracts."
+      "Fleming became the public face of the drug after treating a dying patient in 1942 with Oxford-made penicillin and talking freely to the press, while Florey forbade his team to give interviews. The 1945 Nobel Prize went jointly to Fleming, Chain and Florey. Fleming was also not the first to report that molds can act against bacteria: in 1895 the Italian naval physician Vincenzo Tiberio had published on the antibacterial effects of mold extracts."
     ],
     "myth": {
       "tradition": "Alexander Fleming discovered penicillin and gave the world its first antibiotic.",
@@ -600,7 +608,7 @@
       "technology",
       "practice"
     ],
-    "summary": "A sealed metal tank that breathed for paralyzed patients became the symbol of polio, and the subject of a patent war.",
+    "summary": "A sealed metal tank that breathed for paralyzed patients set off a patent fight that turned on an 1864 precedent.",
     "body": [
       "In 1929 Philip Drinker and Louis Shaw of the Harvard School of Public Health published the design of a negative-pressure respirator, a sealed tank enclosing the body, for keeping patients breathing over long periods. That year Drinker and the pediatrician Charles McKhann reported using it on a young polio patient. A Drinker machine cost around $3,600. John Haven Emerson built a quieter, simpler and cheaper one; when Drinker sued, his patents were declared invalid because body-enclosing respirators dated back to 1864."
     ],
@@ -613,7 +621,7 @@
       {
         "to": "intensive-care",
         "kind": "led-to",
-        "note": "Mass ventilation of polio patients gave rise to intensive care."
+        "note": "Respirator wards for polio patients were a forerunner of intensive care."
       }
     ],
     "sources": [
@@ -625,7 +633,7 @@
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC434785/",
         "type": "primary",
         "supports": "The 1929 publication of the respirator design by Drinker and Shaw at the Harvard School of Public Health.",
-        "quote": "Department of Ventilation and Illumination, Harvard School of Public Health, Boston, Mass. Department of Physiology, Harvard School of Public Health"
+        "quote": "AN APPARATUS FOR THE PROLONGED ADMINISTRATION OF ARTIFICIAL RESPIRATION I. A Design for Adults and Children"
       },
       {
         "title": "John Haven Emerson (1906–1997): The Ultimate Pioneer of the \"Iron Lung\"",
@@ -664,10 +672,10 @@
     ],
     "summary": "A young German doctor pushed a tube up his own arm vein into his heart, then walked to X-ray to prove it. Recognition took 27 years.",
     "body": [
-      "In 1929, as a surgical trainee at Eberswalde near Berlin, Werner Forssmann passed a catheter 65 cm up a vein in his own arm, then walked to the X-ray department and photographed its tip in his heart's right atrium. He suggested such catheters could measure pressures and deliver contrast dye. Colleagues were unimpressed and he turned to urology, while André Cournand and Dickinson Richards in New York made catheterization a clinical tool; all three shared the 1956 Nobel Prize."
+      "In 1929, as a surgical trainee at Eberswalde near Berlin, Werner Forssmann passed a catheter 65 cm up a vein in his own arm, then walked to the X-ray department and photographed its tip in his heart's right atrium. He suggested such catheters could measure pressures and deliver contrast dye. His work was only moderately appreciated by colleagues and he went on to train in urology, while André Cournand and Dickinson Richards in New York made catheterization a clinical tool; all three shared the 1956 Nobel Prize."
     ],
     "myth": {
-      "tradition": "Forssmann tied up the nurse who was supposed to stop him and catheterized himself in secret.",
+      "tradition": "Forssmann strapped the nurse who was supposed to help him to the table, then catheterized himself.",
       "record": "Published accounts disagree: some say he restrained the nurse, others that she cooperated. Only the self-experiment itself and the X-ray are well documented."
     },
     "links": [

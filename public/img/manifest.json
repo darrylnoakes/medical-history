@@ -678,5 +678,55 @@
   "license": "CC BY 4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
   "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_William_Coley_Wellcome_M0017955.jpg"
+ },
+ "antimicrobial-resistance": {
+  "commons": "File:Scanning electron micrograph of Methicillin-resistant Staphylococcus aureus (MRSA) and a dead Human neutrophil - NIAID.jpg",
+  "src": "/img/antimicrobial-resistance.webp",
+  "width": 1000,
+  "height": 714,
+  "credit": "NIAID_Flickr",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Scanning_electron_micrograph_of_Methicillin-resistant_Staphylococcus_aureus_(MRSA)_and_a_dead_Human_neutrophil_-_NIAID.jpg"
+ },
+ "glp1-drugs": {
+  "commons": "File:Gila monster (Heloderma suspectum).jpg",
+  "src": "/img/glp1-drugs.webp",
+  "width": 1000,
+  "height": 594,
+  "credit": "Theo Kruse / Burgers' Zoo",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Gila_monster_(Heloderma_suspectum).jpg"
+ },
+ "covid-19": {
+  "commons": "File:Novel Coronavirus SARS-CoV-2 (49597020648).jpg",
+  "src": "/img/covid-19.webp",
+  "width": 1000,
+  "height": 1000,
+  "credit": "National Institute of Allergy and Infectious Diseases (NIAID)",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Novel_Coronavirus_SARS-CoV-2_(49597020648).jpg"
+ },
+ "mrna-vaccines": {
+  "commons": "File:Pfizer-BioNTech COVID-19 vaccine (2020) H.jpg",
+  "src": "/img/mrna-vaccines.webp",
+  "width": 1000,
+  "height": 666,
+  "credit": "Navy Medicine",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Pfizer-BioNTech_COVID-19_vaccine_(2020)_H.jpg"
+ },
+ "ai-in-medicine": {
+  "commons": "File:AlphaFold 2.png",
+  "src": "/img/ai-in-medicine.webp",
+  "width": 1000,
+  "height": 641,
+  "credit": "John Jumper et al",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:AlphaFold_2.png"
  }
 }
