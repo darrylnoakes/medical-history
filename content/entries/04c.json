@@ -168,7 +168,7 @@
         "title": "Seishu Hanaoka and his success in breast cancer surgery under general anesthesia two hundred years ago (abstract)",
         "publisher": "Breast Cancer (peer-reviewed journal; abstract record via Europe PMC, PMID 15604985)",
         "year": 2004,
-        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?resultType=core&format=json&query=EXT_ID:15604985%20AND%20SRC:MED",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:15604985%20OR%20EXT_ID:26742420%20OR%20EXT_ID:28842149%20OR%20EXT_ID:30380289&resultType=core&format=json&pageSize=10",
         "type": "scholarly",
         "supports": "The 13 October 1804 operation, its priority over Long's 1842 ether, nearly twenty years of development and 156 breast cancer operations.",
         "quote": "Finally, he succeeded in using it clinically for breast cancer surgery, on October 13, 1804."
@@ -177,7 +177,7 @@
         "title": "Seishu Hanaoka Did Not Describe His Anesthetic as Tsusensan: A Misunderstanding of the Terms Mafutsusan and Tsusensan (abstract)",
         "publisher": "Masui (Japanese Journal of Anesthesiology; abstract record via Europe PMC, PMID 26742420)",
         "year": 2015,
-        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?resultType=core&format=json&query=EXT_ID:26742420%20AND%20SRC:MED",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:15604985%20OR%20EXT_ID:26742420%20OR%20EXT_ID:28842149%20OR%20EXT_ID:30380289&resultType=core&format=json&pageSize=10",
         "type": "scholarly",
         "supports": "That Hanaoka called his anesthetic mafutsusan, and that tsusensan appears in Edo-period documents only on his epitaph.",
         "quote": "The description of Tsusensan has not been found in the documents written in the Edo period, and this name is detected only in the epitaph of Hanaoka."
@@ -186,7 +186,7 @@
         "title": "The History of Japanese Anesthesiology (abstract)",
         "publisher": "Journal of Anesthesia History (abstract record via Europe PMC, PMID 28842149)",
         "year": 2017,
-        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?resultType=core&format=json&query=EXT_ID:28842149%20AND%20SRC:MED",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:15604985%20OR%20EXT_ID:26742420%20OR%20EXT_ID:28842149%20OR%20EXT_ID:30380289&resultType=core&format=json&pageSize=10",
         "type": "scholarly",
         "supports": "That Hanaoka was not secretive despite popular belief, and the importance of Kamada Gendai's texts.",
         "quote": "Despite common belief, Hanaoka was not secretive about his technique using Mafutsusan, and he spawned a generation of Japanese anesthetists"
@@ -195,7 +195,7 @@
         "title": "Ryoan Imamura and his Iji Keigen (1862): Public Disclosure of the Prescription of Mafutsusan (abstract)",
         "publisher": "Masui (Japanese Journal of Anesthesiology; abstract record via Europe PMC, PMID 30380289)",
         "year": 2017,
-        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?resultType=core&format=json&query=EXT_ID:30380289%20AND%20SRC:MED",
+        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:15604985%20OR%20EXT_ID:26742420%20OR%20EXT_ID:28842149%20OR%20EXT_ID:30380289&resultType=core&format=json&pageSize=10",
         "type": "scholarly",
         "supports": "That disciples were asked not to leak the prescription and that one of them published it in 1862.",
         "quote": "In 1862, Imamura published a book titled Iji Keigen, wherein he disclosed the prescription of"

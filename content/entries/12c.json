@@ -12,11 +12,11 @@
     "confidence": {
       "date": "firm",
       "claim": "agreed",
-      "note": "The 1990 NIH trial, Jesse Gelsinger's death in 1999, the leukemia cases reported in 2003 and the approvals of 2012 and 2017 are all well documented. Calling DeSilva's treatment the first successful gene therapy is conventional, but very few of the cells in those early trials were actually corrected."
+      "note": "The 1990 NIH trial, Jesse Gelsinger's death in 1999, the leukemia cases reported in 2003 and the approvals of 2003, 2012, 2015 and 2017 are well documented. Calling DeSilva's treatment the first successful gene therapy is conventional, but very few of the cells in those early trials were actually corrected."
     },
     "place": "National Institutes of Health, Bethesda, Maryland; Philadelphia; Europe",
     "people": [
-      "Ashanthi DeSilva, the first patient treated in the 1990 ADA-SCID trial",
+      "Ashanthi DeSilva, patient treated in the 1990 ADA-SCID trial",
       "W. French Anderson and R. Michael Blaese, NIH researchers who led the 1990 trial",
       "Jesse Gelsinger (died 1999), 18-year-old volunteer who died in a gene therapy trial"
     ],
@@ -25,9 +25,9 @@
       "ethics",
       "technology"
     ],
-    "summary": "A corrected gene in a child's immune cells in 1990 promised cures; a death and a run of leukemias showed the risks, and approved treatments took until 2012.",
+    "summary": "A corrected gene in a child's immune cells in 1990 promised cures; a death and a run of leukemias showed the risks, and approved treatments in the West took until 2012.",
     "body": [
-      "In 1990, at the National Institutes of Health, a team led by French Anderson and Michael Blaese gave Ashanthi DeSilva, who had the inherited immune disorder ADA-SCID, infusions of her own T cells carrying a working copy of the missing gene. Optimism collapsed in 1999, when 18-year-old Jesse Gelsinger died in a University of Pennsylvania trial after a reaction to the virus used to deliver the gene, and again in 2003, when leukemia appeared in children treated for another form of SCID. Europe approved its first gene therapy, Glybera, in 2012; the United States followed in 2017."
+      "In 1990, at the National Institutes of Health, a team led by French Anderson and Michael Blaese gave Ashanthi DeSilva, who had the inherited immune disorder ADA-SCID, infusions of her own T cells carrying a working copy of the missing gene. Optimism collapsed in 1999, when 18-year-old Jesse Gelsinger died in a Pennsylvania trial after a reaction to the delivery virus, and in 2003, when leukemia was reported in five children treated for another form of SCID. China approved Gendicine in 2003; Europe approved Glybera in 2012, the first Western approval; in the United States Imlygic followed in 2015, and Kymriah and Luxturna in 2017."
     ],
     "links": [
       {
@@ -43,7 +43,7 @@
       {
         "to": "nuremberg-code",
         "kind": "see-also",
-        "note": "Gelsinger's death renewed scrutiny of consent and conflicts of interest in research."
+        "note": "A lawsuit over Gelsinger's death alleged inadequate consent and undisclosed financial conflicts of interest."
       }
     ],
     "sources": [
@@ -64,8 +64,18 @@
         "year": 2025,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12126805/",
         "type": "scholarly",
-        "supports": "The 1990 ADA trial on the NIH campus; very low percentages of corrected cells; leukemia in five SCID patients reported in 2003.",
+        "supports": "The 1990 ADA trial on the NIH campus; very low percentages of corrected cells in the initial trials; leukemia in five SCID patients reported in 2003.",
         "quote": "the first therapeutic gene therapy for a primary immunodeficiency disorder was undertaken in 1990, also on the NIH campus"
+      },
+      {
+        "title": "Gene therapy then and now: A look back at changes in the field over the past 25 years",
+        "author": "Dan Wang, Grace Stevens, Terence R. Flotte",
+        "publisher": "Molecular Therapy",
+        "year": 2025,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12126805/",
+        "type": "scholarly",
+        "supports": "Imlygic, an oncolytic herpes virus for melanoma, was the first US gene therapy approval (2015).",
+        "quote": "including the first U.S. approval, talimogene laherparepvec (Imlygic), a genetically modified oncolytic viral therapy"
       },
       {
         "title": "The vicissitudes of gene therapy",
@@ -74,7 +84,7 @@
         "year": 2019,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6825047/",
         "type": "scholarly",
-        "supports": "Gelsinger's death in 1999 and the SCID leukemias as the field's two great setbacks; Glybera approved in Europe in 2012; Luxturna and Kymriah approved in the United States in 2017.",
+        "supports": "Gelsinger's death in 1999 and the SCID leukemias as the field's two great setbacks; Gendicine approved in China in 2003; Glybera approved in Europe in 2012; Kymriah and Luxturna approved in the United States in 2017.",
         "quote": "Approval of a gene therapy by Western countries did not occur until 2012, when the European Medicines Association (EMA) authorized Glybera"
       },
       {
@@ -108,7 +118,7 @@
     },
     "place": "McMaster University, Hamilton, Ontario; Oxford, England",
     "people": [
-      "Archie Cochrane (1909–1988), Scottish epidemiologist and author of *Effectiveness and Efficiency*",
+      "Archie Cochrane (1909–1988), British epidemiologist and author of *Effectiveness and Efficiency*",
       "David Sackett, McMaster clinical epidemiologist who taught critical appraisal",
       "Gordon Guyatt, McMaster physician who coined the term"
     ],
@@ -117,10 +127,10 @@
       "theory",
       "institutions"
     ],
-    "summary": "A Canadian residency program gave a name to an old demand, that treatments be judged by fair trials rather than habit, and it reshaped medicine in a decade.",
+    "summary": "A Canadian residency program gave a name to an old demand, that treatments be judged by fair trials rather than habit, and the name spread through medicine within a few years.",
     "body": [
-      "In 1972 the Scottish epidemiologist Archie Cochrane published *Effectiveness and Efficiency*, a short book arguing that randomized trials should decide which health services do more good than harm. At McMaster University in Canada, David Sackett and colleagues taught doctors to appraise research critically. In 1990 Gordon Guyatt, McMaster's residency coordinator, called his bedside teaching method \"scientific medicine\"; colleagues bristled at the suggestion that their own practice was unscientific, so he renamed it. \"Evidence-based medicine\" appeared in a 1991 editorial, and in 1992 an international working group announced it in *JAMA* as a new paradigm. In 1993 the Cochrane Collaboration was founded to review trials systematically, building on an Oxford database of trials in pregnancy and childbirth.",
-      "The approach transformed guidelines, journals and medical teaching. Critics argued from the start that it turned clinical judgment into an algorithm that fits individual patients poorly. In 2014 Trisha Greenhalgh and colleagues warned of a movement in crisis: the evidence-based label taken over by drug and device makers, more guidelines than anyone could use, and rules that map badly onto patients with several diseases at once."
+      "In 1972 the Scottish epidemiologist Archie Cochrane published *Effectiveness and Efficiency*, a book stressing the importance of randomized trials in identifying which health services do more good than harm. At McMaster University in Canada, David Sackett and colleagues taught doctors to appraise research critically. In 1990 Gordon Guyatt, McMaster's residency coordinator, called his bedside teaching method \"scientific medicine\"; colleagues bristled at the suggestion that their own practice was unscientific, so he renamed it. \"Evidence-based medicine\" appeared in a 1991 editorial, and in 1992 an international working group announced it in *JAMA* as a new paradigm. In 1993 the Cochrane Collaboration was founded to review trials systematically, building on an Oxford database of trials in pregnancy and childbirth.",
+      "The approach spread into guidelines, journals and medical teaching. Critics have argued that it turns clinical judgment into an algorithmic exercise that is not individualized to the patient. In 2014 Trisha Greenhalgh and colleagues warned of a movement in crisis: the evidence-based label taken over by drug and device makers, more guidelines than anyone could use, and guidelines that map poorly onto patients with several diseases at once."
     ],
     "links": [
       {
@@ -142,7 +152,7 @@
         "year": 2011,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3263217/",
         "type": "scholarly",
-        "supports": "Guyatt's 'scientific medicine' in 1990 and the renaming; the 1991 ACP Journal Club editorial; Sackett and critical appraisal; the 1993 Cochrane Collaboration and the Oxford perinatal database; criticisms of the approach.",
+        "supports": "Guyatt's 'scientific medicine' in 1990 and the renaming; the 1991 ACP Journal Club editorial; Sackett and critical appraisal; the 1993 Cochrane Collaboration and the Oxford perinatal database; criticisms of the approach. Critics' charge that EBM turns clinical decisions into an algorithmic exercise.",
         "quote": "The coined term appeared in a subsequent 1991 ACP Journal Club editorial"
       },
       {
@@ -160,7 +170,7 @@
         "year": 2014,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4056639/",
         "type": "scholarly",
-        "supports": "The working group's 'new paradigm'; the 2014 critique: misappropriation by vested interests, unmanageable guidelines, poor fit to multimorbidity.",
+        "supports": "The working group's 'new paradigm' and its 1992 JAMA article (reference 1); the 2014 critique: misappropriation by vested interests, unmanageable guidelines, poor fit to multimorbidity.",
         "quote": "The evidence based “quality mark” has been misappropriated by vested interests"
       },
       {
@@ -199,11 +209,11 @@
     ],
     "summary": "A slow-release painkiller sold on the claim that addiction was rare helped set off an American overdose epidemic that came in three waves.",
     "body": [
-      "Purdue Pharma launched OxyContin, a slow-release oxycodone taken every 12 hours, in 1996; sales reached $1.1 billion by 2001. Its promotion leaned on the claim that addiction in pain patients was rare, citing among other things a five-sentence 1980 letter by Porter and Jick reporting 4 cases of addiction among 11,882 patients, later quoted hundreds of times without noting that those patients were in hospital. US overdose deaths came in three waves: prescription opioids from 1999, heroin from 2010 and illicit fentanyl from 2013. Purdue's parent company pleaded guilty to misbranding in 2007."
+      "Purdue Pharma launched OxyContin, a slow-release oxycodone taken every 12 hours, in 1996; sales reached $1.1 billion by 2001. Its promotion leaned on the claim that addiction in pain patients was rare, drawing on a five-sentence 1980 letter by Porter and Jick reporting 4 cases of addiction among 11,882 patients, cited hundreds of times, usually without noting that those patients were in hospital. US overdose deaths came in three waves: prescription opioids from 1999, heroin from 2010 and illicit fentanyl from 2013. The Purdue Frederick Company, a Purdue holding, pleaded guilty to misbranding OxyContin in 2007."
     ],
     "myth": {
       "tradition": "Studies in the 1980s showed that fewer than 1% of patients given opioids for pain become addicted.",
-      "record": "The figure rested largely on a brief 1980 letter about patients treated in hospital, not on any study of long-term use outside it."
+      "record": "The claim rested on a brief 1980 letter about patients treated in hospital and a survey of burn units, not on any study of long-term use outside hospital, and most later citations of the letter left out the hospital setting."
     },
     "links": [
       {
@@ -225,7 +235,7 @@
         "year": 2018,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5925443/",
         "type": "scholarly",
-        "supports": "OxyContin's 1996 release and $1.1 billion sales by 2001; Purdue's claim of under 1% addiction; Porter and Jick's 4 of 11,882 patients in a 5-sentence letter; the 2007 misbranding pleas.",
+        "supports": "OxyContin's 1996 release and $1.1 billion sales by 2001; Purdue's claim of under 1% addiction resting on two studies (Porter and Jick; Perry and Heidrich); Porter and Jick's 4 of 11,882 patients in a 5-sentence letter; the 2007 misbranding pleas by Purdue Frederick.",
         "quote": "In the first study, Porter and Jick found iatrogenic addiction in 4 of 11,882 patients"
       },
       {
@@ -235,7 +245,7 @@
         "year": 2022,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9542889/",
         "type": "scholarly",
-        "supports": "The CDC's three waves (1999, 2010, 2013); the 1980 letter cited hundreds of times, mostly without noting the patients were hospitalized.",
+        "supports": "The CDC's three waves (1999, 2010, 2013); the 1980 letter cited hundreds of times, with over 80% of affirming citations omitting that patients were hospitalized.",
         "quote": "The second wave begins in 2010 and reflects a rise in heroin overdose deaths. The third and steepest wave begins in 2013"
       },
       {
@@ -266,7 +276,7 @@
     "place": "Roslin Institute, near Edinburgh, Scotland",
     "people": [
       "Ian Wilmut (1944–2023), embryologist who led the team",
-      "Keith Campbell (died 2012), cell biologist and key member of the team"
+      "Keith Campbell (died 2012), Roslin scientist and key member of the team"
     ],
     "themes": [
       "technology",
@@ -274,11 +284,11 @@
     ],
     "summary": "A sheep made from a single udder cell proved that an adult, specialized cell still holds the instructions for a whole animal.",
     "body": [
-      "On 5 July 1996 a white-faced lamb was born to a black-faced Scottish Blackface ewe at the Roslin Institute near Edinburgh. Dolly had been made by fusing a cell from the mammary gland of a six-year-old Finn Dorset ewe with an egg cell, and she was named after Dolly Parton. Sheep had been cloned from embryo cells before; Dolly was the first mammal cloned from an adult cell. Announced in February 1997, she set off worldwide argument about human cloning, and the proof that adult cells could be reset fed later stem cell research."
+      "On 5 July 1996 a white-faced lamb was born to a black-faced Scottish Blackface ewe at the Roslin Institute near Edinburgh. Dolly had been made by fusing a cell from the mammary gland of a six-year-old Finn Dorset ewe with an egg cell, and she was named after Dolly Parton. Sheep had been cloned from embryo cells before; Dolly was the first mammal cloned from an adult cell. Announced to the world in February 1997, she set off worldwide argument about human cloning, and the proof that adult cells could be reset fed later stem cell research."
     ],
     "myth": {
       "tradition": "Dolly aged prematurely and died young because she was a clone.",
-      "record": "She was put down at six because of a virus-induced lung tumor that also struck other Roslin sheep, and four ewes cloned from the same cell line were still healthy at about eight."
+      "record": "She was put down at six after a lung cancer caused by a retrovirus that had infected other Roslin sheep, though she had also been treated for arthritis, which fed suspicion about cloning. Four ewes cloned from the same cell line were healthy at about eight."
     },
     "links": [
       {
@@ -324,6 +334,15 @@
         "type": "institutional",
         "supports": "Wilmut led the team and died in 2023 aged 79.",
         "quote": "Professor Sir Ian Wilmut, whose research was central to the creation of Dolly the Sheep, has died at the age of 79"
+      },
+      {
+        "title": "Dolly Scientist Dies",
+        "publisher": "The Roslin Institute, University of Edinburgh",
+        "year": 2012,
+        "url": "https://vet.ed.ac.uk/roslin/news-events/archive/2012/dolly-scientist-dies",
+        "type": "institutional",
+        "supports": "Keith Campbell was a key member of the team that produced Dolly (news archived 2012).",
+        "quote": "a key member of the team whose work led to the production of Dolly the Sheep at The Roslin Institute"
       }
     ],
     "further": [],
@@ -359,8 +378,8 @@
     ],
     "summary": "A 12-child case series in *The Lancet* linked the MMR vaccine to autism; it was retracted and shown to be fraudulent, but vaccination rates fell and measles returned.",
     "body": [
-      "In 1998 the gastroenterologist Andrew Wakefield and 12 coauthors published a case series of 12 children in *The Lancet*, suggesting that the measles, mumps and rubella (MMR) vaccine might predispose children to bowel inflammation and developmental regression. The study was tiny and uncontrolled, but it drew wide publicity, MMR vaccination rates in Britain fell, and parents demanded single vaccines. Epidemiological studies followed almost at once and found no link; a 2021 Cochrane review drawing on studies of nearly 1.2 million children found that MMR does not cause autism.",
-      "In 2004 ten of the coauthors withdrew the paper's interpretation, and the journal acknowledged that Wakefield had been funded by lawyers acting for parents suing vaccine makers. In 2010 *The Lancet* retracted the paper entirely after Britain's General Medical Council found ethical violations and that the children had been selected, not consecutively referred; Wakefield was struck off the medical register. By 2011 the *BMJ* had published the journalist Brian Deer's evidence of deliberate fraud. Measles came back as coverage fell, with outbreaks in Britain in 2008 and 2009 and more than 300 confirmed cases in Liverpool in 2012."
+      "In 1998 the gastroenterologist Andrew Wakefield and 12 coauthors published a case series of 12 children in *The Lancet*, suggesting that the measles, mumps and rubella (MMR) vaccine might predispose children to bowel inflammation and developmental regression. The study was tiny and uncontrolled, but it drew wide publicity, MMR vaccination rates in Britain fell, and parents demanded single vaccines. Epidemiological studies followed almost immediately and found no link; a 2021 Cochrane review drawing on studies of nearly 1.2 million children found that MMR does not cause autism.",
+      "In 2004 ten of the coauthors withdrew the paper's interpretation, and the journal acknowledged that Wakefield had been funded by lawyers acting for parents suing vaccine makers. In 2010 *The Lancet* retracted the paper entirely after Britain's General Medical Council found that the children had been carefully chosen, though the paper called the sampling consecutive, and that invasive tests had been done without proper ethical clearance; Wakefield was struck off the medical register. By 2011 the *BMJ* had published the journalist Brian Deer's evidence of deliberate fraud. Measles came back as coverage fell, with outbreaks in Britain in 2008 and 2009 and more than 300 confirmed cases in Liverpool in 2012."
     ],
     "myth": {
       "tradition": "The MMR vaccine causes autism.",
@@ -396,7 +415,7 @@
         "year": 2022,
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9612044/",
         "type": "scholarly",
-        "supports": "Wakefield refused to join the 10 coauthors' 2004 retraction; the GMC found the subjects were carefully chosen and the research partly funded by litigants' lawyers; link to inflammatory bowel disease.",
+        "supports": "Wakefield refused to join the 10 coauthors' 2004 retraction; the GMC found the subjects were carefully chosen and the research partly funded by litigants' lawyers; link to inflammatory bowel disease. Wakefield described as a British gastroenterologist.",
         "quote": "in 2004, he refused to join 10 of his co-authors in retracting the paper"
       },
       {
@@ -446,7 +465,7 @@
     "people": [
       "James A. Thomson, Wisconsin biologist who derived human embryonic stem cells",
       "Shinya Yamanaka, Kyoto researcher who created induced pluripotent stem cells",
-      "John B. Gurdon, British biologist who reprogrammed frog cells in 1962",
+      "John B. Gurdon, biologist who reprogrammed frog cells in 1962",
       "Woo Suk Hwang, Seoul researcher whose cloned-embryo stem cell claims were fraudulent"
     ],
     "themes": [
@@ -455,8 +474,8 @@
     ],
     "summary": "Human embryonic stem cells arrived in 1998 amid ethical alarm; in 2006 a Kyoto lab learned to turn ordinary adult cells back into their equivalent.",
     "body": [
-      "In 1998 a team led by James Thomson in Wisconsin reported the first lines of human embryonic stem cells. From 36 embryos donated by IVF patients they established five lines of pluripotent cells, able in principle to become any tissue of the body. Using embryos raised ethical concerns. In 2005 the field suffered its worst scandal, when Woo Suk Hwang of Seoul National University, who had claimed in two *Science* papers to have made patient-specific stem cells from cloned human embryos, was found to have fabricated images and obtained human eggs unethically.",
-      "In 2006 Shinya Yamanaka's laboratory in Kyoto showed that four genes could reprogram adult mouse cells into a pluripotent state, and within a year the method worked on human cells. These induced pluripotent stem (iPS) cells needed no embryos, and they won Yamanaka the 2012 Nobel Prize, shared with John Gurdon, who had shown in 1962 that the nucleus of a frog's intestinal cell could direct a normal tadpole. Clinical use has come slowly: the first study using iPS-derived cells began in 2014, and by the late 2010s about 30 trials were testing embryonic stem cell products for conditions such as macular degeneration and spinal cord injury."
+      "In 1998 a team led by James Thomson in Wisconsin reported the first lines of human embryonic stem cells. From 36 embryos donated by IVF patients they established five lines of pluripotent cells, able in principle to become any tissue of the body. Using embryos raised ethical concerns. In 2005 the field suffered a major scandal, when Woo Suk Hwang of Seoul National University, who had claimed in two *Science* papers to have made patient-specific stem cells from cloned human embryos, was found to have fabricated images and obtained human eggs unethically.",
+      "In 2006 Shinya Yamanaka's laboratory in Kyoto showed that four genes could reprogram adult mouse cells into a pluripotent state, and within a year the method worked on human cells. These induced pluripotent stem (iPS) cells needed no embryos, and they won Yamanaka the 2012 Nobel Prize, shared with John Gurdon, who had shown in 1962 that the nucleus of a frog's intestinal cell could direct a normal tadpole. Clinical use has come slowly: the first study using iPS-derived cells began in 2014, and by 2019 about 30 trials were testing embryonic stem cell products for conditions such as macular degeneration and spinal cord injury."
     ],
     "links": [
       {
