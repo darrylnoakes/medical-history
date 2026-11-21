@@ -13,12 +13,12 @@
     "confidence": {
       "date": "agreed",
       "claim": "agreed",
-      "note": "The inscriptions belong to the Late Shang court at Anyang, conventionally dated c. 1250–1050 BCE; the toothache series falls in King Wu Ding's reign, whose exact years are themselves estimates. Readings of some body-part characters are debated, and translations differ over which ancestor was blamed for the king's tooth."
+      "note": "The inscriptions belong to the Late Shang court at Anyang, conventionally dated c. 1250–1050 BCE; the toothache series falls in King Wu Ding's reign, whose exact years are themselves estimates. Readings of some body-part characters are debated, and an inscription cannot be diagnosed: the skeletal evidence only shows what might have caused a toothache."
     },
     "place": "Anyang (Yinxu), Henan, China",
     "people": ["Wu Ding (reigned c. 1254–1197 BCE), Shang king whose ailments were divined"],
     "themes": ["theory", "practice"],
-    "summary": "China's oldest writing includes a king's toothache: Shang diviners cracked bones to learn which dead ancestor was causing it.",
+    "summary": "Some of China's oldest writing is about a king's toothache: Shang diviners cracked bones to learn which dead ancestor was causing it.",
     "body": [
       "Some of the oldest Chinese writing is about being ill. On turtle shells and animal shoulder blades, diviners at the Late Shang court (c. 1250–1050 BCE) put questions to the royal ancestors about \"affliction\" in the bodies of the king and his family: head, eyes, ears, teeth, abdomen and more. When King Wu Ding had a sick tooth, a series of divinations tried to identify which dead relative was causing it, so that the right one could be appeased with sacrifice. The bones record exorcism and offerings, not drugs. Skeletons from Anyang show why teeth mattered: cavities, abscesses and gum disease were widespread."
     ],
@@ -60,7 +60,7 @@
     "image": {
       "commons": "File:Shang dynasty inscribed scapula.jpg",
       "alt": "A flat, pale animal shoulder blade covered in columns of incised archaic Chinese characters.",
-      "caption": "Shoulder blade inscribed with divinations by the diviner Zheng, from the reign of King Wu Ding, Late Shang dynasty, 13th century BCE."
+      "caption": "Oracle bone of the kind used for the divinations described here: a shoulder blade inscribed with divinations by the diviner Zheng, from the reign of King Wu Ding, Late Shang dynasty, c. 1200 BCE."
     }
   },
   {
@@ -82,8 +82,8 @@
     "themes": ["texts", "theory", "practice"],
     "summary": "A lacquer box buried in 168 BCE held medicine before acupuncture: eleven body vessels, burning moxa, and hundreds of recipes mixed with spells.",
     "body": [
-      "In 168 BCE a nobleman in his early thirties, probably Li Xi of the family of Li Cang, a local lord of the Changsha kingdom, was buried at Mawangdui in what is now Changsha, Hunan, with a lacquer box of about thirty manuscripts on silk and bamboo. When tomb 3 was opened in the early 1970s, sixteen of them turned out to be medical. Along with texts from a slightly earlier tomb at Zhangjiashan, they transformed what historians knew about early Chinese medicine.",
-      "The manuscripts describe eleven \"vessels\" running through the body, each tied to its own ailments, and treat them by cauterizing with burning moxa. There are no acupuncture points and no needling, and not yet the twelve channels of the later *Inner Classic*. The longest text, *Recipes for Fifty-Two Ailments*, holds some 283 remedies for 103 conditions, alongside lancing of swellings and incantations in which the healer threatens harmful spirits with a beating. Drugs, cautery and magic sat side by side."
+      "In 168 BCE a nobleman in his early thirties, probably Li Xi, son of Li Cang, a local ruler of the Changsha kingdom, was buried at Mawangdui in what is now Changsha, Hunan, with a lacquer box of about thirty manuscripts on silk and bamboo. When tomb 3 was opened in the early 1970s, sixteen of them turned out to be medical. Along with texts from a slightly earlier tomb at Zhangjiashan (sealed 186 BCE), they transformed what historians knew about early Chinese medicine.",
+      "The manuscripts describe eleven \"vessels\" running through the body, each tied to its own ailments, and treat them by cauterizing with burning moxa. There are no acupuncture points and no needling, and not yet the twelve channels of the later *Inner Classic*. The longest silk text, *Recipes for Fifty-Two Ailments*, holds some 283 formulas for 103 diseases, with incantations in which the healer threatens harmful spirits with a beating; the manuscripts also mention lancing swellings, but only cautery for the vessels. Drugs, cautery and magic sat side by side."
     ],
     "links": [
       { "to": "huangdi-neijing", "kind": "led-to", "note": "Its eleven vessels grew into the twelve channels of the Inner Classic." },
@@ -105,7 +105,7 @@
         "author": "Huang Chang, Liang Jiankang, Han Li, Liu Juntian, Yu Mengyun, Zhao Baixiao",
         "publisher": "Evidence-Based Complementary and Alternative Medicine (via Europe PMC)",
         "year": 2017,
-        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5337347/fullTextXML",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5337347/",
         "type": "scholarly",
         "supports": "Burial dated 168 BC; the Recipes for Fifty-Two Ailments contains 103 diseases and 283 formulas; the eleven vessels have no acupoints.",
         "quote": "It contains about 14,700 words (maximum number of words in all silk books from Mawangdui tomb), 103 diseases, 283 formulas, and eight moxibustion prescriptions"
@@ -123,7 +123,7 @@
     "image": {
       "commons": "File:Daoyin tu - chart for leading and guiding people in exercise Wellcome L0036007.jpg",
       "alt": "Rows of small painted human figures in different exercise postures, some with arms raised or bending.",
-      "caption": "A 20th-century reconstruction of the *Daoyin tu* (Guiding and Pulling Chart), a silk painting of exercise postures found with the medical manuscripts in Mawangdui tomb 3, sealed 168 BCE. The damaged original is in the Hunan Provincial Museum, Changsha."
+      "caption": "A modern reconstruction of the *Daoyin tu* (Guiding and Pulling Chart), a silk painting of exercise postures found with the medical manuscripts in Mawangdui tomb 3, sealed 168 BCE. The damaged original is in the Hunan Provincial Museum, Changsha."
     }
   },
   {
@@ -135,7 +135,12 @@
       "year": -100,
       "earliest": -300,
       "latest": 220,
-      "display": "c. 3rd century BCE – 2nd century CE (core); reshaped to the 11th century"
+      "display": "c. 3rd century BCE – 2nd century CE (core); reshaped to the 11th century",
+      "traditional": {
+        "year": -2700,
+        "display": "c. 2700 BCE",
+        "note": "Popular accounts date the book to the age of the Yellow Emperor, around 2700 BCE; the figure is legend, not a date for any text."
+      }
     },
     "confidence": {
       "date": "disputed",
@@ -147,14 +152,14 @@
     "themes": ["texts", "theory"],
     "summary": "The founding classic of Chinese medicine is credited to a legendary emperor. In fact it was written by many hands and reworked for a thousand years.",
     "body": [
-      "No book has shaped Chinese medicine more than the *Huangdi neijing*, the *Inner Classic of the Yellow Emperor*. It survives as two books: the *Suwen* (*Plain Questions*), mostly on cosmological theory, and the *Lingshu* (*Divine Pivot*), mostly on needling. Knowledge passes in question and answer, with the Yellow Emperor as the ruler who asks and sage advisers such as Qi Bo as the experts who explain.",
+      "The *Huangdi neijing*, the *Inner Classic of the Yellow Emperor*, is treated as the founding text of Chinese medicine. It survives as two books: the *Suwen* (*Plain Questions*), mostly on cosmological theory, and the *Lingshu* (*Divine Pivot*), mostly on needling. Knowledge passes in question and answer, with the Yellow Emperor as the ruler who asks and sage advisers such as Qi Bo as the experts who explain.",
       "Its body is a web of correspondences. Health depends on the proper flow of *qi* along channels linked to the organs, in step with yin and yang, the five phases, the seasons and the hours. Illness comes when \"perverse *qi*\" such as wind, heat or cold invades. Treatment works on twelve channels with needles and moxa, alongside advice on diet and on living in harmony with the surroundings.",
-      "When was it written? Tradition credits the Yellow Emperor himself. China's nomination of a 1339 printed edition to UNESCO's Memory of the World Register dates the core to the Warring States period (475–221 BCE), with Qin and Han additions. Paul Unschuld traces the *Suwen* to many short essays written in the final centuries BCE to explain health through the newly developed vessel theory. Manuscripts buried at Mawangdui in 168 BCE know only eleven vessels and no needling, which suggests the system was still being assembled. A *Huangdi neijing* is listed in the Han imperial library catalogue, but the texts read today were rearranged and expanded for a millennium; the *Suwen* as now known emerged from 11th-century editing, and one recent survey describes it as mostly Tang material edited by Song scholars.",
-      "Its prestige ran ahead of its use. Unschuld argues that needling and the yin-yang and five-phase doctrines behind it remained a minority interest, kept alive by a few of the elite, until the 11th and 12th centuries, while drug remedies were the mainstay of everyday practice. Today the *Inner Classic* is treated as the founding text of traditional Chinese medicine, which gives the question of its age real weight."
+      "When was it written? Tradition credits the Yellow Emperor himself. China's nomination of a 1339 printed edition to UNESCO's Memory of the World Register dates the core to the Warring States period (475–221 BCE), with Qin and Han additions. Paul Unschuld traces the *Suwen* to many short essays written in the final centuries BCE to explain health through the newly developed vessel theory. Manuscripts buried at Mawangdui in 168 BCE know only eleven vessels and no needling, which suggests the system was still being assembled. A *Huangdi neijing* is listed in the Han imperial library catalogue, but the texts read today were rearranged and expanded for a millennium; the *Suwen* as it is known today emerged in the 11th century, and one recent survey reports scholars suggesting that it is mostly Tang material edited by Song scholars.",
+      "Its prestige ran ahead of its use. Unschuld argues that needling and the yin-yang and five-phase doctrines behind it remained a minority interest, kept alive by a few of the elite, until the 11th and 12th centuries, while drug remedies were the mainstay of everyday practice. That prestige gives the question of its age real weight."
     ],
     "myth": {
       "tradition": "The Inner Classic preserves the teachings of the Yellow Emperor, a sage-ruler of remote antiquity, and is the oldest Chinese medical book.",
-      "record": "Huangdi is a legendary figure to whom Han-era writers attached many kinds of texts to lend them authority. The work is anonymous and composite, and medical manuscripts from tombs sealed in 186 and 168 BCE are older than any securely dated version of it."
+      "record": "Huangdi is a legendary figure to whom Han-era writers attached many kinds of texts to lend them authority. The work is anonymous and composite, and medical manuscripts from tombs sealed in 186 and 168 BCE are older than any surviving copy of it."
     },
     "links": [
       { "to": "mawangdui-manuscripts", "kind": "built-on", "note": "Earlier vessel texts with eleven channels and no needles." },
@@ -205,13 +210,28 @@
         "author": "Huang Chang et al.",
         "publisher": "Evidence-Based Complementary and Alternative Medicine (via Europe PMC)",
         "year": 2017,
-        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5337347/fullTextXML",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5337347/",
         "type": "scholarly",
         "supports": "Eleven vessels in the Mawangdui texts versus twelve meridians in the Inner Classic.",
         "quote": "eleven vessels were presented in detail, but contemporary meridian theory that came out from Yellow Emperor's Classic of Internal Medicine has twelve meridians"
+      },
+      {
+        "title": "Dentistry and dental care in antiquity: part 1 - prehistory, Mesopotamia, Israel, Etruria and the Far East",
+        "author": "R. Forshaw",
+        "publisher": "British Dental Journal",
+        "year": 2025,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12716987/",
+        "type": "scholarly",
+        "supports": "Popular dating of the Inner Classic to c. 2700 BCE and its attribution to the legendary Yellow Emperor (the traditional date shown on the map).",
+        "quote": "conventionally dated to circa 2700 BC and variously attributed either to Huang-Ti, the legendary Yellow Emperor, or to later compilers"
       }
     ],
-    "further": ["unschuld-1985", "porter-1997"]
+    "further": ["unschuld-1985", "porter-1997"],
+    "image": {
+      "commons": "File:The Yellow Emperor transmits medical books to Lei Gong Wellcome L0039956.jpg",
+      "alt": "A Ming woodcut of a seated emperor under a canopy and pine tree, officials standing at his side, with a kneeling man before him.",
+      "caption": "The Yellow Emperor presenting medical books to his minister Lei Gong, a scene taken from a *Suwen* passage; woodcut from a 1591 Ming edition of *Buyi Lei Gong paozhi bianlan*. It is a Ming artist's picture of a legendary ruler, not a likeness."
+    }
   },
   {
     "id": "shennong-bencao",
@@ -262,7 +282,7 @@
         "author": "Zhao Zhongzhen, Guo Ping, Eric Brand",
         "publisher": "Chinese Medicine (BMC), via Europe PMC",
         "year": 2018,
-        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5894148/fullTextXML",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5894148/",
         "type": "scholarly",
         "supports": "Eastern Han dating; 365 medicinals in three grades by effect and toxicity; Tao Hongjing added 365 more (730 in all).",
         "quote": "This text records 365 medicinals and summarizes medicinal experiences up to the Han Dynasty. Medicinals are classified into three categories (high-grade, medium-grade and low-grade) based on their medicinal effects and toxicity"

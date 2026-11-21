@@ -83,6 +83,13 @@ for (const file of files) {
       let m = quoteMatch(r.text, s.quote || '');
       // PubMed Central rate-limits scripted readers with a CAPTCHA; the same article text is
       // available from the Europe PMC and NCBI E-utilities APIs, so check against those instead.
+      // PubMed abstract pages block scripted readers too; the abstract is available from Europe PMC.
+      const pmid = /pubmed\.ncbi\.nlm\.nih\.gov\/(\d+)/i.exec(s.url);
+      if (pmid && !m.ok) {
+        const r2 = fetchText(`https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:${pmid[1]}%20AND%20SRC:MED&resultType=core&format=json`);
+        const m2 = quoteMatch(r2.text, s.quote || '');
+        if (m2.ok) { r = { ...r2, code: 200 }; m = m2; }
+      }
       const pmc = /ncbi\.nlm\.nih\.gov\/.*(PMC\d+)/i.exec(s.url);
       if (pmc && !m.ok) {
         for (const alt of [
