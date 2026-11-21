@@ -808,5 +808,105 @@
   "license": "Public domain",
   "licenseUrl": "",
   "page": "https://commons.wikimedia.org/wiki/File:Avicenna_canon_1597.jpg"
+ },
+ "ibn-al-nafis": {
+  "commons": "File:Ibn an-Nafis, Commentary on Avicenna's Wellcome L0011502.jpg",
+  "src": "/img/ibn-al-nafis.webp",
+  "width": 819,
+  "height": 1300,
+  "credit": "Gallery: https://wellcomeimages.org/indexplus/image/L0011502.html Wellcome Collection gallery…",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Ibn_an-Nafis,_Commentary_on_Avicenna%27s_Wellcome_L0011502.jpg"
+ },
+ "onesimus": {
+  "commons": "File:Boylston - An Historical Account of the Small-pox Inoculated in New England (title).png",
+  "src": "/img/onesimus.webp",
+  "width": 778,
+  "height": 1300,
+  "credit": "Zabdiel Boylston (1679–1766)",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Boylston_-_An_Historical_Account_of_the_Small-pox_Inoculated_in_New_England_(title).png"
+ },
+ "universities-medicine": {
+  "commons": "File:Laurentius de Voltolina 001.jpg",
+  "src": "/img/universities-medicine.webp",
+  "width": 1000,
+  "height": 807,
+  "credit": "Laurentius de Voltolina",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Laurentius_de_Voltolina_001.jpg"
+ },
+ "pare": {
+  "commons": "File:Portrait of Ambroise Paré, the King's surgeon Met DP887880.jpg",
+  "src": "/img/pare.webp",
+  "width": 1000,
+  "height": 1253,
+  "credit": "Étienne Delaune",
+  "license": "CC0",
+  "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Ambroise_Par%C3%A9,_the_King%27s_surgeon_Met_DP887880.jpg"
+ },
+ "cell-theory": {
+  "commons": "File:T. Schwann, Mikroskopische Untersuchungern u Wellcome L0032288.jpg",
+  "src": "/img/cell-theory.webp",
+  "width": 1000,
+  "height": 748,
+  "credit": "Gallery: https://wellcomeimages.org/indexplus/image/L0032288.html Wellcome Collection gallery…",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:T._Schwann,_Mikroskopische_Untersuchungern_u_Wellcome_L0032288.jpg"
+ },
+ "chadwick": {
+  "commons": "File:Chadwick's sanitary map of Leeds. Wellcome L0009781.jpg",
+  "src": "/img/chadwick.webp",
+  "width": 1000,
+  "height": 678,
+  "credit": "Gallery: https://wellcomeimages.org/indexplus/image/L0009781.html Wellcome Collection gallery…",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Chadwick%27s_sanitary_map_of_Leeds._Wellcome_L0009781.jpg"
+ },
+ "blackwell": {
+  "commons": "File:Elizabeth Blackwell NLM 02.jpg",
+  "src": "/img/blackwell.webp",
+  "width": 1000,
+  "height": 1294,
+  "credit": "National Library of Medicine",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Elizabeth_Blackwell_NLM_02.jpg"
+ },
+ "virchow": {
+  "commons": "File:Rudolf Ludwig Karl Virchow. Photograph by J. C. Schaarwächte Wellcome L0002331.jpg",
+  "src": "/img/virchow.webp",
+  "width": 818,
+  "height": 1300,
+  "credit": "Julius Cornelius Schaarwächter",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Rudolf_Ludwig_Karl_Virchow._Photograph_by_J._C._Schaarw%C3%A4chte_Wellcome_L0002331.jpg"
+ },
+ "salvarsan": {
+  "commons": "File:Results of the treatment of mice with '606' . Wellcome M0013357.jpg",
+  "src": "/img/salvarsan.webp",
+  "width": 1000,
+  "height": 274,
+  "credit": "Gallery: https://wellcomeimages.org/indexplus/image/M0013357.html Wellcome Collection gallery…",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+  "page": "https://commons.wikimedia.org/wiki/File:Results_of_the_treatment_of_mice_with_%27606%27_._Wellcome_M0013357.jpg"
+ },
+ "vitamins": {
+  "commons": "File:Goldberger, Joseph.jpg",
+  "src": "/img/vitamins.webp",
+  "width": 1000,
+  "height": 666,
+  "credit": "This image was released by the National Cancer Institute , an agency part of the National Institutes of…",
+  "license": "Public domain",
+  "licenseUrl": "",
+  "page": "https://commons.wikimedia.org/wiki/File:Goldberger,_Joseph.jpg"
  }
 }

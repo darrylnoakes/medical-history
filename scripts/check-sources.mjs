@@ -21,10 +21,25 @@ if (!files.length) { console.error('usage: check-sources.mjs <file.json ...> [--
 const UA = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36';
 const tmp = mkdtempSync(join(tmpdir(), 'srccheck-'));
 const cache = new Map();
+let fetchCount = 0;
+
+const sleep = (ms) => Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, ms);
 
 function fetchText(url) {
   if (cache.has(url)) return cache.get(url);
-  const out = join(tmp, `p${cache.size}`);
+  // be polite, and give rate-limited sites a second and third chance
+  let r = fetchOnce(url);
+  for (let attempt = 1; attempt <= 2 && (r.code === 429 || r.code === 0 || r.code === 503); attempt++) {
+    sleep(7000 * attempt);
+    r = fetchOnce(url);
+  }
+  sleep(350);
+  cache.set(url, r);
+  return r;
+}
+
+function fetchOnce(url) {
+  const out = join(tmp, `p${fetchCount++}`);
   let result;
   try {
     const meta = execFileSync('curl', [
@@ -50,7 +65,6 @@ function fetchText(url) {
   } catch (e) {
     result = { code: 0, text: '', error: String(e.stderr || e.message).trim().split('\n').pop() };
   }
-  cache.set(url, result);
   return result;
 }
 
@@ -79,27 +93,26 @@ for (const file of files) {
     if (only.size && !only.has(e.id)) continue;
     for (const [i, s] of (e.sources || []).entries()) {
       total++;
-      let r = fetchText(s.url);
-      let m = quoteMatch(r.text, s.quote || '');
-      // PubMed Central rate-limits scripted readers with a CAPTCHA; the same article text is
-      // available from the Europe PMC and NCBI E-utilities APIs, so check against those instead.
-      // PubMed abstract pages block scripted readers too; the abstract is available from Europe PMC.
-      const pmid = /pubmed\.ncbi\.nlm\.nih\.gov\/(\d+)/i.exec(s.url);
-      if (pmid && !m.ok) {
-        const r2 = fetchText(`https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:${pmid[1]}%20AND%20SRC:MED&resultType=core&format=json`);
-        const m2 = quoteMatch(r2.text, s.quote || '');
-        if (m2.ok) { r = { ...r2, code: 200 }; m = m2; }
-      }
+      // PubMed Central and PubMed rate-limit scripted readers with CAPTCHAs, but the same article text is
+      // served by the Europe PMC and NCBI E-utilities APIs — so for those links, check the APIs first.
+      let r = { code: 0, text: '' }, m = { ok: false, score: 0 };
       const pmc = /ncbi\.nlm\.nih\.gov\/.*(PMC\d+)/i.exec(s.url);
-      if (pmc && !m.ok) {
-        for (const alt of [
-          `https://www.ebi.ac.uk/europepmc/webservices/rest/${pmc[1].toUpperCase()}/fullTextXML`,
-          `https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=${pmc[1].slice(3)}`,
-        ]) {
-          const r2 = fetchText(alt), m2 = quoteMatch(r2.text, s.quote || '');
-          if (m2.ok) { r = { ...r2, code: 200 }; m = m2; break; }
-          if (m2.score > m.score) m = { ...m2, ok: false };
-        }
+      const pmid = /pubmed\.ncbi\.nlm\.nih\.gov\/(\d+)/i.exec(s.url);
+      const alts = pmc ? [
+        `https://www.ebi.ac.uk/europepmc/webservices/rest/${pmc[1].toUpperCase()}/fullTextXML`,
+        `https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pmc&id=${pmc[1].slice(3)}`,
+      ] : pmid ? [
+        `https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:${pmid[1]}%20AND%20SRC:MED&resultType=core&format=json`,
+      ] : [];
+      for (const alt of alts) {
+        const r2 = fetchText(alt), m2 = quoteMatch(r2.text, s.quote || '');
+        if (m2.ok) { r = { ...r2, code: 200 }; m = m2; break; }
+        if (m2.score > m.score) m = { ...m2, ok: false };
+      }
+      if (!m.ok) {
+        const r1 = fetchText(s.url), m1 = quoteMatch(r1.text, s.quote || '');
+        if (m1.ok || !alts.length || m1.score >= m.score) { r = r1; m = m1; }
+        else r = { ...r1, code: r1.code === 429 ? 200 : r1.code };
       }
       let status;
       if (r.code >= 200 && r.code < 300 && m.ok) status = 'OK';

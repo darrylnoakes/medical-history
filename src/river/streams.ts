@@ -97,7 +97,7 @@ export const STREAMS: StreamDef[] = [
   },
   {
     id: 'greco-roman', name: 'Greece & Rome', label: 'Greece & Rome', color: '#7d3c6e',
-    blurb: 'From the Hippocratic writers to Galen, Greek-speaking physicians built the system — humours, regimen, prognosis — that would dominate medicine from Spain to Persia for the next fifteen centuries. After Rome’s western half fell, the tradition ran on in Byzantium.',
+    blurb: 'From the Hippocratic writers to Galen, Greek-speaking physicians built the system — humors, regimen, prognosis — that would dominate medicine from Spain to Persia for the next fifteen centuries. After Rome’s western half fell, the tradition ran on in Byzantium.',
     keys: [
       { y: -800, c: 0.335, w: 0.012, a: 0 },
       { y: -500, c: 0.335, w: 0.06 },
@@ -112,7 +112,7 @@ export const STREAMS: StreamDef[] = [
   },
   {
     id: 'europe', name: 'Europe', label: 'Latin Europe', color: '#4f6d94',
-    blurb: 'A backwater for five centuries after Rome, the Latin West rebuilt its medicine from Arabic translations, then from printing, dissection and experiment. In the nineteenth century it fans out into the laboratory-based medicine now practiced worldwide.',
+    blurb: 'On the margins of learned medicine for centuries after Rome, the Latin West rebuilt its own from Arabic translations, then from printing, dissection and experiment. In the nineteenth century it fans out into the laboratory-based medicine now practiced worldwide.',
     keys: [
       { y: 450, c: 0.322, w: 0.008, a: 0 },
       { y: 560, c: 0.296, w: 0.02 },

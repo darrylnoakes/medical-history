@@ -221,7 +221,7 @@
       "Hippocrates of Cos is the most famous name in Western medicine and one of the most elusive. He was certainly real and renowned in his own time: in Plato's *Protagoras*, Socrates speaks of paying fees to \"Hippocrates of Cos, the Asclepiad\" to learn medicine. Beyond that, only the barest outline survives. Brief Lives written centuries later have him born on Cos around 460 BCE and dying at an advanced age at Larissa in Thessaly, and his career peaked during the Peloponnesian War (431–404 BCE).",
       "Under his name survives the Hippocratic Corpus, about sixty works on diagnosis, epidemics, women's diseases, surgery, diet and more. Most date from the last decades of the 5th century and the first half of the 4th century BCE, and they were probably gathered together in Alexandria. They are the work of many authors and sometimes give contradictory advice. Even in antiquity scholars disagreed about which were genuine; modern scholars, with no certain writing of his own to compare, have judged by literary merit and rational content, without general agreement.",
       "What unites much of the collection is an insistence that disease is natural. The author of *On the Sacred Disease* argues that epilepsy is no more divine than any other illness: \"Men regard its nature and cause as divine from ignorance and wonder.\" Hippocratic doctors watched the patient, the season and the course of the illness, and treated mainly with diet, drugs and regimen. *Epidemics* I sums up the method: \"Declare the past, diagnose the present, foretell the future.\"",
-      "Natural did not mean correct. The physiology was speculative. Each later age also rebuilt Hippocrates in its own image, as a chemist, a mechanist, a vitalist, a holist, even a patron of homeopathy. The Oath and the four humours both travel under his name, but the name is better read as the label of a tradition than as a signature."
+      "Natural did not mean correct. The physiology was speculative. Each later age also rebuilt Hippocrates in its own image, as a chemist, a mechanist, a vitalist, a holist, even a patron of homeopathy. The Oath and the four humors both travel under his name, but the name is better read as the label of a tradition than as a signature."
     ],
     "myth": {
       "tradition": "Hippocrates, the father of medicine, wrote the Hippocratic writings and single-handedly turned medicine from the gods to nature.",
@@ -391,7 +391,7 @@
   },
   {
     "id": "four-humours",
-    "title": "The four humours",
+    "title": "The four humors",
     "stream": "greco-roman",
     "tier": 1,
     "date": {
@@ -418,11 +418,11 @@
     "body": [
       "For roughly two thousand years, learned Western physicians explained health and illness through four fluids. The classic statement is in *On the Nature of Man*, a treatise in the Hippocratic Corpus: \"The body of man has in itself blood, phlegm, yellow bile and black bile; these make up the nature of his body.\" A person was healthiest when the four were properly proportioned and mixed; pain followed when one was in excess or deficit, or separated from the rest.",
       "The author was probably not Hippocrates. Aristotle quoted a passage of the treatise as the work of Polybus, Hippocrates' pupil and son-in-law, though an ancient medical papyrus, the *Anonymus Londinensis*, credits one passage to Polybus and another to Hippocrates himself. Nor was the scheme the only one on offer: some Hippocratic writers counted water, blood, phlegm and bile instead. In the end black bile displaced water.",
-      "The theory was reasonable on the evidence of the time. Blood and phlegm were obvious, yellow bile showed in jaundice and in the gall bladders of animals, and black bile seemed to explain conditions that darkened the skin. Galen tied the humours to the qualities hot, cold, wet and dry and to Aristotle's four elements, so that the body mirrored the cosmos and each person had a temperament, such as sanguine. Therapy followed logically: remove an excess by bleeding, purging, vomiting or sweating, adjust diet and habits, and treat a hot illness with a cold remedy.",
-      "Through Galen and the Arabic writers, above all Ibn Sina, the system governed medieval and Renaissance medicine, and it still lives on in traditional Arabic medicine. In Europe the new sciences of the 17th century undermined its foundations, yet bleeding and purging persisted through the 18th century, and the bacteriological and technological revolutions of the late 19th and 20th centuries all but drove the humours out of orthodox medicine."
+      "The theory was reasonable on the evidence of the time. Blood and phlegm were obvious, yellow bile showed in jaundice and in the gall bladders of animals, and black bile seemed to explain conditions that darkened the skin. Galen tied the humors to the qualities hot, cold, wet and dry and to Aristotle's four elements, so that the body mirrored the cosmos and each person had a temperament, such as sanguine. Therapy followed logically: remove an excess by bleeding, purging, vomiting or sweating, adjust diet and habits, and treat a hot illness with a cold remedy.",
+      "Through Galen and the Arabic writers, above all Ibn Sina, the system governed medieval and Renaissance medicine, and it still lives on in traditional Arabic medicine. In Europe the new sciences of the 17th century undermined its foundations, yet bleeding and purging persisted through the 18th century, and the bacteriological and technological revolutions of the late 19th and 20th centuries all but drove the humors out of orthodox medicine."
     ],
     "myth": {
-      "tradition": "Hippocrates devised the theory of the four humours.",
+      "tradition": "Hippocrates devised the theory of the four humors.",
       "record": "The canonical four appear in one treatise, *On the Nature of Man*, which ancient testimony attributes in part to Polybus; other Hippocratic texts used different fluids, and Galen made the scheme canonical."
     },
     "links": [
@@ -439,7 +439,7 @@
       {
         "to": "galen",
         "kind": "led-to",
-        "note": "Galen systematized the four humours and gave them their long life."
+        "note": "Galen systematized the four humors and gave them their long life."
       },
       {
         "to": "ibn-sina-canon",
@@ -453,7 +453,7 @@
         "publisher": "Internet Archive",
         "url": "https://archive.org/download/hippocrates04hippuoft/hippocrates04hippuoft_djvu.txt",
         "type": "primary",
-        "supports": "Text of the four humours and health as their proper proportion; Aristotle's attribution to Polybus.",
+        "supports": "Text of the four humors and health as their proper proportion; Aristotle's attribution to Polybus.",
         "quote": "The body of man has in itself blood, phlegm, yellow bile and black bile; these make up the nature of his body"
       },
       {
@@ -461,7 +461,7 @@
         "publisher": "Encyclopedia.com (Oxford University Press)",
         "url": "https://www.encyclopedia.com/medicine/encyclopedias-almanacs-transcripts-and-maps/humours",
         "type": "reference",
-        "supports": "2,000-year span; why each humour seemed real; water replaced by black bile; Galen's qualities and elements; therapies; 17th-century decline, 18th-century persistence, survival in Arabic medicine, late-19th-century end.",
+        "supports": "2,000-year span; why each humor seemed real; water replaced by black bile; Galen's qualities and elements; therapies; 17th-century decline, 18th-century persistence, survival in Arabic medicine, late-19th-century end.",
         "quote": "For over 2000 years Western medicine and culture perceived the body and the mind in humoral terms."
       },
       {
@@ -470,7 +470,7 @@
         "publisher": "Encyclopedia.com (Gale)",
         "url": "https://www.encyclopedia.com/people/medicine/medicine-biographies/hippocrates",
         "type": "reference",
-        "supports": "Attribution to Polybus via Aristotle; alternative humour scheme of water, blood, phlegm and bile.",
+        "supports": "Attribution to Polybus via Aristotle; alternative humor scheme of water, blood, phlegm and bile.",
         "quote": "can confidently be attributed to Polybius, the disciple and son-in-law of Hippocrates, through the testimony of Aristotle"
       },
       {
@@ -488,8 +488,8 @@
     ],
     "image": {
       "commons": "File:The four elements, four qualities, four humours, four season Wellcome V0048018.jpg",
-      "alt": "Circular diagram linking the four elements, four qualities, four humours, four seasons and four ages of man.",
-      "caption": "A modern diagram (airbrush by Lois Hague, 1991, Wellcome Collection) of the correspondences that made humoral theory so persuasive: elements, qualities, humours, seasons and ages of life."
+      "alt": "Circular diagram linking the four elements, four qualities, four humors, four seasons and four ages of man.",
+      "caption": "A modern diagram (airbrush by Lois Hague, 1991, Wellcome Collection) of the correspondences that made humoral theory so persuasive: elements, qualities, humors, seasons and ages of life."
     }
   },
   {

@@ -384,7 +384,7 @@
         "author": "Nicolas Foray",
         "publisher": "Cancer/Radiothérapie (abstract via Europe PMC)",
         "year": 2013,
-        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:23522857%20AND%20SRC:MED&resultType=core&format=json",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/23522857/",
         "type": "scholarly",
         "supports": "Despeignes's treatment of 4–23 July 1896; trained in Lyon, then a district physician.",
         "quote": "Between the 4th and 23rd July 1896, Victor Despeignes has performed the first anticancer radiotherapy that has been validated by undeniable publications and practical facts."
@@ -394,7 +394,7 @@
         "author": "Jean-Marc Cosset",
         "publisher": "Cancer/Radiothérapie (abstract via Europe PMC)",
         "year": 2016,
-        "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:27614525%20AND%20SRC:MED&resultType=core&format=json",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27614525/",
         "type": "scholarly",
         "supports": "Grubbe's claim disqualified; Despeignes treated a gastric cancer with marked regression; priority debated.",
         "quote": "Although often proposed, Emil Grubbé from Chicago seems to have been disqualified."
